@@ -1,3 +1,9 @@
+# Custom Python gitignore
+TEMP_FILES
+tests
+pytest.ini
+internal_requirements.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
