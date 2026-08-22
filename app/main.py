@@ -13,7 +13,9 @@ def main():
 
     print("\nAvailable Commands:")
     print("1. open <application_name> - Opens the specified application.")
-    print("2. exit - Exits the application.")
+    print("2. create folder <folder_name> - Creates a new folder.")
+    print("3. move <source> <destination> - Moves a file or folder.")
+    print("4. exit - Exits the application.")
 
     while True:
         print()
@@ -30,8 +32,14 @@ def main():
 
         print(f"\nAction: {command.get('action')}")
 
-        if command["target"]:
+        if command.get("target"):
             print(f"Target: {command.get('target')}")
+
+        if command.get("source"):
+            print(f"Source: {command.get('source')}")
+
+        if command.get("destination"):
+            print(f"Destination: {command.get('destination')}")
 
         print("\nExecuting command...")
 
