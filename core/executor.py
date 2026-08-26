@@ -1,3 +1,5 @@
+import os
+
 from plugins.windows_utils import WindowsUtils
 from plugins.folder_util import FolderUtil
 from plugins.explorer_context import ExplorerContext
@@ -11,6 +13,12 @@ class ExecutionEngine:
         self.folder_util = FolderUtil()
         self.explorer_context = ExplorerContext()
 
+    def get_explorer_workspace(self):
+        workspace = self.explorer_context.get_folder()
+        if not workspace:
+            workspace = os.path.join(os.path.expanduser("~"), "Desktop")
+        return workspace
+
     def execute(self, command):
 
         action = command.get("action")
@@ -20,11 +28,22 @@ class ExecutionEngine:
             return self.windows_utils.open_application(target)
 
         if action == "create_folder":
-            return self.folder_util.create_folder(target)
+            workspace = self.get_explorer_workspace()
+            folder_path = os.path.join(workspace, target)
+
+            return self.folder_util.create_folder(folder_path)
 
         if action == "move":
+            workspace = self.get_explorer_workspace()
+            
             source = command.get("source")
             destination = command.get("destination")
+
+            if not os.path.isabs(source):
+                source = os.path.join(workspace, source)
+            if not os.path.isabs(destination):
+                destination = os.path.join(workspace, destination)
+
             return self.folder_util.move(source, destination)
 
         print("Unknown Action.")
