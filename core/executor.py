@@ -1,5 +1,6 @@
 from plugins.windows_utils import WindowsUtils
 from plugins.folder_util import FolderUtil
+from plugins.explorer_context import ExplorerContext
 
 class ExecutionEngine:
     """
@@ -8,6 +9,7 @@ class ExecutionEngine:
     def __init__(self):
         self.windows_utils = WindowsUtils()
         self.folder_util = FolderUtil()
+        self.explorer_context = ExplorerContext()
 
     def execute(self, command):
 

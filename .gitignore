@@ -4,6 +4,9 @@ tests
 pytest.ini
 internal_requirements.txt
 
+# Custom Scripts to Run
+run_winpilot.bat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
