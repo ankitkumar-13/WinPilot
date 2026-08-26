@@ -1,3 +1,5 @@
+import re
+
 class CommandParser:
 
     OPEN_WORDS = ["open", "launch", "start", "run"]
@@ -37,12 +39,17 @@ class CommandParser:
             }
 
         # Move
-        if len(words) >= 3 and words[0].lower() == "move":
-            return {
-                "action": "move",
-                "source": words[1],
-                "destination": " ".join(words[2:])
-            }
+        if words[0].lower() == "move":
+            move_command = command[len(words[0]):].strip()
+
+            parts = re.split("\s+to\s+", move_command, maxsplit=1, flags=re.IGNORECASE)
+
+            if len(parts) == 2:
+                return {
+                    "action": "move",
+                    "source": parts[0].strip(),
+                    "destination": parts[1].strip()
+                }
 
         # Unknown Command
         return {
