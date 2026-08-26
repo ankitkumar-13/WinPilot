@@ -1,4 +1,5 @@
 from plugins.windows_utils import WindowsUtils
+from plugins.folder_util import FolderUtil
 
 class ExecutionEngine:
     """
@@ -6,6 +7,7 @@ class ExecutionEngine:
     """
     def __init__(self):
         self.windows_utils = WindowsUtils()
+        self.folder_util = FolderUtil()
 
     def execute(self, command):
 
@@ -14,6 +16,14 @@ class ExecutionEngine:
 
         if action == "open_application":
             return self.windows_utils.open_application(target)
+
+        if action == "create_folder":
+            return self.folder_util.create_folder(target)
+
+        if action == "move":
+            source = command.get("source")
+            destination = command.get("destination")
+            return self.folder_util.move(source, destination)
 
         print("Unknown Action.");
         return False
