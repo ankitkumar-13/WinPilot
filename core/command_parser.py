@@ -3,6 +3,8 @@ import re
 class CommandParser:
 
     OPEN_WORDS = ["open", "launch", "start", "run"]
+    DELETE_WORDS = ["delete", "remove"]
+    RENAME_WORDS = ["rename"]
 
     def parse_command(self, command):
         """
@@ -49,6 +51,33 @@ class CommandParser:
                     "action": "move",
                     "source": parts[0].strip(),
                     "destination": parts[1].strip()
+                }
+            
+        # Delete File
+        if words[0] in self.DELETE_WORDS and len(words) > 1:
+            return {
+                "action": "delete_file",
+                "target": " ".join(words[1:])
+            }
+
+        # Rename File
+        if words[0] in self.RENAME_WORDS and len(words) > 2:
+            if "to" in words[1:]:
+                to_index = words.index("to", 1)
+                old_name = " ".join(words[1:to_index])
+                new_name = " ".join(words[to_index + 1:])
+
+                if old_name and new_name:
+                    return {
+                        "action": "rename_file",
+                        "target": old_name,
+                        "new_name": new_name
+                    }
+            else:
+                return {
+                    "action": "rename_file",
+                    "target": " ".join(words[1:-1]),
+                    "new_name": words[-1]
                 }
 
         # Unknown Command
