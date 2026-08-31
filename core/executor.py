@@ -47,9 +47,19 @@ class ExecutionEngine:
             return self.folder_util.move(source, destination)
 
         if action == "delete_file":
+            workspace = self.get_explorer_workspace()
+
+            if not os.path.isabs(target):
+                target = os.path.join(workspace, target)
+
             return self.windows_utils.delete_file(target)
 
         if action == "rename_file":
+            workspace = self.get_explorer_workspace()
+
+            if not os.path.isabs(target):
+                target = os.path.join(workspace, target)
+
             return self.windows_utils.rename_file(target, command.get("new_name"))
 
         print("Unknown Action.")
