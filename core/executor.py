@@ -58,7 +58,7 @@ class ExecutionEngine:
             if not os.path.isabs(target):
                 target = os.path.join(workspace, target)
 
-            return self.windows_utils.delete_file(target)
+            return self.folder_util.delete_file(target)
 
         if action == "delete_folder":
             workspace = self.get_explorer_workspace()
@@ -74,7 +74,7 @@ class ExecutionEngine:
             if not os.path.isabs(target):
                 target = os.path.join(workspace, target)
 
-            return self.windows_utils.rename(target, command.get("new_name"))
+            return self.folder_util.rename(target, command.get("new_name"))
 
         print("Unknown Action.")
         return False
