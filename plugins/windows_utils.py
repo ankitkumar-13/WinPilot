@@ -1,5 +1,6 @@
-import subprocess
 import os
+import subprocess
+
 class WindowsUtils:
     """
         Description: A utility class for Windows-specific operations, such as opening applications.
