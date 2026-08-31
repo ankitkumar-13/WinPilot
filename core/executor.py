@@ -29,21 +29,29 @@ class ExecutionEngine:
 
         if action == "create_folder":
             workspace = self.get_explorer_workspace()
-            folder_path = os.path.join(workspace, target)
 
-            return self.folder_utils.create_folder(folder_path)
+            if not os.path.isabs(target):
+                target = os.path.join(workspace, target)
+
+            return self.folder_utils.create_folder(target)
 
         if action == "create_file":
             workspace = self.get_explorer_workspace()
-            file_path = os.path.join(workspace, target)
 
-            return self.folder_utils.create_file(file_path)
+            if not os.path.isabs(target):
+                target = os.path.join(workspace, target)
+
+            return self.folder_utils.create_file(target)
 
         if action == "move":
             workspace = self.get_explorer_workspace()
-            
+
             source = command.get("source")
             destination = command.get("destination")
+
+            if not source or not destination:
+                print("Source or destination not provided for move action.")
+                return False
 
             if not os.path.isabs(source):
                 source = os.path.join(workspace, source)
@@ -68,13 +76,20 @@ class ExecutionEngine:
 
             return self.folder_utils.delete_folder(target)
 
-        if action == "rename_file":
+        if action in ["rename_file", "rename_folder"]:
             workspace = self.get_explorer_workspace()
+
+            target = command.get("target")
+            new_name = command.get("new_name")
+
+            if not target or not new_name:
+                print("Target or new name not provided for rename action.")
+                return False
 
             if not os.path.isabs(target):
                 target = os.path.join(workspace, target)
 
-            return self.folder_utils.rename(target, command.get("new_name"))
+            return self.folder_utils.rename(target, new_name)
 
         print("Unknown Action.")
         return False
