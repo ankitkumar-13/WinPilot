@@ -13,11 +13,14 @@ def main():
 
     print("\nAvailable Commands:")
     print("1. open <application_name> - Opens the specified application.")
-    print("2. delete <file_name> - Deletes the specified file.")
-    print("3. rename <old_name> <new_name> - Renames the specified file.")
-    print("4. create folder <folder_name> - Creates a new folder.")
-    print("5. move <source> to <destination> - Moves a file or folder.")
-    print("6. exit - Exits the application.")
+    print("2. create file <file_name> - Creates a new file.")
+    print("3. create folder <folder_name> - Creates a new folder.")
+    print("4. delete file <file_name> - Deletes the specified file.")
+    print("5. delete folder <folder_name> - Deletes the specified folder.")
+    print("6. move <source> to <destination> - Moves a file or folder.")
+    print("7. rename file <old_name> to <new_name> - Renames the specified file.")
+    print("8. rename folder <old_name> to <new_name> - Renames the specified folder.")
+    print("9. exit - Exits the application.")
 
     while True:
         print()
