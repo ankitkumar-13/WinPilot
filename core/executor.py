@@ -33,6 +33,12 @@ class ExecutionEngine:
 
             return self.folder_util.create_folder(folder_path)
 
+        if action == "create_file":
+            workspace = self.get_explorer_workspace()
+            file_path = os.path.join(workspace, target)
+
+            return self.folder_util.create_file(file_path)
+
         if action == "move":
             workspace = self.get_explorer_workspace()
             
@@ -54,13 +60,21 @@ class ExecutionEngine:
 
             return self.windows_utils.delete_file(target)
 
+        if action == "delete_folder":
+            workspace = self.get_explorer_workspace()
+
+            if not os.path.isabs(target):
+                target = os.path.join(workspace, target)
+
+            return self.folder_util.delete_folder(target)
+
         if action == "rename_file":
             workspace = self.get_explorer_workspace()
 
             if not os.path.isabs(target):
                 target = os.path.join(workspace, target)
 
-            return self.windows_utils.rename_file(target, command.get("new_name"))
+            return self.windows_utils.rename(target, command.get("new_name"))
 
         print("Unknown Action.")
         return False

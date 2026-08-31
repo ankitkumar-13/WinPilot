@@ -3,7 +3,9 @@ import re
 class CommandParser:
 
     OPEN_WORDS = ["open", "launch", "start", "run"]
+    CREATE_WORDS = ["create", "make"]
     DELETE_WORDS = ["delete", "remove"]
+    MOVE_WORDS = ["move", "transfer"]
     RENAME_WORDS = ["rename"]
 
     def parse_command(self, command):
@@ -32,7 +34,7 @@ class CommandParser:
         # Create Folder
         if (
             len(words) > 2
-            and words[0].lower() == "create"
+            and words[0].lower() in self.CREATE_WORDS
             and words[1].lower() == "folder"
         ):
             return {
@@ -40,8 +42,19 @@ class CommandParser:
                 "target": " ".join(words[2:])
             }
 
+        # Create File
+        if (
+            len(words) > 2
+            and words[0].lower() in self.CREATE_WORDS
+            and words[1].lower() == "file"
+        ):
+            return {
+                "action": "create_file",
+                "target": " ".join(words[2:])
+            }
+        
         # Move
-        if words[0].lower() == "move":
+        if words[0].lower() in self.MOVE_WORDS and len(words) > 1:
             move_command = command[len(words[0]):].strip()
 
             parts = re.split(r"\s+to\s+", move_command, maxsplit=1, flags=re.IGNORECASE)
@@ -54,31 +67,47 @@ class CommandParser:
                 }
             
         # Delete File
-        if words[0] in self.DELETE_WORDS and len(words) > 1:
+        if (
+            len(words) > 2
+            and words[0].lower() in self.DELETE_WORDS
+            and words[1].lower() == "file"
+        ):
             return {
                 "action": "delete_file",
-                "target": " ".join(words[1:])
+                "target": " ".join(words[2:])
             }
 
-        # Rename File
-        if words[0] in self.RENAME_WORDS and len(words) > 2:
-            if "to" in words[1:]:
-                to_index = words.index("to", 1)
-                old_name = " ".join(words[1:to_index])
+        # Delete Folder
+        if (
+            len(words) > 2
+            and words[0].lower() in self.DELETE_WORDS
+            and words[1].lower() == "folder"
+        ):
+            return {
+                "action": "delete_folder",
+                "target": " ".join(words[2:])
+            }
+
+        # Rename File / Folder
+        if (
+            len(words) > 2
+            and words[0].lower() in self.RENAME_WORDS
+            and words[1].lower() in ["file", "folder"]
+        ):
+            lower_words = [word.lower() for word in words]
+
+            if "to" in lower_words[2:]:
+                to_index = lower_words.index("to", 2)
+
+                old_name = " ".join(words[2:to_index])
                 new_name = " ".join(words[to_index + 1:])
 
                 if old_name and new_name:
                     return {
-                        "action": "rename_file",
+                        "action": f"rename_{words[1].lower()}",
                         "target": old_name,
                         "new_name": new_name
                     }
-            else:
-                return {
-                    "action": "rename_file",
-                    "target": " ".join(words[1:-1]),
-                    "new_name": words[-1]
-                }
 
         # Unknown Command
         return {
