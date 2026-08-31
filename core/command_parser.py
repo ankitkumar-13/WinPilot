@@ -44,7 +44,7 @@ class CommandParser:
         if words[0].lower() == "move":
             move_command = command[len(words[0]):].strip()
 
-            parts = re.split("\s+to\s+", move_command, maxsplit=1, flags=re.IGNORECASE)
+            parts = re.split(r"\s+to\s+", move_command, maxsplit=1, flags=re.IGNORECASE)
 
             if len(parts) == 2:
                 return {
