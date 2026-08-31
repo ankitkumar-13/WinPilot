@@ -46,5 +46,11 @@ class ExecutionEngine:
 
             return self.folder_util.move(source, destination)
 
+        if action == "delete_file":
+            return self.windows_utils.delete_file(target)
+
+        if action == "rename_file":
+            return self.windows_utils.rename_file(target, command.get("new_name"))
+
         print("Unknown Action.")
         return False

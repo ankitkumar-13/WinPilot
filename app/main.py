@@ -13,9 +13,11 @@ def main():
 
     print("\nAvailable Commands:")
     print("1. open <application_name> - Opens the specified application.")
-    print("2. create folder <folder_name> - Creates a new folder.")
-    print("3. move <source> to <destination> - Moves a file or folder.")
-    print("4. exit - Exits the application.")
+    print("2. delete <file_name> - Deletes the specified file.")
+    print("3. rename <old_name> <new_name> - Renames the specified file.")
+    print("4. create folder <folder_name> - Creates a new folder.")
+    print("5. move <source> to <destination> - Moves a file or folder.")
+    print("6. exit - Exits the application.")
 
     while True:
         print()
@@ -40,6 +42,9 @@ def main():
 
         if command.get("destination"):
             print(f"Destination: {command.get('destination')}")
+
+        if command.get("new_name"):
+            print(f"New Name: {command.get('new_name')}")
 
         print("\nExecuting command...")
 
