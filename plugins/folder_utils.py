@@ -1,6 +1,6 @@
 import os
 import shutil
-
+from urllib.parse import quote
 
 class FolderUtil:
     """
@@ -115,7 +115,7 @@ class FolderUtil:
             return False
 
     def search(self, folder_path, search_term):
-        search_term = search_term.strip().lower()
+        search_term = search_term.strip()
 
         if not search_term:
             print("Search term is missing.")
@@ -125,25 +125,39 @@ class FolderUtil:
             print(f"Folder does not exist: {folder_path}")
             return False
 
-        matches = []
-
         try:
+            # Open Windows File Explorer's native search results.
+            encoded_term = quote(search_term)
+            encoded_folder = quote(folder_path, safe=":/\\")
+
+            search_url = (
+                f"search-ms:query={encoded_term}"
+                f"&crumb=location:{encoded_folder}"
+            )
+
+            os.startfile(search_url)
+
+            print(f"Opened Windows search for: {search_term}")
+            print(f"Search location: {folder_path}")
+
+            # Also print matching paths in the terminal.
+            matches = []
+
             for current_path, folder_names, file_names in os.walk(folder_path):
                 for name in folder_names + file_names:
-                    if search_term in name.lower():
+                    if search_term.lower() in name.lower():
                         matches.append(os.path.join(current_path, name))
 
             if not matches:
                 print(f"No results found for: {search_term}")
-                return True
+            else:
+                print(f"\nMatching paths for: {search_term}")
 
-            print(f"Search results for: {search_term}")
-
-            for match in matches:
-                print(match)
+                for match in matches:
+                    print(match)
 
             return True
 
         except Exception as error:
-            print(f"Failed to search: {error}")
+            print(f"Failed to open Windows search: {error}")
             return False
