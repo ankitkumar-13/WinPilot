@@ -3,6 +3,7 @@ import re
 class CommandParser:
 
     OPEN_WORDS = ["open", "launch", "start", "run"]
+    SEARCH_WORDS = ["search", "find"]
     CREATE_WORDS = ["create", "make"]
     DELETE_WORDS = ["delete", "remove"]
     MOVE_WORDS = ["move", "transfer"]
@@ -23,6 +24,16 @@ class CommandParser:
             }
 
         words = command.split()
+        
+        # Search Files and Folders
+        if (
+            len(words) > 1
+            and words[0].lower() in self.SEARCH_WORDS
+        ):
+            return {
+                "action": "search",
+                "target": " ".join(words[1:])
+            }
 
         # Open Application
         if words[0].lower() in self.OPEN_WORDS and len(words) > 1:

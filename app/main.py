@@ -17,10 +17,11 @@ def main():
     print("3. create folder <folder_name> - Creates a new folder.")
     print("4. delete file <file_name> - Deletes the specified file.")
     print("5. delete folder <folder_name> - Deletes the specified folder.")
-    print("6. move <source> to <destination> - Moves a file or folder.")
-    print("7. rename file <old_name> to <new_name> - Renames the specified file.")
-    print("8. rename folder <old_name> to <new_name> - Renames the specified folder.")
-    print("9. exit - Exits the application.")
+    print("6. search <name> - Searches for files and folders.")
+    print("7. move <source> to <destination> - Moves a file or folder.")
+    print("8. rename file <old_name> to <new_name> - Renames the specified file.")
+    print("9. rename folder <old_name> to <new_name> - Renames the specified folder.")
+    print("10. exit - Exits the application.")
 
     while True:
         print()

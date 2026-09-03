@@ -35,6 +35,15 @@ class ExecutionEngine:
 
             return self.folder_utils.create_folder(target)
 
+        if action == "search":
+            workspace = self.get_explorer_workspace()
+
+            if not target:
+                print("Search term is missing.")
+                return False
+
+            return self.folder_utils.search(workspace, target)
+        
         if action == "create_file":
             workspace = self.get_explorer_workspace()
 

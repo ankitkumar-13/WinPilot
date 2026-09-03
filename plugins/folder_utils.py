@@ -113,3 +113,37 @@ class FolderUtil:
         except Exception as error:
             print(f"Failed to rename {path}: {error}")
             return False
+
+    def search(self, folder_path, search_term):
+        search_term = search_term.strip().lower()
+
+        if not search_term:
+            print("Search term is missing.")
+            return False
+
+        if not os.path.isdir(folder_path):
+            print(f"Folder does not exist: {folder_path}")
+            return False
+
+        matches = []
+
+        try:
+            for current_path, folder_names, file_names in os.walk(folder_path):
+                for name in folder_names + file_names:
+                    if search_term in name.lower():
+                        matches.append(os.path.join(current_path, name))
+
+            if not matches:
+                print(f"No results found for: {search_term}")
+                return True
+
+            print(f"Search results for: {search_term}")
+
+            for match in matches:
+                print(match)
+
+            return True
+
+        except Exception as error:
+            print(f"Failed to search: {error}")
+            return False
