@@ -20,7 +20,8 @@ def main():
     print("6. move <source> to <destination> - Moves a file or folder.")
     print("7. rename file <old_name> to <new_name> - Renames the specified file.")
     print("8. rename folder <old_name> to <new_name> - Renames the specified folder.")
-    print("9. exit - Exits the application.")
+    print("9. search <name> - Searches for files and folders.")
+    print("10. exit - Exits the application.")
 
     while True:
         print()
