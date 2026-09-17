@@ -43,6 +43,24 @@ class ExecutionEngine:
 
             return self.folder_utils.create_file(target)
 
+        if action == "copy":
+            workspace = self.get_explorer_workspace()
+
+            source = command.get("source")
+            destination = command.get("destination")
+
+            if not source or not destination:
+                print("Source or destination not provided for copy action.")
+                return False
+
+            if not os.path.isabs(source):
+                source = os.path.join(workspace, source)
+
+            if not os.path.isabs(destination):
+                destination = os.path.join(workspace, destination)
+
+            return self.folder_utils.copy(source, destination)
+
         if action == "move":
             workspace = self.get_explorer_workspace()
 

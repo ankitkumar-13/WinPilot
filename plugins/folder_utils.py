@@ -81,6 +81,24 @@ class FolderUtil:
             print(f"Failed to move: {error}")
             return False
 
+    def copy(self, source, destination):
+        try:
+            if not os.path.exists(source):
+                print(f"Source not found: {source}")
+                return False
+
+            if os.path.isdir(source):
+                shutil.copytree(source, destination)
+            else:
+                shutil.copy2(source, destination)
+
+            print(f"Copied: {source} -> {destination}")
+            return True
+
+        except Exception as error:
+            print(f"Failed to copy: {error}")
+            return False
+
     def rename(self, path, new_name):
         path = path.strip()
         new_name = new_name.strip() if new_name else ""

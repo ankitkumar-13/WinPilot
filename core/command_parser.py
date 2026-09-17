@@ -7,6 +7,7 @@ class CommandParser:
     DELETE_WORDS = ["delete", "remove"]
     MOVE_WORDS = ["move", "transfer"]
     RENAME_WORDS = ["rename"]
+    COPY_WORDS = ["copy", "duplicate"]
 
     def parse_command(self, command):
         """
@@ -52,6 +53,24 @@ class CommandParser:
                 "action": "create_file",
                 "target": " ".join(words[2:])
             }
+
+        # Copy
+        if words[0].lower() in self.COPY_WORDS and len(words) > 1:
+            copy_command = command[len(words[0]):].strip()
+
+            parts = re.split(
+                r"\s+to\s+",
+                copy_command,
+                maxsplit=1,
+                flags=re.IGNORECASE
+            )
+
+            if len(parts) == 2:
+                return {
+                    "action": "copy",
+                    "source": parts[0].strip(),
+                    "destination": parts[1].strip()
+                }
         
         # Move
         if words[0].lower() in self.MOVE_WORDS and len(words) > 1:
