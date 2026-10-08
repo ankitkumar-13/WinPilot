@@ -4,15 +4,15 @@ import win32gui
 
 class ExplorerContext:
     """
-        Description: Helps maintain the context of the most recently active File Explorer folder.
+    Maintains the context of currently open File Explorer windows.
     """
-    
+
     def __init__(self):
-        self.last_folder = None
-    
+        pass
+
     def get_explorer_windows(self):
         """
-            Description: Returns all Explorer windows mapped by their HWND.
+        Returns all open File Explorer windows mapped by their HWND.
         """
 
         shell = win32com.client.Dispatch("Shell.Application")
@@ -20,42 +20,45 @@ class ExplorerContext:
         explorer_windows = {}
 
         for window in shell.Windows():
-
             try:
                 if window.Name == "File Explorer":
                     explorer_windows[window.HWND] = window
             except Exception:
-                continue  # Skip any windows that don't have a Name attribute
+                continue
 
         return explorer_windows
 
     def get_foreground_explorer(self):
         """
-            Description: Returns the Explorer window that is currently in the foreground.
-                Returns None if no Explorer window is in the foreground.
+        Returns the File Explorer window currently in the foreground.
+        Returns None if another application is focused.
         """
 
         foreground_window = win32gui.GetForegroundWindow()
 
         explorer_windows = self.get_explorer_windows()
 
-        return explorer_windows.get(foreground_window, None)
-    
-    def get_top_explorer_window(self):
+        return explorer_windows.get(foreground_window)
+
+    def get_visible_explorer(self):
         """
-            Description: Returns the explorer windows(HWND) with the highest Z-index or order in Windows.
+        Returns a visible, non-minimised Explorer window.
+
+        The first Explorer found in Z-order is returned.
         """
 
         explorer_windows = self.get_explorer_windows()
 
         if not explorer_windows:
-            return None  # No open File Explorer windows
+            return None
 
         result = []
 
         def callback(hwnd, _):
             if hwnd in explorer_windows:
-                result.append(hwnd)
+                if win32gui.IsWindowVisible(hwnd):
+                    if not win32gui.IsIconic(hwnd):
+                        result.append(hwnd)
 
         win32gui.EnumWindows(callback, None)
 
@@ -66,7 +69,7 @@ class ExplorerContext:
 
     def get_folder_from_window(self, explorer_window):
         """
-            Description: Returns the folder path represented by an Explorer window.
+        Returns the folder path represented by an Explorer window.
         """
 
         if not explorer_window:
@@ -80,36 +83,39 @@ class ExplorerContext:
 
         except Exception as e:
             print(f"Failed to get folder from Explorer window: {e}")
-            return None
+
+        return None
 
     def get_folder(self):
         """
-            Description: Returns the most relevant Explorer folder.
-                If an Explorer window is in the foreground , use it.
-                Otherwise, use the highest-priority (Z-order) one.
-                If no explorer windows are open, return the last known folder.
+        Returns the most relevant currently available Explorer folder.
+
+        Priority:
+            1. Foreground Explorer
+            2. Visible, non-minimised Explorer
+            3. None
+
+        If all Explorer windows are minimised or closed,
+        returns None so the caller can fall back to Desktop.
         """
 
-        foreground_window = win32gui.GetForegroundWindow()
-
-        explorer_windows = self.get_explorer_windows()
-
-        if foreground_window in explorer_windows:
-
-            folder = self.get_folder_from_window(explorer_windows[foreground_window])
-
-            if folder:
-                self.last_folder = folder
-                return folder
-
-        # No Explorer window is in the foreground.
-        explorer = self.get_top_explorer_window()
+        # 1. Foreground Explorer
+        explorer = self.get_foreground_explorer()
 
         if explorer:
-
             folder = self.get_folder_from_window(explorer)
+
             if folder:
-                self.last_folder = folder
                 return folder
 
-        return self.last_folder
+        # 2. Another visible Explorer
+        explorer = self.get_visible_explorer()
+
+        if explorer:
+            folder = self.get_folder_from_window(explorer)
+
+            if folder:
+                return folder
+
+        # 3. No usable Explorer
+        return None
