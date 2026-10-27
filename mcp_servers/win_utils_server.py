@@ -8,12 +8,6 @@ from core.executor import ExecutionEngine
 # Initialize MCPServer
 mcp = MCPServer("WinPilot")
 
-# Constants
-LLM_API_BASE = "https://api"
-USER_AGENT = "winpilot-app/1.0"
-
-
-# Helper functions to handle the external API requests/response etc. 
 
 
 # Actual Tools

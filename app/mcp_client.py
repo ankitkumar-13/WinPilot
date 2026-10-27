@@ -1,5 +1,6 @@
 import asyncio
 import sys
+import json
 
 from pathlib import Path
 from contextlib import AsyncExitStack
@@ -48,6 +49,63 @@ class WinPilotMCPClient:
     async def close(self):
         await self.stack.aclose()
 
+async def chat_loop(client):
+    print("\nWinPilot MCP Client")
+    print("Type 'help' to get some basic commands, 'quit' to exit.")
+
+    while True:
+        try:
+            command = await asyncio.to_thread(
+                input, "\nWinPilot> "
+            )
+        except (EOFError, KeyboardInterrupt):
+            break
+
+        command = command.strip()
+
+        if command.lower() == "quit":
+            break
+
+        if command.lower() == "tools":
+            for tool in await client.list_tools():
+                print(f"- {tool.name}: {tool.description.splitlines()[0]}")
+            continue
+
+        if command.lower() == "call":
+            name = await asyncio.to_thread(input, "Tool name: ")
+            name = name.strip()
+
+            raw_args = await asyncio.to_thread(input, "Arguments (JSON): ")
+            raw_args = raw_args.strip()
+
+            try:
+                args = json.loads(raw_args)
+                result = await client.call_tool(name, args)
+
+                for item in result.content:
+                    if hasattr(item, "text"):
+                        print(item.text)
+
+                if result.is_error:
+                    print("Tool reported an error.")
+            except json.JSONDecodeError:
+                print("Invalid JSON. Example:  {\"application\": \"notepad\"}")
+            except Exception as exc:
+                print(f"Tool call failed: {exc}")
+            continue
+
+        if command.lower() == "help":
+            print("Commands:")
+            print("  tools - List available MCP tools")
+            print("  call  - Call an MCP tool manually")
+            print("  help  - Show this help")
+            print("  quit  - Exit WinPilot")
+            continue
+
+        print("Unknown command. Use 'tools', 'call' or 'quit'.")
+
+
+
 async def main():
     client = WinPilotMCPClient()
 
@@ -56,11 +114,17 @@ async def main():
 
         tools = await client.list_tools()
         print("Connected to WinPilot MCP Server")
+        print(f"{len(tools)} tools available.")
 
-        for tool in tools:
-            print(f"- {tool.name}: {tool.description}")
+        await chat_loop(client)
+    except Exception as exc:
+        print(f"MCP client error: ", exc)
     finally:
-        await client.close()
+        try:
+            await client.close()
+        except Exception as exc:
+            print(f"Error closing MCP connection: {exc}")
+        print("MCP connection closed.")
 
 if __name__ == "__main__":
     asyncio.run(main())
