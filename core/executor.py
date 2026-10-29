@@ -11,6 +11,8 @@ from plugins.windows_utils import WindowsUtils
 
 logger = logging.getLogger(__name__)
 
+APPROVAL_REQUIRED_ACTIONS = frozenset({"delete_file", "delete_folder"})
+
 
 class ExecutionEngine:
     """Dispatch validated commands and return structured results."""
@@ -226,6 +228,10 @@ class ExecutionEngine:
                 ExecutionStatus.INVALID_ARGUMENT,
                 "Invalid command: missing action.",
             )
+
+        requires_approval = (
+            requires_approval or action in APPROVAL_REQUIRED_ACTIONS
+        )
 
         try:
             if action == "open_application":
