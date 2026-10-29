@@ -7,6 +7,9 @@ internal_requirements.txt
 # Custom Scripts to Run
 run_winpilot.bat
 
+# VS Code residual data
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
