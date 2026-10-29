@@ -19,22 +19,22 @@ executor = ExecutionEngine()
 
 def execute_action(
     tool_name: str,
-    action: Command | dict[str, Any],
+    command: Command,
 ) -> ExecutionResult:
     """Execute an action and return its structured result.
 
     Args:
         tool_name - Name of the MCP tool being executed.
-        action - Command object or action payload for the executor.
+        command - Command object, including its approval policy.
 
     Returns:
         Structured execution result.
     """
     logger.info("Executing tool: %s", tool_name)
-    logger.debug("Action payload: %r", action)
+    logger.debug("Action payload: %r", command)
 
     try:
-        result = executor.execute(action)
+        result = executor.execute(command)
     except Exception:
         logger.exception(
             "Unexpected error executing tool: %s",
@@ -95,7 +95,7 @@ def run_tool(
     tool_name: str,
     action: dict[str, Any],
     success_message: str,
-    requires_elevation: bool = False,
+    requires_approval: bool = False,
 ) -> CallToolResult:
     """Execute a tool and convert its result into an MCP response.
 
@@ -103,7 +103,7 @@ def run_tool(
         tool_name - Name of the MCP tool being executed.
         action - Action payload passed to the execution engine.
         success_message - Text returned when execution succeeds.
-        requires_elevation - Whether WinPilot approval is required.
+        requires_approval - Whether WinPilot approval is required.
 
     Returns:
         MCP result describing the operation outcome.
@@ -111,7 +111,7 @@ def run_tool(
     command = Command(
         action=action["action"],
         arguments={key: value for key, value in action.items() if key != "action"},
-        requires_elevation=requires_elevation,
+        requires_approval=requires_approval,
     )
     result = execute_action(tool_name, command)
 
@@ -266,7 +266,7 @@ def delete_item(
             "target": target,
         },
         f"Deleted {kind}: {target}",
-        requires_elevation=True,
+        requires_approval=True,
     )
 
 

@@ -1,7 +1,6 @@
 import logging
 import os
 from pathlib import Path
-from typing import Any
 
 from core.confirmation import confirm_action
 from core.command import Command
@@ -116,14 +115,14 @@ class ExecutionEngine:
         self,
         kind: str,
         path: str,
-        requires_elevation: bool,
+        requires_approval: bool,
     ) -> ExecutionResult:
         """Approve and delete one file or folder.
 
         Args:
             kind - Expected target type, either file or folder.
             path - Resolved path of the item to delete.
-            requires_elevation - Whether WinPilot approval is required.
+            requires_approval - Whether WinPilot approval is required.
 
         Returns:
             Structured result describing the deletion outcome.
@@ -156,7 +155,7 @@ class ExecutionEngine:
         denied = self._request_approval(
             f"delete {kind}",
             str(target),
-            requires_elevation,
+            requires_approval,
         )
         if denied:
             return denied
@@ -195,29 +194,32 @@ class ExecutionEngine:
 
         return self._fail(status, f"Cannot delete {target}: {message}")
 
-    def execute(self, command: Command | dict[str, Any]) -> ExecutionResult:
+    def execute(self, command: Command) -> ExecutionResult:
         """Validate and execute a command, returning its outcome.
 
         Args:
-            command - Command object or action dictionary to execute.
+            command - Command object to execute.
 
         Returns:
             Structured result describing success or failure.
         """
-        if isinstance(command, Command):
-            requires_elevation = command.requires_elevation
-            command = command.to_payload()
-        else:
-            requires_elevation = False
-
-        if not isinstance(command, dict):
+        if not isinstance(command, Command):
             return self._fail(
                 ExecutionStatus.INVALID_ARGUMENT,
-                "Invalid command: expected a dictionary.",
+                "Invalid command: expected a Command object.",
             )
 
-        action = command.get("action")
-        target = command.get("target")
+        if not isinstance(command.requires_approval, bool):
+            return self._fail(
+                ExecutionStatus.INVALID_ARGUMENT,
+                "Command approval flag must be a Boolean.",
+            )
+
+        requires_approval = command.requires_approval
+        payload = command.to_payload()
+
+        action = payload.get("action")
+        target = payload.get("target")
 
         if not isinstance(action, str):
             return self._fail(
@@ -236,7 +238,7 @@ class ExecutionEngine:
                 denied = self._request_approval(
                     "open an application",
                     target.strip(),
-                    requires_elevation,
+                    requires_approval,
                 )
                 if denied:
                     return denied
@@ -262,7 +264,7 @@ class ExecutionEngine:
                 denied = self._request_approval(
                     f"create a {item}",
                     path,
-                    requires_elevation,
+                    requires_approval,
                 )
                 if denied:
                     return denied
@@ -281,8 +283,8 @@ class ExecutionEngine:
                 return ExecutionResult.ok(f"Created {item}: {path}")
 
             if action in {"copy", "move"}:
-                source = command.get("source")
-                destination = command.get("destination")
+                source = payload.get("source")
+                destination = payload.get("destination")
 
                 if (
                     not isinstance(source, str)
@@ -304,7 +306,7 @@ class ExecutionEngine:
                 denied = self._request_approval(
                     action,
                     f"From: {source_path}\nTo: {destination_path}",
-                    requires_elevation,
+                    requires_approval,
                 )
                 if denied:
                     return denied
@@ -343,10 +345,10 @@ class ExecutionEngine:
                 path = self._resolve_path(target, workspace)
                 kind = "file" if action == "delete_file" else "folder"
 
-                return self._delete_item(kind, path, requires_elevation)
+                return self._delete_item(kind, path, requires_approval)
 
             if action in {"rename_file", "rename_folder"}:
-                new_name = command.get("new_name")
+                new_name = payload.get("new_name")
 
                 if (
                     not isinstance(target, str)
@@ -385,7 +387,7 @@ class ExecutionEngine:
                 denied = self._request_approval(
                     f"rename a {kind}",
                     f"From: {path}\nTo: {destination_path}",
-                    requires_elevation,
+                    requires_approval,
                 )
                 if denied:
                     return denied
