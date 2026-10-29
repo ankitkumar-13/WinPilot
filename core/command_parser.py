@@ -1,6 +1,6 @@
 import logging
 import re
-from typing import Any
+from core.command import Command
 
 logger = logging.getLogger(__name__)
 
@@ -15,25 +15,22 @@ class CommandParser:
     RENAME_WORDS = {"rename"}
     COPY_WORDS = {"copy", "duplicate"}
 
-    def _unknown_command(self) -> dict[str, Any]:
+    def _unknown_command(self) -> Command:
         """Return a consistent result for unsupported commands.
 
         Returns:
-            Dictionary representing an unknown action.
+            Command representing an unknown action.
         """
-        return {
-            "action": "unknown",
-            "target": None,
-        }
+        return Command("unknown", {"target": None})
 
-    def parse_command(self, command: str) -> dict[str, Any]:
-        """Parse a command into an action dictionary.
+    def parse_command(self, command: str) -> Command:
+        """Parse a command into an executor command object.
 
         Args:
             command - User command to parse.
 
         Returns:
-            Dictionary containing the action and its required arguments.
+            Command containing the action, arguments, and approval setting.
         """
         if not isinstance(command, str) or not command.strip():
             logger.debug("Received an empty or invalid command")
@@ -44,19 +41,19 @@ class CommandParser:
         verb = words[0].lower()
 
         if verb in self.OPEN_WORDS and len(words) > 1:
-            return {
-                "action": "open_application",
-                "target": " ".join(words[1:]),
-            }
+            return Command(
+                "open_application",
+                {"target": " ".join(words[1:])},
+            )
 
         if verb in self.CREATE_WORDS and len(words) > 2:
             item_type = words[1].lower()
 
             if item_type in {"file", "folder"}:
-                return {
-                    "action": f"create_{item_type}",
-                    "target": " ".join(words[2:]),
-                }
+                return Command(
+                    f"create_{item_type}",
+                    {"target": " ".join(words[2:])},
+                )
 
         if verb in self.COPY_WORDS and len(words) > 1:
             return self._parse_transfer(command, verb, "copy")
@@ -68,10 +65,11 @@ class CommandParser:
             item_type = words[1].lower()
 
             if item_type in {"file", "folder"}:
-                return {
-                    "action": f"delete_{item_type}",
-                    "target": " ".join(words[2:]),
-                }
+                return Command(
+                    f"delete_{item_type}",
+                    {"target": " ".join(words[2:])},
+                    requires_approval=True,
+                )
 
         if (
             verb in self.RENAME_WORDS
@@ -89,11 +87,10 @@ class CommandParser:
                 new_name = " ".join(remaining_words[index + 1:]).strip()
 
                 if old_name and new_name:
-                    return {
-                        "action": f"rename_{item_type}",
-                        "target": old_name,
-                        "new_name": new_name,
-                    }
+                    return Command(
+                        f"rename_{item_type}",
+                        {"target": old_name, "new_name": new_name},
+                    )
 
                 break
 
@@ -105,7 +102,7 @@ class CommandParser:
         command: str,
         verb: str,
         action: str,
-    ) -> dict[str, Any]:
+    ) -> Command:
         """Parse a copy or move command.
 
         Args:
@@ -114,7 +111,7 @@ class CommandParser:
             action - Action to produce, either copy or move.
 
         Returns:
-            Structured transfer action, or an unknown action.
+            Command containing the transfer action, or an unknown action.
         """
         transfer_command = command[len(verb):].strip()
 
@@ -135,8 +132,7 @@ class CommandParser:
         if not source or not destination:
             return self._unknown_command()
 
-        return {
-            "action": action,
-            "source": source,
-            "destination": destination,
-        }
+        return Command(
+            action,
+            {"source": source, "destination": destination},
+        )

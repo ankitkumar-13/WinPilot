@@ -1058,6 +1058,7 @@ dependencies = [
     { name = "google-genai" },
     { name = "mcp", extra = ["cli"] },
     { name = "pytest" },
+    { name = "pywin32", marker = "sys_platform == 'win32'" },
     { name = "python-dotenv" },
 ]
 
@@ -1066,5 +1067,6 @@ requires-dist = [
     { name = "google-genai", specifier = ">=2.33.0" },
     { name = "mcp", extras = ["cli"], specifier = ">=2.3.0" },
     { name = "pytest", specifier = ">=9.2.0" },
+    { name = "pywin32", marker = "sys_platform == 'win32'", specifier = ">=312" },
     { name = "python-dotenv", specifier = ">=1.2.4" },
 ]
