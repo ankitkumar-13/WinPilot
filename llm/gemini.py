@@ -24,6 +24,9 @@ class GeminiLLM(BaseLLM):
 
         Raises:
             ValueError - If the API key is missing.
+
+        Returns:
+            None.
         """
         super().__init__(model)
 

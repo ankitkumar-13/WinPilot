@@ -20,6 +20,9 @@ class WinPilotOrchestrator:
         Args:
             client - MCP client used to discover and execute tools.
             router - LLM router used to process user requests.
+
+        Returns:
+            None.
         """
         self.client = client
         self.router = router
@@ -32,6 +35,9 @@ class WinPilotOrchestrator:
 
         Raises:
             Exception - If tool discovery fails.
+
+        Returns:
+            None.
         """
         try:
             tools = await self.client.list_tools()
@@ -80,7 +86,15 @@ class WinPilotOrchestrator:
 
     @staticmethod
     def _format_tool_result(name: str, result: Any) -> str:
-        """Format an MCP tool result while retaining its domain status."""
+        """Format an MCP tool result while retaining its domain status.
+
+        Args:
+            name - Name of the MCP tool that ran.
+            result - Result object returned by the MCP client.
+
+        Returns:
+            User-facing text describing the result.
+        """
         content = getattr(result, "content", None) or []
         output = "\n".join(
             item.text
