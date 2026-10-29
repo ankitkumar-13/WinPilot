@@ -16,7 +16,11 @@ class WinPilotMCPClient:
     """Manage connections to the WinPilot MCP server."""
 
     def __init__(self) -> None:
-        """Initialise the MCP client without opening a connection."""
+        """Initialise the MCP client without opening a connection.
+
+        Returns:
+            None.
+        """
         self._stack = AsyncExitStack()
         self.session: ClientSession | None = None
 
@@ -26,6 +30,9 @@ class WinPilotMCPClient:
         Raises:
             RuntimeError - If the client is already connected.
             Exception - If the connection or initialisation fails.
+
+        Returns:
+            None.
         """
         if self.session is not None:
             raise RuntimeError("MCP client is already connected.")
@@ -99,7 +106,11 @@ class WinPilotMCPClient:
         return await self.session.call_tool(name, args)
 
     async def close(self) -> None:
-        """Close the MCP connection and release its resources."""
+        """Close the MCP connection and release its resources.
+
+        Returns:
+            None.
+        """
         try:
             await self._stack.aclose()
         finally:

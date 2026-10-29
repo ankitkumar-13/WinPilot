@@ -10,6 +10,9 @@ class BaseLLM(ABC):
 
         Args:
             model - Name or identifier of the LLM model.
+
+        Returns:
+            None.
         """
         self.model = model
 

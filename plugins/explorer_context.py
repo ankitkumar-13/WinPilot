@@ -11,7 +11,11 @@ class ExplorerContext:
     """Retrieve folder paths from open File Explorer windows."""
 
     def __init__(self) -> None:
-        """Initialise the Explorer context helper."""
+        """Initialise the Explorer context helper.
+
+        Returns:
+            None.
+        """
 
     def get_explorer_windows(self) -> dict[int, str]:
         """Retrieve Explorer window handles and their folder paths.

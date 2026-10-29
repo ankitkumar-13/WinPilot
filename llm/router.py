@@ -16,6 +16,9 @@ class LLMRouter:
 
         Raises:
             ValueError - If the requested provider is unsupported.
+
+        Returns:
+            None.
         """
         provider = provider.strip().lower()
 

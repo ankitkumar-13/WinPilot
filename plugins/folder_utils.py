@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 
 
 class DeletionStatus(Enum):
-    """Represent the outcome of a deletion attempt."""
+    """Classify the outcome of a deletion attempt."""
 
     SUCCESS = "success"
     PERMISSION_DENIED = "permission_denied"
@@ -28,6 +28,9 @@ class DeletionResult:
         target - Path supplied for deletion.
         message - Human-readable result.
         error_code - Operating-system error code, if available.
+
+    Returns:
+        Immutable description of a deletion outcome.
     """
 
     status: DeletionStatus
@@ -44,21 +47,15 @@ class DeletionResult:
         """
         return self.status is DeletionStatus.SUCCESS
 
-    @property
-    def elevation_eligible(self) -> bool:
-        """Return whether the error may justify elevation.
-
-        Returns:
-            True only for permission-related failures.
-        """
-        return self.status is DeletionStatus.PERMISSION_DENIED
-
-
 class FolderUtil:
     """Perform file and folder operations."""
 
     def __init__(self) -> None:
-        """Initialise deletion result tracking."""
+        """Initialise deletion result tracking.
+
+        Returns:
+            None.
+        """
         self.last_deletion_result: DeletionResult | None = None
 
     def create_file(self, file_path: str) -> bool:

@@ -21,6 +21,9 @@ def setup_logging(
     Args:
         name - Component name used to select the log file.
         level - Minimum logging level to record.
+
+    Returns:
+        None.
     """
     if not isinstance(name, str) or not name.strip():
         name = "winpilot"

@@ -1,10 +1,10 @@
-
 import logging
 from typing import Any, Literal
 
 from mcp.server import MCPServer
 from mcp.types import CallToolResult, TextContent
 
+from core.command import Command
 from core.executor import ExecutionEngine
 from core.execution_result import ExecutionResult, ExecutionStatus
 from core.logging_config import setup_logging
@@ -19,9 +19,17 @@ executor = ExecutionEngine()
 
 def execute_action(
     tool_name: str,
-    action: dict[str, Any],
+    action: Command | dict[str, Any],
 ) -> ExecutionResult:
-    """Execute an action and return its structured result."""
+    """Execute an action and return its structured result.
+
+    Args:
+        tool_name - Name of the MCP tool being executed.
+        action - Command object or action payload for the executor.
+
+    Returns:
+        Structured execution result.
+    """
     logger.info("Executing tool: %s", tool_name)
     logger.debug("Action payload: %r", action)
 
@@ -55,7 +63,16 @@ def tool_result(
     is_error: bool = False,
     status: ExecutionStatus | None = None,
 ) -> CallToolResult:
-    """Create a text result with protocol and domain outcome details."""
+    """Create an MCP response with text and domain outcome details.
+
+    Args:
+        message - Text presented to the MCP client.
+        is_error - Whether the MCP protocol result represents failure.
+        status - WinPilot status associated with the operation.
+
+    Returns:
+        MCP result with text, error flag, and structured status.
+    """
     if status is None:
         status = (
             ExecutionStatus.OPERATION_FAILED
@@ -78,9 +95,25 @@ def run_tool(
     tool_name: str,
     action: dict[str, Any],
     success_message: str,
+    requires_elevation: bool = False,
 ) -> CallToolResult:
-    """Execute a tool and convert its result into an MCP response."""
-    result = execute_action(tool_name, action)
+    """Execute a tool and convert its result into an MCP response.
+
+    Args:
+        tool_name - Name of the MCP tool being executed.
+        action - Action payload passed to the execution engine.
+        success_message - Text returned when execution succeeds.
+        requires_elevation - Whether WinPilot approval is required.
+
+    Returns:
+        MCP result describing the operation outcome.
+    """
+    command = Command(
+        action=action["action"],
+        arguments={key: value for key, value in action.items() if key != "action"},
+        requires_elevation=requires_elevation,
+    )
+    result = execute_action(tool_name, command)
 
     if not result.success:
         return tool_result(
@@ -97,7 +130,14 @@ def run_tool(
 
 @mcp.tool()
 def open_application(application: str) -> CallToolResult:
-    """Open a supported Windows application."""
+    """Open a supported Windows application.
+
+    Args:
+        application - Name of the application to open.
+
+    Returns:
+        MCP result describing the launch outcome.
+    """
     return run_tool(
         "open_application",
         {
@@ -110,7 +150,14 @@ def open_application(application: str) -> CallToolResult:
 
 @mcp.tool()
 def create_file(name: str) -> CallToolResult:
-    """Create a file in the current WinPilot workspace."""
+    """Create a file in the current WinPilot workspace.
+
+    Args:
+        name - File name or path to create.
+
+    Returns:
+        MCP result describing the creation outcome.
+    """
     return run_tool(
         "create_file",
         {
@@ -123,7 +170,14 @@ def create_file(name: str) -> CallToolResult:
 
 @mcp.tool()
 def create_folder(name: str) -> CallToolResult:
-    """Create a folder in the current WinPilot workspace."""
+    """Create a folder in the current WinPilot workspace.
+
+    Args:
+        name - Folder name or path to create.
+
+    Returns:
+        MCP result describing the creation outcome.
+    """
     return run_tool(
         "create_folder",
         {
@@ -139,7 +193,15 @@ def copy_item(
     source: str,
     destination: str,
 ) -> CallToolResult:
-    """Copy a file or folder to a destination."""
+    """Copy a file or folder to a destination.
+
+    Args:
+        source - File or folder to copy.
+        destination - Path for the new copy.
+
+    Returns:
+        MCP result describing the copy outcome.
+    """
     return run_tool(
         "copy_item",
         {
@@ -156,7 +218,15 @@ def move_item(
     source: str,
     destination: str,
 ) -> CallToolResult:
-    """Move a file or folder to a destination."""
+    """Move a file or folder to a destination.
+
+    Args:
+        source - File or folder to move.
+        destination - Path to move the item to.
+
+    Returns:
+        MCP result describing the move outcome.
+    """
     return run_tool(
         "move_item",
         {
@@ -173,7 +243,15 @@ def delete_item(
     target: str,
     kind: Literal["file", "folder"],
 ) -> CallToolResult:
-    """Delete a file or folder after confirmation."""
+    """Delete a file or folder after WinPilot approval.
+
+    Args:
+        target - File or folder to delete.
+        kind - Expected target type, either file or folder.
+
+    Returns:
+        MCP result describing the deletion outcome.
+    """
     if kind not in {"file", "folder"}:
         return tool_result(
             "Invalid deletion type. Expected 'file' or 'folder'.",
@@ -188,6 +266,7 @@ def delete_item(
             "target": target,
         },
         f"Deleted {kind}: {target}",
+        requires_elevation=True,
     )
 
 
@@ -197,7 +276,16 @@ def rename_item(
     new_name: str,
     kind: Literal["file", "folder"],
 ) -> CallToolResult:
-    """Rename a file or folder."""
+    """Rename a file or folder.
+
+    Args:
+        path - Existing file or folder to rename.
+        new_name - New name or destination path.
+        kind - Expected target type, either file or folder.
+
+    Returns:
+        MCP result describing the rename outcome.
+    """
     if kind not in {"file", "folder"}:
         return tool_result(
             "Invalid rename type. Expected 'file' or 'folder'.",

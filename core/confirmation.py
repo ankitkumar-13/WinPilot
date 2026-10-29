@@ -1,44 +1,51 @@
-import ctypes
 import logging
+
+import win32api
+import win32con
 
 logger = logging.getLogger(__name__)
 
-MB_YESNO = 0x00000004
-MB_ICONWARNING = 0x00000030
-MB_SETFOREGROUND = 0x00010000
-IDYES = 6
 
-
-def confirm_deletion(kind: str, target: str) -> bool:
-    """Ask the user to confirm deleting a file or folder.
+def confirm_action(action: str, details: str) -> bool:
+    """Ask the user to approve one operation before WinPilot runs it.
 
     Args:
-        kind - Type of item being deleted.
-        target - Resolved path of the item to delete.
+        action - Short description of the requested operation.
+        details - Target application or paths involved in the operation.
 
     Returns:
-        True if the user clicks Yes, otherwise False.
+        True if the user approves the command, otherwise False.
     """
     message = (
-        f"Are you sure you want to delete this {kind}?\n\n"
-        f"{target}\n\n"
-        "This action may permanently remove data."
+        f"WinPilot wants permission to {action}.\n\n"
+        f"{details}\n\n"
+        "Allow this command?"
+    )
+    flags = (
+        win32con.MB_YESNO
+        | win32con.MB_ICONWARNING
+        | win32con.MB_DEFBUTTON2
+        | win32con.MB_SETFOREGROUND
     )
 
     try:
-        result = ctypes.windll.user32.MessageBoxW(
-            None,
-            message,
-            "WinPilot - Confirm Deletion",
-            MB_YESNO | MB_ICONWARNING | MB_SETFOREGROUND,
+        approved = (
+            win32api.MessageBox(
+                0,
+                message,
+                "WinPilot - Command Approval",
+                flags,
+            )
+            == win32con.IDYES
         )
-    except (AttributeError, OSError):
-        logger.exception("Failed to display deletion confirmation")
+    except Exception:
+        logger.exception("Could not display command approval prompt")
         return False
 
-    if result == IDYES:
-        logger.info("User confirmed deletion: %s", target)
-        return True
-
-    logger.info("User cancelled deletion: %s", target)
-    return False
+    logger.info(
+        "User %s command: %s | %s",
+        "approved" if approved else "denied",
+        action,
+        details,
+    )
+    return approved
