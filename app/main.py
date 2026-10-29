@@ -1,63 +1,114 @@
-from core.command_parser import CommandParser
-from core.executor import ExecutionEngine
+import argparse
+import asyncio
+import logging
+import sys
+
+from app.mcp_client import WinPilotMCPClient
+from app.orchestrator import WinPilotOrchestrator
+from core.logging_config import setup_logging
+from llm.router import LLMRouter
+
+logger = logging.getLogger(__name__)
 
 
-def main():
+async def run(provider: str) -> int:
+    """Initialise and run the WinPilot application.
 
-    parser = CommandParser()
-    executor = ExecutionEngine()
+    Args:
+        provider - LLM provider to use for processing requests.
 
-    print("Welcome to WinPilot 0.0.1 !")
-    print("Windows Desktop Automation Tool")
-    print("================================")
+    Returns:
+        Zero if the application exits normally, otherwise one.
+    """
+    client = WinPilotMCPClient()
+    connected = False
 
-    print("\nAvailable Commands:")
-    print("1. open <application_name> - Opens the specified application.")
-    print("2. create file <file_name> - Creates a new file.")
-    print("3. create folder <folder_name> - Creates a new folder.")
-    print("4. delete file <file_name> - Deletes the specified file.")
-    print("5. delete folder <folder_name> - Deletes the specified folder.")
-    print("6. move <source> to <destination> - Moves a file or folder.")
-    print("7. copy <source> to <destination> - Copies a file or folder.")
-    print("8. rename file <old_name> to <new_name> - Renames the specified file.")
-    print("9. rename folder <old_name> to <new_name> - Renames the specified folder.")
-    print("10. exit - Exits the application.")
+    logger.info("Starting WinPilot")
 
-    while True:
-        print()
-        user_input = input("WinPilot > ").strip()
+    try:
+        await client.connect()
+        connected = True
+        logger.info("Connected to MCP server")
 
-        if user_input.lower() in ["exit", "quit"]:
-            print("Closing WinPilot...")
-            break
+        router = LLMRouter(provider=provider)
+        orchestrator = WinPilotOrchestrator(client, router)
 
-        if not user_input:
-            continue
+        await orchestrator.initialise()
 
-        command = parser.parse_command(user_input)
+        print("WinPilot - Windows Desktop Automation")
+        print("Connected to MCP server.")
+        print(f"Available tools: {orchestrator.tool_count}")
+        print("Type 'exit' or 'quit' to close.")
 
-        print(f"\nAction: {command.get('action')}")
+        while True:
+            try:
+                query = await asyncio.to_thread(
+                    input, "\nWinPilot > "
+                )
+            except (EOFError, KeyboardInterrupt):
+                break
 
-        if command.get("target"):
-            print(f"Target: {command.get('target')}")
+            query = query.strip()
 
-        if command.get("source"):
-            print(f"Source: {command.get('source')}")
+            if query.lower() in {"exit", "quit"}:
+                break
 
-        if command.get("destination"):
-            print(f"Destination: {command.get('destination')}")
+            if not query:
+                continue
 
-        if command.get("new_name"):
-            print(f"New Name: {command.get('new_name')}")
+            try:
+                result = await orchestrator.process(query)
+                print(f"WinPilot: {result}")
+            except Exception:
+                logger.exception("Request processing failed")
+                print("Request failed. Check the application logs.")
 
-        print("\nExecuting command...")
+        return 0
 
-        success = executor.execute(command)
+    except Exception:
+        logger.exception("WinPilot startup or runtime failure")
+        print("WinPilot could not start. Check the application logs.")
+        return 1
 
-        if success:
-            print("Command executed successfully.")
-        else:
-            print("Failed to execute command.")
+    finally:
+        if connected:
+            try:
+                await client.close()
+                logger.info("MCP connection closed")
+            except Exception:
+                logger.exception("Failed to close MCP connection")
+
+        logger.info("WinPilot stopped")
+
+
+def main() -> int:
+    """Parse command-line arguments and start WinPilot.
+
+    Returns:
+        The application exit code.
+    """
+    parser = argparse.ArgumentParser(
+        description="WinPilot Windows Desktop Automation"
+    )
+    parser.add_argument(
+        "--provider",
+        default="gemini",
+        choices=["gemini"],
+        help="LLM provider to use",
+    )
+
+    args = parser.parse_args()
+
+    setup_logging()
+    logger.info("Selected LLM provider: %s", args.provider)
+
+    try:
+        return asyncio.run(run(args.provider))
+    except KeyboardInterrupt:
+        logger.info("WinPilot interrupted by user")
+        print("\nWinPilot stopped.")
+        return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
