@@ -1,3 +1,11 @@
+import os
+import sys
+
+# Ensure project root is in sys.path when running app/main.py directly
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+
 from core.command_parser import CommandParser
 from core.executor import ExecutionEngine
 
@@ -12,16 +20,18 @@ def main():
     print("================================")
 
     print("\nAvailable Commands:")
-    print("1. open <application_name> - Opens the specified application.")
-    print("2. create file <file_name> - Creates a new file.")
-    print("3. create folder <folder_name> - Creates a new folder.")
-    print("4. delete file <file_name> - Deletes the specified file.")
-    print("5. delete folder <folder_name> - Deletes the specified folder.")
-    print("6. move <source> to <destination> - Moves a file or folder.")
-    print("7. copy <source> to <destination> - Copies a file or folder.")
-    print("8. rename file <old_name> to <new_name> - Renames the specified file.")
-    print("9. rename folder <old_name> to <new_name> - Renames the specified folder.")
-    print("10. exit - Exits the application.")
+    print("--- File & Folder Commands ---")
+    print("1.  open <application_name>                       - Opens an application (notepad, calculator, paint).")
+    print("2.  create file <file_name>                       - Creates a new file.")
+    print("3.  create folder <folder_name>                   - Creates a new folder.")
+    print("4.  delete file <file_name>                       - Deletes a file.")
+    print("5.  delete folder <folder_name>                   - Deletes a folder.")
+    print("6.  move <source> to <destination>                - Moves a file or folder.")
+    print("7.  copy <source> to <destination>                - Copies a file or folder.")
+    print("8.  rename file <old_name> to <new_name>          - Renames a file.")
+    print("9.  rename folder <old_name> to <new_name>        - Renames a folder.")
+    print("")
+    print("10. exit                                          - Exits WinPilot.")
 
     while True:
         print()
@@ -50,6 +60,24 @@ def main():
         if command.get("new_name"):
             print(f"New Name: {command.get('new_name')}")
 
+        if command.get("format"):
+            print(f"Format: {command.get('format')}")
+
+        if command.get("text"):
+            print(f"Text: {command.get('text')}")
+
+        if command.get("find_text"):
+            print(f"Find: {command.get('find_text')}")
+
+        if command.get("replace_text"):
+            print(f"Replace With: {command.get('replace_text')}")
+
+        if command.get("cell"):
+            print(f"Cell: {command.get('cell')}")
+
+        if command.get("value"):
+            print(f"Value: {command.get('value')}")
+
         print("\nExecuting command...")
 
         success = executor.execute(command)
@@ -58,6 +86,7 @@ def main():
             print("Command executed successfully.")
         else:
             print("Failed to execute command.")
+
 
 if __name__ == "__main__":
     main()
