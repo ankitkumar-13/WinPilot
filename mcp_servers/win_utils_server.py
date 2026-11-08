@@ -20,12 +20,16 @@ executor = ExecutionEngine()
 def execute_action(
     tool_name: str,
     command: Command,
+    clarified_path: str | None = None,
+    clarified_field: str | None = None,
 ) -> ExecutionResult:
     """Execute an action and return its structured result.
 
     Args:
         tool_name - Name of the MCP tool being executed.
         command - Command object, including its approval policy.
+        clarified_path - Absolute path selected by the user.
+        clarified_field - Command argument resolved by the selected path.
 
     Returns:
         Structured execution result.
@@ -34,7 +38,7 @@ def execute_action(
     logger.debug("Action payload: %r", command)
 
     try:
-        result = executor.execute(command)
+        result = executor.execute(command, clarified_path, clarified_field)
     except Exception:
         logger.exception(
             "Unexpected error executing tool: %s",
@@ -62,6 +66,9 @@ def tool_result(
     message: str,
     is_error: bool = False,
     status: ExecutionStatus | None = None,
+    clarification_choices: tuple[str, ...] = (),
+    clarification_field: str | None = None,
+    clarification_default: str | None = None,
 ) -> CallToolResult:
     """Create an MCP response with text and domain outcome details.
 
@@ -69,6 +76,9 @@ def tool_result(
         message - Text presented to the MCP client.
         is_error - Whether the MCP protocol result represents failure.
         status - WinPilot status associated with the operation.
+        clarification_choices - Absolute paths available for selection.
+        clarification_field - Tool argument to replace with the selection.
+        clarification_default - Topmost match, when available.
 
     Returns:
         MCP result with text, error flag, and structured status.
@@ -80,14 +90,21 @@ def tool_result(
             else ExecutionStatus.SUCCESS
         )
 
+    structured_content = {
+        "success": not is_error,
+        "status": status.value,
+        "message": message,
+    }
+    if clarification_choices and clarification_field:
+        structured_content["clarification_choices"] = list(clarification_choices)
+        structured_content["clarification_field"] = clarification_field
+        if clarification_default:
+            structured_content["clarification_default"] = clarification_default
+
     return CallToolResult(
         content=[TextContent(type="text", text=message)],
         is_error=is_error,
-        structuredContent={
-            "success": not is_error,
-            "status": status.value,
-            "message": message,
-        },
+        structuredContent=structured_content,
     )
 
 
@@ -96,6 +113,8 @@ def run_tool(
     action: dict[str, Any],
     success_message: str,
     requires_approval: bool = False,
+    clarified_path: str | None = None,
+    clarified_field: str | None = None,
 ) -> CallToolResult:
     """Execute a tool and convert its result into an MCP response.
 
@@ -104,6 +123,8 @@ def run_tool(
         action - Action payload passed to the execution engine.
         success_message - Text returned when execution succeeds.
         requires_approval - Whether WinPilot approval is required.
+        clarified_path - Absolute path selected by the user.
+        clarified_field - Tool argument resolved by the selected path.
 
     Returns:
         MCP result describing the operation outcome.
@@ -113,13 +134,21 @@ def run_tool(
         arguments={key: value for key, value in action.items() if key != "action"},
         requires_approval=requires_approval,
     )
-    result = execute_action(tool_name, command)
+    result = execute_action(
+        tool_name,
+        command,
+        clarified_path,
+        clarified_field,
+    )
 
     if not result.success:
         return tool_result(
             result.message,
             is_error=True,
             status=result.status,
+            clarification_choices=result.clarification_choices,
+            clarification_field=result.clarification_field,
+            clarification_default=result.clarification_default,
         )
 
     return tool_result(
@@ -149,11 +178,17 @@ def open_application(application: str) -> CallToolResult:
 
 
 @mcp.tool()
-def create_file(name: str) -> CallToolResult:
+def create_file(
+    name: str,
+    clarified_path: str | None = None,
+    clarified_field: str | None = None,
+) -> CallToolResult:
     """Create a file in the current WinPilot workspace.
 
     Args:
         name - File name or path to create.
+        clarified_path - Absolute path selected by the user.
+        clarified_field - Tool argument resolved by the selected path.
 
     Returns:
         MCP result describing the creation outcome.
@@ -165,15 +200,23 @@ def create_file(name: str) -> CallToolResult:
             "target": name,
         },
         f"Created file: {name}",
+        clarified_path=clarified_path,
+        clarified_field=clarified_field,
     )
 
 
 @mcp.tool()
-def create_folder(name: str) -> CallToolResult:
+def create_folder(
+    name: str,
+    clarified_path: str | None = None,
+    clarified_field: str | None = None,
+) -> CallToolResult:
     """Create a folder in the current WinPilot workspace.
 
     Args:
         name - Folder name or path to create.
+        clarified_path - Absolute path selected by the user.
+        clarified_field - Tool argument resolved by the selected path.
 
     Returns:
         MCP result describing the creation outcome.
@@ -185,6 +228,8 @@ def create_folder(name: str) -> CallToolResult:
             "target": name,
         },
         f"Created folder: {name}",
+        clarified_path=clarified_path,
+        clarified_field=clarified_field,
     )
 
 
@@ -192,12 +237,16 @@ def create_folder(name: str) -> CallToolResult:
 def copy_item(
     source: str,
     destination: str,
+    clarified_path: str | None = None,
+    clarified_field: str | None = None,
 ) -> CallToolResult:
     """Copy a file or folder to a destination.
 
     Args:
         source - File or folder to copy.
         destination - Path for the new copy.
+        clarified_path - Absolute path selected by the user.
+        clarified_field - Tool argument resolved by the selected path.
 
     Returns:
         MCP result describing the copy outcome.
@@ -210,6 +259,8 @@ def copy_item(
             "destination": destination,
         },
         f"Copied {source} to {destination}",
+        clarified_path=clarified_path,
+        clarified_field=clarified_field,
     )
 
 
@@ -217,12 +268,16 @@ def copy_item(
 def move_item(
     source: str,
     destination: str,
+    clarified_path: str | None = None,
+    clarified_field: str | None = None,
 ) -> CallToolResult:
     """Move a file or folder to a destination.
 
     Args:
         source - File or folder to move.
         destination - Path to move the item to.
+        clarified_path - Absolute path selected by the user.
+        clarified_field - Tool argument resolved by the selected path.
 
     Returns:
         MCP result describing the move outcome.
@@ -235,6 +290,8 @@ def move_item(
             "destination": destination,
         },
         f"Moved {source} to {destination}",
+        clarified_path=clarified_path,
+        clarified_field=clarified_field,
     )
 
 
@@ -242,12 +299,16 @@ def move_item(
 def delete_item(
     target: str,
     kind: Literal["file", "folder"],
+    clarified_path: str | None = None,
+    clarified_field: str | None = None,
 ) -> CallToolResult:
-    """Delete a file or folder after WinPilot approval.
+    """Move a file or folder to the Recycle Bin after approval.
 
     Args:
         target - File or folder to delete.
         kind - Expected target type, either file or folder.
+        clarified_path - Absolute path selected by the user.
+        clarified_field - Tool argument resolved by the selected path.
 
     Returns:
         MCP result describing the deletion outcome.
@@ -265,8 +326,10 @@ def delete_item(
             "action": f"delete_{kind}",
             "target": target,
         },
-        f"Deleted {kind}: {target}",
+        f"Moved {kind} to the Recycle Bin: {target}",
         requires_approval=True,
+        clarified_path=clarified_path,
+        clarified_field=clarified_field,
     )
 
 
@@ -275,6 +338,8 @@ def rename_item(
     path: str,
     new_name: str,
     kind: Literal["file", "folder"],
+    clarified_path: str | None = None,
+    clarified_field: str | None = None,
 ) -> CallToolResult:
     """Rename a file or folder.
 
@@ -282,6 +347,8 @@ def rename_item(
         path - Existing file or folder to rename.
         new_name - New name or destination path.
         kind - Expected target type, either file or folder.
+        clarified_path - Absolute path selected by the user.
+        clarified_field - Tool argument resolved by the selected path.
 
     Returns:
         MCP result describing the rename outcome.
@@ -301,6 +368,8 @@ def rename_item(
             "new_name": new_name,
         },
         f"Renamed {path} to {new_name}",
+        clarified_path=clarified_path,
+        clarified_field=clarified_field,
     )
 
 

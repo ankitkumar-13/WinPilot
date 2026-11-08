@@ -9,6 +9,7 @@ class ExecutionStatus(str, Enum):
     TARGET_NOT_FOUND = "target_not_found"
     PERMISSION_DENIED = "permission_denied"
     USER_CANCELLED = "user_cancelled"
+    CLARIFICATION_REQUIRED = "clarification_required"
     INVALID_ARGUMENT = "invalid_argument"
     OPERATION_FAILED = "operation_failed"
     INTERNAL_ERROR = "internal_error"
@@ -27,6 +28,9 @@ class ExecutionResult:
     success: bool
     status: ExecutionStatus
     message: str
+    clarification_choices: tuple[str, ...] = ()
+    clarification_field: str | None = None
+    clarification_default: str | None = None
 
     @classmethod
     def ok(cls, message: str) -> "ExecutionResult":
@@ -45,14 +49,27 @@ class ExecutionResult:
         cls,
         status: ExecutionStatus,
         message: str,
+        clarification_choices: tuple[str, ...] = (),
+        clarification_field: str | None = None,
+        clarification_default: str | None = None,
     ) -> "ExecutionResult":
         """Create a failed result with its reason.
 
         Args:
             status - Classification of the failure.
             message - User-facing explanation of the failure.
+            clarification_choices - Absolute paths available for selection.
+            clarification_field - Tool argument to replace with the selection.
+            clarification_default - Topmost match, when it is available.
 
         Returns:
             Failed execution result.
         """
-        return cls(False, status, message)
+        return cls(
+            False,
+            status,
+            message,
+            clarification_choices,
+            clarification_field,
+            clarification_default,
+        )

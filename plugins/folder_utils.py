@@ -1,11 +1,20 @@
 import errno
+import ctypes
 import logging
 import os
 import shutil
+from ctypes import wintypes
 from dataclasses import dataclass
 from enum import Enum
 
 logger = logging.getLogger(__name__)
+
+FO_DELETE = 0x0003
+FOF_SILENT = 0x0004
+FOF_NOCONFIRMATION = 0x0010
+FOF_ALLOWUNDO = 0x0040
+FOF_NOERRORUI = 0x0400
+FOF_WANTNUKEWARNING = 0x4000
 
 
 class DeletionStatus(Enum):
@@ -164,8 +173,64 @@ class FolderUtil:
 
         return result
 
+    @staticmethod
+    def _move_to_recycle_bin(path: str) -> None:
+        """Send a path to the Windows Recycle Bin.
+
+        Args:
+            path - Absolute path of the file or folder to remove.
+
+        Returns:
+            None.
+
+        Raises:
+            OSError - If Windows cannot move the item to the Recycle Bin.
+        """
+        if os.name != "nt":
+            raise OSError("Moving items to the Recycle Bin requires Windows.")
+        if not os.path.isabs(path):
+            raise OSError("The Recycle Bin requires a fully qualified path.")
+
+        class SHFILEOPSTRUCTW(ctypes.Structure):
+            _fields_ = [
+                ("hwnd", wintypes.HWND),
+                ("wFunc", wintypes.UINT),
+                ("pFrom", wintypes.LPCWSTR),
+                ("pTo", wintypes.LPCWSTR),
+                ("fFlags", wintypes.UINT),
+                ("fAnyOperationsAborted", wintypes.BOOL),
+                ("hNameMappings", wintypes.LPVOID),
+                ("lpszProgressTitle", wintypes.LPCWSTR),
+            ]
+
+        source = ctypes.create_unicode_buffer(path + "\0")
+        operation = SHFILEOPSTRUCTW()
+        operation.hwnd = None
+        operation.wFunc = FO_DELETE
+        operation.pFrom = ctypes.cast(source, wintypes.LPCWSTR)
+        operation.pTo = None
+        operation.fFlags = (
+            FOF_SILENT
+            | FOF_NOCONFIRMATION
+            | FOF_ALLOWUNDO
+            | FOF_NOERRORUI
+            | FOF_WANTNUKEWARNING
+        )
+        operation.fAnyOperationsAborted = False
+        operation.hNameMappings = None
+        operation.lpszProgressTitle = None
+
+        shell32 = ctypes.WinDLL("shell32", use_last_error=True)
+        shell32.SHFileOperationW.argtypes = [ctypes.POINTER(SHFILEOPSTRUCTW)]
+        shell32.SHFileOperationW.restype = ctypes.c_int
+        result = shell32.SHFileOperationW(ctypes.byref(operation))
+        if result != 0:
+            raise OSError(result, ctypes.FormatError(result), path)
+        if operation.fAnyOperationsAborted:
+            raise OSError("The Recycle Bin operation was cancelled.")
+
     def delete_file_result(self, file_path: str) -> DeletionResult:
-        """Delete a file or symbolic link and classify the result.
+        """Move a file or symbolic link to the Recycle Bin and classify it.
 
         Args:
             file_path - Path to the file to delete.
@@ -203,13 +268,13 @@ class FolderUtil:
             return result
 
         try:
-            os.remove(file_path)
+            self._move_to_recycle_bin(file_path)
             result = DeletionResult(
                 DeletionStatus.SUCCESS,
                 file_path,
-                "File deleted successfully.",
+                "File moved to the Recycle Bin.",
             )
-            logger.info("File deleted: %s", file_path)
+            logger.info("File moved to the Recycle Bin: %s", file_path)
 
         except OSError as error:
             result = self._classify_deletion_error(file_path, error)
@@ -218,7 +283,7 @@ class FolderUtil:
         return result
 
     def delete_folder_result(self, folder_path: str) -> DeletionResult:
-        """Delete a folder and classify the result.
+        """Move a folder to the Recycle Bin and classify the result.
 
         Args:
             folder_path - Path to the folder to delete.
@@ -265,13 +330,13 @@ class FolderUtil:
             return result
 
         try:
-            shutil.rmtree(folder_path)
+            self._move_to_recycle_bin(folder_path)
             result = DeletionResult(
                 DeletionStatus.SUCCESS,
                 folder_path,
-                "Folder deleted successfully.",
+                "Folder moved to the Recycle Bin.",
             )
-            logger.info("Folder deleted: %s", folder_path)
+            logger.info("Folder moved to the Recycle Bin: %s", folder_path)
 
         except OSError as error:
             result = self._classify_deletion_error(folder_path, error)
@@ -280,7 +345,7 @@ class FolderUtil:
         return result
 
     def delete_file(self, file_path: str) -> bool:
-        """Delete a file without deleting a directory.
+        """Move a file to the Recycle Bin without accepting directories.
 
         Args:
             file_path - Path to the file to delete.
@@ -291,7 +356,7 @@ class FolderUtil:
         return self.delete_file_result(file_path).success
 
     def delete_folder(self, folder_path: str) -> bool:
-        """Delete a folder and its contents.
+        """Move a folder and its contents to the Recycle Bin.
 
         Args:
             folder_path - Path to the folder to delete.
