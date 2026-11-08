@@ -1,5 +1,3 @@
-"""Fine-tune DistilBERT for WinPilot BIO entity recognition."""
-
 import argparse
 import json
 import random
@@ -64,7 +62,14 @@ SECTION_WIDTH = 60
 # =========================================================
 
 def print_section(title):
-    """Print a consistent, readable section heading for the training log."""
+    """Print a section heading in the training log.
+
+    Args:
+        title - Heading text to display.
+
+    Returns:
+        None.
+    """
     print()
     print("=" * SECTION_WIDTH)
     print(title)
@@ -76,6 +81,17 @@ def print_section(title):
 # =========================================================
 
 def load_bio_file(path):
+    """Read token and BIO tag sequences from a BIO file.
+
+    Args:
+        path - BIO file to read.
+
+    Returns:
+        Token sequences and their corresponding tag sequences.
+
+    Raises:
+        ValueError - If a non-empty row does not contain a token and tag.
+    """
     sentences, labels = [], []
     words, tags = [], []
 
@@ -110,6 +126,17 @@ NER_SPLIT_ALIASES = {
 
 
 def find_ner_splits(dataset_dir):
+    """Find complete fixed NER splits in a dataset directory.
+
+    Args:
+        dataset_dir - Root directory to search for fixed splits.
+
+    Returns:
+        Mapping of train, validation, and test sources, or None.
+
+    Raises:
+        ValueError - If fixed splits are present but incomplete.
+    """
     anchors = (dataset_dir, dataset_dir / "split", dataset_dir / "splits")
     for anchor in anchors:
         if not anchor.is_dir():
@@ -143,6 +170,17 @@ def find_ner_splits(dataset_dir):
 
 
 def load_jsonl_file(path):
+    """Read text and character-offset entities from a JSONL file.
+
+    Args:
+        path - JSONL file containing text and entity spans.
+
+    Returns:
+        Token and BIO tag sequences for each record.
+
+    Raises:
+        ValueError - If a record or entity span is malformed.
+    """
     examples = []
     with path.open("r", encoding="utf-8") as stream:
         for line_number, line in enumerate(stream, start=1):
@@ -194,6 +232,17 @@ def load_jsonl_file(path):
 
 
 def load_ner_source(source):
+    """Read NER examples from one file or a directory of supported files.
+
+    Args:
+        source - BIO or JSONL file, or a directory containing those files.
+
+    Returns:
+        Token and BIO tag sequences.
+
+    Raises:
+        ValueError - If a source record or entity span is malformed.
+    """
     if source.is_file():
         paths = [source]
     else:
@@ -217,6 +266,18 @@ def load_ner_source(source):
 
 
 def deduplicate_ner_examples(examples, split_name):
+    """Remove duplicate NER examples and reject conflicting annotations.
+
+    Args:
+        examples - Token and tag sequence pairs to deduplicate.
+        split_name - Name used in validation errors.
+
+    Returns:
+        Deduplicated token and tag sequence pairs.
+
+    Raises:
+        ValueError - If identical text has conflicting tags.
+    """
     unique, seen = [], {}
     for words, tags in examples:
         key = tuple(word.casefold() for word in words)
@@ -233,6 +294,17 @@ def deduplicate_ner_examples(examples, split_name):
 
 
 def validate_ner_splits(splits):
+    """Check NER splits for empty data, leakage, and label coverage.
+
+    Args:
+        splits - Mapping of split names to token and tag sequence pairs.
+
+    Returns:
+        None.
+
+    Raises:
+        ValueError - If splits are empty, leak examples, or contain unseen tags.
+    """
     seen = {}
     for split_name, examples in splits.items():
         if not examples:
@@ -262,6 +334,17 @@ def validate_ner_splits(splits):
 
 
 def load_dataset(dataset_dir=BIO_DIR):
+    """Load fixed NER splits or create deterministic automatic splits.
+
+    Args:
+        dataset_dir - Directory or source containing NER examples.
+
+    Returns:
+        Train, validation, and test example splits.
+
+    Raises:
+        ValueError - If examples or fixed splits are invalid.
+    """
     dataset_dir = Path(dataset_dir)
     fixed_sources = find_ner_splits(dataset_dir)
     print_section("BIO FILES")
@@ -316,6 +399,14 @@ def load_dataset(dataset_dir=BIO_DIR):
 # =========================================================
 
 def get_entities(tags):
+    """Convert a BIO tag sequence into typed entity spans.
+
+    Args:
+        tags - BIO tags for one token sequence.
+
+    Returns:
+        Entity type and start/end token index tuples.
+    """
     entities = set()
     active_type = None
     start = None
@@ -345,6 +436,15 @@ def get_entities(tags):
 
 
 def entity_metrics(gold_sequences, predicted_sequences):
+    """Calculate precision, recall, and F1 for exact entity matches.
+
+    Args:
+        gold_sequences - Expected BIO tag sequences.
+        predicted_sequences - Model-predicted BIO tag sequences.
+
+    Returns:
+        Per-entity and aggregate metric values.
+    """
     totals = {kind: [0, 0, 0] for kind in ENTITY_TYPES}
     for gold, predicted in zip(gold_sequences, predicted_sequences):
         true_entities = get_entities(gold)
@@ -371,6 +471,16 @@ def entity_metrics(gold_sequences, predicted_sequences):
 # =========================================================
 
 def encode_examples(examples, tokenizer, tag_to_id):
+    """Tokenize examples and align BIO labels with model tokens.
+
+    Args:
+        examples - Token and tag sequence pairs.
+        tokenizer - Pretrained DistilBERT tokenizer.
+        tag_to_id - Mapping of BIO labels to model label IDs.
+
+    Returns:
+        Encoded model inputs and aligned label sequences.
+    """
     encoded_examples = []
     for words, tags in examples:
         encoded = tokenizer(
@@ -406,7 +516,23 @@ def encode_examples(examples, tokenizer, tag_to_id):
 
 
 def make_collator(tokenizer):
+    """Create a batch collator that pads encoded NER examples.
+
+    Args:
+        tokenizer - Tokenizer used to pad model inputs.
+
+    Returns:
+        Function that collates a batch of encoded examples.
+    """
     def collate(batch):
+        """Pad model inputs and labels for one batch.
+
+        Args:
+            batch - Encoded examples to combine.
+
+        Returns:
+            Padded model inputs and labels.
+        """
         model_inputs = tokenizer.pad(
             [{"input_ids": item["input_ids"],
               "attention_mask": item["attention_mask"]} for item in batch],
@@ -432,6 +558,17 @@ def make_collator(tokenizer):
 # =========================================================
 
 def evaluate(model, loader, device, id_to_tag):
+    """Run token and entity evaluation for one data loader.
+
+    Args:
+        model - Trained token classification model.
+        loader - Data loader containing evaluation examples.
+        device - Device used for inference.
+        id_to_tag - Mapping of model label IDs to BIO tags.
+
+    Returns:
+        Gold and predicted tag sequences plus evaluation metrics.
+    """
     model.eval()
     gold_sequences, predicted_sequences = [], []
     with torch.inference_mode():
@@ -447,6 +584,18 @@ def evaluate(model, loader, device, id_to_tag):
 
 
 def write_results(path, title, gold_sequences, predicted_sequences, metrics):
+    """Write token and entity evaluation results to a text file.
+
+    Args:
+        path - Destination file for the report.
+        title - Heading to include in the report.
+        gold_sequences - Expected BIO tag sequences.
+        predicted_sequences - Model-predicted BIO tag sequences.
+        metrics - Entity metrics to include.
+
+    Returns:
+        None.
+    """
     labels = sorted(
         {tag for sequence in gold_sequences for tag in sequence}
         | {tag for sequence in predicted_sequences for tag in sequence}
@@ -471,6 +620,11 @@ def write_results(path, title, gold_sequences, predicted_sequences, metrics):
 # =========================================================
 
 def main():
+    """Train, select, evaluate, and save the DistilBERT NER model.
+
+    Returns:
+        None.
+    """
     parser = argparse.ArgumentParser(
         description="Fine-tune DistilBERT for WinPilot named entity recognition."
     )

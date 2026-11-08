@@ -1,5 +1,3 @@
-"""Load fixed intent splits or create reproducible train/validation/test splits."""
-
 import json
 import random
 from collections import defaultdict
@@ -14,6 +12,14 @@ SPLIT_ALIASES = {
 
 
 def _read_jsonl(path):
+    """Read intent examples from a JSONL file.
+
+    Args:
+        path - JSONL file containing text and intent fields.
+
+    Returns:
+        List of command and intent pairs.
+    """
     examples = []
     with path.open("r", encoding="utf-8") as stream:
         for line_number, line in enumerate(stream, start=1):
@@ -32,6 +38,17 @@ def _read_jsonl(path):
 
 
 def _read_intent_source(source):
+    """Read intent examples from a split file or dataset directory.
+
+    Args:
+        source - JSONL file or directory containing intent examples.
+
+    Returns:
+        List of command and intent pairs.
+
+    Raises:
+        ValueError - If a split file is not a supported JSONL file.
+    """
     if source.is_file():
         if source.suffix.lower() != ".jsonl":
             raise ValueError(
@@ -54,6 +71,17 @@ def _read_intent_source(source):
 
 
 def _find_fixed_splits(dataset_dir):
+    """Find complete train, validation, and test split sources.
+
+    Args:
+        dataset_dir - Root directory to search for fixed splits.
+
+    Returns:
+        Mapping of split names to sources, or None if no splits are found.
+
+    Raises:
+        ValueError - If fixed splits exist but one or more are missing.
+    """
     anchors = (dataset_dir, dataset_dir / "split", dataset_dir / "splits")
     for anchor in anchors:
         if not anchor.is_dir():
@@ -84,10 +112,30 @@ def _find_fixed_splits(dataset_dir):
 
 
 def _normalize_text(text):
+    """Normalize command text for duplicate detection.
+
+    Args:
+        text - Command text to normalize.
+
+    Returns:
+        Case-folded text with normalized whitespace.
+    """
     return " ".join(text.casefold().split())
 
 
 def _deduplicate_split(examples, split_name):
+    """Remove duplicate commands and reject conflicting intent labels.
+
+    Args:
+        examples - Command and intent pairs to deduplicate.
+        split_name - Name used in validation errors.
+
+    Returns:
+        Deduplicated command and intent pairs.
+
+    Raises:
+        ValueError - If the same command has conflicting labels.
+    """
     unique = []
     labels_by_text = {}
     for text, label in examples:
@@ -107,6 +155,17 @@ def _deduplicate_split(examples, split_name):
 
 
 def _validate_fixed_splits(splits):
+    """Check split contents, label coverage, and command leakage.
+
+    Args:
+        splits - Mapping of split names to command and intent pairs.
+
+    Returns:
+        None.
+
+    Raises:
+        ValueError - If a split is empty, leaks commands, or has unseen labels.
+    """
     seen_in_split = {}
     for split_name, examples in splits.items():
         if not examples:
@@ -132,6 +191,18 @@ def _validate_fixed_splits(splits):
 
 
 def _automatic_split(examples, seed):
+    """Create reproducible stratified train, validation, and test splits.
+
+    Args:
+        examples - Command and intent pairs to split.
+        seed - Random seed used to shuffle each intent group.
+
+    Returns:
+        Mapping containing train, validation, and test examples.
+
+    Raises:
+        ValueError - If an intent has too few examples to split.
+    """
     grouped = defaultdict(list)
     for example in examples:
         grouped[example[1]].append(example)
@@ -167,7 +238,19 @@ def _automatic_split(examples, seed):
 
 
 def load_intent_splits(dataset_dir, seed=42):
-    """Use complete fixed splits when present; otherwise split the flat dataset."""
+    """Load complete fixed splits or create reproducible automatic splits.
+
+    Args:
+        dataset_dir - Directory containing the intent dataset.
+        seed - Random seed used when creating automatic splits.
+
+    Returns:
+        Split mapping and a description of the split strategy.
+
+    Raises:
+        FileNotFoundError - If the dataset directory does not exist.
+        ValueError - If the dataset or its splits are invalid.
+    """
     dataset_dir = Path(dataset_dir)
     fixed_sources = _find_fixed_splits(dataset_dir)
 

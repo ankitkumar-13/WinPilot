@@ -25,6 +25,14 @@ with open(MODEL_PATH, "rb") as file:
 # =========================
 
 def classify(text):
+    """Predict the intent and confidence for a command.
+
+    Args:
+        text - Command text to classify.
+
+    Returns:
+        Predicted intent label and its probability.
+    """
 
     prediction = model.predict([text])[0]
 

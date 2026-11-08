@@ -1,5 +1,3 @@
-"""Run the fine-tuned local DistilBERT NER model on one command."""
-
 from pathlib import Path
 
 import torch
@@ -11,7 +9,20 @@ MODEL_DIR = BASE_DIR / "models" / "ner" / "distilbert"
 
 
 class DistilBertNER:
+    """Load the fine-tuned DistilBERT token classification model."""
+
     def __init__(self, model_dir=MODEL_DIR):
+        """Load the tokenizer and trained model.
+
+        Args:
+            model_dir - Directory containing the saved model and tokenizer.
+
+        Returns:
+            None.
+
+        Raises:
+            FileNotFoundError - If the saved model directory is missing.
+        """
         model_dir = Path(model_dir)
         if not model_dir.exists():
             raise FileNotFoundError(
@@ -25,6 +36,14 @@ class DistilBertNER:
         self.id_to_tag = {int(key): value for key, value in self.model.config.id2label.items()}
 
     def predict(self, text):
+        """Predict a BIO tag for each whitespace-delimited word.
+
+        Args:
+            text - Command text to label.
+
+        Returns:
+            Word and predicted BIO tag lists.
+        """
         words = text.split()
         if not words:
             return [], []
@@ -53,6 +72,15 @@ class DistilBertNER:
 
 
 def extract_entities(words, tags):
+    """Combine consecutive BIO-tagged words into entities.
+
+    Args:
+        words - Input words predicted by the model.
+        tags - BIO labels corresponding to the words.
+
+    Returns:
+        Entity label and text pairs.
+    """
     entities = []
     active_type = None
     current_words = []
@@ -84,6 +112,11 @@ def extract_entities(words, tags):
 
 
 def main():
+    """Run the interactive DistilBERT NER demonstration.
+
+    Returns:
+        None.
+    """
     ner = DistilBertNER()
     print("WinPilot DistilBERT NER")
     print("Type 'exit' to quit.")
