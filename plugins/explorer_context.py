@@ -127,3 +127,14 @@ class ExplorerContext:
         except Exception:
             logger.exception("Failed to determine the Explorer folder")
             return None
+
+    def get_open_folders(self) -> list[str]:
+        """Return the folders represented by all open Explorer windows.
+
+        Returns:
+            List of folder paths for open Explorer windows.
+
+        Raises:
+            Exception - If Explorer windows cannot be enumerated.
+        """
+        return list(self.get_explorer_windows().values())

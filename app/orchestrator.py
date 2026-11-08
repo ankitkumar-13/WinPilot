@@ -34,6 +34,7 @@ class WinPilotOrchestrator:
         self._tools: list[Any] = []
         self._tool_names: set[str] = set()
         self._initialised = False
+        self._pending_clarification: dict[str, Any] | None = None
 
     async def initialise(self) -> None:
         """Discover available MCP tools and cache their schemas.
@@ -80,14 +81,24 @@ class WinPilotOrchestrator:
         Returns:
             Tool definitions containing names, descriptions and schemas.
         """
-        return [
-            {
+        schemas = []
+        for tool in self._tools:
+            input_schema = dict(tool.input_schema)
+            properties = dict(input_schema.get("properties", {}))
+            properties.pop("clarified_path", None)
+            properties.pop("clarified_field", None)
+            input_schema["properties"] = properties
+            input_schema["required"] = [
+                name
+                for name in input_schema.get("required", [])
+                if name not in {"clarified_path", "clarified_field"}
+            ]
+            schemas.append({
                 "name": tool.name,
                 "description": tool.description or "",
-                "inputSchema": tool.input_schema,
-            }
-            for tool in self._tools
-        ]
+                "inputSchema": input_schema,
+            })
+        return schemas
 
     @staticmethod
     def _format_tool_result(name: str, result: Any) -> str:
@@ -117,6 +128,8 @@ class WinPilotOrchestrator:
         if getattr(result, "is_error", False):
             detail = message if isinstance(message, str) else output
             logger.error("MCP tool %s returned an error: %s", name, detail)
+            if status == "clarification_required":
+                return detail or "Please clarify the target location and try again."
             if isinstance(status, str) and status:
                 return f"Tool execution failed [{status}]: {detail or 'Unknown error'}"
             return f"Tool execution failed: {detail or 'Unknown error'}"
@@ -139,6 +152,9 @@ class WinPilotOrchestrator:
 
         query = query.strip()
         logger.info("Processing user request")
+
+        if self._pending_clarification is not None:
+            return await self._resolve_clarification(query)
 
         if not self._initialised:
             try:
@@ -210,13 +226,105 @@ class WinPilotOrchestrator:
         logger.info("Executing MCP tool: %s", name)
         logger.debug("Tool arguments: %r", args)
 
+        return await self._call_tool(name, args)
+
+    async def _call_tool(self, name: str, args: dict[str, Any]) -> str:
+        """Call an MCP tool and retain any pending path choice.
+
+        Args:
+            name - Name of the MCP tool to call.
+            args - Arguments supplied to the tool.
+
+        Returns:
+            User-facing result or path selection question.
+        """
         try:
             result = await self.client.call_tool(name, args)
         except Exception:
             logger.exception("MCP call failed for tool %s", name)
+            self._pending_clarification = None
             return f"Tool '{name}' failed. Check the logs."
 
+        structured = getattr(result, "structured_content", None)
+        if not isinstance(structured, dict):
+            structured = getattr(result, "structuredContent", None)
+        if isinstance(structured, dict):
+            choices = structured.get("clarification_choices")
+            field = structured.get("clarification_field")
+            if (
+                structured.get("status") == "clarification_required"
+                and isinstance(choices, list)
+                and choices
+                and isinstance(field, str)
+                and field in args
+            ):
+                valid_choices = [choice for choice in choices if isinstance(choice, str)]
+                if valid_choices:
+                    default_path = structured.get("clarification_default")
+                    self._pending_clarification = {
+                        "tool_name": name,
+                        "arguments": dict(args),
+                        "field": field,
+                        "choices": valid_choices,
+                    }
+                    detail = structured.get("message")
+                    heading = detail if isinstance(detail, str) else "Which path should I use?"
+                    options = "\n".join(
+                        f"{index}. {path}"
+                        f"{' (topmost match)' if path == default_path else ''}"
+                        for index, path in enumerate(valid_choices, start=1)
+                    )
+                    return (
+                        f"{heading}\n{options}\n"
+                        "Reply with a number or paste a path. Type 'cancel' to stop."
+                    )
+
+        self._pending_clarification = None
         return self._format_tool_result(name, result)
+
+    async def _resolve_clarification(self, answer: str) -> str:
+        """Apply a user's selected path to the pending tool request.
+
+        Args:
+            answer - Number or absolute path selected by the user.
+
+        Returns:
+            User-facing result or a repeated selection prompt.
+        """
+        pending = self._pending_clarification
+        if pending is None:
+            return "There is no pending path choice."
+
+        if answer.casefold() in {"cancel", "cancelled", "never mind"}:
+            self._pending_clarification = None
+            return "Cancelled. No file operation was performed."
+
+        choices = pending["choices"]
+        selected_path = None
+        if answer.isdigit():
+            index = int(answer) - 1
+            if 0 <= index < len(choices):
+                selected_path = choices[index]
+        else:
+            selected_path = next(
+                (path for path in choices if answer == path),
+                None,
+            )
+
+        if selected_path is None:
+            return (
+                "Please choose one of the listed numbers or paste one of the "
+                "listed paths. Type 'cancel' to stop."
+            )
+
+        name = pending["tool_name"]
+        field = pending["field"]
+        args = dict(pending["arguments"])
+        args[field] = selected_path
+        args["clarified_path"] = selected_path
+        args["clarified_field"] = field
+        self._pending_clarification = None
+        return await self._call_tool(name, args)
 
     def _command_response(self, command: Command) -> dict[str, Any] | None:
         """Map an interpreted command to its discovered MCP tool.
