@@ -6,14 +6,16 @@ logger = logging.getLogger(__name__)
 
 
 class CommandParser:
-    """Parse supported commands using deterministic keyword rules."""
+    """Parse supported commands with deterministic regular expressions."""
 
-    OPEN_WORDS = {"open", "launch", "start", "run"}
-    CREATE_WORDS = {"create", "make"}
-    DELETE_WORDS = {"delete", "remove"}
-    MOVE_WORDS = {"move", "transfer"}
-    RENAME_WORDS = {"rename"}
     COPY_WORDS = {"copy", "duplicate"}
+
+    PREFIX_PATTERN = re.compile(
+        r"^(?:please|kindly)\s+|"
+        r"^(?:can|could|would)\s+you\s+|"
+        r"^i\s+(?:want|need)\s+(?:you\s+)?to\s+",
+        flags=re.IGNORECASE,
+    )
 
     def _unknown_command(self) -> Command:
         """Return a consistent result for unsupported commands.
@@ -36,103 +38,139 @@ class CommandParser:
             logger.debug("Received an empty or invalid command")
             return self._unknown_command()
 
-        command = command.strip()
-        words = command.split()
-        verb = words[0].lower()
+        command = self._normalise_command(command)
+        if not command:
+            return self._unknown_command()
 
-        if verb in self.OPEN_WORDS and len(words) > 1:
-            return Command(
-                "open_application",
-                {"target": " ".join(words[1:])},
-            )
+        open_match = re.fullmatch(
+            r"(?:open|launch|start|run)\s+"
+            r"(?:(?:the|a|an)\s+)?"
+            r"(?:(?:application|app|program)\s+(?:(?:called|named)\s+)?)?"
+            r"(.+)",
+            command,
+            flags=re.IGNORECASE,
+        )
+        if open_match:
+            target = self._clean_target(open_match.group(1))
+            if target:
+                return Command("open_application", {"target": target})
 
-        if verb in self.CREATE_WORDS and len(words) > 2:
-            item_type = words[1].lower()
+        create_match = re.fullmatch(
+            r"(?:create|make)(?:\s+me)?\s+(?:(?:a|an|the|new)\s+)*"
+            r"(file|folder|directory)\s+"
+            r"(?:(?:called|named)\s+)?(.+)",
+            command,
+            flags=re.IGNORECASE,
+        )
+        if create_match:
+            item_type = self._normalise_item_type(create_match.group(1))
+            target = self._clean_target(create_match.group(2))
+            if target:
+                return Command(f"create_{item_type}", {"target": target})
 
-            if item_type in {"file", "folder"}:
-                return Command(
-                    f"create_{item_type}",
-                    {"target": " ".join(words[2:])},
-                )
-
-        if verb in self.COPY_WORDS and len(words) > 1:
-            return self._parse_transfer(command, verb, "copy")
-
-        if verb in self.MOVE_WORDS and len(words) > 1:
-            return self._parse_transfer(command, verb, "move")
-
-        if verb in self.DELETE_WORDS and len(words) > 2:
-            item_type = words[1].lower()
-
-            if item_type in {"file", "folder"}:
+        delete_match = re.fullmatch(
+            r"(?:delete|remove|erase)\s+(?:(?:the|a|an)\s+)*"
+            r"(file|folder|directory)\s+"
+            r"(?:(?:called|named)\s+)?(.+)",
+            command,
+            flags=re.IGNORECASE,
+        )
+        if delete_match:
+            item_type = self._normalise_item_type(delete_match.group(1))
+            target = self._clean_target(delete_match.group(2))
+            if target:
                 return Command(
                     f"delete_{item_type}",
-                    {"target": " ".join(words[2:])},
+                    {"target": target},
                     requires_approval=True,
                 )
 
-        if (
-            verb in self.RENAME_WORDS
-            and len(words) > 3
-            and words[1].lower() in {"file", "folder"}
-        ):
-            item_type = words[1].lower()
-            remaining_words = words[2:]
+        rename_match = re.fullmatch(
+            r"(?:rename\s+(?:(?:the|a|an)\s+)?|"
+            r"change\s+(?:(?:the|a|an)\s+)?name\s+of\s+)"
+            r"(?:(?:the|a|an)\s+)?(file|folder|directory)\s+"
+            r"(?:(?:called|named)\s+)?"
+            r"(.+?)\s+(?:to|as)\s+(.+)",
+            command,
+            flags=re.IGNORECASE,
+        )
+        if rename_match:
+            item_type = self._normalise_item_type(rename_match.group(1))
+            old_name = self._clean_target(rename_match.group(2))
+            new_name = self._clean_target(rename_match.group(3))
+            if old_name and new_name:
+                return Command(
+                    f"rename_{item_type}",
+                    {"target": old_name, "new_name": new_name},
+                )
 
-            for index, word in enumerate(remaining_words):
-                if word.lower() != "to":
-                    continue
-
-                old_name = " ".join(remaining_words[:index]).strip()
-                new_name = " ".join(remaining_words[index + 1:]).strip()
-
-                if old_name and new_name:
-                    return Command(
-                        f"rename_{item_type}",
-                        {"target": old_name, "new_name": new_name},
-                    )
-
-                break
+        transfer_match = re.fullmatch(
+            r"(?:move|transfer|relocate|put|copy|duplicate)\s+"
+            r"(?:(?:the|a|an)\s+)?"
+            r"(?:(?:file|folder|item)\s+)?"
+            r"(?:(?:called|named)\s+)?"
+            r"(.+?)\s+(?:to|into)\s+(.+)",
+            command,
+            flags=re.IGNORECASE,
+        )
+        if transfer_match:
+            source = self._clean_target(transfer_match.group(1))
+            destination = self._clean_target(transfer_match.group(2))
+            if source and destination:
+                verb = command.split(maxsplit=1)[0].lower()
+                action = "copy" if verb in self.COPY_WORDS else "move"
+                return Command(
+                    action,
+                    {"source": source, "destination": destination},
+                )
 
         logger.debug("Could not parse command: %s", command)
         return self._unknown_command()
 
-    def _parse_transfer(
-        self,
-        command: str,
-        verb: str,
-        action: str,
-    ) -> Command:
-        """Parse a copy or move command.
+    @classmethod
+    def _normalise_command(cls, command: str) -> str:
+        """Remove common polite prefixes and surrounding whitespace.
 
         Args:
-            command - Complete user command.
-            verb - Leading command word.
-            action - Action to produce, either copy or move.
+            command - User command to normalise.
 
         Returns:
-            Command containing the transfer action, or an unknown action.
+            Command text without leading polite phrases.
         """
-        transfer_command = command[len(verb):].strip()
+        command = command.strip()
+        while True:
+            stripped = cls.PREFIX_PATTERN.sub("", command, count=1)
+            if stripped == command:
+                return command
+            command = stripped.strip()
 
-        parts = re.split(
-            r"\s+to\s+",
-            transfer_command,
-            maxsplit=1,
-            flags=re.IGNORECASE,
-        )
+    @staticmethod
+    def _normalise_item_type(item_type: str) -> str:
+        """Convert item type aliases to the executor's supported names.
 
-        if len(parts) != 2:
-            return self._unknown_command()
+        Args:
+            item_type - File, folder, or directory label from a command.
 
-        source, destination = (
-            part.strip() for part in parts
-        )
+        Returns:
+            Either file or folder.
+        """
+        return "folder" if item_type.lower() in {"folder", "directory"} else "file"
 
-        if not source or not destination:
-            return self._unknown_command()
+    @staticmethod
+    def _clean_target(target: str) -> str:
+        """Trim a captured name and remove matching surrounding quotes.
 
-        return Command(
-            action,
-            {"source": source, "destination": destination},
-        )
+        Args:
+            target - Captured path, file name, folder name, or application.
+
+        Returns:
+            Clean target text.
+        """
+        target = target.strip()
+        if (
+            len(target) >= 2
+            and target[0] == target[-1]
+            and target[0] in {"'", '"'}
+        ):
+            target = target[1:-1].strip()
+        return target
