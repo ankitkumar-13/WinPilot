@@ -13,9 +13,9 @@ DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
 
 
 def setup_logging(
-    name: str = "winpilot",
-    level: int = logging.INFO,
-) -> None:
+        name: str = "winpilot",
+        level: int = logging.INFO,
+    ) -> None:
     """Configure rotating file logging for a WinPilot component.
 
     Args:
