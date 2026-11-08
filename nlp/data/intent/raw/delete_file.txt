@@ -1,0 +1,391 @@
+remove certificate.pdf
+remove course syllabus.pdf
+remove question paper.pdf
+remove exam schedule.pdf
+remove My Files\College\Assignments\assignment submission.docx
+remove Client Work\Website\src\index.html
+remove Client Work\Website\assets\company logo.png
+remove Client Work\Reports\client report.pdf
+delete report.docx
+delete project report.docx
+delete final project report.docx
+delete college assignment.docx
+delete Client Work\Invoices\payment receipt.pdf
+delete Project Alpha\Source Code\main.py
+delete Project Alpha\Documentation\user manual.pdf
+delete Project Alpha\Test Data\sample data.csv
+delete file assignment submission.docx
+delete file meeting notes.docx
+delete file project proposal.docx
+delete file application letter.docx
+delete file Project Alpha\Releases\application installer.zip
+delete file Project Beta\Reports\final report.docx
+delete file Project Beta\Database\schema.sql
+delete file Project Beta\Assets\project image.png
+remove file cover letter.docx
+remove file resume.docx
+remove file student details.docx
+remove file budget.xlsx
+remove file Machine Learning\Models\trained model.pkl
+remove file Machine Learning\Data\training dataset.csv
+remove file Machine Learning\Reports\model results.xlsx
+remove file Machine Learning\Documentation\project documentation.pdf
+delete the file monthly budget.xlsx
+delete the file annual budget.xlsx
+delete the file student marks.xlsx
+delete the file attendance record.xlsx
+delete the file Python Projects\Web App\app.py
+delete the file Python Projects\Web App\requirements.txt
+delete the file Python Projects\Web App\templates\index.html
+delete the file Python Projects\Web App\static\style.css
+remove the file employee details.xlsx
+remove the file project schedule.xlsx
+remove the file expense report.xlsx
+remove the file sales data.xlsx
+remove the file File Manager\Source\file_manager.cpp
+remove the file File Manager\Documentation\project report.pdf
+remove the file File Manager\Test Files\sample document.txt
+remove the file Test Data\Input\input file.csv
+delete the file called employee_data.csv
+delete the file called student_data.csv
+delete the file called contact_list.csv
+delete the file called transaction_data.csv
+delete the file called Test Data\Output\expected results.csv
+delete the file called Test Data\Reports\test report.pdf
+delete the file called New Folder\project notes.txt
+delete the file called New Folder\backup files.zip
+delete the file named attendance.csv
+delete the file named main.py
+delete the file named app.py
+delete the file named server.py
+delete the file named 2026\Projects\annual project report.pdf
+delete the file named 2026\College\semester results.xlsx
+delete the file named 2026\Personal\expense report.xlsx
+delete the file named 2026\Work\meeting notes.docx
+remove the file named client.py
+remove the file named automation.py
+remove the file named data processing.py
+remove the file named database.py
+remove the file named .\report.pdf
+remove the file named .\project report.docx
+remove the file named .\Projects\main.py
+remove the file named .\Projects\data\results.csv
+remove the file called configuration.py
+remove the file called utility functions.py
+remove the file called test.py
+remove the file called main.cpp
+remove the file called .\College\Notes\exam notes.pdf
+remove the file called ..\report.pdf
+remove the file called ..\Documents\resume.pdf
+remove the file called ..\Projects\main.py
+delete a file called program.cpp
+delete a file called source.cpp
+delete a file called calculator.cpp
+delete a file called student management.cpp
+delete a file called ..\Backup\project backup.zip
+delete a file called C:\Users\Ankit\Documents\report.pdf
+delete a file called C:\Users\Ankit\Projects\WinPilot\main.py
+delete a file called C:\Users\Ankit\College\Assignments\dbms assignment.docx
+remove a file called file manager.cpp
+remove a file called main.c
+remove a file called helper.c
+remove a file called header.h
+remove a file called C:\Users\Ankit\Pictures\project diagram.png
+remove a file called C:\Users\Ankit\Desktop\Projects\final report.pdf
+remove a file called C:\Users\Ankit\OneDrive\Projects\project notes.txt
+remove a file called C:\Users\Public\Documents\shared report.pdf
+delete a file named Main.java
+delete a file named Student.java
+delete a file named DatabaseManager.java
+delete a file named script.js
+delete a file named D:\Projects\WinPilot\src\main.py
+delete a file named D:\College\Semester 5\Notes\os notes.pdf
+delete a file named D:\Work\Reports\annual report.xlsx
+delete a file named D:\Backup\Database\database backup.sql
+remove a file named app.js
+remove a file named index.html
+remove a file named login.html
+remove a file named dashboard.html
+remove a file named E:\Research\Reports\research paper.pdf
+remove a file named E:\Media\Videos\lecture recording.mp4
+remove a file named Projects\app.py
+remove a file named Projects\project report.pdf
+delete the document style.css
+delete the document main.css
+delete the document config.json
+delete the document package.json
+delete the document Projects\README.md
+delete the document Projects\data.csv
+delete the document Projects\config.json
+delete the document Projects\Source\main.cpp
+remove the document user data.json
+remove the document application settings.json
+remove the document database backup.json
+remove the document data.xml
+remove the document Projects\Source\helper.cpp
+remove the document Projects\Docs\project guide.pdf
+remove the document Projects\Backup\project backup.zip
+remove the document College\Assignments\os assignment.pdf
+delete the text file configuration.xml
+delete the text file settings.yaml
+delete the text file docker-compose.yml
+delete the text file database.sql
+delete the text file College\Assignments\dbms assignment.docx
+delete the text file College\Notes\operating systems.pdf
+delete the text file College\Notes\machine learning notes.pdf
+delete the text file College\Projects\file manager.cpp
+remove the text file schema.sql
+remove the text file create tables.sql
+remove the text file backup database.sql
+remove the text file database.db
+remove the text file College\Projects\final report.docx
+remove the text file College\Semester 5\schedule.xlsx
+remove the text file College\Semester 5\syllabus.pdf
+remove the text file Work\Reports\annual report.pdf
+delete the image application.db
+delete the image records.sqlite
+delete the image local database.sqlite
+delete the image backup.bak
+delete the image Work\Reports\monthly report.xlsx
+delete the image Work\Projects\website\index.html
+delete the image Work\Projects\website\style.css
+delete the image Work\Projects\application\server.py
+remove the image archive.zip
+remove the image project backup.zip
+remove the image documents archive.zip
+remove the image backup files.rar
+remove the image Work\Projects\application\config.json
+remove the image Personal\Photos\profile photo.jpg
+remove the image Personal\Photos\family photo.jpg
+remove the image Personal\Documents\resume.pdf
+delete the PDF project files.7z
+delete the PDF photo.jpg
+delete the PDF profile photo.jpg
+delete the PDF family photo.jpg
+delete the PDF Personal\Documents\cover letter.docx
+delete the PDF Personal\Backup\personal files.zip
+delete the PDF Shared\Projects\source code.zip
+delete the PDF Shared\Projects\project data.xlsx
+remove the PDF screenshot.png
+remove the PDF project diagram.png
+remove the PDF company logo.svg
+remove the PDF scanned document.jpeg
+remove the PDF Shared\Reports\team report.pdf
+remove the PDF Data\Raw\student data.csv
+remove the PDF Data\Processed\student results.csv
+remove the PDF Data\Reports\analysis report.xlsx
+get rid of presentation.pptx
+get rid of project presentation.pptx
+get rid of final presentation.pptx
+get rid of seminar slides.ppt
+get rid of Data\Reports\final analysis.pdf
+get rid of Data\Exports\monthly results.csv
+get rid of Archive\2025\project backup.zip
+get rid of Archive\2026\final report.pdf
+get rid of the file lecture recording.mp4
+get rid of the file tutorial video.mp4
+get rid of the file music collection.mp3
+get rid of the file voice recording.wav
+get rid of the file Backup\Projects\database backup.sql
+get rid of the file Backup\Reports\old report.pdf
+get rid of the file Media\Images\project diagram.png
+get rid of the file Media\Images\company logo.svg
+get rid of the file called project image.webp
+get rid of the file called Dockerfile
+get rid of the file called Makefile
+get rid of the file called LICENSE
+get rid of the file called Media\Videos\lecture recording.mp4
+get rid of the file called Media\Audio\voice recording.wav
+get rid of the file called Research\Machine Learning\research paper.pdf
+get rid of the file called Research\Machine Learning\training data.csv
+get rid of the file named .gitignore
+get rid of the file named .env
+get rid of the file named configuration.ini
+get rid of the file named application.cfg
+get rid of the file named Research\Reports\experiment results.xlsx
+get rid of the file named Research\Reports\final paper.docx
+get rid of the file named Source\Python\automation.py
+get rid of the file named Source\Python\configuration.py
+please get rid of startup.bat
+please get rid of install script.ps1
+please get rid of setup.exe
+please get rid of application installer.msi
+please get rid of Source\Cpp\file manager.cpp
+please get rid of Source\Java\DatabaseManager.java
+please get rid of Source\Web\index.html
+please get rid of Source\Web\login.html
+can you get rid of library.dll
+can you get rid of system backup.img
+can you get rid of virtual machine.iso
+can you get rid of readme.txt
+can you get rid of Reports\2026\January\monthly report.pdf
+can you get rid of Reports\2026\March\expense report.xlsx
+can you get rid of Reports\2026\September\project summary.docx
+can you get rid of Semester 5\OS\unit 1 notes.pdf
+could you get rid of summary.txt
+could you get rid of draft.txt
+could you get rid of final notes.txt
+could you get rid of project notes.txt
+could you get rid of Semester 5\DBMS\unit 2 notes.pdf
+could you get rid of Semester 5\Projects\database project.sql
+could you get rid of Semester 5\Projects\final presentation.pptx
+could you get rid of My Files\Important Documents\passport copy.pdf
+I want to delete meeting notes.txt
+I want to delete college notes.txt
+I want to delete semester notes.txt
+I want to delete personal notes.txt
+I want to delete My Files\Projects\WinPilot\main.py
+I want to delete My Files\Projects\WinPilot\project report.pdf
+I want to delete My Files\College\Assignments\assignment submission.docx
+I want to delete Client Work\Website\src\index.html
+I want to remove work notes.txt
+I want to remove daily tasks.txt
+I want to remove important information.txt
+I want to remove contact list.txt
+I want to remove Client Work\Website\assets\company logo.png
+I want to remove Client Work\Reports\client report.pdf
+I want to remove Client Work\Invoices\payment receipt.pdf
+I want to remove Project Alpha\Source Code\main.py
+I need to delete error.log
+I need to delete application log.log
+I need to delete debug log.log
+I need to delete access log.log
+I need to delete Project Alpha\Documentation\user manual.pdf
+I need to delete Project Alpha\Test Data\sample data.csv
+I need to delete Project Alpha\Releases\application installer.zip
+I need to delete Project Beta\Reports\final report.docx
+I need to remove system log.log
+I need to remove changelog.md
+I need to remove project documentation.md
+I need to remove README.md
+I need to remove Project Beta\Database\schema.sql
+I need to remove Project Beta\Assets\project image.png
+I need to remove Machine Learning\Models\trained model.pkl
+I need to remove Machine Learning\Data\training dataset.csv
+I want to get rid of getting started.md
+I want to get rid of project report.pdf
+I want to get rid of final project report.pdf
+I want to get rid of college assignment.pdf
+I want to get rid of Machine Learning\Reports\model results.xlsx
+I want to get rid of Machine Learning\Documentation\project documentation.pdf
+I want to get rid of Python Projects\Web App\app.py
+I want to get rid of Python Projects\Web App\requirements.txt
+I need to get rid of research paper.pdf
+I need to get rid of annual report.pdf
+I need to get rid of user manual.pdf
+I need to get rid of software guide.pdf
+I need to get rid of Python Projects\Web App\templates\index.html
+I need to get rid of Python Projects\Web App\static\style.css
+I need to get rid of File Manager\Source\file_manager.cpp
+I need to get rid of File Manager\Documentation\project report.pdf
+please delete the file called project proposal.pdf
+please delete the file called resume.pdf
+please delete the file called updated resume.pdf
+please delete the file called invoice.pdf
+please delete the file called File Manager\Test Files\sample document.txt
+please delete the file called Test Data\Input\input file.csv
+please delete the file called Test Data\Output\expected results.csv
+please delete the file called Test Data\Reports\test report.pdf
+please remove the file named payment receipt.pdf
+please remove the file named certificate.pdf
+please remove the file named course syllabus.pdf
+please remove the file named question paper.pdf
+please remove the file named New Folder\project notes.txt
+please remove the file named New Folder\backup files.zip
+please remove the file named 2026\Projects\annual project report.pdf
+please remove the file named 2026\College\semester results.xlsx
+can you delete the file called exam schedule.pdf
+can you delete the file called report.docx
+can you delete the file called project report.docx
+can you delete the file called final project report.docx
+can you delete the file called 2026\Personal\expense report.xlsx
+can you delete the file called 2026\Work\meeting notes.docx
+can you delete the file called .\report.pdf
+can you delete the file called .\project report.docx
+can you remove the file named college assignment.docx
+can you remove the file named assignment submission.docx
+can you remove the file named meeting notes.docx
+can you remove the file named project proposal.docx
+can you remove the file named .\Projects\main.py
+can you remove the file named .\Projects\data\results.csv
+can you remove the file named .\College\Notes\exam notes.pdf
+can you remove the file named ..\report.pdf
+could you delete application letter.docx
+could you delete cover letter.docx
+could you delete resume.docx
+could you delete student details.docx
+could you delete ..\Documents\resume.pdf
+could you delete ..\Projects\main.py
+could you delete ..\Backup\project backup.zip
+could you delete C:\Users\Ankit\Documents\report.pdf
+could you remove budget.xlsx
+could you remove monthly budget.xlsx
+could you remove annual budget.xlsx
+could you remove student marks.xlsx
+could you remove C:\Users\Ankit\Projects\WinPilot\main.py
+could you remove C:\Users\Ankit\College\Assignments\dbms assignment.docx
+could you remove C:\Users\Ankit\Pictures\project diagram.png
+could you remove C:\Users\Ankit\Desktop\Projects\final report.pdf
+delete a file
+delete file
+remove a file
+remove file
+delete a new file
+remove a new file
+delete one file
+remove one file
+please delete a file
+please remove a file
+please delete one file
+please remove one file
+please delete the file
+please remove the file
+can you delete a file
+can you remove a file
+can you delete the file
+can you remove the file
+could you delete a file
+could you remove a file
+could you delete the file
+could you remove the file
+I want to delete a file
+I want to remove a file
+I need to delete a file
+I need to remove a file
+I want the file deleted
+I need the file removed
+I want to get rid of the file
+I need to get rid of the file
+get rid of this file
+get rid of that file
+please get rid of the file
+can you get rid of the file
+could you get rid of the file
+delete my file
+remove my file
+delete my document
+remove my document
+delete this file
+remove this file
+delete that file
+remove that file
+delete the selected file
+remove the selected file
+delete the old file
+remove the old file
+delete an old file
+remove an old file
+delete the temporary file
+remove the temporary file
+delete the unwanted file
+remove the unwanted file
+delete the selected document
+remove the selected document
+delete the file from here
+remove the file from here
+delete this document
+remove this document
+delete that document
+remove that document
+get rid of this document
+get rid of that document

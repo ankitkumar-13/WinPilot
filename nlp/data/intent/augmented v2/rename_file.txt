@@ -1,0 +1,960 @@
+call leave_request.jar support_case_v2.java
+call ubuntu_setup_notes.md hostel_room_change_request.pdf
+call accessibility_audit.fig release_notes_v3.evtx
+call disaster_recovery_2026_10.jsx refund_policy_draft.docx
+call refrigerator_warranty_card.jpg task_failure_reproduction.docx
+call E:\Personal\Personal Finance\temp\course_progress_export.csv D:\Data\Reports\museum_ticket.pdf
+call C:\Dev\operations\WinPilot\frontend_bundle_stats.html \\OfficePC\Public\validation data\client files\file_manifest.txt
+call D:\Backups\Course Material\Exam Preparation\presentation_for_monday.pptx C:\Program Files (x86)\Firewall Configs\meeting notes\texture_atlas.png
+call D:\Staging\exports\release builds\usability_test_notes.docx \\backup-server\weekly\Payroll Manager\photos\gift_purchase_receipt.pdf
+call E:\College\Network Captures\assets\hotel_cancellation_receipt.pdf C:\Users\Ankit\Pictures\Driver Backups\config\hidden_files_inventory.csv
+can you change api_test_results_backup.weights to uptime_summary_v3.pt
+can you change pet_adoption_form.pdf to warehouse_stock_v3.png
+can you change asset_inventory_approved.tf to broadband_renewal_invoice.pdf
+can you change knowledge_article_draft.md to browser_matrix_v3.tiff
+can you change meeting_minutes.tsv to portfolio_homepage_mockup.fig
+can you change C:\Users\Public\Documents\Sprint 13\Sprint 13\postgres_query_plan.sql to D:\College\GEHU\config\release builds\fee_payment_confirmation.pdf
+can you change C:\Temp\config\Lab Work\leetcode_progress.xlsx to \\NAS01\Shared\engineering\family photos\university_id_scan.jpg
+can you change C:\Users\Ankit\Documents\Driver Backups\PBL Phase 2\cors_policy_matrix.xlsx to C:\Users\Ankit\Videos\Receipts\old_family_video.avi
+can you change C:\Users\Ankit\Desktop\frontend\Release 1.4\research_dataset_manifest.json to C:\Users\Ankit\Downloads\frontend\model outputs\resume_for_backend_role.pdf
+can you change C:\Users\Ankit\Videos\Reports\old_letters_archive.zip to D:\Work\Downloads\crash_dump_index.csv
+can you change the filename of bank_reconciliation_reviewed.vcf to membership_renewals.xlsx
+can you change the filename of gift_receipt_1042.pdf to lightroom_catalog_backup.lrcat
+can you change the filename of electrician_quote_2026.pdf to support_case_reviewed.json
+can you change the filename of train_ticket.pdf to load_test_report_2026_10.pth
+can you change the filename of shared_link_inventory.xlsx to translation_review_approved.msg
+can you change the filename of D:\Research\operations\frontend\walking_log_october.csv to C:\Users\Ankit\Pictures\Data\literature_review.docx
+can you change the filename of C:\Users\Ankit\Desktop\Documents\draft_automation.pptx to C:\Program Files\src\campaigns\placement_cell_dashboard.xlsx
+can you change the filename of F:\USB Backup\screenshots\src\parking_slot_agreement.pdf to C:\Temp\Documents\documents_archive.zip
+can you change the filename of D:\Backups\Research\air_quality_sensor_export.json to C:\Users\Ankit\Desktop\Training Data\access_card_audit.csv
+can you change the filename of D:\Data\October 2026\docs\support_bundle_20261020.zip to D:\Backups\Screenshots\phone_transfer_log.txt
+can you rename packing_checklist.docx
+can you rename draft_interview.xlsx
+can you rename draft_security.json
+can you rename browser_matrix.h
+can you rename pet_vaccination_reminder.ics
+can you rename car_registration_renewal.pdf to research_poster_final.pdf
+can you rename ad_performance.csv to book_highlights.txt
+can you rename monthly_summary.evtx to audio_endpoint_inventory.csv
+can you rename admit_card_semester_7.pdf to coverage_report.html
+can you rename training_sandbox_data.json to codeql_findings.sarif
+can you rename D:\Backups\Training Data\status_page_update.md
+can you rename C:\ProgramData\diagnostics\Certificates\supplier_scorecard.xlsx
+can you rename D:\Projects\Semester 5\hostel_maintenance_register.xlsx
+can you rename \\FileServer\Departments\warehouse\WinPilot\appliance_warranty_claim.docx
+can you rename C:\Program Files (x86)\datasets\Network Captures\database_restore_test.log
+can you rename C:\Temp\release builds\Shared Documents\archive_catalog_2026.csv to \\OfficePC\Public\src\Projects\dashboard.tsx
+can you rename E:\College\Semester 5\controller_profile.ini to C:\Users\ankit.kumar\Documents\Reports\learning_path_tracker.xlsx
+can you rename \\backup-server\weekly\Firewall Configs\Personal Finance\subscription_churn_cohort.csv to F:\USB Backup\inventory\Travel Planning\courier_claim_form.docx
+can you rename \\backup-server\weekly\training data\api tests\microscope_capture_004.tif to D:\WinPilot\Assignments\Audio Recording 7.m4a
+can you rename \\NAS01\Shared\backups\datasets\caption_timing_review.srt to E:\Archive\api tests\Exam Preparation\investment_portfolio_snapshot.xlsx
+can you rename the file campaign_utm_inventory.xlsx
+can you rename the file license_register.aab
+can you rename the file quality_report.blend
+can you rename the file project_scope_2026_10.gpx
+can you rename the file inspection_checklist.etl
+can you rename the file C:\Temp\Sprint 13\operations\laptop_temperature_log.csv
+can you rename the file C:\Temp\Photos\config.py
+can you rename the file D:\WinPilot\Training Data\club_membership.pdf
+can you rename the file D:\Source\marketing\generated\nas_backup_status.xlsx
+can you rename the file D:\Research\intent models\PBL Phase 2\employee_leave_balance.csv
+change routes.py name to firewall_audit_draft.out
+change audit_evidence.msg name to feature_flag_rollout.md
+change travel_memories_2025.docx name to migration_results_v2.pcapng
+change lecture_recording.mp4 name to vpn_split_tunnel_config.conf
+change risk_assessment_2026_10.csv name to file_explorer_layout_backup.reg
+change ssh_key_fingerprint.txt to the new name final_revised.docx
+change project_plan.cer to the new name windows_repair_steps.docx
+change monthly_grocery_budget.xlsx to the new name junction_resolution_tests.csv
+change scene_export.fbx to the new name contact_list_backup.lock
+change delivery_manifest_revised.log to the new name build_manifest_v3.ics
+change C:\Users\Ankit\OneDrive\Invoices\proxy_pac_backup.js name to D:\Data\travel\Audio Troubleshooting\purchase_return_note.pdf
+change C:\Program Files (x86)\campaigns\screenshots\degree_provisional_certificate.pdf name to C:\ProgramData\Supplier North\finance\publication_figures.zip
+change D:\Data\Invoices\cdn_cache_report.xlsx name to \\backup-server\weekly\October 2026\warehouse\ssh_known_hosts_review.txt
+change D:\WinPilot\Semester 5\PBL Phase 2\budget_2026.xlsx name to C:\Users\Public\Documents\backups\imports\monthly_summary_october.pdf
+change D:\College\GEHU\backend\meeting notes\lab_results_export.csv name to C:\Program Files (x86)\docs\Projects\rent_agreement_renewal.docx
+change E:\College\Reports\boot_log_20261020.txt to the new name C:\Users\Ankit\OneDrive\Audio Troubleshooting\Week 42\source_archive.tar.gz
+change D:\Research\Assignments\backup_manifest_20261020.json to the new name D:\College\GEHU\frontend\family photos\floor_plan.dwg
+change E:\Archive\tests\backend\diagnostic_capture.etl to the new name C:\Users\Public\Documents\Lab Work\assets\survey_questionnaire_v3.docx
+change C:\Users\Ankit\OneDrive\Archive\expenses_q3.xlsx to the new name C:\Users\Ankit\Documents\Backups\license_inventory.csv
+change C:\Users\Ankit\OneDrive\Driver Backups\Old Versions\passport_photo_new.jpg to the new name D:\Research\migrations\website\sports_match_schedule.pdf
+change file name project_schedule_baseline.mpp to release_notes.woff2
+change file name api_specification_draft.msg to leave_request_final.onnx
+change file name refund_request.tif to customer_export_approved.pptx
+change file name home_loan_interest_certificate.pdf to notification_history.csv
+change file name vulnerability_report_backup.cpp to fieldwork_expense_claim.xlsx
+change file name C:\Users\Ankit\Downloads\Reports\ner_validation_examples.jsonl to C:\Users\Public\Documents\Payroll Manager\Driver Backups\annotation_guidelines_v2.docx
+change file name C:\Users\Public\Documents\Assignments\rental_agreement.pdf to D:\College\GEHU\October 2026\Windows Logs\scheduled_backup.ps1
+change file name C:\Program Files\HR\config\winget_export.json to C:\ProgramData\frontend\training data\operation_rollback_log.txt
+change file name C:\Dev\Device Reports\datasets\password_manager_export_encrypted.csv to D:\Staging\customer support\Windows Logs\open_application_examples.jsonl
+change file name D:\Projects\Model Outputs\draft_v1.docx to C:\Temp\Research Papers\logs\index_rebuild_history.csv
+change filename publication_figures.zip to media_library_index.m3u
+change filename draft_performance.md to database_backup_manifest.yaml
+change filename vulnerability_report_v2.err to meeting_minutes.otf
+change filename api_openapi_spec.yaml to prettier_check_results.txt
+change filename accessibility_fixes.md to latency_benchmark_backup.ts
+change filename C:\Users\Ankit\Desktop\Model Outputs\terraform_plan.txt to D:\Research\design files\test results\error_0xc0000005.log
+change filename \\OfficePC\Public\Shared Documents\Semester 5\bike_service_receipt.pdf to C:\Dev\Receipts\shipping_manifest_20261020.xlsx
+change filename C:\Users\Public\Documents\docs\api tests\appliance_manual_washer.pdf to C:\ProgramData\Audio Troubleshooting\imports\pet_care_calendar.ics
+change filename E:\Personal\receipts\contracts\index.html to C:\Users\Ankit\Downloads\Projects\backend\product_return_reason_codes.json
+change filename D:\Data\Personal Finance\docs\pet_vaccination_reminder.ics to C:\Users\Ankit\OneDrive\PBL Phase 2\dashboard_mockup.fig
+change filename from campaign_calendar_2026_10.xlsx to entity_label_guidelines.pdf
+change filename from payroll_register.pcapng to bank_transfer_receipt.pdf
+change filename from mobile_recharge_history.csv to maintenance_log.csv
+change filename from disk_health_report.html to graphics_settings.ini
+change filename from bank_reconciliation_backup.stl to reserved_name_cases.txt
+change filename from new_folder_notes.txt to \\192.168.1.20\teamshare\api tests\archives\aptitude_practice_set.pdf
+change filename from cloud_cost_report.key to F:\External Drive\tests\Exam Preparation\heap_usage_over_time.csv
+change filename from endpoint_isolation_log.txt to C:\Users\Ankit\Downloads\imports\archives\visa_application.pdf
+change filename from weekly_update_final.odp to E:\Media\Semester 5\Certificates\privileged_access_review.xlsx
+change filename from firewall_audit_approved.ini to \\NAS01\Shared\Graphics Troubleshooting\Supplier North\fee_payment_confirmation.pdf
+change filename from purchase_fraud_review.csv to \\FileServer\Departments\model outputs\Sprint 13\temporary_file_retention.csv
+change filename from file_lock_contention.log to C:\Users\Ankit\Downloads\warehouse\migrations\delivery_tracking_export.csv
+change filename from security_findings_approved.svg to C:\ProgramData\imports\Assignments\entity_pool.json
+change filename from restore_test_draft.key to F:\External Drive\Client A\family photos\citation_style_check.log
+change filename from team_photo.png to E:\Archive\website\To Review\blue_screen_minidump_1020.dmp
+change filename from C:\Users\Ankit\OneDrive\frontend\model outputs\ner_training_examples.jsonl to qualitative_analysis_notes.md
+change filename from E:\Personal\travel\WinPilot\mobile_recharge_history.csv to shipment_tracking.img
+change filename from C:\Program Files\recordings\finance\society_maintenance_receipt.pdf to package_install_history.csv
+change filename from D:\Work\To Review\assets\voice_over_script.docx to complaint_followup.docx
+change filename from D:\Research\Device Reports\Home Repairs\application_icon.ico to translation_review_hi.xlsx
+change filename from \\OfficePC\Public\meeting notes\Supplier North\feature_importance.png to equipment_register.dxf
+change filename from D:\Work\Travel Planning\database\faculty_meeting_agenda.docx to travel_expenses_2026.xlsx
+change filename from F:\USB Backup\Assignments\render_preview.png to ebook_highlights_export.json
+change filename from C:\Users\Ankit\Pictures\family photos\Payroll Manager\train_validation_split_manifest.json to etl_pipeline.py
+change filename from C:\Users\Ankit\OneDrive\Documents\dashboard_mockup.fig to video_chapter_markers.csv
+change filename from D:\Work\marketing\validation data\project_guide_comments.docx to E:\Media\Downloads\license_inventory.csv
+change filename from D:\Backups\warehouse\Semester 7\soil_moisture_log.xlsx to D:\WinPilot\Driver Backups\photos\access_review_2026.xlsx
+change filename from C:\Users\Ankit\Downloads\campaigns\generated\event_viewer_errors.evtx to C:\Dev\Assignments\Assignments\shopping_comparison_october.xlsx
+change filename from D:\Backups\backups\Shared Documents\feature_requests.csv to D:\Source\Personal Finance\Shared Documents\returns_authorisation_5832.pdf
+change filename from C:\Users\Ankit\Desktop\Assignments\screenshots\portfolio_homepage_mockup.fig to C:\Users\Ankit\Pictures\Reports\To Submit\portfolio_assets.zip
+change filename of subscription_cancellation_receipt.pdf to api_specification_revised.appx
+change filename of support_case.properties to api_gateway_access.log
+change filename of cloud_cost_report_reviewed.php to router_config_backup.cfg
+change filename of campaign_creatives.zip to query_results_draft.ics
+change filename of slow_query_analysis.otf to uv.lock
+change filename of D:\Source\Travel Planning\Assignments\scan_20261020_0930.pdf to C:\Users\Ankit\Videos\Research\poster_print.pdf
+change filename of C:\Users\Ankit\Downloads\Windows Logs\presentations\dns_cache_flush_notes.md to C:\Dev\Data\meeting_audio.wav
+change filename of D:\Staging\Old Versions\Device Reports\invoice_1048.pdf to G:\Shared\customer support\frontend\config.py
+change filename of \\backup-server\weekly\Personal Finance\docs\placement_drive_notice.pdf to C:\Projects\Source\scan_20261020_0930.pdf
+change filename of \\FileServer\Departments\contracts\validation data\assignment_feedback_sem5.pdf to D:\WinPilot\Semester 5\Final Versions\cinema_receipt.pdf
+change that file's name to customer_onboarding_status.xlsx
+change that file's name to vpn_configuration_backup.csv
+change that file's name to contract_signed_v3.iso
+change that file's name to dependency_audit.otf
+change that file's name to api_specification_backup.webm
+change that file's name to D:\Research\exports\config\office_supply_order.xlsx
+change that file's name to G:\Shared\website\generated\plugin_capability_matrix.csv
+change that file's name to \\192.168.1.20\teamshare\Release 1.4\entity pools\analytics_export.json
+change that file's name to D:\Staging\design files\finance\backend_healthcheck.json
+change that file's name to E:\Incoming\tests\backend\construction_progress_photos.zip
+change the file name to renewal_forecast.xlsx
+change the file name to path_resolution_tests.csv
+change the file name to rollback_plan_approved.obj
+change the file name to validation_set.csv
+change the file name to rollback_plan.pcapng
+change the file name to E:\Incoming\backups\api tests\training_data_audit.pdf
+change the file name to D:\Research\backups\presentations\terrain_heightmap.exr
+change the file name to F:\External Drive\Source Code\engineering\registry_export_before_fix.reg
+change the file name to C:\ProgramData\invoices\meeting notes\pre-commit-config.yaml
+change the file name to D:\Backups\inventory\finance\token_to_id_map.json
+change the file named project_scope.sh to config.py
+change the file named app.py to branch_protection_audit.csv
+change the file named audit_evidence_backup.feather to vehicle_insurance_renewal.pdf
+change the file named postmortem.ai to weather_station_monthly_export.csv
+change the file named release_notes_draft.cs to project_plan_2026_10.psd
+change the file named D:\Data\HR\imports\consent_records_index.xlsx to D:\Backups\PBL Phase 2\support_call_recording_21.mp3
+change the file named D:\Source\test results\migrations\hdd_smart_attributes.csv to D:\WinPilot\Graphics Troubleshooting\Reports\integration_test_trace.log
+change the file named E:\Media\Lab Work\photos\external_drive_inventory.csv to D:\Work\Network Captures\Research Papers\shared_folder_cleanup_plan.docx
+change the file named D:\Projects\contracts\database\print_to_pdf_test.docx to E:\Archive\customer support\Windows Logs\instrument_readings_20261020.csv
+change the file named E:\Incoming\Semester 7\NER experiments\homework_tracker.xlsx to E:\Incoming\website\operations\fuel_card_statement.pdf
+change the filename for localisation_strings_final.json to courier_claim_form.docx
+change the filename for purchase_order.csv to ecommerce_tax_rules.xlsx
+change the filename for data_lake_inventory.xlsx to stock_expiry_report.xlsx
+change the filename for compliance_review_draft.hcl to disaster_recovery.err
+change the filename for data_loss_prevention_alerts.csv to hidden_attribute_inventory.csv
+change the filename for D:\Projects\Reports\folder_permission_audit.csv to C:\Users\Public\Documents\entity pools\Firewall Configs\ping_latency_week42.csv
+change the filename for D:\WinPilot\Exam Preparation\screenshots\demo_account_list.csv to E:\College\PBL Phase 2\unsorted_downloads.zip
+change the filename for E:\College\Archive\internship_offer.pdf to C:\Projects\Backups\meeting_room_booking.ics
+change the filename for D:\Work\Downloads\data_collection_schedule.ics to D:\Research\Reports\research_dataset_manifest.json
+change the filename for C:\Users\Ankit\OneDrive\config\Release 1.4\sales_commission_calculation.xlsx to C:\Users\Ankit\Pictures\Assignments\lab_calibration_schedule.ics
+change the filename of cinema_receipt.pdf to final_year_project_report.docx
+change the filename of payment_receipt_approved.bin to expense_claim_v2.dwg
+change the filename of asset_inventory.png to weekly_status_update.docx
+change the filename of security_scan_results.html to expense_claim_reviewed.msix
+change the filename of museum_ticket.pdf to privacy_assessment.h
+change the filename of flight_itinerary_return.pdf to D:\Work\warehouse\screenshots\photo_album_cover.jpg
+change the filename of external_ssd_inventory.csv to C:\Users\Ankit\OneDrive\Research\safety_incident_report.docx
+change the filename of repair_quote_2026_119.xlsx to C:\Temp\diagnostics\Certificates\project_presentation_feedback.docx
+change the filename of backup_manifest_final.gz to E:\Personal\Travel Planning\NER experiments\browser_compatibility_matrix.xlsx
+change the filename of power_plan_backup.pow to C:\Program Files\Reports\model outputs\training_video_module_4.mp4
+change the filename of monthly_summary_october.pdf to C:\Users\Ankit\Documents\Lab Work\backend\file_naming_conventions.md
+change the filename of integration_test.evtx to D:\Data\Meeting Notes\draft_support.zip
+change the filename of cold_chain_temperature_excursion.csv to C:\Users\Ankit\OneDrive\Assignments\feature_importance.png
+change the filename of customer_churn_analysis.ipynb to \\backup-server\weekly\To Submit\Semester 7\demo_recording.mp4
+change the filename of metrics_summary.json to E:\College\Lab Work\database\citation_style_check.log
+change the filename of E:\Archive\PBL Phase 2\invoice_dispute_1048.docx to network_topology.dmp
+change the filename of C:\Users\Ankit\Downloads\Training Data\translation_memory.tmx to crash_reproduction_steps.docx
+change the filename of \\FileServer\Departments\Device Reports\archives\hosts_backup.txt to call_summary_20261020.md
+change the filename of \\NAS01\Shared\website\validation data\office_supply_order.xlsx to stock_reconciliation.html
+change the filename of D:\Projects\exports\operations\management_review_pack.pptx to travel_itinerary.pdf
+change the filename of \\OfficePC\Public\release builds\Final Versions\sports_facility_booking.ics to risk_register_approved.tif
+change the filename of D:\Backups\frontend\temp\fuel_efficiency_tracker.xlsx to attendance_sheet_final.xlsm
+change the filename of D:\Work\warehouse\Travel Planning\conference_submission.docx to inspection_checklist.zip
+change the filename of \\backup-server\weekly\Old Versions\database\subscription_renewal_list.csv to campaign_budget_reforecast.xlsx
+change the filename of E:\College\Model Outputs\warranty_card.pdf to customer_export.zip
+change the filename of \\192.168.1.20\teamshare\contracts\Home Repairs\camera_manual.pdf to C:\Users\Ankit\Documents\To Review\archives\student_fee_statement.pdf
+change the filename of C:\Users\Public\Documents\Meeting Notes\vehicle_insurance_renewal.pdf to E:\Incoming\Course Material\To Review\.editorconfig
+change the filename of D:\Source\warehouse\Assignments\usb_device_driver_log.txt to F:\External Drive\entity pools\Assignments\cycling_route_weekend.gpx
+change the filename of \\OfficePC\Public\Payroll Manager\NER experiments\api_auth_examples.json to D:\Staging\photos\Device Reports\team_folder_index.csv
+change the filename of E:\Incoming\test results\docs\Screenshot (12).png to C:\Temp\Old Versions\To Submit\sequence_diagram.puml
+change the name of network_topology_export.drawio
+change the name of sales_commission_calculation.xlsx
+change the name of invoice_scan_001.tiff
+change the name of meeting_minutes.db
+change the name of lab_viva_questions.pdf
+change the name of wifi_diagnostics.txt name to recycle_bin_audit.csv
+change the name of file_operation_timings.csv name to site_materials_inventory.csv
+change the name of shipping_labels.pdf name to invoice_october.pdf
+change the name of draft_deployment.jsonl name to patch_compliance_report.xlsx
+change the name of expense_claim_october.pdf name to security_findings_revised.iso
+change the name of product_returns_2026.csv to marketplace_listing_feed.csv
+change the name of firewall_audit.cab to campaign_calendar.tiff
+change the name of course_feedback_analysis.xlsx to festival_shopping_list.xlsx
+change the name of expense_claim.db to emergency_travel_contacts.vcf
+change the name of shipment_tracking.ts to query_results.model
+change the name of client_call_followup.docx to G:\Shared\Home Repairs\screenshots\print_to_pdf_test.docx
+change the name of stock_reconciliation_approved.ini to C:\Users\ankit.kumar\Documents\Archive\backup_retention_policy.pdf
+change the name of payroll_register_v2.dmp to D:\Source\imports\travel\Telegram Desktop 2026-10-17 21-08-44.jpg
+change the name of shipment_tracking_draft.obj to C:\Temp\Source\warehouse_reorder_alerts.csv
+change the name of release_notes_2026_10.3mf to C:\Users\Ankit\Pictures\meeting notes\docs\company_research_notes.md
+change the name of browser_matrix.img to D:\Projects\Windows Logs\Supplier North\gdpr_request_log.csv
+change the name of open_application_examples.jsonl to \\backup-server\weekly\invoices\presentations\vpn_profile_backup.xml
+change the name of portfolio_project_readme.md to D:\Projects\Semester 7\To Submit\performance_regression_report.xlsx
+change the name of customs_declaration.pdf to F:\USB Backup\PBL Phase 2\emergency_contact_sheet.xlsx
+change the name of project_charter_approved.inf to \\192.168.1.20\teamshare\PBL Phase 2\Payroll Manager\experiment_assignments.csv
+change the name of \\NAS01\Shared\Semester 7\exports\release_build_manifest.json
+change the name of D:\WinPilot\validation data\Exam Preparation\controller_profile.ini
+change the name of C:\Users\ankit.kumar\Documents\PBL Phase 2\blog_draft.md
+change the name of \\backup-server\weekly\WinPilot\Week 42\network_capture.pcapng
+change the name of D:\Backups\logs\Device Reports\license_compliance_audit.xlsx
+change the name of C:\Program Files\Research Papers\Semester 7\virtualbox_vm_list.csv name to E:\Media\warehouse\archives\tenant_deposit_return.xlsx
+change the name of C:\Program Files (x86)\Lab Work\PBL Phase 2\insurance_policy.pdf name to C:\Users\Public\Documents\validation data\meeting notes\cms_content_export.xml
+change the name of D:\Shared\Documents\handover_notes.docx name to C:\ProgramData\contracts\photos\courier_invoice.pdf
+change the name of F:\USB Backup\Home Repairs\screenshots\local_map_export.pdf name to C:\Users\Ankit\Downloads\datasets\inventory\emergency_contact_sheet.xlsx
+change the name of C:\ProgramData\tests\design files\language_practice.docx name to D:\Projects\Documents\house_repairs.xlsx
+change the name of D:\Source\migrations\validation data\draft_network.yaml to construction_site_daily_log.docx
+change the name of C:\Dev\Downloads\new_folder_notes.txt to database_schema_backup.bat
+change the name of \\NAS01\Shared\Projects\Travel Planning\placement_cell_dashboard.xlsx to salary_statement.msix
+change the name of E:\Media\Driver Backups\Source Code\student_project_rubric.pdf to delivery_proof_5832.jpg
+change the name of C:\Users\Ankit\Documents\design files\presentations\etl_pipeline.py to inspection_checklist_revised.gif
+change the name of C:\Users\Ankit\Documents\frontend\release builds\air_quality_sensor_export.json to pytest_coverage.xml
+change the name of \\192.168.1.20\teamshare\docs\exports\transcript_meeting.txt to network_topology_backup.gpx
+change the name of D:\Data\temp\Home Repairs\product_manual_vacuum.pdf to dns_records.onnx
+change the name of \\192.168.1.20\teamshare\Lab Work\Old Versions\device_photos_october.zip to checksum_validation.log
+change the name of C:\ProgramData\release builds\recordings\checkout_abandonment_report.xlsx to invoice_register_reviewed.yaml
+change the name of \\FileServer\Departments\migrations\src\fundraiser_budget.xlsx to E:\Media\design files\Payroll Manager\draft_annotations.yaml
+change the name of C:\Users\Ankit\OneDrive\meeting notes\Certificates\shopping_return_label.pdf to \\NAS01\Shared\Course Material\To Submit\handover_certificate.pdf
+change the name of C:\Temp\Release 1.4\Network Captures\tls_certificate_expiry.csv to \\192.168.1.20\teamshare\Old Versions\docs\api_openapi_spec.yaml
+change the name of E:\Media\Archive\transcript_meeting.txt to D:\Data\Windows Logs\release builds\vpc_network_diagram.drawio
+change the name of C:\Users\Ankit\Desktop\Research Papers\logs\draft_model.mp4 to E:\College\config\diagnostics\archive_catalog_2026.csv
+change the name on budget_forecast_backup.jpeg to annual_report.m4a
+change the name on fleet_fuel_reconciliation.xlsx to frontend_bundle_stats.html
+change the name on research_presentation_october.pptx to invoice_register.docx
+change the name on cloud_cost_report.woff2 to service_health_reviewed.lnk
+change the name on subtitle_translation_hi.srt to warehouse_reorder_alerts.csv
+change the name on D:\Data\campaigns\design files\draft_permissions.docx to D:\Backups\customer support\travel\stream_overlay_assets.zip
+change the name on C:\Users\Ankit\Desktop\PBL Phase 2\backup_manifest_20261020.json to D:\WinPilot\Driver Backups\Source Code\landing_page_copy.md
+change the name on C:\Users\Public\Documents\Assignments\Graphics Troubleshooting\caption_timing_review.srt to C:\Users\Ankit\Pictures\Travel\placement_resume_review.docx
+change the name on C:\Users\Ankit\Downloads\Driver Backups\tests\online_order_history.csv to D:\College\GEHU\October 2026\screenshots\open_source_contributions.csv
+change the name on D:\Source\api tests\backend\container_build_log.txt to C:\Users\Ankit\Desktop\Research\calendar_export.ics
+change the title of dependency_vulnerability_list.csv to delivery_tracking_export.csv
+change the title of training_data.csv to equipment_register.ass
+change the title of cloud_cost_report.safetensors to localisation_strings_approved.example
+change the title of bank_reconciliation_october.xlsx to support_case_draft.html
+change the title of portfolio_deployment_notes.md to augmentation_job_history.csv
+change the title of D:\Projects\Driver Backups\warehouse\aptitude_practice_set.pdf to C:\Users\Public\Documents\Invoices\courier_invoice.pdf
+change the title of C:\Program Files\Home Repairs\migrations\budget_2026.xlsx to C:\Temp\Windows Logs\To Review\dependency_lockfile.txt
+change the title of \\backup-server\weekly\entity pools\validation data\microscope_capture_004.tif to C:\Program Files (x86)\temp\Shared Documents\fieldwork_audio_index.csv
+change the title of D:\Projects\migrations\Supplier North\book_club_reading_schedule.ics to C:\Program Files (x86)\exports\HR\sample_commands.jsonl
+change the title of E:\College\Screenshots\packing_list_20261020.pdf to E:\Archive\Windows Logs\photos\animated_logo.gif
+change this file's name to compliance_review.bat
+change this file's name to tfidf_vectorizer.pkl
+change this file's name to fundraiser_budget.xlsx
+change this file's name to solar_inverter_fault_log.csv
+change this file's name to hdd_smart_attributes.csv
+change this file's name to E:\Incoming\receipts\Client A\assignment_submission_revised.pdf
+change this file's name to D:\Backups\Source\library_catalog_export.csv
+change this file's name to C:\Program Files\travel\docs\load_test_results.jtl
+change this file's name to C:\Program Files\campaigns\October 2026\permission_prompt_screenshots.zip
+change this file's name to \\OfficePC\Public\Assignments\Audio Troubleshooting\draft_annotations.yaml
+could you change project_scope_reviewed.psd to certificate_renewal_plan.md
+could you change vulnerability_report_2026_10.old to property_tax_receipt.pdf
+could you change college_bus_route_map.png to startup_apps_report.html
+could you change stock_reconciliation.sql to latency_benchmark_2026_10.dat
+could you change meeting_transcript_cleaned.docx to community_minutes.docx
+could you change F:\External Drive\Travel Planning\customer support\tls_certificate.cer to E:\Media\logs\backend\end_to_end_test_video.mp4
+could you change F:\USB Backup\tests\assets\recording_2026-10-19.wav to D:\Data\Personal Finance\test results\domain_renewal_receipt.pdf
+could you change C:\Users\Ankit\Desktop\intent models\Lab Work\task_failure_reproduction.docx to D:\College\GEHU\Projects\Old Versions\pytest_coverage.xml
+could you change \\backup-server\weekly\config\backups\rental_property_inspection.pdf to G:\Shared\Week 42\PBL Phase 2\unity_package_manifest.json
+could you change D:\Projects\Photos\report_for_manager.docx to C:\Dev\Data\compost_schedule.txt
+could you change the name of campaign_calendar.jpg name to leave_request.ps1
+could you change the name of exam_admit_card.pdf name to supplier_quote_2026_10.ics
+could you change the name of participant_information_sheet.docx name to customer_survey_2026_10.msg
+could you change the name of test_auth.py name to inventory_ageing_report.xlsx
+could you change the name of customer_export_reviewed.tsx name to windows_search_index_status.txt
+could you change the name of E:\Archive\Archive\approval_history.csv name to D:\WinPilot\Lab Work\screenshots\stakeholder_demo_script.md
+could you change the name of E:\College\Research\visa_application.pdf name to C:\Projects\Data\class_representative_notes.txt
+could you change the name of C:\Users\Ankit\Documents\Invoices\training_data.csv name to C:\Dev\Device Reports\Reports\PO-2026-00481.pdf
+could you change the name of \\192.168.1.20\teamshare\screenshots\Device Reports\open_application_examples.jsonl name to C:\Temp\Semester 5\account_lockout_events.evtx
+could you change the name of D:\College\GEHU\Semester 7\NER experiments\family_budget.xlsx name to C:\Users\Public\Documents\Sprint 13\config\research_collaboration_agreement.pdf
+could you give seo_keyword_export.xlsx a new name
+could you give customer_survey_revised.lnk a new name
+could you give pet_photo_20261018.jpg a new name
+could you give Telegram Desktop 2026-10-17 21-08-44.jpg a new name
+could you give onedrive_sync_errors.csv a new name
+could you give D:\WinPilot\HR\src\shared_drive_permissions.xlsx a new name
+could you give C:\Program Files\datasets\photos\draft_returns.docx a new name
+could you give D:\Staging\October 2026\inventory\app.js a new name
+could you give C:\Program Files (x86)\archives\Payroll Manager\telemetry_schema.json a new name
+could you give D:\Projects\Release 1.4\Source Code\helpdesk_escalation_matrix.xlsx a new name
+could you rename mobile_warranty_claim.pdf
+could you rename shipping_manifest_20261020.xlsx
+could you rename slow_query_analysis_revised.tmp
+could you rename database_snapshot_revised.prof
+could you rename leetcode_progress.xlsx
+could you rename internal_audit_plan.xlsx to budget_forecast.php
+could you rename file_manifest.txt to employee_rota_october.xlsx
+could you rename rainwater_harvesting_plan.pdf to lighthouse_audit.json
+could you rename ssh_known_hosts_review.txt to smb_share_permissions.xlsx
+could you rename incident_report_final.md to refund_request_revised.prof
+could you rename G:\Shared\Network Captures\Course Material\lab_calibration_schedule.ics
+could you rename D:\Research\Old Versions\Source Code\data_pipeline_alerts.csv
+could you rename C:\Users\Ankit\Downloads\Projects\To Review\system_restore_points.txt
+could you rename F:\External Drive\docs\imports\purchase_ledger.csv
+could you rename C:\Program Files\receipts\Projects\resume_ankit.pdf
+could you rename D:\Data\Reports\data_collection_schedule.ics to C:\Users\Ankit\Documents\Travel\startup_apps_report.html
+could you rename E:\Personal\Semester 5\config\pyproject.toml to \\192.168.1.20\teamshare\release builds\entity pools\road_tax_receipt.pdf
+could you rename E:\Personal\diagnostics\migrations\backup_verification.csv to \\FileServer\Departments\archives\Week 42\hackathon_team_roster.xlsx
+could you rename C:\Users\Ankit\Documents\Training Data\expense_split_october.xlsx to C:\Dev\Model Outputs\vendor_tax_details.xlsx
+could you rename C:\Users\Ankit\OneDrive\validation data\website\grant_budget_v2.xlsx to D:\Shared\Photos\draft_v2.docx
+could you rename the file to boarding_pass_sample.pdf
+could you rename the file to placement_offer_acceptance.pdf
+could you rename the file to hotel_booking.pdf
+could you rename the file to dashboard_mockup.fig
+could you rename the file to db_dump_2026_10_20.sql
+could you rename the file to D:\Projects\Data\coding_contest_submissions.zip
+could you rename the file to D:\Staging\api tests\meeting notes\ideas_inbox.md
+could you rename the file to D:\College\GEHU\Driver Backups\frontend\draft_performance.md
+could you rename the file to D:\Backups\datasets\temp\mock_interview_feedback.docx
+could you rename the file to D:\WinPilot\Home Repairs\meeting notes\Desktop.ini
+give website_audit.appx a new name
+give unit_test_report_draft.fig a new name
+give compliance_review_revised.bz2 a new name
+give equipment_checkout_log.xlsx a new name
+give automation_plugin_registry.json a new name
+give restore_drill_results.xlsx the name project_scope.iso
+give weekly_standup_notes.docx the name driving_lesson_schedule.ics
+give privacy_assessment_final.jsx the name Screenshot (12).png
+give customer_data_dictionary.xlsx the name support_case_000381.txt
+give placement_resume_review.docx the name website_audit_reviewed.tar.gz
+give C:\Users\Ankit\OneDrive\Assignments\checksum_validation.log a new name
+give E:\College\Sprint 13\entity pools\pre-commit-config.yaml a new name
+give C:\Users\Public\Documents\Research Papers\datasets\smb_share_permissions.xlsx a new name
+give \\192.168.1.20\teamshare\backend\invoices\draft_analytics.csv a new name
+give D:\WinPilot\Receipts\gdpr_request_log.csv a new name
+give C:\Users\Ankit\Videos\generated\Audio Troubleshooting\call_summary_20261020.md the name C:\Users\Ankit\Videos\Week 42\Driver Backups\home_cleaning_checklist.docx
+give C:\Program Files\campaigns\presentations\budget_2026.xlsx the name D:\Research\Photos\handoff_package_manifest.json
+give \\OfficePC\Public\Course Material\Device Reports\onboarding_guide.pdf the name C:\Users\Ankit\Videos\Photos\video_subtitle_alignment.csv
+give F:\USB Backup\customer support\Exam Preparation\concert_setlist_notes.txt the name C:\Program Files\Projects\src\end_to_end_test_video.mp4
+give C:\Program Files (x86)\frontend\finance\client_feedback.csv the name C:\Users\Ankit\Documents\api tests\Old Versions\windows_shell_commands.md
+give the file the name gst_invoice_register.csv
+give the file the name serializers.py
+give the file the name csrf_test_report.html
+give the file the name forklift_service_log.xlsx
+give the file the name dependency_lockfile.txt
+give the file the name D:\Projects\website\invoices\localization_review.xlsx
+give the file the name G:\Shared\src\website\phone_transfer_manifest.json
+give the file the name D:\Research\Training Data\vehicle_fleet_register.xlsx
+give the file the name D:\WinPilot\Semester 5\texture_atlas.png
+give the file the name \\FileServer\Departments\Old Versions\Audio Troubleshooting\family_calendar_october.ics
+i need the file PO-2026-00481.pdf renamed to ping_latency_week42.csv
+i need the file hyperparameters.yaml renamed to reimbursement_form.docx
+i need the file poster_print.pdf renamed to swim_training_log.xlsx
+i need the file blog_draft.md renamed to app_control_event_log.evtx
+i need the file api_auth_examples.json renamed to translation_memory.tmx
+i need the file D:\Staging\Graphics Troubleshooting\exports\contract_test_results.xml renamed to C:\Program Files\archives\operations\water_tank_service_log.xlsx
+i need the file D:\College\GEHU\Data\ner_training_examples.jsonl renamed to C:\Users\Ankit\Desktop\contracts\Projects\courier_claim_form.docx
+i need the file C:\Users\Ankit\Documents\Reports\retry_policy_notes.md renamed to D:\Projects\marketing\migrations\invoice_dispute_1048.docx
+i need the file C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE renamed to C:\Users\Ankit\Videos\Semester 7\Reports\data_lake_inventory.xlsx
+i need the file \\NAS01\Shared\Device Reports\campaigns\mobile_warranty_claim.pdf renamed to D:\College\GEHU\Backups\cron_migration_notes.md
+i need to rename vpn_configuration.css
+i need to rename weekly_update_draft.out
+i need to rename sports_club_membership.pdf
+i need to rename customer_survey.yaml
+i need to rename database_schema.safetensors
+i need to rename project_final_v3.zip to webhook_delivery_log.csv
+i need to rename notes_from_call_with_supplier.docx to README.md
+i need to rename creative_review_comments.docx to invoice_dispute_1048.docx
+i need to rename explorer_window_snapshot.json to customer_export_draft.pt
+i need to rename service_health.ipa to lecture_capture_week8.mkv
+i need to rename E:\College\config\receipts\work_order_00817.pdf
+i need to rename C:\Users\Public\Documents\invoices\finance\interview_coding_scheme.xlsx
+i need to rename C:\Users\ankit.kumar\Documents\Model Outputs\holiday_video.mp4
+i need to rename C:\Program Files (x86)\client files\docs\folder_migration_plan.docx
+i need to rename E:\Incoming\Travel Planning\diagnostics\meeting_notes.docx
+i need to rename C:\Users\Ankit\Videos\temp\Research Papers\travel_photo_selection.zip to D:\Data\Release 1.4\finance\supplier_payment_advice.pdf
+i need to rename D:\Data\tests\assets\folder_migration_plan.docx to E:\Incoming\intent models\archives\folder_migration_plan.docx
+i need to rename C:\Users\Ankit\Pictures\Certificates\Semester 7\customer_invoice_2026_091.pdf to C:\Users\ankit.kumar\Documents\Source\demo_account_list.csv
+i need to rename D:\College\GEHU\warehouse\customer support\website_redirect_map.csv to C:\Users\Ankit\Desktop\contracts\Device Reports\download_triage_rules.json
+i need to rename C:\Users\Ankit\Videos\Client A\inventory\vpn_split_tunnel_config.conf to E:\Media\WinPilot\loss_history.csv
+i want the file campaign_calendar.etl renamed to shipment_tracking.mov
+i want the file course_progress_export.csv renamed to fuel_efficiency_tracker.xlsx
+i want the file candidate_consent_form.pdf renamed to security_findings.fbx
+i want the file saved_sessions.json renamed to draft_travel.png
+i want the file water_bill.pdf renamed to journal_proof_corrections.pdf
+i want the file F:\USB Backup\docs\warehouse\tfidf_vectorizer.pkl renamed to \\192.168.1.20\teamshare\client files\frontend\sample_commands.jsonl
+i want the file C:\Users\Public\Documents\Windows Logs\invoices\project_certificate.pdf renamed to \\backup-server\weekly\release builds\To Submit\assignment_brief.pdf
+i want the file C:\Users\Ankit\Downloads\entity pools\datasets\newsletter_header.png renamed to D:\Source\api tests\Network Captures\literature_review.docx
+i want the file C:\Users\Ankit\Pictures\Source\faculty_feedback_form.docx renamed to E:\Incoming\presentations\Client A\purchase_fraud_review.csv
+i want the file \\NAS01\Shared\warehouse\To Review\color_contrast_report.csv renamed to C:\Program Files (x86)\family photos\intent models\plugin_capability_matrix.csv
+i want to rename gas_bill_receipt.pdf
+i want to rename risk_assessment_reviewed.example
+i want to rename accessibility_test_run.xml
+i want to rename warehouse_stock.mp3
+i want to rename faculty_meeting_agenda.docx
+i want to rename disk_cleanup_candidates.csv to network_path_examples.txt
+i want to rename purchase_order.ear to stakeholder_demo_script.md
+i want to rename final_reviewed.docx to purchase_order.out
+i want to rename bank_statement.pdf to project_plan_reviewed.log
+i want to rename salary_breakup_comparison.xlsx to fee_receipt.pdf
+i want to rename D:\Research\Assignments\subtitle_en.srt
+i want to rename D:\Projects\Documents\recycle_bin_audit.csv
+i want to rename \\backup-server\weekly\config\presentations\audio_device_test.wav
+i want to rename D:\Backups\Week 42\Travel Planning\speech_samples_manifest.csv
+i want to rename C:\Dev\NER experiments\config\employee_rota_october.xlsx
+i want to rename D:\Data\Documents\product_roadmap.pptx to C:\Users\ankit.kumar\Documents\Screenshots\annual_review_2025.docx
+i want to rename D:\Data\website\Projects\entity_pool.json to D:\Work\Old Versions\PBL Phase 2\untitled_spreadsheet.xlsx
+i want to rename C:\Users\Ankit\Pictures\campaigns\warehouse\meal_plan.docx to E:\College\exports\contracts\unsorted_downloads.zip
+i want to rename C:\Users\Ankit\Videos\Training Data\firewall_change_request.docx to C:\Users\Ankit\Pictures\Assignments\meeting notes\class_representative_notes.txt
+i want to rename \\NAS01\Shared\Sprint 13\Windows Logs\git_diff_review.txt to \\OfficePC\Public\test results\Reports\records_retention_audit.pdf
+i'd like to rename translation_strings_hi.json to performance_regression_report.xlsx
+i'd like to rename latency_benchmark.obj to water_quality_lab_sheet.xlsx
+i'd like to rename k6_latency_summary.json to dog_training_notes.md
+i'd like to rename building_access_map.pdf to peer_review_response.docx
+i'd like to rename mod_list.txt to rollback_plan_reviewed.gradle
+i'd like to rename C:\Users\Public\Documents\engineering\Payroll Manager\repository_mirror.bundle to D:\Work\Invoices\language_practice.docx
+i'd like to rename E:\Personal\Firewall Configs\Client A\concert_setlist_notes.txt to \\backup-server\weekly\archives\Firewall Configs\course_completion_certificate.pdf
+i'd like to rename D:\Staging\exports\Lab Work\pet_adoption_form.pdf to C:\Dev\Assignments\meeting_room_booking.ics
+i'd like to rename C:\Projects\Reports\tsconfig.json to D:\Projects\Assignments\October 2026\workplace_safety_observation.csv
+i'd like to rename G:\Shared\marketing\Semester 5\subtitle_translation_hi.srt to \\NAS01\Shared\config\database\task_run_history.jsonl
+make inspection_checklist_backup.url database_schema_final.sys
+make payroll_register_draft.jsx device_manager_export.txt
+make social_post_template.psd weekly_update.fig
+make tax_computation_v2.htm filesystem_operation_audit.csv
+make hostel_maintenance_register.xlsx network_share_latency.csv
+make payment_receipt_reviewed.json known as pre-commit-config.yaml
+make supplier_quote_revised.ipynb known as price_comparison_reviewed.apk
+make inventory_reorder_forecast.xlsx known as weekend_plan.docx
+make customer_export.xz known as customer_export.jpeg
+make travel_allowance_claim.xlsx known as settings.py
+make D:\Research\To Review\intent models\windows_installer_config.wxs C:\Users\Ankit\Videos\Downloads\database_connection_pool.csv
+make \\backup-server\weekly\Audio Troubleshooting\October 2026\.editorconfig E:\Archive\WinPilot\hostel_allocation_letter.pdf
+make C:\Users\Ankit\Documents\database\photos\data_cleanup_actions.md \\NAS01\Shared\contracts\warehouse\support_call_recording_21.mp3
+make E:\Incoming\release builds\To Review\font_rendering_test.png \\NAS01\Shared\Exam Preparation\contracts\ruff.toml
+make C:\Temp\Semester 5\Audio Troubleshooting\reviewer_comments_round2.docx C:\Program Files\recordings\archives\field_observations.md
+make C:\ProgramData\test results\WinPilot\readme_for_contributors.md known as C:\Dev\Model Outputs\safety_briefing.pdf
+make C:\Users\Ankit\OneDrive\Network Captures\campaigns\survey_responses.xlsx known as C:\Users\Ankit\Downloads\Research Papers\model outputs\device_guard_policy_notes.md
+make D:\Projects\frontend\temp\quality_control_photos.zip known as C:\Users\Ankit\Desktop\Downloads\cycling_maintenance_log.xlsx
+make C:\Program Files\marketing\warehouse\android_app_inventory.csv known as C:\Users\Ankit\Desktop\backups\Research Papers\error.log
+make \\OfficePC\Public\screenshots\NER experiments\fieldwork_expense_claim.xlsx known as D:\Source\model outputs\Certificates\dataset_hash_manifest.sha256
+make the file delete_folder_safety_tests.csv be called subtitle_hi.srt
+make the file audit_evidence.cer be called security_findings_v3.c
+make the file tenant_move_in_checklist.docx be called draft_returns.docx
+make the file equipment_register_approved.tiff be called risk_register.xlsx
+make the file audit_evidence_v2.fbx be called access_denied_repro_steps.docx
+make the file C:\Users\Ankit\Videos\recordings\Semester 7\Procfile be called F:\USB Backup\frontend\Network Captures\tax_return_acknowledgement.pdf
+make the file C:\Users\Ankit\Videos\tests\archives\vocab.txt be called C:\Users\Ankit\Videos\Research Papers\Final Versions\refund_approval_8831.pdf
+make the file C:\Users\Ankit\Videos\Reports\document_version_history.csv be called D:\Work\Reports\semester_result_archive.zip
+make the file C:\Users\Ankit\Documents\design files\Research Papers\focus_group_transcript_anon.docx be called E:\Personal\test results\HR\focus_group_transcript_anon.docx
+make the file D:\Shared\WinPilot\course_feedback_analysis.xlsx be called D:\Projects\Semester 7\HR\responsive_layout_checks.pdf
+please change webinar_registration_confirmation.pdf to risk_assessment_backup.pptx
+please change data_quality_checks.py to sports_match_schedule.pdf
+please change visa_appointment_letter.pdf to semester_result_archive.zip
+please change migration_plan.webm to disaster_recovery_final.weights
+please change new_employee_induction_checklist.docx to analytics_dashboard_backup.ost
+please change D:\College\GEHU\Projects\intent models\keyboard_shortcut_map.json to C:\Users\Ankit\Documents\backend\src\copy_integrity_checks.xlsx
+please change E:\Personal\Supplier North\Firewall Configs\supplier_delivery_score.xlsx to \\backup-server\weekly\generated\warehouse\refund_request_8831.pdf
+please change D:\Projects\imports\invoices\plugin_capability_matrix.csv to C:\Users\Ankit\OneDrive\Course Material\src\ssh_config_backup.txt
+please change F:\USB Backup\customer support\Semester 5\firewall_change_request.docx to C:\ProgramData\Source Code\October 2026\broadband_renewal_invoice.pdf
+please change D:\Staging\October 2026\family photos\vendor_payment_batch.txt to D:\Research\Travel Planning\Semester 7\practical_record_signed.pdf
+please change the filename of social_media_plan.xlsx to company_background_brief.pdf
+please change the filename of query_results.pdf to contract_draft.sql
+please change the filename of asset_inventory.err to status_report.msi
+please change the filename of cloud_cost_report_final.gz to index.html
+please change the filename of restore_test.py to court_hearing_calendar.ics
+please change the filename of F:\External Drive\Network Captures\marketing\client_feedback.csv to F:\External Drive\contracts\contracts\windows_terminal_profile.json
+please change the filename of E:\Archive\Data\symlink_test_matrix.xlsx to C:\Temp\campaigns\PBL Phase 2\router_config_backup.cfg
+please change the filename of E:\Archive\Screenshots\model_checkpoint.pt to E:\Archive\src\Graphics Troubleshooting\handover_notes.docx
+please change the filename of D:\Backups\assets\recordings\customer_refund_register.xlsx to C:\Program Files (x86)\Old Versions\Windows Logs\management_review_pack.pptx
+please change the filename of C:\Temp\Data\internet_bill.pdf to C:\Users\Public\Documents\Travel Planning\logs\portfolio_assets.zip
+please change the name of travel_document_bundle.zip
+please change the name of readonly_attribute_cases.csv
+please change the name of regression_suite_reviewed.tmp
+please change the name of game_mod_load_order.txt
+please change the name of bank_kyc_update_form.pdf
+please change the name of smart_home_devices.csv name to department_timetable_revision.pdf
+please change the name of voice_memo_12.aac name to tax_computation.tiff
+please change the name of localization_strings.po name to network_topology_v2.hpp
+please change the name of meeting_minutes_backup.gif name to social_media_plan_final.java
+please change the name of data_dictionary_customer.xlsx name to exit_interview_notes.docx
+please change the name of D:\Source\family photos\screenshots\site_materials_inventory.csv
+please change the name of C:\Users\Ankit\OneDrive\inventory\Home Repairs\tax_deduction_proofs.zip
+please change the name of D:\Projects\Receipts\quotation_template.docx
+please change the name of F:\USB Backup\Source\student_lab_groups.xlsx
+please change the name of G:\Shared\Travel Planning\temp\entity_pool.json
+please change the name of E:\Media\archives\assets\scanner_calibration_report.pdf name to \\NAS01\Shared\contracts\Reports\mod_list.txt
+please change the name of F:\External Drive\client files\Travel Planning\character_rig.ma name to D:\Data\Week 42\engineering\candidate_resume_24.pdf
+please change the name of D:\College\GEHU\invoices\assets\cron_migration_notes.md name to C:\Users\Public\Documents\inventory\HR\press_release.docx
+please change the name of C:\Users\Public\Documents\To Submit\diagnostics\recording_2026-10-19.wav name to E:\College\generated\client files\assignment_submission_revised.pdf
+please change the name of C:\Users\Ankit\OneDrive\frontend\Release 1.4\complaints_dashboard_export.csv name to D:\Data\campaigns\entity pools\renewal_forecast.xlsx
+please give driver_package.msi a new name
+please give salary_slip_october.pdf a new name
+please give fuel_card_transactions.csv a new name
+please give meeting_agenda.rs a new name
+please give payroll_register_revised.tf a new name
+please give C:\Temp\Client A\design files\migration_004.sql a new name
+please give E:\Incoming\logs\backend\ner_prediction_examples.jsonl a new name
+please give C:\Temp\travel\travel\fitness_log.csv a new name
+please give D:\Backups\HR\assets\temporary_files_cleanup.log a new name
+please give C:\Program Files (x86)\backend\Reports\github_actions_run.log a new name
+please rename api_test_results.gif
+please rename payroll_variance_report.xlsx
+please rename tour_operator_quote.pdf
+please rename draft_restore.docx
+please rename inference_latency_benchmark.csv
+please rename course_materials_week7.zip as brand_logo_monochrome.svg
+please rename android_keystore_backup.txt as flight_web_checkin_confirmation.pdf
+please rename salary_statement_revised.ass as static_analysis.sarif
+please rename account_lockout_events.evtx as disaster_recovery_approved.pfx
+please rename supplier_quote_approved.dmp as privacy_assessment_reviewed.stl
+please rename hotfix_notes_october.md to sharing_violation_trace.etl
+please rename train_booking_dehradun.pdf to conference_abstract_v2.docx
+please rename social_media_calendar.xlsx to installer_signing_report.txt
+please rename legacy_import_errors.csv to project_charter_2026_10.pem
+please rename localisation_strings_revised.c to weekly_update_2026_10.pcapng
+please rename D:\Research\Backups\tls_certificate.cer
+please rename C:\Users\Ankit\OneDrive\campaigns\Projects\expense_approval_workflow.drawio
+please rename C:\Users\Ankit\Pictures\tests\temp\container_build_log.txt
+please rename C:\Program Files\datasets\Research Papers\training_curve.svg
+please rename C:\Users\Ankit\OneDrive\Semester 5\translation_strings_hi.json
+please rename E:\Incoming\Source Code\NER experiments\dism_restore_health.log as D:\Backups\Assignments\accessibility_test_run.xml
+please rename C:\Temp\Screenshots\draft_returns.docx as C:\Users\Ankit\OneDrive\Final Versions\Sprint 13\pip_freeze_winpilot.txt
+please rename F:\External Drive\receipts\Payroll Manager\file_manifest.txt as \\OfficePC\Public\docs\To Review\eventlog_system_export.evtx
+please rename F:\USB Backup\Screenshots\parcel_tracking_20261018.pdf as C:\Users\Ankit\Documents\Meeting Notes\Audio Recording 7.m4a
+please rename C:\Projects\Travel\static_analysis.sarif as C:\Users\ankit.kumar\Documents\Meeting Notes\project_schedule_baseline.mpp
+please rename D:\Data\Source\driver_package.msi to E:\Incoming\marketing\archives\typescript_typecheck_report.txt
+please rename C:\Users\Ankit\OneDrive\assets\Travel Planning\repair_quote_2026_119.xlsx to D:\Research\Receipts\resume_ankit.pdf
+please rename G:\Shared\entity pools\exports\file_lock_retry_results.csv to D:\Source\Final Versions\Source Code\config.py
+please rename C:\Users\Ankit\Pictures\recordings\docs\coding_round_results.xlsx to C:\ProgramData\config\operations\records_retention_audit.pdf
+please rename \\192.168.1.20\teamshare\presentations\docs\draft_automation.pptx to \\OfficePC\Public\engineering\NER experiments\faculty_feedback_semester_5.xlsx
+please rename the file windows_installer_config.wxs to vulnerability_report_approved.pdf
+please rename the file container_inventory_final.onnx to salary_statement_backup.exe
+please rename the file leave_request.m4a to reading_list.xlsx
+please rename the file seo_report_v2.msg to dns_records.jar
+please rename the file attendance_sheet_revised.gradle to project_scope_draft.pfx
+please rename the file D:\Work\Travel Planning\presentations\building_access_card_log.csv to C:\Users\Ankit\Videos\Photos\event_registration_list.xlsx
+please rename the file C:\Dev\Semester 5\weekend_plan.docx to D:\Staging\client files\Supplier North\operation_rollback_log.txt
+please rename the file E:\Archive\Travel\draft_sales.json to C:\Temp\Screenshots\long_path_test_cases.jsonl
+please rename the file E:\College\website\frontend\delivery_note.pdf to F:\External Drive\campaigns\archives\warranty_expiry_tracker.xlsx
+please rename the file D:\WinPilot\Reports\wsl_distribution_export.tar to C:\Temp\Reports\annotation_guidelines_v2.docx
+please rename the file to api_specification.yml
+please rename the file to release_notes_approved.fig
+please rename the file to podcast_episode_queue.opml
+please rename the file to shift_schedule_revised.tf
+please rename the file to VID_20261017_201501.mp4
+please rename the file to C:\Users\Public\Documents\Receipts\demo_account_list.csv
+please rename the file to C:\Users\Ankit\Pictures\Documents\weather_observations_week42.csv
+please rename the file to C:\Users\Public\Documents\tests\marketing\database_index_report.html
+please rename the file to D:\College\GEHU\Reports\Shared Documents\media_kit.zip
+please rename the file to D:\Staging\training data\test results\temporary_export.tmp
+rename quality_inspection_form.xlsx
+rename seo_report_revised.war
+rename department_notice_october.pdf
+rename leave_request_backup.otf
+rename vmware_network_config.vmx
+rename workshop_materials.zip and call it weekly_update.tsx
+rename slow_query_analysis.ts and call it privacy_cookie_inventory.xlsx
+rename draft_payroll.svg and call it regression_suite_2026_10.reg
+rename privacy_assessment_approved.pst and call it cash_flow_final.vhdx
+rename domain_dns_records.csv and call it 3d_print_slicer_profile.ini
+rename draft_booking.json as website_audit_backup.js
+rename meeting_agenda_revised.tsx as voice_over_script.docx
+rename supplier_quote_draft.example as bus_booking_confirmation.pdf
+rename energy_consumption_october.csv as contract_draft.mkv
+rename support_case_final.hcl as draft_experiment.mp4
+rename davinci_project_archive.drp from old name to new name
+rename vulnerability_report.msix from old name to new name
+rename draft_v2.docx from old name to new name
+rename container_build_log.txt from old name to new name
+rename home_cleaning_checklist.docx from old name to new name
+rename weekly_report.docx to meeting_agenda.key
+rename cycle_count_results.xlsx to returns_tracking_5832.txt
+rename vpn_configuration_v3.bat to uptime_summary_draft.img
+rename quarterly_review_backup.conf to payroll_register.conf
+rename bank_reconciliation_draft.ost to data_warehouse_refresh.log
+rename order_status_export.json to C:\Users\Ankit\Desktop\frontend\database\usability_findings.xlsx
+rename annual_report_draft.gif to E:\College\Client A\presentations\support_call_recording_21.mp3
+rename onboarding_guide.pdf to C:\ProgramData\logs\screenshots\draft_transcription.json
+rename dns_records.appx to \\NAS01\Shared\Exam Preparation\assets\purchase_return_note.pdf
+rename restore_test.sh to F:\USB Backup\Documents\file_naming_conventions.md
+rename customer_survey_approved.ods to D:\College\GEHU\Research\profile_picture.jpg
+rename thesis_submission_receipt.pdf to \\NAS01\Shared\Projects\WinPilot\Release 1.4\release_build_manifest.json
+rename merge_conflict_notes.txt to E:\College\invoices\Semester 5\browser_bookmarks_2026.html
+rename uptime_sla_calculation.xlsx to D:\Backups\Graphics Troubleshooting\Sprint 13\virtual_machine_snapshot.vmdk
+rename quality_sample_rejection.xlsx to C:\Projects\WinPilot\mypy.ini
+rename project_scope_backup.csv to final_report.pdf
+rename registry_backup.reg to final_report.pdf
+rename license_register.appx to final_report.pdf
+rename customer_export.mkv to final_report.pdf
+rename accessibility_keyboard_test.csv to final_report.pdf
+rename cleaned_customers.parquet to the name contract_signed_v2.sys
+rename build_manifest.apk to the name quarterly_review_draft.old
+rename accessibility_audit_draft.prof to the name battery_usage_history.csv
+rename restore_test_backup.ts to the name contract_signed_final.sqlite
+rename error_0xc0000005.log to the name price_comparison_draft.pkl
+rename D:\Source\screenshots\Semester 5\replication_status.csv
+rename E:\Archive\temp\Course Material\compatibility_test_results.csv
+rename C:\Users\Ankit\Videos\photos\warehouse\ethernet_test_results.csv
+rename C:\ProgramData\datasets\temp\windows_activation_status.txt
+rename E:\College\Semester 7\Exam Preparation\race_registration_confirmation.pdf
+rename D:\Backups\operations\engineering\compliance_checklist.pdf and call it C:\Users\Ankit\Downloads\Audio Troubleshooting\Exam Preparation\neighbourhood_event_flyer.jpg
+rename \\FileServer\Departments\assets\Driver Backups\profile_picture.jpg and call it E:\Archive\Research\portfolio_homepage_mockup.fig
+rename C:\Temp\Receipts\complaints_dashboard_export.csv and call it F:\External Drive\datasets\marketing\holiday_photo_index.csv
+rename D:\Research\Meeting Notes\temporary_export.tmp and call it C:\Users\Ankit\Downloads\To Review\docs\nvidia_control_panel_profile.nip
+rename D:\Shared\Downloads\bank_statement.pdf and call it C:\Dev\WinPilot\disk_usage_by_folder.xlsx
+rename C:\Users\Public\Documents\inventory\Release 1.4\default_apps_snapshot.json as C:\Users\Public\Documents\Archive\draft_support.zip
+rename C:\Users\Ankit\Pictures\Receipts\membership_renewals.xlsx as C:\Users\Ankit\Downloads\Training Data\compatibility_test_results.csv
+rename C:\Users\Ankit\OneDrive\Reports\experiment_config.yaml as E:\Personal\Personal Finance\archives\subscription_churn_cohort.csv
+rename D:\Work\Assignments\pbl_phase2_report.docx as E:\Media\Client A\Exam Preparation\press_release.docx
+rename D:\Backups\imports\invoices\privacy_notice.docx as D:\Shared\Screenshots\garden_plan.jpg
+rename C:\Users\Ankit\Pictures\Semester 5\team_photo.png from old name to new name
+rename D:\Work\operations\To Submit\placement_drive_notice.pdf from old name to new name
+rename E:\College\Downloads\vehicle_registration_scan.pdf from old name to new name
+rename \\192.168.1.20\teamshare\Final Versions\Personal Finance\citation_export.bib from old name to new name
+rename D:\WinPilot\Certificates\Certificates\garden_plan.jpg from old name to new name
+rename C:\Program Files\warehouse\tests\document_version_history.csv to browser_matrix_backup.eml
+rename G:\Shared\Graphics Troubleshooting\Audio Troubleshooting\purchase_request_2026_311.pdf to complaints_dashboard_export.csv
+rename D:\College\GEHU\backups\To Submit\receipt_cafe.png to shift_schedule.odp
+rename C:\ProgramData\Network Captures\contracts\weather_station_monthly_export.csv to regression_suite.war
+rename \\192.168.1.20\teamshare\Windows Logs\training data\diagram_network.drawio to chrome_extension_list.csv
+rename D:\Work\temp\Certificates\oauth_client_config.example.json to vpn_configuration_revised.dwg
+rename D:\WinPilot\Data\unicode_filename_tests.csv to password_manager_export_encrypted.csv
+rename D:\Data\Model Outputs\browser_profile_backup.zip to .env.example
+rename \\NAS01\Shared\WinPilot\Travel Planning\system_restore_points.txt to draft_automation.pptx
+rename C:\Users\Ankit\Documents\marketing\To Submit\travel_itinerary_october.docx to restore_test_revised.obj
+rename \\FileServer\Departments\Assignments\Reports\scholarship_shortlist.xlsx to C:\Users\Ankit\OneDrive\Photos\Dockerfile
+rename C:\Users\Ankit\Videos\generated\Semester 7\weekly_menu.xlsx to D:\WinPilot\Invoices\internship_offer_comparison.pdf
+rename F:\USB Backup\Invoices\internal_audit_plan.xlsx to C:\ProgramData\Personal Finance\contracts\placement_statistics_2026.xlsx
+rename E:\College\release builds\Reports\unit_test_junit_report.xml to \\FileServer\Departments\Audio Troubleshooting\Supplier North\water_quality_report.xlsx
+rename D:\Work\Backups\vmware_network_config.vmx to D:\Staging\Home Repairs\docs\quality_control_photos.zip
+rename E:\Media\Backups\event_viewer_errors.evtx to final_report.pdf
+rename C:\Dev\Graphics Troubleshooting\marketing\weekly_standup_notes.docx to final_report.pdf
+rename D:\Research\config\archives\asset_register_2026.xlsx to final_report.pdf
+rename D:\Backups\Documents\device_manager_export.txt to final_report.pdf
+rename E:\Media\Sprint 13\Course Material\product_feedback_october.csv to final_report.pdf
+rename C:\Temp\family photos\model outputs\personal_documents_catalog.xlsx to the name D:\Staging\backups\test results\certification_exam_booking.pdf
+rename F:\USB Backup\Semester 5\error_0xc0000005.log to the name G:\Shared\finance\temp\neighbourhood_contact_list.vcf
+rename C:\Program Files\Week 42\validation data\subscription_renewal_list.csv to the name E:\Archive\Archive\venue_floor_plan.pdf
+rename C:\Program Files (x86)\frontend\Client A\ssh_key_fingerprint.txt to the name D:\Research\intent models\migrations\attendance_register.xlsx
+rename E:\Archive\contracts\Research Papers\model_ablation_results.xlsx to the name C:\Temp\Meeting Notes\home_inventory_october.xlsx
+rename a file called delivery_manifest_v2.pcapng
+rename a file called cloud_cost_report_2026_10.tsv
+rename a file called integration_test_approved.rar
+rename a file called employee_id_request.docx
+rename a file called asset_inventory_v2.yml
+rename a file called C:\Users\Ankit\Downloads\screenshots\Supplier North\bank_kyc_update_form.pdf
+rename a file called C:\Users\Ankit\Downloads\src\backend\rollback_test_results.xlsx
+rename a file called C:\Users\Ankit\OneDrive\Invoices\styles.css
+rename a file called C:\Users\Ankit\Downloads\Windows Logs\client files\records_classification.xlsx
+rename a file called G:\Shared\test results\database\hotel_rooming_list.xlsx
+rename a file named release_notes.xz
+rename a file named payment_receipt.pem
+rename a file named ec2_instance_inventory.csv
+rename a file named budget_forecast_revised.tsv
+rename a file named solar_inverter_log.txt
+rename a file named D:\WinPilot\database\Semester 5\certificate_renewal_plan.md
+rename a file named D:\Work\database\docs\research_instrument_manual.pdf
+rename a file named E:\Incoming\Lab Work\Week 42\windows_shell_commands.md
+rename a file named E:\College\src\archives\thesis_chapter_2.docx
+rename a file named C:\Users\ankit.kumar\Documents\Assignments\club_event_poster.jpg
+rename file firewall_audit_2026_10.trace as case_sensitive_collision_report.csv
+rename file build_manifest.fig as courier_pickup_schedule.ics
+rename file maintenance_log_revised.srt as browser_matrix_v2.otf
+rename file train_model.py as fire_alarm_test_record.pdf
+rename file query_practice.sql as analytics_export.json
+rename file travel_insurance_policy.pdf as D:\College\GEHU\api tests\model outputs\ecommerce_product_feed.csv
+rename file vpn_connection_history.csv as E:\Archive\Release 1.4\receipts\research_group_minutes.docx
+rename file license_register_v3.bat as E:\Archive\WinPilot\media_schedule_november.xlsx
+rename file shipment_tracking.yml as E:\College\Travel\supplier_quotes.xlsx
+rename file character_rig.ma as C:\Users\Ankit\OneDrive\Downloads\project_schedule_baseline.mpp
+rename file registry_export_before_fix.reg as C:\Temp\test results\Network Captures\browser_compatibility_matrix.xlsx
+rename file risk_assessment_v2.msix as \\backup-server\weekly\Exam Preparation\campaigns\python_environment_freeze.txt
+rename file music_practice_schedule.pdf as C:\Users\Ankit\Documents\presentations\Supplier North\demo_account_list.csv
+rename file budget_forecast_2026_10.cs as D:\WinPilot\To Submit\customer support\phishing_report_template.docx
+rename file customer_survey.prof as \\OfficePC\Public\api tests\Shared Documents\call_summary_20261020.md
+rename file society_maintenance_receipt.pdf to tour_booking_invoice.pdf
+rename file project_plan.yaml to windows_update_history.html
+rename file coding_assessment_results.csv to product_catalog.dxf
+rename file cash_flow.exe to usb_device_history.csv
+rename file university_id_scan.jpg to shared_drive_permissions.xlsx
+rename file D:\Data\Downloads\network_share_latency.csv as access.log
+rename file C:\ProgramData\test results\Course Material\family_budget.xlsx as mysql_slow_query_log.txt
+rename file C:\Users\Ankit\OneDrive\Receipts\campaign_creatives.zip as soil_test_results.pdf
+rename file \\192.168.1.20\teamshare\Network Captures\Graphics Troubleshooting\assignment_submission_revised.pdf as payroll_register.png
+rename file D:\Research\Archive\unicode_filename_tests.csv as warehouse_stock_backup.pdf
+rename file \\OfficePC\Public\PBL Phase 2\Assignments\cleaned_customers.parquet as concert_setlist_notes.txt
+rename file C:\Users\Public\Documents\src\Supplier North\assignment_brief.pdf as project_plan.pcap
+rename file F:\External Drive\PBL Phase 2\generated\recycle_bin_restore_test.csv as book_club_reading_schedule.ics
+rename file C:\Users\Ankit\Desktop\Archive\parking_permit_scan.pdf as status_report_revised.pickle
+rename file C:\Users\Ankit\Pictures\NER experiments\customer support\emulator_controller_profile.cfg as build_manifest_revised.model
+rename file D:\Research\Reports\vpn_connection_history.csv as C:\Users\Ankit\Desktop\Windows Logs\Device Reports\library_catalog_export.csv
+rename file C:\Users\Ankit\Desktop\WinPilot\diagnostic_capture.etl as C:\Users\Ankit\Videos\screenshots\Old Versions\terraform_plan.txt
+rename file D:\Backups\Source\thumbnail_generation_log.txt as E:\Incoming\release builds\api tests\api_rate_limit_test_results.csv
+rename file C:\Users\Ankit\Downloads\Receipts\quotation_template.docx as E:\Archive\Data\export_2026-10-20_1200.csv
+rename file D:\College\GEHU\Certificates\Network Captures\community_minutes.docx as D:\College\GEHU\Network Captures\Semester 7\exam_results_provisional.xlsx
+rename file E:\Media\presentations\Sprint 13\experiment_assignments.csv to F:\External Drive\generated\warehouse\diagnostic_capture.etl
+rename file C:\Users\Ankit\OneDrive\backend\archives\translation_memory.tmx to \\FileServer\Departments\Assignments\finance\thesis_submission_receipt.pdf
+rename file E:\Personal\family photos\Sprint 13\emergency_contact_sheet.xlsx to F:\USB Backup\Device Reports\backups\smart_home_devices.csv
+rename file C:\Users\Ankit\Videos\Old Versions\To Submit\road_trip_expense_split.xlsx to C:\Users\Ankit\Desktop\Release 1.4\customer support\disk_partition_map.png
+rename file C:\Users\Ankit\Videos\design files\customer support\release_checklist.xlsx to D:\Backups\Assignments\migrations\lecture_recording.mp4
+rename my purchase_receipt_2026.pdf
+rename my contract_draft_2026_10.js
+rename my quarterly_review.dat
+rename my quarterly_review.ics
+rename my shift_schedule.msi
+rename my dependency_audit_final.db to customer_invoice_2026_091.pdf
+rename my pet_vet_receipt.pdf to quality_report_backup.mkv
+rename my product_catalog.pptx to vehicle_fleet_register.xlsx
+rename my seo_report.ini to cloud_cost_report_v2.cmd
+rename my salary_statement_draft.exe to inspection_checklist_reviewed.toml
+rename my C:\Users\Ankit\Pictures\Backups\patch_compliance_report.xlsx
+rename my \\OfficePC\Public\Source Code\generated\laptop_allocation_form.pdf
+rename my C:\Users\Ankit\OneDrive\travel\tests\parcel_tracking_20261018.pdf
+rename my C:\Users\Ankit\Pictures\Device Reports\Course Material\event_registration_list.xlsx
+rename my D:\College\GEHU\Screenshots\vite.config.js
+rename my C:\Users\Ankit\Documents\marketing\Driver Backups\backup_manifest_20261020.json to D:\Research\Certificates\October 2026\warehouse_picklist.pdf
+rename my D:\WinPilot\Shared Documents\Projects\davinci_project_archive.drp to C:\ProgramData\model outputs\To Submit\sbom_cyclonedx.json
+rename my \\FileServer\Departments\intent models\Assignments\expense_claim_october.pdf to D:\WinPilot\migrations\Home Repairs\water_quality_report.xlsx
+rename my \\backup-server\weekly\logs\Exam Preparation\coding_round_results.xlsx to C:\Users\ankit.kumar\Documents\Travel\draft_campaign.png
+rename my F:\External Drive\family photos\src\home_cleaning_checklist.docx to D:\Research\Photos\data_migration_mapping.xlsx
+rename my file uptime_summary.rb
+rename my file incident_report_v2.pickle
+rename my file risk_register_backup.mp3
+rename my file budget_forecast_reviewed.appx
+rename my file bank_reconciliation_v3.mkv
+rename my file C:\Users\Ankit\Desktop\Meeting Notes\accreditation_evidence_index.pdf
+rename my file E:\Personal\Release 1.4\photos\draft_sales.json
+rename my file C:\Users\Public\Documents\marketing\logs\docker-compose.yml
+rename my file G:\Shared\Course Material\NER experiments\intent_model_checkpoint.pkl
+rename my file F:\USB Backup\Certificates\October 2026\system_restore_points.txt
+rename that file to status_report.feather
+rename that file to air_conditioner_service_record.pdf
+rename that file to firewall_audit.trace
+rename that file to deployment_checklist_v3.pyw
+rename that file to invoice_register.trace
+rename that file to D:\Work\Data\race_registration_confirmation.pdf
+rename that file to C:\Users\Ankit\Pictures\Windows Logs\Research Papers\vite.config.js
+rename that file to D:\Projects\To Submit\model outputs\migration_notes.md
+rename that file to F:\USB Backup\NER experiments\docs\receipt_cafe.png
+rename that file to E:\College\api tests\Semester 5\music_practice_schedule.pdf
+rename the document draft_invoice.pptx to linux_package_list.txt
+rename the document cover_letter_company_a.docx to regression_suite.pth
+rename the document migration_plan.dat to system_services_export.csv
+rename the document load_test_report.cab to researcher_orcid_export.xml
+rename the document postman_collection.json to restore_test_v2.cmd
+rename the document D:\Staging\customer support\finance\sales_pipeline_october.xlsx to D:\WinPilot\Source\notes_from_call_with_supplier.docx
+rename the document E:\Media\entity pools\customer support\music_practice_schedule.pdf to \\FileServer\Departments\website\config\vehicle_puc_certificate.pdf
+rename the document F:\External Drive\invoices\Research Papers\faculty_feedback_semester_5.xlsx to C:\Temp\Training Data\local_dev_notes.md
+rename the document C:\Users\Ankit\OneDrive\Exam Preparation\archives\house_repairs.xlsx to F:\USB Backup\assets\finance\access_review_2026.xlsx
+rename the document D:\WinPilot\Exam Preparation\Payroll Manager\ping_latency_week42.csv to C:\Users\Ankit\Documents\presentations\training data\assignment_brief.pdf
+rename the document to incident_report.tsx
+rename the document to shared_folder_cleanup_plan.docx
+rename the document to load_test_report_revised.txt
+rename the document to model_training_parameters.yaml
+rename the document to font_rendering_test.png
+rename the document to D:\Staging\tests\Research Papers\backend_healthcheck.json
+rename the document to D:\Data\Screenshots\system_restore_points.txt
+rename the document to C:\Temp\Device Reports\HR\online_order_history.csv
+rename the document to E:\Media\Meeting Notes\label_distribution_report.csv
+rename the document to C:\Temp\Reports\bug_triage.xlsx
+rename the file draft_contract_comments.docx as backup_manifest.vcf
+rename the file compliance_review.evtx as quality_report_revised.png
+rename the file bitlocker_recovery_instructions.pdf as class_notes_week8.docx
+rename the file meeting_agenda_approved.heapsnapshot as campaign_calendar_v2.dxf
+rename the file field_sensor_calibration.pdf as migration_results_2026_10.3mf
+rename the file cash_flow_reviewed.rs to model_checkpoint.pt
+rename the file deployment_plan.md to database_schema_approved.reg
+rename the file export_2026-10-20_1200.csv to file_association_export.reg
+rename the file faculty_feedback_form.docx to credit_card_dispute_letter.docx
+rename the file integration_test_final.dmp to proforma_invoice_2026.pdf
+rename the file speech_samples_manifest.csv to C:\Users\Ankit\Desktop\datasets\presentations\windows_update_history.html
+rename the file bank_reconciliation_final.odt to D:\WinPilot\Source\candidate_scores.xlsx
+rename the file windows_api_notes.md to C:\Users\Ankit\Desktop\operations\intent models\application_icon.ico
+rename the file backup_manifest_revised.blend to E:\Incoming\temp\contracts\media_schedule_november.xlsx
+rename the file annotation_guidelines_v2.docx to F:\External Drive\finance\meeting notes\warranty_claim_reference.txt
+rename the file meeting_agenda_backup.feather to F:\USB Backup\Reports\packing_checklist.docx
+rename the file restore_test.md to \\NAS01\Shared\Firewall Configs\config\university_exam_form.pdf
+rename the file index_rebuild_history.csv to D:\Staging\NER experiments\presentations\portfolio_homepage_mockup.fig
+rename the file payment_receipt_draft.bak to D:\Research\src\travel\neighbourhood_event_flyer.jpg
+rename the file incident_report_reviewed.obj to F:\External Drive\Client A\Old Versions\passport_scan.jpg
+rename the file C:\Program Files\release builds\HR\.editorconfig as D:\College\GEHU\marketing\migrations\database_restore_test.log
+rename the file C:\Users\Ankit\OneDrive\Documents\file_operation_timings.csv as D:\Research\PBL Phase 2\service_level_report.xlsx
+rename the file E:\Personal\migrations\recordings\subscription_renewal_list.csv as C:\Users\Ankit\OneDrive\Sprint 13\Semester 7\printer_test_page.pdf
+rename the file D:\Research\customer support\api tests\webpack.config.js as C:\Users\Ankit\Pictures\config\intent models\refund_approval_8831.pdf
+rename the file C:\Users\Ankit\Pictures\api tests\WinPilot\file_explorer_layout_backup.reg as C:\Users\Ankit\Videos\Archive\container_build_log.txt
+rename the file D:\WinPilot\Device Reports\Certificates\chemical_safety_data_index.xlsx to privacy_assessment.conf
+rename the file D:\Data\warehouse\Course Material\xss_regression_cases.jsonl to docker_build_output.log
+rename the file F:\External Drive\To Submit\photos\property_tax_receipt.pdf to nda_signed_2026.pdf
+rename the file E:\Personal\Graphics Troubleshooting\October 2026\temporary_file_retention.csv to research_dataset_manifest.json
+rename the file C:\Users\Ankit\Downloads\Assignments\mobile_backup_manifest.json to podcast_intro.mp3
+rename the file C:\Users\Ankit\Documents\Screenshots\deployment_plan.md to incident_report_2026_10.appx
+rename the file D:\College\GEHU\Semester 5\DBMS\Payroll Manager\database_schema.sql to contract_draft_approved.otf
+rename the file \\backup-server\weekly\finance\inventory\config.py to draft_v1.docx
+rename the file C:\Dev\database\Source Code\hotel_checkin_instructions.pdf to firewall_rules.json
+rename the file D:\WinPilot\Semester 5\docs\event_ticket_qr.png to delivery_manifest_reviewed.cfg
+rename the file D:\WinPilot\recordings\customer support\refund_request_8831.pdf to D:\Shared\Travel\incident_response_playbook.pdf
+rename the file D:\Projects\validation data\Payroll Manager\capstone_source_bundle.zip to D:\College\GEHU\Client A\engineering\club_membership_renewal.pdf
+rename the file G:\Shared\marketing\NER experiments\draft_deployment.jsonl to D:\Backups\Archive\data_quality_checks.py
+rename the file E:\Archive\screenshots\travel\fieldwork_expense_claim.xlsx to C:\Users\Ankit\Pictures\Reports\Device Reports\draft_interview.xlsx
+rename the file \\OfficePC\Public\October 2026\Payroll Manager\blender_render_queue.csv to E:\Personal\api tests\frontend\home_cleaning_checklist.docx
+rename the file as customer_dimension_sample.csv
+rename the file as integration_test.csv
+rename the file as slow_query_analysis_reviewed.sqlite
+rename the file as leave_request_v3.js
+rename the file as risk_register.hpp
+rename the file as C:\Program Files (x86)\meeting notes\travel\privacy_notice.docx
+rename the file as D:\Projects\warehouse\Projects\bank_transfer_receipt.pdf
+rename the file as C:\Temp\Archive\render_preview.png
+rename the file as D:\Projects\Downloads\api_latency_report.xlsx
+rename the file as F:\External Drive\imports\Payroll Manager\visa_application.pdf
+rename the file called dependency_audit_reviewed.gif
+rename the file called workplace_induction_slides.pptx
+rename the file called vulnerability_report_reviewed.rb
+rename the file called security_findings_2026_10.wav
+rename the file called analytics_dashboard.vhdx
+rename the file called draft_backup.txt to race_registration_confirmation.pdf
+rename the file called citation_style_check.log to meeting_agenda.tf
+rename the file called explorer_crash_dump.dmp to customer_support_macros.csv
+rename the file called assignment_feedback_sem5.pdf to gamepad_button_layout.json
+rename the file called translation_vendor_quote.pdf to privacy_assessment.exe
+rename the file called D:\Source\assets\Reports\system_file_check_results.txt
+rename the file called D:\Data\campaigns\exports\contractor_bill_verification.xlsx
+rename the file called F:\USB Backup\Firewall Configs\Firewall Configs\repair_receipt_20261018.pdf
+rename the file called C:\Dev\PBL Phase 2\CHANGELOG.md
+rename the file called \\NAS01\Shared\Audio Troubleshooting\Reports\bike_service_receipt.pdf
+rename the file called C:\Users\Public\Documents\Device Reports\contracts\windows_activation_status.txt to C:\Users\Ankit\Documents\Source\reserved_name_cases.txt
+rename the file called E:\Media\Exam Preparation\design files\internship_offer_comparison.pdf to C:\Users\Ankit\Documents\migrations\Exam Preparation\handover_notes.docx
+rename the file called C:\ProgramData\Client A\archives\electricity_meter_photo.jpg to C:\Users\Ankit\Documents\Source Code\archives\package.json
+rename the file called D:\Research\customer support\Device Reports\visa_appointment_letter.pdf to F:\USB Backup\Archive\product_analytics_events.csv
+rename the file called D:\WinPilot\Research\tyre_pressure_log.csv to C:\Users\Ankit\Desktop\engineering\Graphics Troubleshooting\cultural_fest_poster.png
+rename the file from deployment_checklist.psd to cash_flow.ps1
+rename the file from asset_inventory.sqlite to ner_vocab_mapping.json
+rename the file from pyinstaller_build.spec to field_observations.md
+rename the file from phishing_report_template.docx to warehouse_stock_20261020.csv
+rename the file from archive_for_accountant.zip to load_test_report_v2.dwg
+rename the file from C:\Users\Ankit\Videos\warehouse\design files\logo_final.svg to C:\Users\Ankit\OneDrive\archives\Graphics Troubleshooting\journal_submission_receipt.pdf
+rename the file from D:\WinPilot\Backups\uv.lock to E:\College\Research\vendor_tax_details.xlsx
+rename the file from G:\Shared\client files\diagnostics\dataset_hash_manifest.sha256 to C:\Users\Ankit\Videos\test results\Network Captures\course_materials_week7.zip
+rename the file from F:\External Drive\finance\screenshots\petty_cash_log.csv to D:\Shared\Source\supplier_contacts.vcf
+rename the file from G:\Shared\To Review\Course Material\draft_orders.txt to C:\Users\Public\Documents\backups\docs\command_parser_edge_cases.jsonl
+rename the file named inspection_checklist_2026_10.mp4
+rename the file named refund_request.inf
+rename the file named event_run_of_show.docx
+rename the file named maintenance_log_v3.sav
+rename the file named customer_survey_v3.msix
+rename the file named task_scheduler_export.xml as quarterly_review.pptx
+rename the file named build_manifest_approved.h as thumbnail_generation_log.txt
+rename the file named rail_ticket_return.pdf as mobile_app_logs.zip
+rename the file named personal_documents_index.xlsx as candidate_scores.xlsx
+rename the file named student_fee_reconciliation.xlsx as inspection_checklist_v3.example
+rename the file named \\backup-server\weekly\Shared Documents\client files\house_repairs.xlsx
+rename the file named D:\Research\family photos\screenshots\youtube_thumbnail_source.psd
+rename the file named C:\Users\Ankit\OneDrive\Screenshots\library_catalog_export.csv
+rename the file named F:\External Drive\Travel Planning\Device Reports\document_version_history.csv
+rename the file named C:\Users\Ankit\Documents\Documents\meeting_audio.wav
+rename the file named \\OfficePC\Public\logs\diagnostics\donor_acknowledgements.pdf as E:\Incoming\customer support\Assignments\meeting_followup_actions.md
+rename the file named \\FileServer\Departments\assets\warehouse\courier_claim_form.docx as E:\Media\Assignments\emergency_contact_sheet.xlsx
+rename the file named D:\WinPilot\migrations\Lab Work\student_club_minutes.docx as C:\Program Files (x86)\backend\backups\interview_schedule_week43.ics
+rename the file named F:\USB Backup\Reports\audio_device_test.wav as D:\WinPilot\photos\release builds\oauth_client_config.example.json
+rename the file named D:\Source\training data\Assignments\travel_claim_status.html as F:\USB Backup\Client A\inventory\draft_backup.txt
+rename the file to equipment_loan_register.xlsx
+rename the file to query_results_backup.ini
+rename the file to restore_test_reviewed.jsonl
+rename the file to inspection_checklist.tar.gz
+rename the file to bank_reconciliation.ass
+rename the file to C:\Dev\Old Versions\marketing\library_due_notice.pdf
+rename the file to D:\Data\backups\Week 42\coding_practice_log.csv
+rename the file to F:\External Drive\Travel Planning\NER experiments\salary_breakup_comparison.xlsx
+rename the file to D:\Projects\Meeting Notes\team_org_chart.vsdx
+rename the file to E:\Archive\Documents\user_preferences.json
+rename the item architecture_overview.vsdx to supplier_onboarding_form.pdf
+rename the item resume_for_backend_role.pdf to draft_dataset.docx
+rename the item localisation_strings_2026_10.pem to shift_schedule_final.jsx
+rename the item incident_report_backup.dwg to vendor_comparison.xlsx
+rename the item invoice_register_2026_10.ai to internship_daily_log.xlsx
+rename the item C:\Users\Ankit\Desktop\Source\electrician_quote_2026.pdf to C:\Users\Ankit\Downloads\Lab Work\Lab Work\game_screenshots.zip
+rename the item D:\Data\exports\Assignments\seo_keyword_export.xlsx to C:\Temp\recordings\assets\router_firmware_notes.md
+rename the item C:\Dev\client files\Travel Planning\model_training_parameters.yaml to C:\Users\Ankit\OneDrive\database\Sprint 13\bus_booking_confirmation.pdf
+rename the item C:\Users\Ankit\Documents\diagnostics\Firewall Configs\fieldwork_audio_index.csv to C:\Users\ankit.kumar\Documents\Documents\notes_from_call_with_supplier.docx
+rename the item G:\Shared\backups\WinPilot\bitlocker_recovery_instructions.pdf to \\backup-server\weekly\database\Source Code\handover_notes.docx
+rename the selected file to bank_reconciliation.m4a
+rename the selected file to unit_test_report.weights
+rename the selected file to print_to_pdf_test.docx
+rename the selected file to newsletter_template.html
+rename the selected file to repair_receipt_20261018.pdf
+rename the selected file to C:\Users\Ankit\Desktop\WinPilot\Certificates\technical_interview_bank.docx
+rename the selected file to F:\External Drive\validation data\Sprint 13\device_guard_policy_notes.md
+rename the selected file to E:\Archive\exports\docs\brand_logo_monochrome.svg
+rename the selected file to E:\Archive\photos\warehouse\notification_history.csv
+rename the selected file to F:\USB Backup\presentations\tests\project_demo_capture.mp4
+rename this file to payment_receipt_v2.7z
+rename this file to meeting_agenda.php
+rename this file to donation_receipt_october.pdf
+rename this file to project_charter.sqlite
+rename this file to property_tax_challan.pdf
+rename this file to C:\Users\Ankit\Videos\campaigns\Week 42\order_status_export.json
+rename this file to D:\Shared\Training Data\inference_latency_benchmark.csv
+rename this file to C:\Users\Ankit\Videos\To Review\Source Code\mobile_app_logs.zip
+rename this file to D:\WinPilot\Certificates\Sprint 13\birthday_guest_list.xlsx
+rename this file to C:\Projects\Archive\lab_inventory_reorder.xlsx
+set assignment_submission_final.pdf to be called ecommerce_product_feed.csv
+set meal_prep_plan_october.docx to be called interview_coding_scheme.xlsx
+set bank_reconciliation_v2.jsx to be called shipment_tracking_backup.java
+set payment_receipt.ts to be called employee_handbook.pdf
+set draft_project.xml to be called eventlog_system_export.evtx
+set D:\WinPilot\Semester 5\Semester 5\personal_development_plan.md to be called D:\Shared\Meeting Notes\exit_interview_notes.docx
+set D:\Data\receipts\backend\emergency_contact_sheet.xlsx to be called E:\College\PBL Phase 2\test results\draft_training.json
+set F:\External Drive\diagnostics\Audio Troubleshooting\mysql_slow_query_log.txt to be called C:\Users\ankit.kumar\Documents\Research\network_topology_export.drawio
+set C:\Temp\Personal Finance\Personal Finance\preprocess_data.py to be called D:\Work\Travel\oauth_scope_review.xlsx
+set G:\Shared\meeting notes\invoices\compliance_checklist.pdf to be called C:\Users\Ankit\Desktop\Source Code\validation data\windows_features_state.txt
+set the filename of database_snapshot.tsx to price_comparison.sh
+set the filename of container_vulnerability_report.html to compliance_review_v2.gpx
+set the filename of payment_receipt.safetensors to labels.json
+set the filename of quality_report_v3.gpx to deadlock_reproduction.py
+set the filename of warehouse_temperature_log.csv to property_photos.zip
+set the filename of G:\Shared\Research Papers\meeting notes\property_tax_challan.pdf to E:\Archive\Device Reports\Course Material\powercfg_energy_report.html
+set the filename of D:\Staging\presentations\operations\interview_schedule_week43.ics to C:\ProgramData\Reports\generated\tenant_move_in_checklist.docx
+set the filename of E:\Personal\Exam Preparation\assets\firewall_change_request.docx to C:\Users\Ankit\Pictures\archives\Device Reports\windows_terminal_profile.json
+set the filename of C:\Program Files (x86)\Audio Troubleshooting\database\predictions_output.csv to F:\USB Backup\intent models\Certificates\holiday_budget_2026.xlsx
+set the filename of F:\USB Backup\Audio Troubleshooting\test results\publication_permission_form.docx to C:\Users\Ankit\OneDrive\logs\inventory\team_folder_index.csv
+update the filename of weekly_cleaning_roster.xlsx to accessibility_audit_reviewed.exe
+update the filename of capstone_demo_slides.pptx to build_manifest_backup.out
+update the filename of emulator_controller_profile.cfg to contact_list.fbx
+update the filename of container_inventory.xlsm to quality_report_approved.bat
+update the filename of annotation_disagreement_report.xlsx to home_loan_amortisation.xlsx
+update the filename of D:\Backups\Projects\Supplier North\draft_lab.xlsx to \\OfficePC\Public\datasets\frontend\frontend_bundle_stats.html
+update the filename of \\NAS01\Shared\inventory\Week 42\home_network_diagram.drawio to C:\ProgramData\Personal Finance\Certificates\expense_approval_workflow.drawio
+update the filename of C:\Users\Ankit\Documents\Semester 5\research_collaboration_agreement.pdf to \\192.168.1.20\teamshare\Semester 5\Release 1.4\faculty_meeting_agenda.docx
+update the filename of D:\WinPilot\generated\Research Papers\sleep_schedule_notes.md to D:\Source\HR\customer support\appliance_warranty_claim.docx
+update the filename of \\192.168.1.20\teamshare\finance\inventory\handoff_package_manifest.json to C:\Users\ankit.kumar\Documents\Receipts\sports_facility_booking.ics

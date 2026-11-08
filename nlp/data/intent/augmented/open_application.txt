@@ -1,0 +1,477 @@
+bring up Firefox
+bring up Microsoft Edge
+bring up Brave Browser
+bring up Opera
+bring up Vivaldi
+bring up Arc Browser
+bring up the Notepad app
+bring up the WordPad app
+bring up the Paint app
+bring up the Calculator app
+bring up the Calendar app
+bring up the Clock app
+bring up the Photos application
+bring up the Camera application
+bring up the Snipping Tool application
+bring up the File Explorer application
+bring up the Task Manager application
+bring up the Settings application
+can you launch Control Panel
+can you launch Command Prompt
+can you launch PowerShell
+can you launch Windows Terminal
+can you launch Visual Studio Code
+can you launch Visual Studio
+can you open PyCharm
+can you open IntelliJ IDEA
+can you open Eclipse
+can you open Android Studio
+can you open Sublime Text
+can you open Notepad++
+can you open GitHub Desktop for me
+can you open Docker Desktop for me
+can you open Postman for me
+can you open Insomnia for me
+can you open Figma for me
+can you open Canva for me
+can you start Discord
+can you start Telegram
+can you start WhatsApp
+can you start Microsoft Teams
+can you start Zoom
+can you start Skype
+could you launch Slack
+could you launch Spotify
+could you launch VLC Media Player
+could you launch Windows Media Player
+could you launch Audacity
+could you launch GIMP
+could you launch Inkscape for me
+could you launch Blender for me
+could you launch Unity for me
+could you launch Unreal Engine for me
+could you launch Microsoft Word for me
+could you launch Microsoft Excel for me
+could you open Microsoft PowerPoint
+could you open Microsoft Outlook
+could you open Microsoft Access
+could you open Microsoft OneNote
+could you open Microsoft Publisher
+could you open LibreOffice Writer
+could you open LibreOffice Calc for me
+could you open LibreOffice Impress for me
+could you open LibreOffice Base for me
+could you open LibreOffice Draw for me
+could you open Google Drive for me
+could you open Google Docs for me
+could you start Google Sheets
+could you start Google Slides
+could you start Dropbox
+could you start OneDrive
+could you start VirtualBox
+could you start VMware Workstation
+could you start Oracle SQL Developer for me
+could you start MySQL Workbench for me
+could you start pgAdmin for me
+could you start DBeaver for me
+could you start MongoDB Compass for me
+could you start Redis Insight for me
+I need to launch Git Bash
+I need to launch PuTTY
+I need to launch WinSCP
+I need to launch 7-Zip
+I need to launch WinRAR
+I need to launch Everything Search
+I need to open ShareX
+I need to open OBS Studio
+I need to open Jupyter Notebook
+I need to open JupyterLab
+I need to open Anaconda Navigator
+I need to open Spyder
+I need to start Python Launcher
+I need to start Node.js
+I need to start Apache NetBeans
+I need to start Code::Blocks
+I need to start Dev-C++
+I need to start CLion
+I need you to launch WebStorm
+I need you to launch Rider
+I need you to launch DataGrip
+I need you to launch PostgreSQL
+I need you to launch MySQL
+I need you to launch MongoDB
+I need you to open MariaDB
+I need you to open SQLite Browser
+I need you to open FileZilla
+I need you to open WinMerge
+I need you to open Beyond Compare
+I need you to open Rufus
+I need you to start Balena Etcher
+I need you to start Microsoft To Do
+I need you to start Windows Security
+I need you to start Resource Monitor
+I need you to start PowerToys
+I need you to start RStudio
+I want to launch C++ Builder
+I want to launch 3D Viewer
+I want to launch SQLyog
+I want to launch Termius
+I want to launch MobaXterm
+I want to launch Chrome
+I want to open Firefox
+I want to open Microsoft Edge
+I want to open Brave Browser
+I want to open Opera
+I want to open Vivaldi
+I want to open Arc Browser
+I want to start Notepad
+I want to start WordPad
+I want to start Paint
+I want to start Calculator
+I want to start Calendar
+I want to start Clock
+I want you to launch Photos
+I want you to launch Camera
+I want you to launch Snipping Tool
+I want you to launch File Explorer
+I want you to launch Task Manager
+I want you to launch Settings
+I want you to open Control Panel
+I want you to open Command Prompt
+I want you to open PowerShell
+I want you to open Windows Terminal
+I want you to open Visual Studio Code
+I want you to open Visual Studio
+I want you to start PyCharm
+I want you to start IntelliJ IDEA
+I want you to start Eclipse
+I want you to start Android Studio
+I want you to start Sublime Text
+I want you to start Notepad++
+launch GitHub Desktop
+launch Docker Desktop
+launch Postman
+launch Insomnia
+launch Figma
+launch Canva
+launch Discord for me
+launch Telegram for me
+launch WhatsApp for me
+launch Microsoft Teams for me
+launch Zoom for me
+launch Skype for me
+launch Slack now
+launch Spotify now
+launch VLC Media Player now
+launch Windows Media Player now
+launch Audacity now
+launch GIMP now
+launch my Inkscape app
+launch my Blender app
+launch my Unity app
+launch my Unreal Engine app
+launch my Microsoft Word app
+launch my Microsoft Excel app
+launch the Microsoft PowerPoint
+launch the Microsoft Outlook
+launch the Microsoft Access
+launch the Microsoft OneNote
+launch the Microsoft Publisher
+launch the LibreOffice Writer
+launch the LibreOffice Calc app
+launch the LibreOffice Impress app
+launch the LibreOffice Base app
+launch the LibreOffice Draw app
+launch the Google Drive app
+launch the Google Docs app
+launch the app called Google Sheets
+launch the app called Google Slides
+launch the app called Dropbox
+launch the app called OneDrive
+launch the app called VirtualBox
+launch the app called VMware Workstation
+launch the app named Oracle SQL Developer
+launch the app named MySQL Workbench
+launch the app named pgAdmin
+launch the app named DBeaver
+launch the app named MongoDB Compass
+launch the app named Redis Insight
+launch the application called Git Bash
+launch the application called PuTTY
+launch the application called WinSCP
+launch the application called 7-Zip
+launch the application called WinRAR
+launch the application called Everything Search
+launch the application named ShareX
+launch the application named OBS Studio
+launch the application named Jupyter Notebook
+launch the application named JupyterLab
+launch the application named Anaconda Navigator
+launch the application named Spyder
+launch up Python Launcher
+launch up Node.js
+launch up Apache NetBeans
+launch up Code::Blocks
+launch up Dev-C++
+launch up CLion
+open WebStorm
+open Rider
+open DataGrip
+open PostgreSQL
+open MySQL
+open MongoDB
+open MariaDB for me
+open SQLite Browser for me
+open FileZilla for me
+open WinMerge for me
+open Beyond Compare for me
+open Rufus for me
+open Balena Etcher now
+open Microsoft To Do now
+open Windows Security now
+open Resource Monitor now
+open PowerToys now
+open RStudio now
+open my C++ Builder app
+open my 3D Viewer app
+open my SQLyog app
+open my Termius app
+open my MobaXterm app
+open my Chrome app
+open the Firefox
+open the Microsoft Edge
+open the Brave Browser
+open the Opera
+open the Vivaldi
+open the Arc Browser
+open the Notepad app
+open the WordPad app
+open the Paint app
+open the Calculator app
+open the Calendar app
+open the Clock app
+open the app called Photos
+open the app called Camera
+open the app called Snipping Tool
+open the app called File Explorer
+open the app called Task Manager
+open the app called Settings
+open the app named Control Panel
+open the app named Command Prompt
+open the app named PowerShell
+open the app named Windows Terminal
+open the app named Visual Studio Code
+open the app named Visual Studio
+open the application PyCharm
+open the application IntelliJ IDEA
+open the application Eclipse
+open the application Android Studio
+open the application Sublime Text
+open the application Notepad++
+open the application called GitHub Desktop
+open the application called Docker Desktop
+open the application called Postman
+open the application called Insomnia
+open the application called Figma
+open the application called Canva
+open the application named Discord
+open the application named Telegram
+open the application named WhatsApp
+open the application named Microsoft Teams
+open the application named Zoom
+open the application named Skype
+open up Slack
+open up Spotify
+open up VLC Media Player
+open up Windows Media Player
+open up Audacity
+open up GIMP
+open up the Inkscape app
+open up the Blender app
+open up the Unity app
+open up the Unreal Engine app
+open up the Microsoft Word app
+open up the Microsoft Excel app
+please launch Microsoft PowerPoint
+please launch Microsoft Outlook
+please launch Microsoft Access
+please launch Microsoft OneNote
+please launch Microsoft Publisher
+please launch LibreOffice Writer
+please launch LibreOffice Calc for me
+please launch LibreOffice Impress for me
+please launch LibreOffice Base for me
+please launch LibreOffice Draw for me
+please launch Google Drive for me
+please launch Google Docs for me
+please launch Google Sheets now
+please launch Google Slides now
+please launch Dropbox now
+please launch OneDrive now
+please launch VirtualBox now
+please launch VMware Workstation now
+please launch the Oracle SQL Developer application
+please launch the MySQL Workbench application
+please launch the pgAdmin application
+please launch the DBeaver application
+please launch the MongoDB Compass application
+please launch the Redis Insight application
+please open Git Bash
+please open PuTTY
+please open WinSCP
+please open 7-Zip
+please open WinRAR
+please open Everything Search
+please open ShareX for me
+please open OBS Studio for me
+please open Jupyter Notebook for me
+please open JupyterLab for me
+please open Anaconda Navigator for me
+please open Spyder for me
+please open Python Launcher now
+please open Node.js now
+please open Apache NetBeans now
+please open Code::Blocks now
+please open Dev-C++ now
+please open CLion now
+please open the WebStorm application
+please open the Rider application
+please open the DataGrip application
+please open the PostgreSQL application
+please open the MySQL application
+please open the MongoDB application
+please start MariaDB
+please start SQLite Browser
+please start FileZilla
+please start WinMerge
+please start Beyond Compare
+please start Rufus
+please start Balena Etcher for me
+please start Microsoft To Do for me
+please start Windows Security for me
+please start Resource Monitor for me
+please start PowerToys for me
+please start RStudio for me
+please start C++ Builder now
+please start 3D Viewer now
+please start SQLyog now
+please start Termius now
+please start MobaXterm now
+please start Chrome now
+please start the Firefox application
+please start the Microsoft Edge application
+please start the Brave Browser application
+please start the Opera application
+please start the Vivaldi application
+please start the Arc Browser application
+start Notepad
+start WordPad
+start Paint
+start Calculator
+start Calendar
+start Clock
+start Photos for me
+start Camera for me
+start Snipping Tool for me
+start File Explorer for me
+start Task Manager for me
+start Settings for me
+start Control Panel now
+start Command Prompt now
+start PowerShell now
+start Windows Terminal now
+start Visual Studio Code now
+start Visual Studio now
+start my PyCharm app
+start my IntelliJ IDEA app
+start my Eclipse app
+start my Android Studio app
+start my Sublime Text app
+start my Notepad++ app
+start the GitHub Desktop
+start the Docker Desktop
+start the Postman
+start the Insomnia
+start the Figma
+start the Canva
+start the Discord app
+start the Telegram app
+start the WhatsApp app
+start the Microsoft Teams app
+start the Zoom app
+start the Skype app
+start the app called Slack
+start the app called Spotify
+start the app called VLC Media Player
+start the app called Windows Media Player
+start the app called Audacity
+start the app called GIMP
+start the app named Inkscape
+start the app named Blender
+start the app named Unity
+start the app named Unreal Engine
+start the app named Microsoft Word
+start the app named Microsoft Excel
+start the application called Microsoft PowerPoint
+start the application called Microsoft Outlook
+start the application called Microsoft Access
+start the application called Microsoft OneNote
+start the application called Microsoft Publisher
+start the application called LibreOffice Writer
+start up LibreOffice Calc
+start up LibreOffice Impress
+start up LibreOffice Base
+start up LibreOffice Draw
+start up Google Drive
+start up Google Docs
+start up the Google Sheets app
+start up the Google Slides app
+start up the Dropbox app
+start up the OneDrive app
+start up the VirtualBox app
+start up the VMware Workstation app
+can you launch an app
+can you open an app
+can you start an app
+could you launch an application
+could you open an application
+could you start an application
+I need to launch an application
+I need to open an application
+I need to start an application
+I want to launch an app
+I want to open an app
+I want to start an app
+launch an application
+launch my browser
+launch my code editor
+launch program
+launch the app
+launch the browser
+launch the browser application
+launch the code editor
+launch the program
+open an application
+open my browser
+open my code editor
+open program
+open the app
+open the browser
+open the browser application
+open the code editor
+open the program
+please launch an app
+please launch the app
+please open an app
+please open the app
+please start an app
+please start the app
+start an application
+start my browser
+start my code editor
+start program
+start the app
+start the browser
+start the browser application
+start the code editor
+start the program

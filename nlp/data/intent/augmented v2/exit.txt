@@ -1,0 +1,900 @@
+can you close AOMEI Backupper
+can you close Floorp
+can you close Peace Equalizer
+can you close ON1 Photo RAW
+can you close Snagit
+can you exit MEGA
+can you exit GeForce Experience
+can you exit Pulumi
+can you exit Jitsi Meet
+can you exit MusicBee
+can you quit DebugView++
+can you quit Microsoft Publisher
+can you quit Adobe Photoshop
+can you quit Dell SupportAssist
+can you quit Windows Terminal Canary
+can you shut down Xftp
+can you shut down Unigine Superposition
+can you shut down Windows Speech Recognition
+can you shut down PSPP
+can you shut down Code::Blocks
+can you stop Power Automate Desktop
+can you stop Intel Unison
+can you stop Oracle VM VirtualBox Manager
+can you stop Microsoft Store Installer
+can you stop yq
+can you terminate Thorium Browser
+can you terminate Narrator
+can you terminate Meld
+can you terminate VeraCrypt
+can you terminate Brave Browser Beta
+close Pulover's Macro Creator
+close Poe
+close Lenovo Vantage
+close RubyMine
+close Couchbase Shell
+close Microsoft Outlook for me
+close GraphiQL for me
+close Tower for me
+close Azure CLI for me
+close Windows PowerShell for me
+close Anki now
+close Betterbird now
+close LibreOffice Calc now
+close TouchDesigner now
+close Windows Local Security Policy now
+close my Winamp application
+close my Firefox Developer Edition application
+close my Windows Subsystem for Linux application
+close my Unity Hub application
+close my Diffinity application
+close the StarUML app
+close the GIMP app
+close the JASP app
+close the Windows ADK app
+close the PassMark BurnInTest app
+close the WebStorm app now
+close the Advanced IP Scanner app now
+close the Windows Notepad app now
+close the Google Chrome app now
+close the NVIDIA Broadcast app now
+close the Buzz application
+close the Windows Print Management application
+close the Double Commander application
+close the Amazon Music application
+close the Apple Music application
+close the Task Scheduler application now
+close the GitUI application now
+close the SoapUI application now
+close the PowerShell 7 application now
+close the Jira application now
+close the FreeOffice program
+close the Zotero program
+close the BlueStacks program
+close the VB-CABLE Control Panel program
+close the PDF-XChange Editor program
+close the Paperless-ngx window
+close the Sophos Endpoint window
+close the Synology Drive Client window
+close the NetworkMiner window
+close the JabRef window
+could you close LibreOffice Base
+could you close TortoiseSVN
+could you close Xbox Accessories
+could you close BleachBit
+could you close Bitvise SSH Client
+could you close the Windows Optional Features app
+could you close the SoftMaker Office app
+could you close the OpenRGB app
+could you close the AutoIt app
+could you close the Microsoft Word app
+could you close the Visual Studio Professional application
+could you close the GOG Galaxy application
+could you close the Gradle application
+could you close the Sweet Home 3D application
+could you close the UltraEdit application
+could you close the Studio 3T program
+could you close the NoxPlayer program
+could you close the Rider program
+could you close the k9s program
+could you close the CapFrameX program
+could you close the Gpg4win window
+could you close the EmulationStation Desktop Edition window
+could you close the Ventoy window
+could you close the WampServer window
+could you close the Realtek Audio Console window
+could you end the Windows Color Management application
+could you end the Webex application
+could you end the Kleopatra application
+could you end the WinGet application
+could you end the SuperMemo application
+could you exit KeePassXC
+could you exit MakeMKV
+could you exit Ant Renamer
+could you exit SQL Server Management Studio
+could you exit VMware Workstation
+could you exit the Intel Connectivity Performance Suite app
+could you exit the DbSchema app
+could you exit the Element app
+could you exit the Gigabyte Control Center app
+could you exit the WezTerm app
+could you exit the Mod Organizer 2 application
+could you exit the Cyberduck application
+could you exit the Memurai application
+could you exit the Windows Features on or off application
+could you exit the GoodSync application
+could you exit the Windows Security Centre program
+could you exit the AWS Session Manager Plugin program
+could you exit the Krita program
+could you exit the Parsec program
+could you exit the SQL Server Integration Services program
+could you quit PowerShell 7 Preview
+could you quit MuseScore
+could you quit Xbox Game Bar
+could you quit Subtitle Edit
+could you quit Windows People
+could you quit the PuTTY app
+could you quit the SQL Server Reporting Services app
+could you quit the Cinebench app
+could you quit the Proton VPN app
+could you quit the Iriun Webcam app
+could you quit the Phone Link application
+could you quit the STM32CubeIDE application
+could you quit the ASUS AI Suite application
+could you quit the OBS Studio application
+could you quit the Azure Data Studio Insiders application
+could you quit the Windows Performance Recorder program
+could you quit the RemNote program
+could you quit the Trello program
+could you quit the PhpStorm program
+could you quit the Windows Magnifier program
+could you shut down the Dev-C++ application
+could you shut down the Quick Assist application
+could you shut down the Waterfox application
+could you shut down the File Explorer application
+could you shut down the Samsung Flow application
+could you stop Fiddler Everywhere
+could you stop Vivaldi Snapshot
+could you stop Samsung Smart Switch
+could you stop Filmora
+could you stop QGIS
+could you stop the MEGAsync app
+could you stop the Pageant app
+could you stop the AccessChk app
+could you stop the Prism Live Studio app
+could you stop the Orange Data Mining app
+could you stop the Tableau Desktop application
+could you stop the WingetUI application
+could you stop the Windows Backup and Restore application
+could you stop the Notepad2 application
+could you stop the Pencil Project application
+could you stop the Linear program
+could you stop the OpenMW program
+could you stop the Mendeley Reference Manager program
+could you stop the Microsoft Forms program
+could you stop the Snip & Sketch program
+could you terminate the Inkscape app
+could you terminate the LDtk app
+could you terminate the Ansible app
+could you terminate the Windows Maps app
+could you terminate the Logi Options+ app
+could you terminate the Microsoft 365 application
+could you terminate the AWS VPN Client application
+could you terminate the GNU nano application
+could you terminate the Node.js application
+could you terminate the Grammarly application
+could you terminate the PortableApps.com Platform program
+could you terminate the NVIDIA App program
+could you terminate the SQLyog program
+could you terminate the MPC-BE program
+could you terminate the Affinity Publisher program
+end GoTo Meeting
+end Adobe InDesign
+end Windows Resource Monitor
+end Pure Data
+end Box Drive
+end DOSBox Staging for me
+end Nessus Essentials for me
+end VSCodium for me
+end Photos for me
+end Defold for me
+end Cloudflare Tunnel now
+end Command Prompt now
+end Bambu Studio now
+end Roblox Studio now
+end OpenTofu now
+end my Docker Desktop application
+end my Krita AI Diffusion application
+end my Visual Studio Community application
+end my Ditto Clipboard application
+end my PowerToys Run application
+end the HWiNFO app
+end the VTube Studio app
+end the Paint 3D app
+end the Capture One app
+end the Windows Admin Center app
+end the MPV app now
+end the Processing app now
+end the Vim app now
+end the Microsoft Safety Scanner app now
+end the QLab app now
+end the AWS CloudFormation Designer application
+end the PeaZip application
+end the ShareX application
+end the R-Studio application
+end the LM Studio application
+end the VRoid Studio application now
+end the Batocera application now
+end the File Juggler application now
+end the Rclone Browser application now
+end the Visual Studio Code application now
+end the FileZilla program
+end the SentinelOne Agent program
+end the Microsoft Defender for Endpoint program
+end the Attribute Changer program
+end the GDevelop program
+exit Tableau
+exit NAPS2
+exit EndNote
+exit Autorun Organizer
+exit LaunchBox
+exit PPSSPP Windows for me
+exit curl for me
+exit Dopamine for me
+exit DBeaver Community for me
+exit Flow Launcher for me
+exit Streamlabs Desktop now
+exit OpenLens now
+exit PCSX2 Qt now
+exit Windows Proxy Settings now
+exit PotPlayer now
+exit my Kind application
+exit my Ungoogled Chromium application
+exit my FileZilla Client application
+exit my Wondershare Filmora application
+exit my Windows Component Services application
+exit the VLC media player app
+exit the VisualBoyAdvance-M app
+exit the ClamWin app
+exit the MongoDB Compass app
+exit the Open Hardware Monitor app
+exit the Windows File Explorer Options app now
+exit the Optimize Drives app now
+exit the Jubler app now
+exit the FinalShell app now
+exit the Ollama app now
+exit the Azure Storage Explorer application
+exit the Shotcut application
+exit the SteelSeries GG application
+exit the Wox application
+exit the Firefox ESR application
+exit the Fotor application now
+exit the SlickRun application now
+exit the XMedia Recode application now
+exit the wget application now
+exit the MySQL Workbench application now
+exit the RPCS3 program
+exit the Portmaster program
+exit the Steam program
+exit the Cursor program
+exit the FxSound program
+I need to close Age
+I need to close Quizlet
+I need to close Dolphin Emulator
+I need to close Mozilla Firefox
+I need to close EditPlus
+I need to close the npm app
+I need to close the Windows Scan app
+I need to close the GParted app
+I need to close the Computer Management app
+I need to close the WindTerm app
+I need to close the FBNeo application
+I need to close the Logitech G HUB application
+I need to close the Vagrant application
+I need to close the diagrams.net application
+I need to close the PDF24 Creator application
+I need to close the Windows Media Player program
+I need to close the Redis Insight program
+I need to close the Power BI Report Builder program
+I need to close the Windows Defender Firewall program
+I need to close the ArangoDB program
+I need to close the LICEcap window
+I need to close the Rio Terminal window
+I need to close the 7-Zip window
+I need to close the Microsoft Sway window
+I need to close the Shutter Encoder window
+I need to end the DOSBox-X application
+I need to end the Azure PowerShell application
+I need to end the MemTest64 application
+I need to end the MadMapper application
+I need to end the Coda application
+I need to exit the GanttProject app
+I need to exit the Fleet app
+I need to exit the Liquibase app
+I need to exit the Remote Desktop Manager app
+I need to exit the ASUS Armoury Crate app
+I need to exit the RAMMap application
+I need to exit the Google Chrome Beta application
+I need to exit the ACDSee Photo Studio application
+I need to exit the Windows Defender Firewall Control Panel application
+I need to exit the Dropbox application
+I need to exit the pnpm program
+I need to exit the ASUS GPU Tweak III program
+I need to exit the LibreOffice Draw program
+I need to exit the Recuva program
+I need to exit the Brim program
+I need to quit the NoMachine app
+I need to quit the ChatGPT app
+I need to quit the Oracle Linux app
+I need to quit the GlobalProtect app
+I need to quit the SQL Developer app
+I need to quit the WinMerge application
+I need to quit the Microsoft Visio application
+I need to quit the Devolutions Workspace application
+I need to quit the Max/MSP application
+I need to quit the Zeek application
+I need to quit the Eclipse IDE program
+I need to quit the Kodi program
+I need to quit the HandBrake program
+I need to quit the DeepL Write program
+I need to quit the Rescuezilla program
+I need to shut down the PsLoggedOn application
+I need to shut down the Microsoft SQL Server Configuration Manager application
+I need to shut down the Jamovi application
+I need to shut down the PsList application
+I need to shut down the Tilt application
+I need to stop Looker Studio
+I need to stop Kingston SSD Manager
+I need to stop IDLE
+I need to stop Packer
+I need to stop Joplin
+I need to stop the Hard Disk Sentinel app
+I need to stop the FreeCAD app
+I need to stop the LocalSend app
+I need to stop the ScummVM app
+I need to stop the Windows Adapter Settings app
+I need to stop the LibreOffice Math application
+I need to stop the DbgView application
+I need to stop the Qt Designer application
+I need to stop the Ultimaker Cura application
+I need to stop the Beyond Compare application
+I need to stop the Blender Launcher program
+I need to stop the Services program
+I need to stop the Brave program
+I need to stop the Microsoft Store program
+I need to stop the Bitwarden program
+I need to terminate the Strawberry Music Player application
+I need to terminate the Oracle SQLcl application
+I need to terminate the OpenVPN GUI application
+I need to terminate the Microsoft Access Runtime application
+I need to terminate the OpenVPN Connect application
+I want to close RapidAPI
+I want to close GIMP Portable
+I want to close UiPath Studio
+I want to close Microsoft Excel
+I want to close GitHub Desktop
+I want to close the TightVNC Viewer app
+I want to close the Taiga app
+I want to close the XYplorer app
+I want to close the Stremio app
+I want to close the Balsamiq Wireframes app
+I want to close the RivaTuner Statistics Server application
+I want to close the ASRock Polychrome RGB application
+I want to close the Corsair iCUE application
+I want to close the Bulk Crap Uninstaller application
+I want to close the Dolby Access application
+I want to close the Prometheus program
+I want to close the BlueJ program
+I want to close the Microsoft 365 Apps program
+I want to close the Kibana program
+I want to close the Prime95 program
+I want to close the Audacity window
+I want to close the Windows Recovery Drive window
+I want to close the WinDbg Preview window
+I want to close the SpaceSniffer window
+I want to close the Amazon WorkSpaces window
+I want to end the RPG Maker MV application
+I want to end the ownCloud Desktop application
+I want to end the Mixxx application
+I want to end the Mnemosyne application
+I want to end the RawTherapee application
+I want to exit the Bottles app
+I want to exit the Apple Mobile Device Support app
+I want to exit the Flask app
+I want to exit the Windows Remote Assistance app
+I want to exit the Adobe Acrobat Reader app
+I want to exit the Charles Proxy application
+I want to exit the Hyper Terminal application
+I want to exit the Upscayl application
+I want to exit the Windows Snipping Tool application
+I want to exit the VMware vCenter Converter application
+I want to exit the Claude program
+I want to exit the ESET Endpoint Security program
+I want to exit the Mattermost program
+I want to exit the HP Support Assistant program
+I want to exit the Sophos Scan & Clean program
+I want to quit the Citavi app
+I want to quit the Eclipse Temurin app
+I want to quit the Google Chrome Canary app
+I want to quit the Nextcloud Desktop app
+I want to quit the Veeam Agent for Microsoft Windows app
+I want to quit the AnythingLLM application
+I want to quit the Windows Defender Application Control application
+I want to quit the MediaMonkey application
+I want to quit the HitmanPro application
+I want to quit the Seagate SeaTools application
+I want to quit the Windows Installer program
+I want to quit the Microsoft Access Database Engine program
+I want to quit the Files program
+I want to quit the AMD Cleanup Utility program
+I want to quit the MKVToolNix GUI program
+I want to shut down Everything
+I want to shut down Alarms & Clock
+I want to shut down Neo4j Browser
+I want to shut down Thonny IDE
+I want to shut down OpenSCAD
+I want to shut down the Windows Calendar application
+I want to shut down the PlantUML application
+I want to shut down the Google Translate application
+I want to shut down the ConEmu application
+I want to shut down the LibreOffice Impress application
+I want to stop Task Manager
+I want to stop Helm
+I want to stop Chromium Embedded Framework
+I want to stop VirtualDJ
+I want to stop VentoyPlugson
+I want to stop the Mendeley app
+I want to stop the Ueli Launcher app
+I want to stop the CapCut app
+I want to stop the WinObj app
+I want to stop the Rufus app
+I want to stop the WizTree application
+I want to stop the HD Tune application
+I want to stop the Whisper Desktop application
+I want to stop the Oracle VirtualBox application
+I want to stop the Microsoft Project Online application
+I want to stop the Hyper-V Manager program
+I want to stop the WinDbg program
+I want to stop the Capacities program
+I want to stop the NetLimiter program
+I want to stop the AdwCleaner program
+I want to terminate HP Smart
+I want to terminate PicPick
+I want to terminate AIMP
+I want to terminate Android Studio
+I want to terminate Chocolatey GUI
+I want to terminate the Pixlr app
+I want to terminate the Microsoft 365 Copilot app
+I want to terminate the Npcap app
+I want to terminate the ASUS GPU Tweak app
+I want to terminate the PrusaSlicer app
+I want to terminate the Krisp application
+I want to terminate the GlassWire application
+I want to terminate the Check Point Endpoint Security application
+I want to terminate the iCloud application
+I want to terminate the LibreOffice application
+I want to terminate the Greenbone Security Assistant program
+I want to terminate the Prio program
+I want to terminate the YUMI program
+I want to terminate the Bitdefender program
+I want to terminate the Arc program
+please close ESET Online Scanner
+please close MEmu Play
+please close Git Bash
+please close Voice Recorder
+please close Mullvad VPN
+please close my Find and Run Robot app
+please close my GitHub CLI app
+please close my Visual Studio Enterprise app
+please close my NetSetMan app
+please close my Magnifier app
+please close the Royal TS app
+please close the Alacritty app
+please close the Fing app
+please close the LibreWolf app
+please close the iTunes app
+please close the ODBC Data Sources application
+please close the Microsoft Edge Dev application
+please close the Prism Launcher application
+please close the Windows Voice Access application
+please close the Perfect Automation application
+please close the Microsoft Project program
+please close the Zscaler Client Connector program
+please close the Corel PHOTO-PAINT program
+please close the PhotoRec program
+please close the Windows Script Host program
+please close the Windows Remote Desktop window
+please close the Windows Indexing Options window
+please close the File History window
+please close the Discord window
+please close the Chef Workstation window
+please end Wise Disk Cleaner
+please end Pulse Secure
+please end Godot Editor
+please end Windows Disk Cleanup
+please end Revo Uninstaller
+please end my Unreal Engine app
+please end my Windows Get Help app
+please end my Get Help app
+please end my Workspacer app
+please end my DropIt app
+please end the Windows Camera application
+please end the Opera application
+please end the Puppet Bolt application
+please end the Avast One application
+please end the Windows Management Instrumentation Tester application
+please end the Chrome Remote Desktop program
+please end the RKill program
+please end the Geekbench program
+please end the SAS Studio program
+please end the Adobe After Effects program
+please exit my Git Extensions app
+please exit my pCloud Drive app
+please exit my Perplexity app
+please exit my GitLab CLI app
+please exit my IntelliJ IDEA Community app
+please exit the Google Meet app
+please exit the TextPad app
+please exit the Surfshark app
+please exit the WordPad app
+please exit the Anytype app
+please exit the RingCentral application
+please exit the Paw application
+please exit the Microsoft ODBC Data Source Administrator application
+please exit the Remote Desktop Connection application
+please exit the WhatsApp application
+please exit the Mercurial program
+please exit the Xenia program
+please exit the KWrite program
+please exit the XAMPP Control Panel program
+please exit the Minecraft Launcher program
+please quit my Waves MaxxAudio Pro app
+please quit my MongoDB Shell app
+please quit my Meshmixer app
+please quit my NVIDIA Profile Inspector app
+please quit my Telegram Desktop app
+please quit the Confluence app
+please quit the foobar2000 app
+please quit the Adobe Animate app
+please quit the Keypirinha app
+please quit the Fusion 360 app
+please quit the SQLiteStudio application
+please quit the GitKraken application
+please quit the Voice Access application
+please quit the Fing Desktop application
+please quit the Chromium application
+please quit the R GUI program
+please quit the Electerm program
+please quit the Company Portal program
+please quit the CrowdStrike Falcon Sensor program
+please quit the HTTP Toolkit program
+please shut down Windows Package Manager
+please shut down JetBrains Toolbox
+please shut down Windows Sound Recorder
+please shut down melonDS
+please shut down Angry IP Scanner
+please shut down my Azure Developer CLI app
+please shut down my Intel Arc Control app
+please shut down my Windows Feedback Hub app
+please shut down my Luminar Neo app
+please shut down my AnyDesk app
+please shut down the OpenSearch Dashboards application
+please shut down the Okular application
+please shut down the Fork application
+please shut down the Microsoft PowerPoint application
+please shut down the Apache Maven application
+please shut down the Adobe Audition program
+please shut down the PowerToys program
+please shut down the SQL Developer Data Modeler program
+please shut down the Vita3K program
+please shut down the Control Panel program
+please stop Everything Toolbar
+please stop Google Drive
+please stop Screenpresso
+please stop 3DMark
+please stop Komorebi
+please stop my Avast Premium Security app
+please stop my SQLcl app
+please stop my Windows Storage Settings app
+please stop my VMware Horizon Client app
+please stop my CorelDRAW app
+please stop the Mini Mouse Macro app
+please stop the Advanced Renamer app
+please stop the MyASUS app
+please stop the MSI Afterburner app
+please stop the LMMS app
+please stop the Proton Pass application
+please stop the Google Play Games beta application
+please stop the WindowGrid application
+please stop the Microsoft SQL Server Management Studio 20 application
+please stop the CPU-Z application
+please stop the 86Box program
+please stop the NetBeans IDE program
+please stop the Windows Media Creation Tool program
+please stop the Godot Engine program
+please stop the AMD Software: Adrenalin Edition program
+please terminate Snappy Driver Installer Origin
+please terminate Psiphon
+please terminate Sysinternals Suite
+please terminate Insomnia
+please terminate Skaffold
+please terminate my Visual Paradigm app
+please terminate my Cemu app
+please terminate my Genymotion app
+please terminate my Qt Creator app
+please terminate my KoboldCpp app
+please terminate the OpenRCT2 app
+please terminate the Nmap app
+please terminate the Trend Micro Maximum Security app
+please terminate the mGBA app
+please terminate the Cisco Secure Client app
+please terminate the Power BI Desktop application
+please terminate the Visual Studio Installer application
+please terminate the Kies application
+please terminate the Sunshine application
+please terminate the Vivaldi application
+please terminate the Windows Network Reset program
+please terminate the Plastic SCM program
+please terminate the Ninite program
+please terminate the Nearby Share program
+please terminate the 1Password program
+quit TortoiseGit
+quit JupyterLab
+quit Oracle SQL Developer
+quit Clonezilla
+quit System Restore
+quit Samsung Settings for me
+quit GPU-Z for me
+quit Sublime Merge for me
+quit Lime3DS for me
+quit Oracle Net Manager for me
+quit Yarn now
+quit OpenStreetMap JOSM now
+quit Ryujinx now
+quit Playnite now
+quit Duolingo now
+quit my Unity Editor application
+quit my Rename Master application
+quit my Neo4j Desktop application
+quit my Lens application
+quit my Duplicati application
+quit the Redmine app now
+quit the AWS CLI v2 app now
+quit the Intel XTU app now
+quit the ESET Security app now
+quit the KeePass app now
+quit the Windows Subsystem for Android application now
+quit the Math Input Panel application now
+quit the Loom application now
+quit the DaVinci Resolve application now
+quit the Hoppscotch application now
+shut down KNIME Analytics Platform
+shut down Ivanti Secure Access
+shut down AWS Toolkit
+shut down Process Monitor
+shut down CLion
+shut down Paint for me
+shut down RPG Maker MZ for me
+shut down pgAdmin 4 for me
+shut down Robocorp Lab for me
+shut down AutoHotkey for me
+shut down KiCad now
+shut down Fritzing now
+shut down LTspice now
+shut down DBeaver now
+shut down DxO PhotoLab now
+shut down my Oracle Database XE application
+shut down my IBM SPSS Statistics application
+shut down my A5:SQL Mk-2 application
+shut down my Apache Directory Studio application
+shut down my PhraseExpress application
+shut down the Spotify app
+shut down the PsService app
+shut down the MATLAB app
+shut down the HyperX NGENUITY app
+shut down the Microsoft Translator app
+shut down the Simplenote app now
+shut down the Apache NetBeans app now
+shut down the LosslessCut app now
+shut down the PhotoScape X app now
+shut down the L-Connect 3 app now
+shut down the Media Player application
+shut down the Microsoft OneDrive application
+shut down the Microsoft Visio Plan 2 application
+shut down the Adobe Premiere Pro application
+shut down the Skype application
+shut down the OpenTTD application now
+shut down the AVG Internet Security application now
+shut down the Ryzen Controller application now
+shut down the System Information application now
+shut down the WinSCP application now
+shut down the Samsung SSD Toolkit program
+shut down the Windows Backup program
+shut down the Thunderbird program
+shut down the Intel Graphics Command Center program
+shut down the Notepad3 program
+shutdown PCem
+shutdown Minikube
+shutdown Microsoft Defender
+shutdown VidCoder
+shutdown Microsoft Clipchamp
+stop Battle.net
+stop Startup Delayer
+stop Rtools
+stop Executor
+stop Nexus Mods App
+stop Affinity Designer for me
+stop FastStone Image Viewer for me
+stop P4Merge for me
+stop Adobe Lightroom Classic for me
+stop Asana for me
+stop Windows Network Connections now
+stop YouTrack now
+stop Ren'Py now
+stop Syncthing now
+stop eM Client now
+stop my Slack application
+stop my Killer Intelligence Center application
+stop my Proxifier application
+stop my Oracle Net Configuration Assistant application
+stop my SecureCRT application
+stop the AWS SAM CLI app
+stop the Microsoft OneNote app
+stop the Jellyfin Media Player app
+stop the Gemini app
+stop the DTS Sound Unbound app
+stop the HTTPie Desktop app now
+stop the Process Explorer app now
+stop the Zed app now
+stop the ESP-IDF app now
+stop the OrcaSlicer app now
+stop the Winaero Tweaker application
+stop the yEd Graph Editor application
+stop the OWASP ZAP application
+stop the Bandicam application
+stop the LibreOffice Writer application
+stop the Visual Studio application now
+stop the Bluefish application now
+stop the ZeroTier application now
+stop the Malwarebytes application now
+stop the balenaEtcher application now
+stop the Postman program
+stop the Elgato Stream Deck program
+stop the TeamViewer program
+stop the Windows Steps Recorder program
+stop the Citra program
+terminate Reaper
+terminate IAR Embedded Workbench
+terminate Azure DevOps CLI
+terminate mitmproxy
+terminate Arc Browser
+terminate MPLAB X IDE for me
+terminate Thunder Client for me
+terminate Calibre for me
+terminate Windows Memory Diagnostic for me
+terminate Riot Client for me
+terminate CrystalDiskInfo now
+terminate MySQL Shell now
+terminate Directory Opus now
+terminate Canva now
+terminate Jupyter Notebook now
+terminate my Salt application
+terminate my Penpot application
+terminate my Microsoft Edge application
+terminate my Victoria HDD application
+terminate my Adobe Illustrator application
+terminate the Windsurf app
+terminate the Blender Benchmark app
+terminate the Registry Editor app
+terminate the Bitdefender Total Security app
+terminate the GNU Octave app
+terminate the NZXT CAM app now
+terminate the mRemoteNG app now
+terminate the RapidMiner app now
+terminate the Obsidian app now
+terminate the HP Display Center app now
+terminate the O&O ShutUp10++ application
+terminate the VMware Workstation Pro application
+terminate the Cmder application
+terminate the Kdenlive application
+terminate the Epic Games Launcher application
+terminate the EaseUS Partition Master application now
+terminate the RealVNC Viewer application now
+terminate the LanguageTool application now
+terminate the HWiNFO64 application now
+terminate the jq application now
+terminate the HeidiSQL program
+terminate the Tabby program
+terminate the Git Cola program
+terminate the Resolume Arena program
+terminate the KDE Connect program
+would you close the Windows Credential Manager app
+would you close the SignalRGB app
+would you close the VMware Workstation Player app
+would you close the RavenDB Studio app
+would you close the MiniTool Partition Wizard app
+would you close the RPG Maker application
+would you close the Actual Multiple Monitors application
+would you close the Microsoft PC Manager application
+would you close the Kaspersky Plus application
+would you close the SharePoint application
+would you close the LDPlayer program
+would you close the Zulip program
+would you close the InfluxDB Explorer program
+would you close the Amazon Appstore program
+would you close the AOMEI Partition Assistant program
+would you close the R Commander window
+would you close the Espanso window
+would you close the Autoruns window
+would you close the OpenShot window
+would you close the Microsoft Loop window
+would you end the SQL Server Import and Export Wizard application
+would you end the Git application
+would you end the Android Studio Emulator application
+would you end the NordVPN application
+would you end the Inkscape Portable application
+would you exit the FFmpeg Batch AV Converter app
+would you exit the ScreenToGif app
+would you exit the GoLand app
+would you exit the Windows Narrator app
+would you exit the Opera GX app
+would you exit the Stable Diffusion WebUI application
+would you exit the Rocket.Chat application
+would you exit the Araxis Merge application
+would you exit the scrcpy application
+would you exit the RetroBat application
+would you exit the Intel Driver and Support Assistant program
+would you exit the MAME program
+would you exit the PyCharm Community program
+would you exit the Google Drive for desktop program
+would you exit the VALORANT program
+would you quit the ReNamer app
+would you quit the Sublime Text app
+would you quit the Lossless Scaling app
+would you quit the Feedback Hub app
+would you quit the Windows System Configuration app
+would you quit the WireGuard application
+would you quit the Gearboy application
+would you quit the Love2D application
+would you quit the Foxit PDF Editor application
+would you quit the Grafana application
+would you quit the PyCharm program
+would you quit the SVN Tortoise program
+would you quit the PsKill program
+would you quit the Jan program
+would you quit the Group Policy Editor program
+would you shut down the ReadyAPI application
+would you shut down the RustRover application
+would you shut down the Toad for Oracle application
+would you shut down the Ubisoft Connect application
+would you shut down the Crucial Storage Executive application
+would you stop the Azure Bicep app
+would you stop the Scoop app
+would you stop the Adobe Bridge app
+would you stop the WPS Office app
+would you stop the Listary app
+would you stop the WinDirStat application
+would you stop the Microsoft Power BI application
+would you stop the DBeaver Enterprise application
+would you stop the Patch My PC Home Updater application
+would you stop the Jaeger UI application
+would you stop the PCSX-Redux program
+would you stop the ExamDiff program
+would you stop the Positron program
+would you stop the Power Automate program
+would you stop the PCSX2 program
+would you terminate the CrystalDiskMark app
+would you terminate the Veeam Agent app
+would you terminate the GnuPG app
+would you terminate the OpenProject app
+would you terminate the Visual Studio Code Insiders app
+would you terminate the 7-Zip File Manager application
+would you terminate the Zen Browser application
+would you terminate the DroidCam application
+would you terminate the Open WebUI application
+would you terminate the AquaSnap application
+would you terminate the Windows Alarms program
+would you terminate the Perforce Helix P4V program
+would you terminate the FanControl program
+would you terminate the Windows Terminal program
+would you terminate the VB-Audio VoiceMeeter program

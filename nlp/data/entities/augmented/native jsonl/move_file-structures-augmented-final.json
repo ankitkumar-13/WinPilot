@@ -1,0 +1,1469 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "move_file",
+      "pattern": "can you move {FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you move {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you move {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you move {PATH_FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you move {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you move the file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you move the file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you put {FILE} in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you put {FILE} in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you put {PATH_FILE} in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you send the file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "can you send the file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {PATH_FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move the file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move the file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you put the file in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you put the file in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I need to move {FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I need to move {PATH_FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I need to move the file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I need to move the file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I want to move {FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I want to move {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I want to move {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I want to move {PATH_FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I want to move {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I want to move the file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I want to move the file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} here",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} to my {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} to my {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} here",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} to my {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file called {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file called {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file called {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file from {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file named {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file named {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file named {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move file {FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move file {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move file {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move file {PATH_FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move file {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move that file into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move that file into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {FILE} from {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {FILE} from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {PATH_FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file called {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file called {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file called {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file named {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file named {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file named {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file to my {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file to my {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move this file into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move this file into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {FILE} into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {PATH_FILE}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {PATH_FILE} into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move the file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move the file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please put {FILE} in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please put {FILE} in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please put {PATH_FILE} in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {FILE} here",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {FILE} in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {FILE} in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {FILE} in my {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {FILE} in my {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {PATH_FILE} here",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {PATH_FILE} in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {PATH_FILE} in my {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put that file in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put that file in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put the file in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put the file in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put the file in my {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put the file in my {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put this file in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put this file in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send {FILE} here",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send {PATH_FILE} here",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send that file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send that file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send the file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send the file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send this file to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send this file to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I’d like you to move {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I’d like you to move {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I’d like you to move {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I’d like you to move {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I need you to move {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I need you to move {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I need you to move {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "I need you to move {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {FILE} into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {PATH_FILE} into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you move {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please move {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file named {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move the file named {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file named {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file named {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file called {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move a file called {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {PATH_FILE} in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put the file {PATH_FILE} in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put the file {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put this file {PATH_FILE} in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put this file {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send the file {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send the file {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send this file {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "send this file {PATH_FILE} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {FOLDER} into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {FOLDER} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {PATH_DIR} into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {PATH_DIR} into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "relocate {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "relocate {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "relocate {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "relocate {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "transfer {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "transfer {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "transfer {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "transfer {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} over to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} over to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} over to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} over to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "shift {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "shift {FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "shift {PATH_FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "shift {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} out of {FOLDER} and into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} out of {FOLDER} and into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} out of {PATH_DIR} and into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} out of {PATH_DIR} and into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} out of {PATH_DIR} and into {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} out of {PATH_DIR} and into {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "take {FILE} from {FOLDER} and move it to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "take {FILE} from {FOLDER} and move it to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "take {FILE} from {PATH_DIR} and move it to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "take {FILE} from {PATH_DIR} and move it to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {FOLDER} over to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {FOLDER} over to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {PATH_DIR} over to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from {PATH_DIR} over to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} from {PATH_DIR} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please relocate {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "please relocate {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you transfer {FILE} to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "could you transfer {PATH_FILE} to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} into the folder {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} into the folder {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} to the directory {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} to the directory {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {FILE} away in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {FILE} away in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {PATH_FILE} away in {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "put {PATH_FILE} away in {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from here to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {FILE} from here to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} from here to {FOLDER}",
+      "intents": [
+        "move_file"
+      ]
+    },
+    {
+      "dataset": "move_file",
+      "pattern": "move {PATH_FILE} from here to {PATH_DIR}",
+      "intents": [
+        "move_file"
+      ]
+    }
+  ]
+}

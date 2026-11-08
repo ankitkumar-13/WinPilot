@@ -1,0 +1,900 @@
+can you delete the file called container_inventory.tsx
+can you delete the file called deployment_checklist.mp3
+can you delete the file called project_scope_approved.ini
+can you delete the file called asset_inventory.heapsnapshot
+can you delete the file called fitness_challenge_results.csv
+can you delete the file called F:\External Drive\Audio Troubleshooting\tests\synthetic_data_seed.json
+can you delete the file called C:\Program Files (x86)\Personal Finance\receipts\copy_file_validation.csv
+can you delete the file called E:\Media\Model Outputs\weekly_menu.xlsx
+can you delete the file called D:\Projects\Reports\Semester 7\team_photo.png
+can you delete the file called C:\Users\Ankit\Pictures\website\release builds\online_order_history.csv
+can you get rid of sbom_cyclonedx.json
+can you get rid of caption_timing_review.srt
+can you get rid of support_case.dmp
+can you get rid of refund_request.3mf
+can you get rid of container_inventory_v2.xlsx
+can you get rid of \\backup-server\weekly\To Submit\Old Versions\feature_requests.csv
+can you get rid of C:\Users\Public\Documents\Driver Backups\Driver Backups\plant_seedling_inventory.xlsx
+can you get rid of C:\Users\Ankit\Pictures\docs\Semester 5\pre-commit-config.yaml
+can you get rid of C:\Program Files (x86)\generated\Week 42\privacy_impact_assessment.docx
+can you get rid of D:\Data\October 2026\operations\office_supply_order.xlsx
+can you remove the file named newsletter_header.png
+can you remove the file named mongodb_collection_stats.json
+can you remove the file named dns_lookup_results.txt
+can you remove the file named compliance_review_approved.log
+can you remove the file named campaign_calendar_draft.jpg
+can you remove the file named C:\Users\Ankit\OneDrive\Week 42\contracts\running_route_export.gpx
+can you remove the file named C:\Users\Public\Documents\Exam Preparation\training data\file_search_benchmark.csv
+can you remove the file named C:\Temp\meeting notes\Device Reports\move_folder_edge_cases.jsonl
+can you remove the file named E:\Incoming\finance\photos\wifi_diagnostics.txt
+can you remove the file named D:\College\GEHU\Semester 7\Project Report\final_year_project_report.docx
+could you delete inspection_checklist.srt
+could you delete api_test_results_v2.mkv
+could you delete graphql_introspection.json
+could you delete payroll_register_final.webm
+could you delete integration_test_reviewed.pt
+could you delete \\NAS01\Shared\Exam Preparation\receipts\file_explorer_layout_backup.reg
+could you delete F:\External Drive\Assignments\Windows Logs\download_sorting_rules.json
+could you delete C:\Users\Ankit\Videos\Model Outputs\security_guard_roster.xlsx
+could you delete D:\Staging\website\docs\handoff_package_manifest.json
+could you delete D:\Work\travel\meeting notes\draft_database.svg
+could you delete a file called student_project_archive.zip
+could you delete a file called regression_suite_v3.lnk
+could you delete a file called api_specification.inf
+could you delete a file called label_to_id_map.json
+could you delete a file called regression_suite_final.cab
+could you delete a file called C:\Users\Ankit\Pictures\Training Data\warehouse_temperature_log.csv
+could you delete a file called C:\Users\Ankit\OneDrive\Shared Documents\datasets\local_llm_response_cache.jsonl
+could you delete a file called D:\Research\Semester 7\design files\checksum_validation.log
+could you delete a file called \\OfficePC\Public\Travel Planning\inventory\cafeteria_vendor_invoice.pdf
+could you delete a file called C:\Projects\Photos\road_tax_receipt.pdf
+could you delete a file named meeting_notes.docx
+could you delete a file named risk_assessment_approved.py
+could you delete a file named product_catalog_backup.msg
+could you delete a file named student_lab_groups.xlsx
+could you delete a file named warehouse_map.png
+could you delete a file named G:\Shared\customer support\Semester 5\service_dependency_map.drawio
+could you delete a file named F:\External Drive\presentations\PBL Phase 2\font_license_inventory.csv
+could you delete a file named C:\Users\Public\Documents\Source\tuition_receipt.pdf
+could you delete a file named D:\Shared\Research\fitness_challenge_results.csv
+could you delete a file named D:\Backups\PBL Phase 2\terrain_heightmap.exr
+could you get rid of weekly_menu.xlsx
+could you get rid of performance_profile.prof
+could you get rid of service_health_draft.ost
+could you get rid of release_notes_final.inf
+could you get rid of home_inventory_october.xlsx
+could you get rid of \\OfficePC\Public\design files\tests\db_schema.sql
+could you get rid of C:\Users\Ankit\Pictures\WinPilot\Release 1.4\website_release_checklist.xlsx
+could you get rid of C:\Users\Ankit\Videos\frontend\client files\file_lock_contention.log
+could you get rid of C:\Dev\WinPilot\setup_installer.exe
+could you get rid of E:\Personal\diagnostics\recordings\student_attendance_exception.csv
+could you remove project_plan_revised.ini
+could you remove investment_tax_report.pdf
+could you remove access_review_2026.xlsx
+could you remove docker-compose.yml
+could you remove todo_today.txt
+could you remove C:\Users\Ankit\Desktop\Sprint 13\generated\support_call_recording_21.mp3
+could you remove D:\Backups\Course Material\To Submit\renewal_forecast.xlsx
+could you remove D:\Work\travel\training data\powershell_profile.ps1
+could you remove C:\Users\Ankit\OneDrive\Archive\portfolio_assets.zip
+could you remove C:\Users\Ankit\OneDrive\Semester 5\generated\supplier_delivery_score.xlsx
+could you remove a file called electricity_bill.pdf
+could you remove a file called equipment_register.msi
+could you remove a file called packet_capture_dns_issue.pcapng
+could you remove a file called evaluate_model.py
+could you remove a file called windows_terminal_profile.json
+could you remove a file called C:\Users\ankit.kumar\Documents\Semester 5\hyperparameters.yaml
+could you remove a file called G:\Shared\invoices\Driver Backups\terrain_heightmap.exr
+could you remove a file called C:\Program Files\model outputs\recordings\sales_pipeline_october.xlsx
+could you remove a file called \\backup-server\weekly\Exam Preparation\warehouse\field_observations.md
+could you remove a file called D:\Data\Semester 5\assignment_brief.pdf
+could you remove a file named windows_shell_commands.md
+could you remove a file named risk_register.gradle
+could you remove a file named records_retention_audit.pdf
+could you remove a file named invoice_1048.pdf
+could you remove a file named team_folder_index.csv
+could you remove a file named \\OfficePC\Public\recordings\Final Versions\responsive_layout_checks.pdf
+could you remove a file named C:\Users\Ankit\Documents\campaigns\Semester 5\contact_form_test_results.csv
+could you remove a file named D:\Projects\exports\warehouse\feature_store_inventory.csv
+could you remove a file named D:\Work\test results\website\diagram_network.drawio
+could you remove a file named C:\Temp\Supplier North\logs\hyperparameters.yaml
+delete weekly_update.bin
+delete tax_documents_2025.pdf
+delete asset_register_2026.xlsx
+delete image_optimisation_results.xlsx
+delete monthly_summary.toml
+delete D:\Projects\WinPilot\Certificates\hotel_cancellation_receipt.pdf
+delete D:\Research\Downloads\draft_placement.xlsx
+delete \\OfficePC\Public\Reports\website\draft_dataset.docx
+delete C:\Temp\Model Outputs\saved_sessions.json
+delete C:\Program Files (x86)\Graphics Troubleshooting\WinPilot\create_folder_examples.jsonl
+delete a file called recipe_shopping_list.xlsx
+delete a file called analytics_dashboard.eml
+delete a file called unit_test_report_approved.pow
+delete a file called virtual_machine_snapshot.vmdk
+delete a file called quality_report.tmp
+delete a file called C:\Users\Ankit\OneDrive\Receipts\browser_bookmarks_2026.html
+delete a file called E:\Incoming\client files\WinPilot\washing_machine_service_invoice.pdf
+delete a file called D:\WinPilot\WinPilot\release builds\game_screenshots.zip
+delete a file called F:\External Drive\Driver Backups\src\company_research_notes.md
+delete a file called C:\Users\Ankit\Documents\tests\exports\conference_travel_claim.xlsx
+delete a file named warehouse_stock.bat
+delete a file named integration_test_revised.pow
+delete a file named memory_leak_snapshot.heapsnapshot
+delete a file named query_results.toml
+delete a file named dependency_audit.mp4
+delete a file named F:\External Drive\api tests\campaigns\lab_results_export.csv
+delete a file named C:\Users\Ankit\Downloads\operations\diagnostics\resume_ankit.pdf
+delete a file named D:\Shared\Archive\database_backup.sql
+delete a file named E:\College\photos\finance\inference_latency_profile.csv
+delete a file named C:\Program Files (x86)\Source Code\Assignments\disaster_recovery_test.docx
+delete a file whose name is weekly_update_backup.conf
+delete a file whose name is vulnerability_report_draft.hcl
+delete a file whose name is university_exam_form.pdf
+delete a file whose name is payment_gateway_reconciliation.xlsx
+delete a file whose name is product_catalog_draft.c
+delete a file whose name is D:\Staging\imports\validation data\vehicle_fleet_register.xlsx
+delete a file whose name is F:\External Drive\Reports\backups\lab_manual.pdf
+delete a file whose name is D:\Staging\marketing\imports\recycle_bin_audit.csv
+delete a file whose name is E:\Media\model outputs\WinPilot\electricity_meter_photo.jpg
+delete a file whose name is C:\Users\Ankit\Downloads\Backups\construction_progress_photos.zip
+delete a file with the name cycling_route_weekend.gpx
+delete a file with the name quarterly_review.heapsnapshot
+delete a file with the name browser_downloads_october.csv
+delete a file with the name migration_plan_v3.tmp
+delete a file with the name cloud_cost_report_draft.img
+delete a file with the name C:\Users\Public\Documents\Screenshots\recording_2026-10-19.wav
+delete a file with the name D:\WinPilot\datasets\design files\thesis_submission_receipt.pdf
+delete a file with the name D:\Projects\Training Data\old_versions_do_not_delete.zip
+delete a file with the name E:\Archive\migrations\recordings\on_call_handover.docx
+delete a file with the name E:\Archive\photos\database\festival_shopping_list.xlsx
+delete file automation_plugin_test_results.xlsx
+delete file podcast_queue.opml
+delete file safety_incident_report.docx
+delete file warehouse_stock_2026_10.dat
+delete file requirements.txt
+delete file D:\Research\training data\contracts\entity_span_errors.csv
+delete file D:\Data\Week 42\imports\feature_requests.csv
+delete file C:\Users\Ankit\Downloads\Driver Backups\Graphics Troubleshooting\safety_briefing.pdf
+delete file \\backup-server\weekly\generated\Network Captures\temporary_file_retention.csv
+delete file C:\ProgramData\marketing\screenshots\warranty_card.pdf
+delete the document game_level_blockout.blend
+delete the document package-lock.json
+delete the document draft_analytics.csv
+delete the document campaign_calendar_v3.md
+delete the document salary_statement_final.crt
+delete the document C:\Users\Ankit\Documents\inventory\datasets\cloud_cost_report.xlsx
+delete the document C:\Users\Ankit\Videos\warehouse\Certificates\visa_application.pdf
+delete the document \\OfficePC\Public\website\Home Repairs\plant_care_schedule.csv
+delete the document C:\Users\Ankit\Downloads\Backups\maintenance_request_0092.docx
+delete the document E:\Media\config\photos\data_warehouse_refresh.log
+delete the document called order_picking_errors.csv
+delete the document called alumni_event_invitation.pdf
+delete the document called portable_tool.zip
+delete the document called localization_fallback_cases.json
+delete the document called windows_reserved_filenames.txt
+delete the document called D:\Research\Shared Documents\contracts\k6_latency_summary.json
+delete the document called C:\Users\Ankit\Videos\family photos\NER experiments\file_explorer_layout_backup.reg
+delete the document called \\OfficePC\Public\Course Material\test results\sbom_cyclonedx.json
+delete the document called E:\College\Source Code\datasets\latency_baseline.xlsx
+delete the document called D:\WinPilot\Personal Finance\Shared Documents\webinar_notes.docx
+delete the document named customer_export_2026_10.ost
+delete the document named quarterly_review.rs
+delete the document named seo_report.dwg
+delete the document named git_credentials_audit.txt
+delete the document named network_topology_v3.stl
+delete the document named D:\Projects\Training Data\path_resolution_tests.csv
+delete the document named D:\Shared\Photos\graphics_settings.ini
+delete the document named \\192.168.1.20\teamshare\backups\logs\cron_migration_notes.md
+delete the document named F:\External Drive\meeting notes\test results\event_viewer_errors.evtx
+delete the document named C:\Users\Public\Documents\Reports\marksheet_semester_5.pdf
+delete the file stock_reconciliation_v3.pst
+delete the file infrastructure_diagram.drawio
+delete the file license_register_reviewed.cab
+delete the file skill_gap_assessment.docx
+delete the file asset_inventory_draft.dat
+delete the file G:\Shared\api tests\release builds\safety_briefing.pdf
+delete the file D:\Research\Research\folder_migration_plan.docx
+delete the file \\NAS01\Shared\Finance\Invoices\INV-2026-1048.pdf
+delete the file C:\Temp\frontend\design files\background_job_failures.csv
+delete the file \\OfficePC\Public\screenshots\To Review\background_job_failures.csv
+delete the file called report_for_manager.docx
+delete the file called restore_test_2026_10.arrow
+delete the file called contract_signed_2026_10.docx
+delete the file called guitar_chord_notes.docx
+delete the file called salary_statement_v2.pom
+delete the file called D:\Backups\engineering\Personal Finance\candidate_resume_24.pdf
+delete the file called D:\Data\WinPilot\bus_booking_confirmation.pdf
+delete the file called D:\College\GEHU\Invoices\records_retention_audit.pdf
+delete the file called D:\Data\client files\invoices\risk_register.xlsx
+delete the file called E:\College\HR\To Submit\memory_leak_snapshot.heapsnapshot
+delete the file named license_register_draft.lnk
+delete the file named disaster_recovery_v2.ai
+delete the file named purchase_order_2026_10.model
+delete the file named accounts_payable_ageing.xlsx
+delete the file named load_test_report.mp3
+delete the file named C:\Users\Ankit\OneDrive\HR\presentations\selenium_grid_config.toml
+delete the file named D:\Source\tests\Travel Planning\compatibility_test_results.csv
+delete the file named E:\Media\Projects\Reports\biodiversity_observation_log.xlsx
+delete the file named D:\Research\Audio Troubleshooting\entity pools\temporary_file_retention.csv
+delete the file named C:\Users\Ankit\Desktop\release builds\config\delivery_tracking_export.csv
+delete the file with the name student_fee_statement.pdf
+delete the file with the name cloud_backup_policy.docx
+delete the file with the name internship_offer_comparison.pdf
+delete the file with the name thread_dump_20261020.txt
+delete the file with the name social_post_approval_tracker.xlsx
+delete the file with the name D:\Backups\Receipts\career_fair_map.png
+delete the file with the name E:\Media\engineering\campaigns\delivery_slot_confirmation.pdf
+delete the file with the name E:\Archive\model outputs\Client A\clinical_study_site_log.csv
+delete the file with the name C:\Dev\HR\Network Captures\garden_plan.jpg
+delete the file with the name \\backup-server\weekly\screenshots\Travel Planning\meeting_notes.docx
+delete the image family_trip_itinerary.docx
+delete the image policy_exception_log.csv
+delete the image recruitment_pipeline.csv
+delete the image security_findings.pcap
+delete the image latency_benchmark.bat
+delete the image E:\Personal\docs\To Review\site_materials_inventory.csv
+delete the image E:\Personal\engineering\operations\demo_account_list.csv
+delete the image C:\Users\Ankit\Desktop\family photos\Course Material\predictions_output.csv
+delete the image D:\Projects\diagnostics\Lab Work\file_manifest.txt
+delete the image E:\Media\validation data\design files\external_drive_inventory.csv
+delete the image file called refund_request_reviewed.rar
+delete the image file called webhook_retry_report.csv
+delete the image file called migration_plan_final.xml
+delete the image file called aws_lab_completion.pdf
+delete the image file called budget_forecast.ps1
+delete the image file called C:\Users\Ankit\Videos\Payroll Manager\marketing\onedrive_sync_errors.csv
+delete the image file called D:\Research\Invoices\documents_archive.zip
+delete the image file called D:\Staging\screenshots\database\operation_rollback_log.txt
+delete the image file called E:\Media\Reports\trip_photos_manali.zip
+delete the image file called E:\Personal\Graphics Troubleshooting\Course Material\webinar_notes.docx
+delete the image file named leave_request_reviewed.json
+delete the image file named draft_annotations.yaml
+delete the image file named draft_expenses.zip
+delete the image file named config_backup.json
+delete the image file named flight_delay_claim.docx
+delete the image file named \\FileServer\Departments\training data\receipts\boot_log_20261020.txt
+delete the image file named D:\Source\WinPilot\Shared Documents\password_manager_export_encrypted.csv
+delete the image file named C:\ProgramData\engineering\imports\toll_transaction_export.csv
+delete the image file named C:\Users\Ankit\Desktop\operations\Source Code\records_classification.xlsx
+delete the image file named C:\Dev\Graphics Troubleshooting\temp\wallpaper_4k.jpg
+delete the PDF monthly_summary_approved.jpg
+delete the PDF donation_records.xlsx
+delete the PDF phone_transfer_log.txt
+delete the PDF database_snapshot.evtx
+delete the PDF payroll_register_approved.crt
+delete the PDF E:\College\Screenshots\settings.py
+delete the PDF E:\Personal\generated\Personal Finance\ad_performance.csv
+delete the PDF C:\Users\Ankit\Videos\Firewall Configs\docs\fire_alarm_test_record.pdf
+delete the PDF D:\Staging\imports\Source Code\screen_capture_01.mp4
+delete the PDF D:\Staging\Research Papers\tests\salary_slip_october.pdf
+delete the PDF file called build_manifest_final.gz
+delete the PDF file called warranty_card.pdf
+delete the PDF file called .editorconfig
+delete the PDF file called travel_claim_status.html
+delete the PDF file called api_test_results_draft.mp4
+delete the PDF file called D:\College\GEHU\Final Versions\October 2026\paper_draft.docx
+delete the PDF file called C:\Users\Ankit\Documents\Screenshots\consent_records_index.xlsx
+delete the PDF file called C:\Users\Ankit\Videos\recordings\campaigns\wake_word_false_positives.csv
+delete the PDF file called C:\Users\Ankit\Documents\test results\migrations\home_cleaning_checklist.docx
+delete the PDF file called C:\Users\ankit.kumar\Documents\Invoices\translation_memory.tmx
+delete the PDF file named meeting_minutes_revised.msix
+delete the PDF file named research_ethics_form.pdf
+delete the PDF file named lab_manual.pdf
+delete the PDF file named cycling_maintenance_log.xlsx
+delete the PDF file named neighbourhood_contact_list.vcf
+delete the PDF file named C:\Users\Public\Documents\Semester 5\neighbourhood_event_flyer.jpg
+delete the PDF file named E:\Media\Travel Planning\To Review\recycle_bin_audit.csv
+delete the PDF file named D:\Backups\Personal Finance\exports\entity_pool_usage_stats.xlsx
+delete the PDF file named C:\Users\Ankit\OneDrive\Meeting Notes\dependency_lockfile.txt
+delete the PDF file named D:\Backups\imports\Projects\packet_loss_measurements.csv
+delete the text file backup_manifest.mp4
+delete the text file build_manifest_v2.heapsnapshot
+delete the text file asset_inventory_v3.jsonl
+delete the text file license_register_final.jsonl
+delete the text file test_fixture.json
+delete the text file C:\Users\Ankit\Documents\Graphics Troubleshooting\Sprint 13\endpoint_isolation_log.txt
+delete the text file E:\Archive\datasets\Sprint 13\portfolio_case_study.pdf
+delete the text file D:\Work\October 2026\Lab Work\explorer_crash_dump.dmp
+delete the text file E:\College\To Submit\recordings\leave_request_form.docx
+delete the text file E:\Media\training data\exports\windows_api_notes.md
+delete the text file called vehicle_puc_certificate.pdf
+delete the text file called model_ablation_results.xlsx
+delete the text file called unit_test_report.pptx
+delete the text file called replication_status.csv
+delete the text file called purchase_request_2026_311.pdf
+delete the text file called D:\Projects\tests\datasets\iam_policy_review.json
+delete the text file called D:\Backups\validation data\October 2026\webhook_delivery_log.csv
+delete the text file called E:\Incoming\Week 42\frontend\inventory_tracker.xlsx
+delete the text file called C:\Users\Ankit\Downloads\tests\Graphics Troubleshooting\webinar_registration_confirmation.pdf
+delete the text file called D:\Source\website\datasets\font_collection.zip
+delete the text file named contract_draft_draft.conf
+delete the text file named wifi_adapter_driver.zip
+delete the text file named stream_overlay_assets.zip
+delete the text file named powercfg_energy_report.html
+delete the text file named maintenance_log.js
+delete the text file named D:\Shared\Receipts\language_practice.docx
+delete the text file named \\OfficePC\Public\To Review\inventory\factory_shift_handover.docx
+delete the text file named C:\Dev\Semester 5\ad_performance.csv
+delete the text file named E:\Personal\backups\Reports\warehouse_stock_20261020.csv
+delete the text file named C:\Projects\Meeting Notes\untitled_document_7.docx
+discard the file audit_evidence.mp3
+discard the file dispatch_exception_report.csv
+discard the file tls_certificate.cer
+discard the file cash_flow_approved.tfstate
+discard the file bank_reconciliation_approved.trace
+discard the file E:\Personal\To Submit\assets\PO-2026-00481.pdf
+discard the file C:\Program Files (x86)\Lab Work\finance\semester_timetable.pdf
+discard the file E:\Archive\validation data\receipts\cron_migration_notes.md
+discard the file C:\Users\Ankit\Documents\release builds\Travel Planning\vmware_network_config.vmx
+discard the file C:\Temp\operations\Shared Documents\manufacturing_work_order.pdf
+discard the file called price_comparison_final.jsonl
+discard the file called price_comparison.wav
+discard the file called large_files_review.txt
+discard the file called pet_microchip_record.pdf
+discard the file called nextjs_build_manifest.json
+discard the file called D:\College\GEHU\Home Repairs\test results\etl_pipeline.py
+discard the file called F:\External Drive\generated\backups\checksum_manifest.sha256
+discard the file called E:\Media\meeting notes\October 2026\subscription_renewal_list.csv
+discard the file called D:\College\GEHU\Source\benefits_enrolment_form.pdf
+discard the file called C:\Users\Ankit\Downloads\Data\thesis_chapter_2.docx
+discard the file named payroll_register_reviewed.example
+discard the file named orders_snapshot_20261020.csv
+discard the file named shipment_tracking_v2.cer
+discard the file named app_icon.png
+discard the file named performance_review.docx
+discard the file named D:\Source\travel\Certificates\course_materials_week7.zip
+discard the file named C:\Users\Ankit\Downloads\finance\October 2026\sports_facility_booking.ics
+discard the file named E:\Archive\Invoices\shared_drive_permissions.xlsx
+discard the file named D:\Source\Network Captures\Client A\mod_list.txt
+discard the file named \\NAS01\Shared\family photos\training data\travel_document_bundle.zip
+erase a file called social_media_plan_reviewed.mov
+erase a file called move_folder_edge_cases.jsonl
+erase a file called Video_2026-10-16_22-41-08.mp4
+erase a file called latency_benchmark_reviewed.c
+erase a file called uptime_summary_approved.iso
+erase a file called D:\Data\family photos\operations\generated_records_batch_01.jsonl
+erase a file called C:\Program Files\training data\Graphics Troubleshooting\records_retention_audit.pdf
+erase a file called D:\Backups\Photos\exam_admit_card.pdf
+erase a file called D:\Research\WinPilot\receipt_fuel.jpg
+erase a file called F:\External Drive\inventory\Lab Work\lab_safety_training.pdf
+erase a file named plant_seedling_inventory.xlsx
+erase a file named orm_model_diff.patch
+erase a file named meeting_minutes_2026_10.exe
+erase a file named browser_matrix_final.msg
+erase a file named coding_contest_submissions.zip
+erase a file named F:\External Drive\campaigns\Windows Logs\supplier_corrective_action.docx
+erase a file named \\192.168.1.20\teamshare\Release 1.4\Windows Logs\portable_tool.zip
+erase a file named C:\Users\Ankit\Documents\finance\Travel Planning\monthly_summary_revised.arrow
+erase a file named D:\Staging\meeting notes\training data\invoice_scan_001.tiff
+erase a file named E:\Archive\receipts\Shared Documents\scene_export.fbx
+erase the file slow_query_analysis_approved.pom
+erase the file asset_inventory.tsv
+erase the file warehouse_stock_final.pfx
+erase the file expense_claim.img
+erase the file readonly_file_matrix.xlsx
+erase the file E:\Archive\Certificates\meeting notes\bank_reconciliation_october.xlsx
+erase the file \\OfficePC\Public\Windows Logs\src\final_reviewed.docx
+erase the file C:\Users\Public\Documents\Home Repairs\imports\course_progress_export.csv
+erase the file C:\Users\Ankit\Pictures\Screenshots\config_backup.json
+erase the file C:\Users\Ankit\Pictures\migrations\PBL Phase 2\alembic_revision_map.txt
+erase the file called network_topology_draft.ipa
+erase the file called web_hosting_renewal.pdf
+erase the file called placement_offer_comparison.xlsx
+erase the file called price_comparison.7z
+erase the file called risk_assessment.log
+erase the file called C:\Program Files (x86)\diagnostics\client files\long_path_test_cases.jsonl
+erase the file called C:\Dev\Research\queue_depth_metrics.csv
+erase the file called D:\Data\Archive\folder_migration_plan.docx
+erase the file called C:\Temp\Training Data\team_photo.png
+erase the file called C:\Users\Ankit\OneDrive\Graphics Troubleshooting\customer support\seo_keyword_export.xlsx
+erase the file named virtualenv_rebuild_steps.md
+erase the file named react_component_storybook.zip
+erase the file named customer_export.ics
+erase the file named selenium_grid_config.toml
+erase the file named warehouse_picklist.pdf
+erase the file named D:\Research\Sprint 13\engineering\training_data_audit.pdf
+erase the file named E:\Personal\training data\family photos\edge_profile_export.zip
+erase the file named D:\Data\Sprint 13\family photos\stratified_split_check.csv
+erase the file named E:\Media\Backups\pbl_phase2_report.docx
+erase the file named C:\Users\Ankit\Videos\NER experiments\Assignments\supplier_delivery_score.xlsx
+get rid of product_catalog_v2.tsv
+get rid of status_report_v2.jsonl
+get rid of speaker_bio_collection.docx
+get rid of backend_healthcheck.json
+get rid of home_appliance_inventory.xlsx
+get rid of C:\Program Files\October 2026\HR\network_share_latency.csv
+get rid of E:\Incoming\diagnostics\config\purchase_approval_log.csv
+get rid of F:\USB Backup\Travel\usability_findings.xlsx
+get rid of D:\Projects\Projects\datasets\augmentation_job_history.csv
+get rid of C:\Users\Ankit\OneDrive\Meeting Notes\utility_receipts.zip
+get rid of the file brand_guidelines.pdf
+get rid of the file keyboard_shortcut_map.json
+get rid of the file monthly_payroll_summary.xlsx
+get rid of the file schema_migration_20261020.sql
+get rid of the file frontend_error_boundary.log
+get rid of the file E:\Personal\src\website\skeleton_generation_report.html
+get rid of the file E:\College\inventory\Semester 7\ner_validation_examples.jsonl
+get rid of the file C:\Dev\customer support\customer support\staging_export_20261020.zip
+get rid of the file E:\Media\Screenshots\water_sample_results.csv
+get rid of the file D:\WinPilot\Model Outputs\security_guard_roster.xlsx
+get rid of the file called online_order_history.csv
+get rid of the file called bilstm_ner_checkpoint.pt
+get rid of the file called telemetry_schema.json
+get rid of the file called building_maintenance_schedule.xlsx
+get rid of the file called account_health_score.xlsx
+get rid of the file called D:\WinPilot\Downloads\conference_travel_claim.xlsx
+get rid of the file called C:\Users\Ankit\OneDrive\Source\train_model.py
+get rid of the file called \\192.168.1.20\teamshare\photos\Source Code\course_registration_override.pdf
+get rid of the file called C:\Users\Ankit\Downloads\NER experiments\backups\totp_backup_codes_encrypted.txt
+get rid of the file called C:\Users\Ankit\OneDrive\screenshots\contracts\newsletter_template.html
+get rid of the file named translation_review.onnx
+get rid of the file named cdn_cache_report.xlsx
+get rid of the file named network_topology_final.pom
+get rid of the file named campus_transport_pass.pdf
+get rid of the file named expense_claim.gradle
+get rid of the file named D:\Research\training data\docs\printer_queue_errors.csv
+get rid of the file named C:\Projects\Archive\calendar_export.ics
+get rid of the file named G:\Shared\datasets\temp\safety_incident_report.docx
+get rid of the file named C:\Users\Ankit\Downloads\Documents\accessibility_audit.pdf
+get rid of the file named D:\Backups\logs\Exam Preparation\hotel_cancellation_receipt.pdf
+I need to delete salary_statement.ipynb
+I need to delete tsconfig.json
+I need to delete operations_weekly_report.pdf
+I need to delete nvidia_control_panel_profile.nip
+I need to delete invoice_register_revised.cmd
+I need to delete D:\Backups\src\exports\electricity_bill.pdf
+I need to delete D:\Data\config\api tests\student_lab_groups.xlsx
+I need to delete D:\Backups\Model Outputs\tyre_pressure_log.csv
+I need to delete D:\Projects\tests\Graphics Troubleshooting\static_analysis.sarif
+I need to delete D:\Work\Model Outputs\expense_split_october.xlsx
+I need to delete the file called tax_computation_v3.html
+I need to delete the file called library_clearance_form.pdf
+I need to delete the file called texture_atlas.png
+I need to delete the file called house_repairs.xlsx
+I need to delete the file called seo_report_reviewed.env
+I need to delete the file called C:\Users\Ankit\Desktop\Graphics Troubleshooting\WinPilot\label_distribution_report.csv
+I need to delete the file called C:\Users\Ankit\Pictures\meeting notes\Windows Logs\recycle_bin_restore_test.csv
+I need to delete the file called C:\Users\Ankit\Desktop\travel\marketing\insurance_claim_photos.zip
+I need to delete the file called D:\Backups\temp\Release 1.4\task_scheduler_export.xml
+I need to delete the file called D:\Work\Receipts\system_restore_points.txt
+I need to delete the file named disk_encryption_status.csv
+I need to delete the file named maintenance_record.pdf
+I need to delete the file named clinical_study_site_log.csv
+I need to delete the file named quarterly_review_approved.exe
+I need to delete the file named seo_report_2026_10.apk
+I need to delete the file named C:\Program Files (x86)\backups\frontend\documents_to_print.pdf
+I need to delete the file named \\NAS01\Shared\Course Material\Personal Finance\partner_contract_draft.docx
+I need to delete the file named C:\Program Files (x86)\imports\Final Versions\uptime_sla_calculation.xlsx
+I need to delete the file named D:\Backups\exports\Certificates\neighbourhood_event_flyer.jpg
+I need to delete the file named C:\Temp\Network Captures\Home Repairs\article_outline.docx
+I need to get rid of contract_draft_final.sqlite
+I need to get rid of helpdesk_escalation_matrix.xlsx
+I need to get rid of query_results_v2.arrow
+I need to get rid of network_topology_revised.mp4
+I need to get rid of stock_reconciliation.xlsx
+I need to get rid of F:\USB Backup\Network Captures\diagnostics\bitlocker_recovery_instructions.pdf
+I need to get rid of C:\ProgramData\receipts\Research Papers\expense_split_october.xlsx
+I need to get rid of G:\Shared\generated\test results\budget_2026.xlsx
+I need to get rid of \\FileServer\Departments\screenshots\generated\language_flashcards.apkg
+I need to get rid of C:\Users\Ankit\OneDrive\warehouse\Exam Preparation\lab_booking_calendar.ics
+I need to remove contact_list_v3.jpg
+I need to remove status_report.zip
+I need to remove records_disposal_certificate.pdf
+I need to remove regression_suite.jar
+I need to remove unit_test_report.conf
+I need to remove C:\Users\Ankit\Pictures\Home Repairs\entity pools\student_attendance_october.xlsx
+I need to remove F:\External Drive\Personal Finance\Supplier North\investment_portfolio_snapshot.xlsx
+I need to remove \\backup-server\weekly\finance\backend\placement_resume_review.docx
+I need to remove C:\Dev\model outputs\assets\accessibility_test_run.xml
+I need to remove F:\External Drive\Week 42\client files\neighbourhood_event_flyer.jpg
+I need to remove the file called unmatched_placeholder_report.txt
+I need to remove the file called desk_allocation_plan.png
+I need to remove the file called app.js
+I need to remove the file called token_to_id_map.json
+I need to remove the file called ssl_renewal_notice.pdf
+I need to remove the file called C:\Users\Ankit\Documents\Documents\screen_capture_01.mp4
+I need to remove the file called C:\Users\Ankit\Videos\To Review\Week 42\stream_overlay_assets.zip
+I need to remove the file called E:\Personal\Assignments\Home Repairs\vaccination_record.pdf
+I need to remove the file called C:\Program Files (x86)\Network Captures\Projects\survey_skip_logic_test.json
+I need to remove the file called \\backup-server\weekly\temp\assets\subtitle_hi.srt
+I need to remove the file named support_case_backup.rar
+I need to remove the file named leave_request_2026_10.odt
+I need to remove the file named salary_statement.fig
+I need to remove the file named uptime_summary.java
+I need to remove the file named risk_register.c
+I need to remove the file named D:\Source\invoices\invoices\skill_gap_assessment.docx
+I need to remove the file named C:\Users\Ankit\Desktop\HR\invoices\transcription_review.xlsx
+I need to remove the file named F:\USB Backup\WinPilot\maintenance_request_0092.docx
+I need to remove the file named D:\Research\Meeting Notes\employee_handbook.pdf
+I need to remove the file named F:\External Drive\Course Material\Projects\Makefile
+I want to delete capstone_source_bundle.zip
+I want to delete unit_test_report_final.msi
+I want to delete restore_test.pcap
+I want to delete product_catalog.gz
+I want to delete error.log
+I want to delete D:\WinPilot\Final Versions\validation data\purchase_fraud_review.csv
+I want to delete C:\Temp\Projects\datasets\latency_baseline.xlsx
+I want to delete D:\Backups\Graphics Troubleshooting\training data\tuition_receipt.pdf
+I want to delete D:\WinPilot\website\Payroll Manager\vehicle_logbook.xlsx
+I want to delete C:\Users\Ankit\Desktop\Exam Preparation\Graphics Troubleshooting\luggage_inventory.xlsx
+I want to delete the file called build_manifest.ai
+I want to delete the file called toll_transaction_export.csv
+I want to delete the file called database_connection_pool.csv
+I want to delete the file called student_club_minutes.docx
+I want to delete the file called bug_triage.xlsx
+I want to delete the file called C:\Users\Ankit\Pictures\HR\presentations\firefox_bookmarks_backup.html
+I want to delete the file called E:\Media\receipts\presentations\open_source_pr_review.patch
+I want to delete the file called E:\Personal\HR\design files\faculty_feedback_semester_5.xlsx
+I want to delete the file called D:\WinPilot\Invoices\database_erd.png
+I want to delete the file called E:\Archive\Semester 5\garden_plan.jpg
+I want to delete the file named postmortem_2026_10.csv
+I want to delete the file named supplier_quote.aab
+I want to delete the file named temporary_file_retention.csv
+I want to delete the file named container_inventory.stl
+I want to delete the file named Makefile
+I want to delete the file named \\192.168.1.20\teamshare\family photos\operations\library_due_notice.pdf
+I want to delete the file named C:\Users\Ankit\Pictures\invoices\src\database_connection_pool.csv
+I want to delete the file named D:\Data\intent models\frontend\profile_picture.jpg
+I want to delete the file named E:\Media\entity pools\travel\hotel_rooming_list.xlsx
+I want to delete the file named D:\Backups\WinPilot\save_slot_03.sav
+I want to get rid of translation_review_final.err
+I want to get rid of purchase_order.bat
+I want to get rid of accessibility_audit_v3.pyw
+I want to get rid of page.tsx
+I want to get rid of browser_compatibility_matrix.xlsx
+I want to get rid of E:\College\Receipts\pet_vet_receipt.pdf
+I want to get rid of C:\Temp\PBL Phase 2\explorer_window_state.csv
+I want to get rid of \\NAS01\Shared\Week 42\Reports\order_status_export.json
+I want to get rid of F:\USB Backup\entity pools\finance\warehouse_reorder_alerts.csv
+I want to get rid of \\OfficePC\Public\Home Repairs\finance\app_crash_trace.txt
+I want to remove cold_storage_alarm_history.csv
+I want to remove delivery_photos.zip
+I want to remove case_collision_audit.csv
+I want to remove service_health.docx
+I want to remove event_ticket_qr.png
+I want to remove D:\Research\Screenshots\vendor_tax_details.xlsx
+I want to remove C:\Temp\assets\generated\character_rig.ma
+I want to remove C:\ProgramData\Sprint 13\warehouse\fitness_plan_week42.pdf
+I want to remove C:\Users\Ankit\Desktop\migrations\engineering\long_path_test_cases.jsonl
+I want to remove D:\Projects\screenshots\receipts\course_progress_export.csv
+I want to remove the file called cycling_repair_invoice.pdf
+I want to remove the file called orphaned_files_scan.csv
+I want to remove the file called commit_signatures_report.txt
+I want to remove the file called website_audit.rtf
+I want to remove the file called pet_food_schedule.xlsx
+I want to remove the file called \\NAS01\Shared\engineering\Driver Backups\site_backup_before_redesign.zip
+I want to remove the file called D:\Projects\Receipts\security_exception_request.docx
+I want to remove the file called D:\Research\photos\release builds\document_version_history.csv
+I want to remove the file called C:\Program Files\database\Course Material\eventlog_system_export.evtx
+I want to remove the file called C:\Users\Ankit\Downloads\training data\Final Versions\symlink_test_matrix.xlsx
+I want to remove the file named media_schedule_november.xlsx
+I want to remove the file named query_results_2026_10.ps1
+I want to remove the file named exam_results_provisional.xlsx
+I want to remove the file named aptitude_practice_set.pdf
+I want to remove the file named supplier_quote_final.dxf
+I want to remove the file named F:\External Drive\PBL Phase 2\entity pools\rent_agreement_renewal.docx
+I want to remove the file named C:\Users\Ankit\Downloads\engineering\To Submit\exit_interview_notes.docx
+I want to remove the file named D:\Backups\logs\Windows Logs\model_training_parameters.yaml
+I want to remove the file named C:\Users\Ankit\Desktop\assets\assets\jmeter_results_week42.jtl
+I want to remove the file named E:\College\Research Papers\docs\cover_letter_internship.docx
+please delete a file called translation_review_backup.pom
+please delete a file called annual_report.htm
+please delete a file called field_site_photos.zip
+please delete a file called draft_training.json
+please delete a file called deployment_checklist.h
+please delete a file called C:\Users\Public\Documents\Downloads\candidate_scores.xlsx
+please delete a file called \\NAS01\Shared\Final Versions\Personal Finance\data_subject_access_response.pdf
+please delete a file called C:\Users\Public\Documents\HR\assets\road_trip_route.gpx
+please delete a file called \\192.168.1.20\teamshare\src\src\backup_manifest_20261020.json
+please delete a file called G:\Shared\meeting notes\Windows Logs\poster_print.pdf
+please delete a file named supplier_delivery_score.xlsx
+please delete a file named package.json
+please delete a file named purchase_order_v2.lock
+please delete a file named readme_old.md
+please delete a file named save_backup_2026_10_18.zip
+please delete a file named D:\WinPilot\Week 42\campaigns\etl_run_summary.json
+please delete a file named D:\Research\Source Code\imports\experiment_results.csv
+please delete a file named D:\Research\contracts\operations\mod_list.txt
+please delete a file named D:\Staging\frontend\model outputs\temporary_files_cleanup.log
+please delete a file named E:\College\Archive\draft_model.mp4
+please delete the document named refund_request.fbx
+please delete the document named vehicle_service_invoice.pdf
+please delete the document named vendor_tax_details.xlsx
+please delete the document named maintenance_log_reviewed.rs
+please delete the document named website_audit_v2.aab
+please delete the document named C:\Users\Ankit\Pictures\backend\Assignments\partner_contract_draft.docx
+please delete the document named C:\Users\Ankit\Pictures\Semester 5\maintenance_request_0092.docx
+please delete the document named C:\Users\Ankit\Videos\Audio Troubleshooting\api tests\attendance_register.xlsx
+please delete the document named C:\Users\Ankit\Desktop\Client A\Network Captures\phone_transfer_log.txt
+please delete the document named C:\Program Files\release builds\October 2026\open_application_examples.jsonl
+please delete the file called end_to_end_test_video.mp4
+please delete the file called restore_test.h
+please delete the file called diet_plan_week42.docx
+please delete the file called project_archive_2024.zip
+please delete the file called shift_schedule.rs
+please delete the file called \\FileServer\Departments\Semester 7\Shared Documents\intel_graphics_driver_notes.md
+please delete the file called D:\Source\contracts\Release 1.4\cold_chain_temperature_excursion.csv
+please delete the file called E:\Personal\meeting notes\Assignments\income_tax_computation_2026.xlsx
+please delete the file called C:\Users\Ankit\Downloads\Source\endpoint_isolation_log.txt
+please delete the file called \\192.168.1.20\teamshare\Client A\Release 1.4\bike_route_notes.md
+please erase the file release_checklist.xlsx
+please erase the file windows_activation_status.txt
+please erase the file scholarship_disbursement_status.xlsx
+please erase the file network_adapter_report.html
+please erase the file unit_test_junit_report.xml
+please erase the file C:\Users\Ankit\Pictures\Travel\logo_final.svg
+please erase the file D:\Data\test results\website\email_newsletter_performance.csv
+please erase the file D:\Data\Week 42\Certificates\draft_experiment.mp4
+please erase the file D:\College\GEHU\design files\meeting notes\membership_renewals.xlsx
+please erase the file D:\Staging\Travel Planning\operations\customer_support_macros.csv
+please erase the file called offer_letter_template.docx
+please erase the file called budget_forecast.trace
+please erase the file called refund_request_backup.go
+please erase the file called task_run_history.jsonl
+please erase the file called copy_file_validation.csv
+please erase the file called E:\Archive\frontend\validation data\draft_analytics.csv
+please erase the file called \\FileServer\Departments\Final Versions\entity pools\voice_memo_12.aac
+please erase the file called C:\Temp\Travel\train_model.py
+please erase the file called D:\Projects\Release 1.4\Travel Planning\recipe_shopping_list.xlsx
+please erase the file called C:\Temp\website\backend\customer_list.xlsx
+please erase the file named postmortem.db
+please erase the file named company_research_notes.md
+please erase the file named walking_log_october.csv
+please erase the file named etl_run_summary.json
+please erase the file named terms_of_service.docx
+please erase the file named E:\Archive\client files\migrations\junction_inventory.csv
+please erase the file named C:\Users\Ankit\Pictures\Model Outputs\cinema_receipt.pdf
+please erase the file named D:\Work\Data\subscription_bills_october.pdf
+please erase the file named D:\Backups\Screenshots\lab_inventory_reorder.xlsx
+please erase the file named G:\Shared\Exam Preparation\Client A\alternate_data_stream_audit.txt
+please get rid of tokenizer_config.json
+please get rid of heap_usage_over_time.csv
+please get rid of roadmap_review_notes.docx
+please get rid of deployment_checklist_draft.htm
+please get rid of windows_features_state.txt
+please get rid of D:\Projects\Assignments\config\club_membership_renewal.pdf
+please get rid of C:\Users\Ankit\Documents\backups\src\training_data.csv
+please get rid of F:\USB Backup\Network Captures\Certificates\packet_loss_measurements.csv
+please get rid of E:\Incoming\finance\Projects\student_lab_groups.xlsx
+please get rid of F:\USB Backup\Data\membership_renewals.xlsx
+please remove a file called event_registration_list.xlsx
+please remove a file called source_archive.tar.gz
+please remove a file called project_plan.txt
+please remove a file called api_test_results_v3.hcl
+please remove a file called ssh_config_backup.txt
+please remove a file called D:\WinPilot\operations\Exam Preparation\library_borrowing_history.csv
+please remove a file called D:\Work\docs\Course Material\account_health_score.xlsx
+please remove a file called D:\Work\Week 42\intent models\migration_notes.md
+please remove a file called C:\Users\Ankit\Desktop\Device Reports\PBL Phase 2\purchase_return_note.pdf
+please remove a file called C:\Users\Ankit\Documents\Data\rollback_test_results.xlsx
+please remove a file named project_scope_revised.wav
+please remove a file named tls_expiry_monitor.csv
+please remove a file named virtualbox_vm_list.csv
+please remove a file named duplicate_structure_candidates.csv
+please remove a file named family_budget.xlsx
+please remove a file named E:\College\Research Papers\Driver Backups\LICENSE
+please remove a file named \\FileServer\Departments\generated\Semester 7\accounting_reconciliation.xlsx
+please remove a file named D:\WinPilot\Model Outputs\security_policy.md
+please remove a file named D:\Projects\WinPilot\windows_update_history.html
+please remove a file named D:\Staging\Payroll Manager\generated\docker-compose.yml
+please remove the document named garden_seed_order.pdf
+please remove the document named tax_computation.ttf
+please remove the document named media_kit.zip
+please remove the document named personal_documents_catalog.xlsx
+please remove the document named notebook_exploration.ipynb
+please remove the document named D:\Data\database\api tests\pet_care_calendar.ics
+please remove the document named D:\Staging\WinPilot\customer support\expense_split_october.xlsx
+please remove the document named C:\Users\Ankit\Desktop\customer support\validation data\readme_old.md
+please remove the document named C:\Temp\marketing\Exam Preparation\conference_feedback_forms.zip
+please remove the document named C:\Users\Ankit\Documents\Research\risk_register.xlsx
+please remove the file named product_catalog_reviewed.properties
+please remove the file named training_attendance.xlsx
+please remove the file named vehicle_damage_photos.zip
+please remove the file named asset_inventory_final.onnx
+please remove the file named fuel_log_october.csv
+please remove the file named C:\Users\Ankit\Documents\design files\Supplier North\Audio Recording 7.m4a
+please remove the file named D:\Data\model outputs\finance\retry_policy_notes.md
+please remove the file named D:\College\GEHU\contracts\family photos\intent_model_checkpoint.pkl
+please remove the file named C:\Users\Ankit\Downloads\Certificates\test results\backup_manifest_20261020.json
+please remove the file named D:\Work\Home Repairs\frontend\purchase_order_8821.pdf
+remove browser_matrix.sav
+remove firewall_audit_v3.gradle
+remove accreditation_evidence_index.pdf
+remove status_report.ods
+remove medical_claim_form.pdf
+remove C:\Program Files (x86)\travel\assets\trip_photos_manali.zip
+remove \\OfficePC\Public\Course Material\intent models\thumbnail_preview.webp
+remove D:\Shared\Receipts\export_2026-10-20_1200.csv
+remove D:\Data\Data\api_openapi_spec.yaml
+remove \\backup-server\weekly\WinPilot\backup_manifest_20261020.json
+remove a file called local_dev_notes.md
+remove a file called project_scope_final.crt
+remove a file called backup_manifest.htm
+remove a file called api_test_results.cpp
+remove a file called equipment_register_reviewed.tar.gz
+remove a file called E:\Incoming\operations\To Submit\bike_service_receipt.pdf
+remove a file called D:\Projects\backups\logs\storage_quota_report.xlsx
+remove a file called \\OfficePC\Public\campaigns\Source Code\thread_dump_20261020.txt
+remove a file called E:\Incoming\Course Material\Audio Troubleshooting\database_erd.png
+remove a file called C:\Users\Ankit\OneDrive\marketing\inventory\release_candidate_1.4.0.zip
+remove a file named regression_suite.pcapng
+remove a file named customer_refund_register.xlsx
+remove a file named release_build_manifest.json
+remove a file named leave_encashment_calculation.xlsx
+remove a file named exam_revision.pdf
+remove a file named F:\USB Backup\Meeting Notes\electricity_bill.pdf
+remove a file named C:\Program Files (x86)\release builds\Payroll Manager\request_trace.log
+remove a file named F:\USB Backup\release builds\Home Repairs\generated_records_batch_01.jsonl
+remove a file named E:\Personal\docs\Travel Planning\font_collection.zip
+remove a file named E:\Personal\operations\database\benchmark_results.xlsx
+remove a file whose name is shell_extension_inventory.csv
+remove a file whose name is scan_20261020_0930.pdf
+remove a file whose name is contract_draft_reviewed.rtf
+remove a file whose name is quarterly_review_v2.tmp
+remove a file whose name is incident_report_draft.ipynb
+remove a file whose name is E:\Incoming\warehouse\recordings\WhatsApp Image 2026-10-18 at 17.42.33.jpeg
+remove a file whose name is D:\Projects\frontend\Personal Finance\company_shortlist_october.xlsx
+remove a file whose name is C:\Dev\Backups\game_screenshots.zip
+remove a file whose name is D:\Source\Shared Documents\recordings\internship_offer.pdf
+remove a file whose name is C:\Program Files\receipts\marketing\court_hearing_calendar.ics
+remove a file with the name support_case_v3.css
+remove a file with the name command_parser_regression_suite.jsonl
+remove a file with the name localisation_strings.jsx
+remove a file with the name quote_2026_77.xlsx
+remove a file with the name winget_export.json
+remove a file with the name D:\Shared\Archive\registry_backup.reg
+remove a file with the name C:\Users\Ankit\Pictures\database\Personal Finance\network_adapter_report.html
+remove a file with the name C:\Temp\Supplier North\Release 1.4\course_invoice_2026.pdf
+remove a file with the name C:\Users\Ankit\Videos\Home Repairs\finance\return_label_5832.pdf
+remove a file with the name D:\Research\Driver Backups\imports\test_fixture.json
+remove file lecture_notes.pdf
+remove file command_history_sample.txt
+remove file class_representative_notes.txt
+remove file postmortem.rar
+remove file postmortem.pcap
+remove file E:\Archive\Shared Documents\HR\knowledge_base_export.zip
+remove file D:\Projects\Screenshots\fire_alarm_test_record.pdf
+remove file \\192.168.1.20\teamshare\Windows Logs\client files\thumbnail_generation_log.txt
+remove file C:\Projects\Research\class_representative_notes.txt
+remove file E:\Incoming\Lab Work\Semester 5\assignment_submission_revised.pdf
+remove the document contract_signed.out
+remove the document project_charter.ear
+remove the document query_results.srt
+remove the document meeting_agenda_draft.bz2
+remove the document website_audit_revised.java
+remove the document D:\Projects\WinPilot\student_fee_statement.pdf
+remove the document D:\Backups\Travel Planning\presentations\saved_sessions.json
+remove the document C:\Users\Ankit\Videos\Semester 5\entity_tagger.py
+remove the document G:\Shared\Travel Planning\docs\tyre_pressure_log.csv
+remove the document D:\Research\Sprint 13\Final Versions\clinical_study_site_log.csv
+remove the document called cloud_cost_report.yml
+remove the document called newsletter_october.pdf
+remove the document called project_demo_capture.mp4
+remove the document called project_proposal.docx
+remove the document called payroll_register.obj
+remove the document called C:\Users\Ankit\Pictures\Course Material\Reports\placement_resume_review.docx
+remove the document called C:\Program Files\Travel Planning\Shared Documents\recipe_collection.epub
+remove the document called E:\Archive\travel\NER experiments\WhatsApp Image 2026-10-18 at 17.42.33.jpeg
+remove the document called \\backup-server\weekly\backups\training data\course_registration_override.pdf
+remove the document called D:\College\GEHU\Week 42\engineering\journal_proof_corrections.pdf
+remove the document named classification_report.txt
+remove the document named accessibility_audit.tif
+remove the document named storage_quota_report.xlsx
+remove the document named focus_group_transcript_anon.docx
+remove the document named fixed_deposit_advice.pdf
+remove the document named E:\Media\invoices\assets\student_fee_reconciliation.xlsx
+remove the document named C:\Users\Ankit\Documents\config\assets\database_backup_manifest.yaml
+remove the document named E:\Archive\Photos\app_icon.png
+remove the document named F:\USB Backup\logs\inventory\data_collection_schedule.ics
+remove the document named D:\Source\Device Reports\To Review\factory_shift_handover.docx
+remove the file semester_timetable.pdf
+remove the file integration_test.xlsx
+remove the file draft_model.mp4
+remove the file risk_assessment.pom
+remove the file shipment_tracking_reviewed.go
+remove the file D:\College\GEHU\Data\customer_support_macros.csv
+remove the file \\192.168.1.20\teamshare\Research Papers\Certificates\customer_onboarding_status.xlsx
+remove the file C:\Users\Ankit\Documents\Photos\campaign_creatives.zip
+remove the file D:\Research\training data\Audio Troubleshooting\team_org_chart.vsdx
+remove the file C:\Temp\Backups\student_fee_statement.pdf
+remove the file called meeting_minutes_draft.pt
+remove the file called container_inventory_2026_10.gz
+remove the file called credit_card_statement_october.pdf
+remove the file called status_report_backup.onnx
+remove the file called bluetooth_adapter_report.txt
+remove the file called E:\Incoming\docs\photos\concert_booking_confirmation.pdf
+remove the file called \\OfficePC\Public\Research Papers\database\game_mod_load_order.txt
+remove the file called C:\Program Files (x86)\datasets\HR\automation_plugin_registry.json
+remove the file called C:\Users\Ankit\Videos\diagnostics\Source Code\codeql_findings.sarif
+remove the file called C:\Users\Ankit\Downloads\Network Captures\Semester 5\save_slot_03.sav
+remove the file named slow_query_analysis_final.jar
+remove the file named api_specification.xz
+remove the file named copy_integrity_checks.xlsx
+remove the file named service_health_v2.pem
+remove the file named slow_query_analysis.webm
+remove the file named C:\Users\Ankit\Pictures\Meeting Notes\driving_lesson_schedule.ics
+remove the file named C:\Users\Ankit\Videos\archives\config\incident_postmortem.docx
+remove the file named D:\Projects\Week 42\logs\android_keystore_backup.txt
+remove the file named C:\Users\Ankit\Videos\Semester 5\Personal Finance\source_archive.tar.gz
+remove the file named D:\Backups\meeting notes\Semester 5\permission_prompt_screenshots.zip
+remove the file with the name user_preferences.json
+remove the file with the name shift_schedule_approved.err
+remove the file with the name wireless_site_survey.pdf
+remove the file with the name delivery_manifest.m4a
+remove the file with the name customer_list.xlsx
+remove the file with the name E:\Personal\screenshots\assets\draft_meeting.pptx
+remove the file with the name C:\ProgramData\Old Versions\Home Repairs\draft_orders.txt
+remove the file with the name E:\Incoming\Week 42\src\flooring_material_estimate.xlsx
+remove the file with the name C:\Program Files (x86)\October 2026\assets\course_completion_certificate.pdf
+remove the file with the name D:\Source\engineering\recordings\club_membership_renewal.pdf
+remove the image invoice_register_v2.tfstate
+remove the image privacy_assessment_v2.ass
+remove the image social_media_plan_2026_10.js
+remove the image rental_property_inspection.pdf
+remove the image api_test_results_reviewed.otf
+remove the image D:\WinPilot\Research Papers\October 2026\desktop_shortcut_inventory.csv
+remove the image C:\ProgramData\docs\generated\weather_station_log.csv
+remove the image C:\Dev\To Submit\tests\call_centre_shift_roster.xlsx
+remove the image C:\Dev\Source\system_services_export.csv
+remove the image E:\Incoming\Home Repairs\test results\bluetooth_diagnostics.txt
+remove the PDF exit_clearance_form.pdf
+remove the PDF site_backup_before_redesign.zip
+remove the PDF intent_confusion_matrix.png
+remove the PDF database_snapshot_reviewed.out
+remove the PDF backup_manifest_reviewed.pem
+remove the PDF C:\Temp\Audio Troubleshooting\test results\ruff.toml
+remove the PDF \\FileServer\Departments\Release 1.4\Lab Work\visa_supporting_documents.zip
+remove the PDF D:\Staging\release builds\exports\company_shortlist_october.xlsx
+remove the PDF D:\Data\backups\Final Versions\neighbourhood_contact_list.vcf
+remove the PDF E:\Archive\Personal Finance\Driver Backups\windows_terminal_profile.json
+remove the PDF file called support_case.feather
+remove the PDF file called expense_claim.fig
+remove the PDF file called unit_test_report.toml
+remove the PDF file called build_manifest.toml
+remove the PDF file called monthly_summary_v2.rtf
+remove the PDF file called E:\Incoming\To Review\Exam Preparation\traceroute_results.txt
+remove the PDF file called D:\Work\WinPilot\research_sources.bib
+remove the PDF file called C:\Users\Ankit\Desktop\Screenshots\draft_research.yaml
+remove the PDF file called E:\Media\website\Projects\endpoint_alert_export.json
+remove the PDF file called D:\WinPilot\WinPilot\path_resolution_tests.csv
+remove the PDF file named return_label_5832.pdf
+remove the PDF file named vector_icon_pack.ai
+remove the PDF file named social_media_plan.html
+remove the PDF file named permission_prompt_screenshots.zip
+remove the PDF file named equipment_register_v2.properties
+remove the PDF file named E:\College\Invoices\payroll_variance_report.xlsx
+remove the PDF file named D:\Work\logs\Certificates\shopping_return_label.pdf
+remove the PDF file named \\OfficePC\Public\recordings\Exam Preparation\replication_status.csv
+remove the PDF file named C:\Temp\Assignments\pytest.ini
+remove the PDF file named E:\Archive\Meeting Notes\license_inventory.csv
+remove the text file client_logo.svg
+remove the text file ram_test_summary.html
+remove the text file temporary_files_cleanup.log
+remove the text file website_audit_approved.mp4
+remove the text file latency_benchmark_v2.err
+remove the text file C:\Users\Ankit\Pictures\photos\validation data\pet_vaccination_reminder.ics
+remove the text file D:\College\GEHU\backups\intent models\library_due_notice.pdf
+remove the text file C:\Users\Ankit\Videos\Invoices\container_image_list.csv
+remove the text file E:\Archive\release builds\meeting notes\wifi_adapter_driver.zip
+remove the text file D:\Backups\WinPilot\old_letters_archive.zip
+remove the text file called contract_signed.yml
+remove the text file called placement_statistics_2026.xlsx
+remove the text file called seo_report.crt
+remove the text file called training_video_module_4.mp4
+remove the text file called release_notes_reviewed.c
+remove the text file called E:\Media\PBL Phase 2\Firewall Configs\ram_test_summary.html
+remove the text file called C:\ProgramData\Device Reports\Personal Finance\fee_receipt.pdf
+remove the text file called F:\USB Backup\family photos\Week 42\ner_error_analysis.xlsx
+remove the text file called D:\College\GEHU\Exam Preparation\family photos\cleaned_customers.parquet
+remove the text file called C:\Users\Ankit\Desktop\Windows Logs\meeting notes\quotation_template.docx
+remove the text file named semester_7_project_synopsis.docx
+remove the text file named vpn_configuration_2026_10.ass
+remove the text file named minutes_2026_10_20.docx
+remove the text file named backup_manifest_2026_10.odt
+remove the text file named translation_review.mp3
+remove the text file named E:\College\Documents\Audio Recording 7.m4a
+remove the text file named C:\Users\Ankit\Downloads\To Review\To Submit\traceroute_results.txt
+remove the text file named C:\Users\Ankit\Videos\photos\Research Papers\subtitle_track.srt
+remove the text file named \\192.168.1.20\teamshare\Reports\backups\request_trace.log
+remove the text file named E:\College\Firewall Configs\To Submit\ebook_highlights_export.json

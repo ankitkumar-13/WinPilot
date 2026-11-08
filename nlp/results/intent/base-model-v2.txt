@@ -1,0 +1,23 @@
+
+Accuracy: 0.9455
+
+Classification Report:
+                  precision    recall  f1-score   support
+
+       copy_file     0.8491    0.9222    0.8842       360
+     copy_folder     0.8802    0.7889    0.8320       270
+     create_file     0.9835    0.9944    0.9890       180
+   create_folder     0.9890    0.9944    0.9917       180
+     delete_file     1.0000    0.9889    0.9944       180
+   delete_folder     0.9897    0.9948    0.9922       193
+            exit     1.0000    1.0000    1.0000       180
+       move_file     0.8995    0.9944    0.9446       360
+     move_folder     0.9801    0.7914    0.8757       187
+open_application     1.0000    1.0000    1.0000       180
+     rename_file     0.9889    0.9271    0.9570       192
+   rename_folder     0.9689    0.9881    0.9784       252
+
+        accuracy                         0.9455      2714
+       macro avg     0.9607    0.9487    0.9533      2714
+    weighted avg     0.9471    0.9455    0.9448      2714
+

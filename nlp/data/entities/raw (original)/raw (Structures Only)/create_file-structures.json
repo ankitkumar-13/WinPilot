@@ -1,0 +1,650 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "create_file",
+      "pattern": "can you create {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "can you create {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "can you make {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "can you make {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a document called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a document called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file called college {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file called college {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file called my {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file called my {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file named {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file named {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file named college {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file named college {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file named my {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a file named my {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a new document called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a new document called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a new file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a new file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a new file named {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a new file named {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a new text file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a new text file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a text file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create a text file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create file {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create file {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create the file {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create the file {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create the file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create the file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create the file named {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "create the file named {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I need a file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I need a file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I need a file named {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I need a file named {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I need to create {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I need to create {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I need to make {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I need to make {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I want a file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I want a file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I want a file named {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I want a file named {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I want to create {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I want to create {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I want to make {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "I want to make {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a document called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a document called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file called college {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file called college {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file called my {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file called my {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file named {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file named {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file named college {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file named college {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file named my {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a file named my {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a new document called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a new document called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a new file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a new file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a new file named {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a new file named {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a new text file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a new text file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a text file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make a text file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make file {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make file {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make the file {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make the file {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make the file called {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make the file called {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make the file named {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "make the file named {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "please create {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "please create {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "please make {FILE}",
+      "intents": [
+        "create_file"
+      ]
+    },
+    {
+      "dataset": "create_file",
+      "pattern": "please make {PATH_FILE}",
+      "intents": [
+        "create_file"
+      ]
+    }
+  ]
+}

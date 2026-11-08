@@ -1,0 +1,584 @@
+move attendance record.xlsx
+move employee details.xlsx
+move project schedule.xlsx
+move expense report.xlsx
+move C:\Users\Ankit\OneDrive\Projects\project notes.txt
+move C:\Users\Public\Documents\shared report.pdf
+move D:\Projects\WinPilot\src\main.py
+move D:\College\Semester 5\Notes\os notes.pdf
+move file sales data.xlsx
+move file employee_data.csv
+move file student_data.csv
+move file contact_list.csv
+move file D:\Work\Reports\annual report.xlsx
+move file D:\Backup\Database\database backup.sql
+move file E:\Research\Reports\research paper.pdf
+move file E:\Media\Videos\lecture recording.mp4
+move the file transaction_data.csv
+move the file attendance.csv
+move the file main.py
+move the file app.py
+move the file Projects\main.py
+move the file Projects\app.py
+move the file Projects\project report.pdf
+move the file Projects\README.md
+move server.py to Wallpapers
+move client.py to Downloads
+move automation.py to Storage
+move data processing.py to Database
+move Projects\data.csv to Databases
+move Projects\config.json to SQL
+move Projects\Source\main.cpp to MySQL
+move Projects\Source\helper.cpp to PostgreSQL
+move database.py to Oracle
+move configuration.py to Server
+move utility functions.py to Client
+move test.py to Network
+move main.cpp to Projects
+move program.cpp to Projects\WinPilot
+move source.cpp to Projects\WinPilot\Source
+move calculator.cpp to Projects\WinPilot\Data
+move file student management.cpp to Security
+move file file manager.cpp to Systems
+move file main.c to Applications
+move file helper.c to Software
+move file Projects\Docs\project guide.pdf to Tools
+move file Projects\Backup\project backup.zip to Utilities
+move file College\Assignments\os assignment.pdf to Resources
+move file College\Assignments\dbms assignment.docx to Projects2025
+move file header.h to Completed
+move file Main.java to Pending
+move file Student.java to Temporary
+move file DatabaseManager.java to OldFiles
+move file script.js to Projects\WinPilot\Documentation
+move file app.js to Projects\WebApplication
+move file index.html to Projects\WebApplication\Source
+move file login.html to Projects\WebApplication\Assets
+move the file dashboard.html to NewFiles
+move the file style.css to Important
+move the file main.css to Shared
+move the file config.json to Public
+move the file College\Notes\operating systems.pdf to Private
+move the file College\Notes\machine learning notes.pdf to PersonalFiles
+move the file College\Projects\file manager.cpp to WorkFiles
+move the file College\Projects\final report.docx to CollegeFiles
+move the file package.json to StudyMaterial
+move the file user data.json to StudyNotes
+move the file application settings.json to StudyProjects
+move the file database backup.json to Semester5
+move the file data.xml to Projects\Backup
+move the file configuration.xml to Projects\Archives
+move the file settings.yaml to College\Assignments
+move the file docker-compose.yml to College\Notes
+move database.sql into Semester6
+move schema.sql into Semester7
+move create tables.sql into OS
+move backup database.sql into DBMS
+move College\Semester 5\schedule.xlsx into AI
+move College\Semester 5\syllabus.pdf into ML
+move Work\Reports\annual report.pdf into CloudComputing
+move Work\Reports\monthly report.xlsx into ComputerNetworks
+move database.db into OperatingSystems
+move application.db into SoftwareEngineering
+move records.sqlite into Assignments2026
+move local database.sqlite into LabWork
+move backup.bak into College\Projects
+move archive.zip into College\Semester5
+move project backup.zip into College\Semester5\OS
+move documents archive.zip into College\Semester5\DBMS
+move the file into PracticalFiles
+move the file into QuestionPapers
+move the file into ExamPapers
+move the file into Results
+move the file into College\Semester5\Projects
+move the file into College\Exams
+move the file into College\Documents
+move the file into Work\Projects
+move this file into Certificates
+move this file into Reports2026
+move this file into MonthlyReports
+move this file into AnnualReports
+move this file into Work\Projects\Website
+move this file into Work\Projects\Application
+move this file into Work\Reports
+move this file into Work\Reports\2026
+move that file into FinancialReports
+move that file into ProjectReports
+move that file into ResearchReports
+move that file into ClientReports
+move that file into Work\Meetings
+move that file into Work\Clients
+move that file into Work\Invoices
+move that file into Work\Archive
+put backup files.rar in TestData
+put project files.7z in InputData
+put photo.jpg in OutputData
+put profile photo.jpg in ExpectedResults
+put Work\Projects\website\index.html in SampleData
+put Work\Projects\website\style.css in RawData
+put Work\Projects\application\server.py in ProcessedData
+put Work\Projects\application\config.json in ExportData
+put family photo.jpg in ImportData
+put screenshot.png in SourceCode
+put project diagram.png in DocumentationFiles
+put company logo.svg in ReleaseFiles
+put scanned document.jpeg in Personal\Documents
+put presentation.pptx in Personal\Photos
+put project presentation.pptx in Personal\Videos
+put final presentation.pptx in Personal\Projects
+put the file in TestFiles
+put the file in ConfigFiles
+put the file in LogFiles
+put the file in SystemFiles
+put the file in Personal\Backup
+put the file in Personal\Finance
+put the file in Personal\ImportantDocuments
+put the file in Personal\OldFiles
+put this file in UserFiles
+put this file in MyFiles
+put this file in ImportantDocuments
+put this file in PreviousVersions
+put this file in Personal\Travel
+put this file in Personal\Archive
+put this file in Research\MachineLearning
+put this file in Research\MachineLearning\Data
+put that file in CompletedProjects
+put that file in TemporaryFiles
+put that file in WinPilot
+put that file in Source
+put that file in Research\MachineLearning\Models
+put that file in Research\MachineLearning\Experiments
+put that file in Research\Reports
+put that file in Research\Papers
+send seminar slides.ppt to Source
+send lecture recording.mp4 to Data
+send tutorial video.mp4 to Documentation
+send music collection.mp3 to Archives
+send Personal\Photos\profile photo.jpg to Backup
+send Personal\Photos\family photo.jpg to College
+send Personal\Documents\resume.pdf to Assignments
+send Personal\Documents\cover letter.docx to Notes
+send voice recording.wav to Projects2026
+send project image.webp to Exams
+send Dockerfile to Documents
+send Makefile to Work
+send LICENSE to Research\Datasets
+send .gitignore to Research\Projects
+send .env to Research\References
+send configuration.ini to Data\Raw
+send the file to Reports
+send the file to Meetings
+send the file to Clients
+send the file to Invoices
+send the file to Data\Processed
+send the file to Data\Exports
+send the file to Data\Imports
+send the file to Data\Reports
+send this file to Personal
+send this file to Photos
+send this file to Videos
+send this file to Finance
+send this file to Data\Backup
+send this file to Data\2026
+send this file to Data\StudentRecords
+send this file to Data\ProjectData
+send that file to Travel
+send that file to Research
+send that file to MachineLearning
+send that file to Datasets
+send that file to Source\Python
+send that file to Source\Cpp
+send that file to Source\Java
+send that file to Source\JavaScript
+please move application.cfg
+please move startup.bat
+please move install script.ps1
+please move setup.exe
+please move Personal\Backup\personal files.zip
+please move Shared\Projects\source code.zip
+please move Shared\Projects\project data.xlsx
+please move Shared\Reports\team report.pdf
+please move the file to Models
+please move the file to Experiments
+please move the file to Papers
+please move the file to References
+please move the file to Source\Web
+please move the file to Source\Scripts
+please move the file to Source\Libraries
+please move the file to Source\Tests
+please move application installer.msi to Development
+please move library.dll to Programming
+please move system backup.img to Python
+please move virtual machine.iso to Cpp
+please move Data\Raw\student data.csv to Java
+please move Data\Processed\student results.csv to JavaScript
+please move Data\Reports\analysis report.xlsx to Web
+please move Data\Reports\final analysis.pdf to Scripts
+please move notes.txt to Libraries
+please move todo.txt to Tests
+please move readme.txt to Configuration
+please move summary.txt to Media
+please move draft.txt to Source\Configuration
+please move final notes.txt to Media\Images
+please move project notes.txt to Media\Videos
+please move meeting notes.txt to Media\Audio
+please move college notes.txt into Images
+please move semester notes.txt into Audio
+please move personal notes.txt into Presentations
+please move work notes.txt into Screenshots
+please move Data\Exports\monthly results.csv into Recordings
+please move Archive\2025\project backup.zip into Wallpapers
+please move Archive\2026\final report.pdf into Downloads
+please move Backup\Projects\database backup.sql into Storage
+please move daily tasks.txt into Database
+please move important information.txt into Databases
+please move contact list.txt into SQL
+please move error.log into MySQL
+please move application log.log into Media\Projects
+please move debug log.log into Media\Presentations
+please move access log.log into Media\Screenshots
+please move system log.log into Media\Recordings
+please put changelog.md in PostgreSQL
+please put project documentation.md in Oracle
+please put README.md in Server
+please put getting started.md in Client
+please put Backup\Reports\old report.pdf in Network
+please put Media\Images\project diagram.png in Security
+please put Media\Images\company logo.svg in Systems
+please put Media\Videos\lecture recording.mp4 in Applications
+please put project report.pdf in Software
+please put final project report.pdf in Tools
+please put college assignment.pdf in Utilities
+please put research paper.pdf in Resources
+please put annual report.pdf in Media\Wallpapers
+please put user manual.pdf in Media\Downloads
+please put software guide.pdf in Media\Archive
+please put project proposal.pdf in Archive
+can you move resume.pdf
+can you move updated resume.pdf
+can you move invoice.pdf
+can you move payment receipt.pdf
+can you move Media\Audio\voice recording.wav
+can you move Research\Machine Learning\research paper.pdf
+can you move Research\Machine Learning\training data.csv
+can you move Research\Reports\experiment results.xlsx
+can you move the file to Projects2025
+can you move the file to Completed
+can you move the file to Pending
+can you move the file to Temporary
+can you move the file to Archive\2025
+can you move the file to Archive\2026
+can you move the file to Archive\Projects
+can you move the file to Archive\College
+can you move certificate.pdf to OldFiles
+can you move course syllabus.pdf to NewFiles
+can you move question paper.pdf to Important
+can you move exam schedule.pdf to Shared
+can you move Research\Reports\final paper.docx to Public
+can you move Source\Python\automation.py to Private
+can you move Source\Python\configuration.py to PersonalFiles
+can you move Source\Cpp\file manager.cpp to WorkFiles
+can you move report.docx to CollegeFiles
+can you move project report.docx to StudyMaterial
+can you move final project report.docx to StudyNotes
+can you move college assignment.docx to StudyProjects
+can you move assignment submission.docx to Archive\Reports
+can you move meeting notes.docx to Archive\OldDocuments
+can you move project proposal.docx to Archive\Backups
+can you move application letter.docx to Archive\CompletedProjects
+can you put cover letter.docx in Semester5
+can you put resume.docx in Semester6
+can you put student details.docx in Semester7
+can you put budget.xlsx in OS
+can you put Source\Java\DatabaseManager.java in DBMS
+can you put Source\Web\index.html in AI
+can you put Source\Web\login.html in ML
+can you put Reports\2026\January\monthly report.pdf in CloudComputing
+can you put monthly budget.xlsx in ComputerNetworks
+can you put annual budget.xlsx in OperatingSystems
+can you put student marks.xlsx in SoftwareEngineering
+can you put attendance record.xlsx in Assignments2026
+can you put employee details.xlsx in Archive\TemporaryFiles
+can you put project schedule.xlsx in Archive\PreviousVersions
+can you put expense report.xlsx in ClientWork
+can you put sales data.xlsx in ClientWork\Website
+can you send the file to LabWork
+can you send the file to PracticalFiles
+can you send the file to QuestionPapers
+can you send the file to ExamPapers
+can you send the file to ClientWork\Website\Source
+can you send the file to ClientWork\Website\Assets
+can you send the file to ClientWork\Reports
+can you send the file to ClientWork\Documents
+could you move employee_data.csv
+could you move student_data.csv
+could you move contact_list.csv
+could you move transaction_data.csv
+could you move Reports\2026\March\expense report.xlsx
+could you move Reports\2026\September\project summary.docx
+could you move Semester 5\OS\unit 1 notes.pdf
+could you move Semester 5\DBMS\unit 2 notes.pdf
+could you move the file to Results
+could you move the file to Certificates
+could you move the file to Reports2026
+could you move the file to MonthlyReports
+could you move the file to ClientWork\Invoices
+could you move the file to ClientWork\Projects
+could you move the file to ClientWork\Backups
+could you move the file to ProjectAlpha
+could you move attendance.csv to AnnualReports
+could you move main.py to FinancialReports
+could you move app.py to ProjectReports
+could you move server.py to ResearchReports
+could you move Semester 5\Projects\database project.sql to ClientReports
+could you move Semester 5\Projects\final presentation.pptx to TestData
+could you move My Files\Important Documents\passport copy.pdf to InputData
+could you move My Files\Projects\WinPilot\main.py to OutputData
+could you move client.py to ExpectedResults
+could you move automation.py to SampleData
+could you move data processing.py to RawData
+could you move database.py to ProcessedData
+could you move configuration.py to ProjectAlpha\SourceCode
+could you move utility functions.py to ProjectAlpha\Documentation
+could you move test.py to ProjectAlpha\TestData
+could you move main.cpp to ProjectAlpha\Releases
+could you put the file in ExportData
+could you put the file in ImportData
+could you put the file in SourceCode
+could you put the file in DocumentationFiles
+could you put the file in ProjectAlpha\Assets
+could you put the file in ProjectBeta
+could you put the file in ProjectBeta\Source
+could you put the file in ProjectBeta\Database
+I want to move program.cpp
+I want to move source.cpp
+I want to move calculator.cpp
+I want to move student management.cpp
+I want to move My Files\Projects\WinPilot\project report.pdf
+I want to move My Files\College\Assignments\assignment submission.docx
+I want to move Client Work\Website\src\index.html
+I want to move Client Work\Website\assets\company logo.png
+I want to move file manager.cpp to ReleaseFiles
+I want to move main.c to TestFiles
+I want to move helper.c to ConfigFiles
+I want to move header.h to LogFiles
+I want to move Client Work\Reports\client report.pdf to SystemFiles
+I want to move Client Work\Invoices\payment receipt.pdf to UserFiles
+I want to move Project Alpha\Source Code\main.py to MyFiles
+I want to move Project Alpha\Documentation\user manual.pdf to ImportantDocuments
+I want to move Main.java to PreviousVersions
+I want to move Student.java to CompletedProjects
+I want to move DatabaseManager.java to TemporaryFiles
+I want to move script.js to Projects
+I want to move app.js to ProjectBeta\Reports
+I want to move index.html to ProjectBeta\Documentation
+I want to move login.html to Semester5\OS
+I want to move dashboard.html to Semester5\DBMS
+I want to move the file to WinPilot
+I want to move the file to Source
+I want to move the file to Data
+I want to move the file to Documentation
+I want to move the file to Semester5\Projects
+I want to move the file to Semester5\Notes
+I want to move the file to Semester5\Assignments
+I want to move the file to MyFiles\Projects
+I need to move style.css
+I need to move main.css
+I need to move config.json
+I need to move package.json
+I need to move Project Alpha\Test Data\sample data.csv
+I need to move Project Alpha\Releases\application installer.zip
+I need to move Project Beta\Reports\final report.docx
+I need to move Project Beta\Database\schema.sql
+I need to move the file to Archives
+I need to move the file to Backup
+I need to move the file to College
+I need to move the file to Assignments
+I need to move the file to MyFiles\College
+I need to move the file to MyFiles\Personal
+I need to move the file to MyFiles\Work
+I need to move the file to MyFiles\ImportantDocuments
+move the file called user data.json to Notes
+move the file called application settings.json to Projects2026
+move the file called database backup.json to Exams
+move the file called data.xml to Documents
+move the file called Project Beta\Assets\project image.png to Work
+move the file called Machine Learning\Models\trained model.pkl to Reports
+move the file called Machine Learning\Data\training dataset.csv to Meetings
+move the file called Machine Learning\Reports\model results.xlsx to Clients
+move the file called configuration.xml to Invoices
+move the file called settings.yaml to Personal
+move the file called docker-compose.yml to Photos
+move the file called database.sql to Videos
+move the file called schema.sql to 2026
+move the file called create tables.sql to 2026\January
+move the file called backup database.sql to 2026\March
+move the file called database.db to 2026\September
+move the file named application.db to Finance
+move the file named records.sqlite to Travel
+move the file named local database.sqlite to Research
+move the file named backup.bak to MachineLearning
+move the file named Machine Learning\Documentation\project documentation.pdf to Datasets
+move the file named Python Projects\Web App\app.py to Models
+move the file named Python Projects\Web App\requirements.txt to Experiments
+move the file named Python Projects\Web App\templates\index.html to Papers
+move the file named archive.zip to References
+move the file named project backup.zip to Development
+move the file named documents archive.zip to Programming
+move the file named backup files.rar to Python
+move the file named project files.7z to 2026\October
+move the file named photo.jpg to 2026\Projects
+move the file named profile photo.jpg to 2026\Reports
+move the file named family photo.jpg to TestData\Input
+move a file called screenshot.png to Cpp
+move a file called project diagram.png to Java
+move a file called company logo.svg to JavaScript
+move a file called scanned document.jpeg to Web
+move a file called Python Projects\Web App\static\style.css to Scripts
+move a file called File Manager\Source\file_manager.cpp to Libraries
+move a file called File Manager\Documentation\project report.pdf to Tests
+move a file called File Manager\Test Files\sample document.txt to Configuration
+move a file called presentation.pptx to Media
+move a file called project presentation.pptx to Images
+move a file called final presentation.pptx to Audio
+move a file called seminar slides.ppt to Presentations
+move a file called lecture recording.mp4 to TestData\Output
+move a file called tutorial video.mp4 to TestData\ExpectedResults
+move a file called music collection.mp3 to .\Projects
+move a file called voice recording.wav to .\Projects\Source
+move a file named project image.webp to Screenshots
+move a file named Dockerfile to Recordings
+move a file named Makefile to Wallpapers
+move a file named LICENSE to Downloads
+move a file named Test Data\Input\input file.csv to Storage
+move a file named Test Data\Output\expected results.csv to Database
+move a file named Test Data\Reports\test report.pdf to Databases
+move a file named New Folder\project notes.txt to SQL
+move a file named .gitignore to MySQL
+move a file named .env to PostgreSQL
+move a file named configuration.ini to Oracle
+move a file named application.cfg to Server
+move a file named startup.bat to .\College\Notes
+move a file named install script.ps1 to .\Work\Reports
+move a file named setup.exe to .\Data\Processed
+move a file named application installer.msi to ..\Projects
+move library.dll from Client to Network
+move system backup.img from Security to Systems
+move virtual machine.iso from Applications to Software
+move notes.txt from Tools to Utilities
+move todo.txt from Resources to Projects2025
+move readme.txt from Completed to Pending
+move summary.txt from Temporary to OldFiles
+move draft.txt from NewFiles to Important
+move final notes.txt from ..\Documents to ..\Backup
+move project notes.txt from ..\College\Assignments to ..\Archive
+move meeting notes.txt from C:\Users\Ankit\Projects to C:\Users\Ankit\Projects\WinPilot
+move college notes.txt from C:\Users\Ankit\Documents\College to C:\Users\Ankit\Documents\Projects
+move the file semester notes.txt from Shared to Public
+move the file personal notes.txt from Private to PersonalFiles
+move the file work notes.txt from WorkFiles to CollegeFiles
+move the file daily tasks.txt from StudyMaterial to StudyNotes
+move the file important information.txt from StudyProjects to Semester5
+move the file contact list.txt from Semester6 to Semester7
+move the file error.log from OS to DBMS
+move the file application log.log from AI to ML
+move the file debug log.log from C:\Users\Ankit\Pictures\ProjectImages to C:\Users\Ankit\OneDrive\Projects
+move the file access log.log from C:\Users\Public\Documents\SharedFiles to D:\Projects
+move the file system log.log from D:\Projects\WinPilot to D:\College\Semester5
+move the file changelog.md from D:\Work\Reports to D:\Backup\Projects
+move project documentation.md here
+move README.md here
+move getting started.md here
+move project report.pdf here
+move New Folder\backup files.zip here
+move 2026\Projects\annual project report.pdf here
+move 2026\College\semester results.xlsx here
+move 2026\Personal\expense report.xlsx here
+put final project report.pdf here
+put college assignment.pdf here
+put research paper.pdf here
+put annual report.pdf here
+put 2026\Work\meeting notes.docx here
+put .\report.pdf here
+put .\project report.docx here
+put .\Projects\main.py here
+send user manual.pdf here
+send software guide.pdf here
+send project proposal.pdf here
+send resume.pdf here
+send .\Projects\data\results.csv here
+send .\College\Notes\exam notes.pdf here
+send ..\report.pdf here
+send ..\Documents\resume.pdf here
+move the file to my CloudComputing
+move the file to my ComputerNetworks
+move the file to my OperatingSystems
+move the file to my SoftwareEngineering
+move the file to my E:\Research
+move the file to my E:\Research\Datasets
+move the file to my E:\Media\Projects
+move the file to my E:\Archive\OldFiles
+move updated resume.pdf to my Assignments2026
+move invoice.pdf to my LabWork
+move payment receipt.pdf to my PracticalFiles
+move certificate.pdf to my QuestionPapers
+move ..\Projects\main.py to my ExamPapers
+move ..\Backup\project backup.zip to my Results
+move C:\Users\Ankit\Documents\report.pdf to my Certificates
+move C:\Users\Ankit\Projects\WinPilot\main.py to my Reports2026
+move course syllabus.pdf to my MonthlyReports
+move question paper.pdf to my AnnualReports
+move exam schedule.pdf to my FinancialReports
+move report.docx to my ProjectReports
+move project report.docx to my TestData\Input
+move final project report.docx to my TestData\Output
+move college assignment.docx to my TestData\ExpectedResults
+move assignment submission.docx to my .\Projects
+put the file in my ResearchReports
+put the file in my ClientReports
+put the file in my TestData
+put the file in my InputData
+put the file in my .\Projects\Source
+put the file in my .\College\Notes
+put the file in my .\Work\Reports
+put the file in my .\Data\Processed
+put meeting notes.docx in my OutputData
+put project proposal.docx in my ExpectedResults
+put application letter.docx in my SampleData
+put cover letter.docx in my RawData
+put C:\Users\Ankit\College\Assignments\dbms assignment.docx in my ProcessedData
+put C:\Users\Ankit\Pictures\project diagram.png in my ExportData
+put C:\Users\Ankit\Desktop\Projects\final report.pdf in my ImportData
+put C:\Users\Ankit\OneDrive\Projects\project notes.txt in my SourceCode
+put resume.docx in my DocumentationFiles
+put student details.docx in my ReleaseFiles
+put budget.xlsx in my TestFiles
+put monthly budget.xlsx in my ConfigFiles
+put annual budget.xlsx in my ..\Projects
+put student marks.xlsx in my ..\Documents
+put attendance record.xlsx in my ..\Backup
+put employee details.xlsx in my ..\College\Assignments
+move a file from LogFiles to SystemFiles
+move a file from UserFiles to MyFiles
+move a file from ImportantDocuments to PreviousVersions
+move a file from CompletedProjects to TemporaryFiles
+move a file from ..\Archive to C:\Users\Ankit\Projects
+move a file from C:\Users\Ankit\Projects\WinPilot to C:\Users\Ankit\Documents\College
+move a file from C:\Users\Ankit\Documents\Projects to C:\Users\Ankit\Pictures\ProjectImages
+move a file from C:\Users\Ankit\OneDrive\Projects to C:\Users\Public\Documents\SharedFiles
+move a file
+move file
+move a new file
+move one file
+move the file
+move this file
+move that file
+please move the file
+can you move the file
+could you move the file
+I want to move the file
+I need to move the file
+move the file here
+put the file here
+move a file from one folder to another
+move the file from one folder to another

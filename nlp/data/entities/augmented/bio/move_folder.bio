@@ -1,0 +1,337 @@
+can	O
+you	O
+move	O
+SharedFiles	B-FOLDER
+to	O
+PublicFiles	B-FOLDER
+
+can	O
+you	O
+move	O
+PrivateFiles	B-FOLDER
+to	O
+TemporaryFiles	B-FOLDER
+
+can	O
+you	O
+move	O
+ScratchSpace	B-FOLDER
+to	O
+SandboxArea	B-FOLDER
+
+can	O
+you	O
+move	O
+OldProjects	B-FOLDER
+to	O
+OldRecords	B-FOLDER
+
+can	O
+you	O
+move	O
+CurrentWork	B-FOLDER
+to	O
+CompletedWork	B-FOLDER
+
+can	O
+you	O
+move	O
+PendingWork	B-FOLDER
+to	O
+ImportantFiles	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+folder	O
+to	O
+x1	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+folder	O
+to	O
+v2	B-FOLDER
+Builds	I-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+folder	O
+to	O
+Q4	B-FOLDER
+Reports	I-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+folder	O
+to	O
+3D	B-FOLDER
+Models	I-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+folder	O
+to	O
+C++	B-FOLDER
+Practice	I-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+folder	O
+to	O
+2026	B-FOLDER
+Archive	I-FOLDER
+
+could	O
+you	O
+move	O
+API_v3	B-FOLDER
+into	O
+Old-2	B-FOLDER
+
+could	O
+you	O
+move	O
+Room	B-FOLDER
+7	I-FOLDER
+into	O
+A1	B-FOLDER
+
+could	O
+you	O
+move	O
+3D	B-FOLDER
+Studio	I-FOLDER
+into	O
+Q1	B-FOLDER
+Planning	I-FOLDER
+
+could	O
+you	O
+move	O
+Version	B-FOLDER
+4	I-FOLDER
+into	O
+Team	B-FOLDER
+Room	I-FOLDER
+
+could	O
+you	O
+move	O
+Archive	B-FOLDER
+9	I-FOLDER
+into	O
+Documents	B-FOLDER
+
+can	O
+you	O
+move	O
+a	O
+directory	O
+
+can	O
+you	O
+move	O
+a	O
+folder	O
+
+can	O
+you	O
+move	O
+the	O
+directory	O
+
+can	O
+you	O
+move	O
+the	O
+folder	O
+
+could	O
+you	O
+move	O
+a	O
+directory	O
+
+could	O
+you	O
+move	O
+a	O
+folder	O
+
+could	O
+you	O
+move	O
+the	O
+directory	O
+
+could	O
+you	O
+move	O
+the	O
+folder	O
+
+I	O
+need	O
+to	O
+move	O
+a	O
+directory	O
+
+I	O
+need	O
+to	O
+move	O
+a	O
+folder	O
+
+I	O
+need	O
+to	O
+move	O
+the	O
+directory	O
+
+I	O
+need	O
+to	O
+move	O
+the	O
+folder	O
+
+I	O
+want	O
+to	O
+move	O
+a	O
+directory	O
+
+I	O
+want	O
+to	O
+move	O
+a	O
+folder	O
+
+I	O
+want	O
+to	O
+move	O
+the	O
+directory	O
+
+I	O
+want	O
+to	O
+move	O
+the	O
+folder	O
+
+move	O
+a	O
+directory	O
+
+move	O
+a	O
+folder	O
+
+move	O
+a	O
+new	O
+folder	O
+
+move	O
+directory	O
+
+move	O
+folder	O
+
+move	O
+one	O
+folder	O
+
+move	O
+that	O
+directory	O
+
+move	O
+that	O
+folder	O
+
+move	O
+the	O
+directory	O
+
+move	O
+the	O
+folder	O
+
+move	O
+the	O
+folder	O
+here	O
+
+move	O
+this	O
+directory	O
+
+move	O
+this	O
+folder	O
+
+move	O
+this	O
+folder	O
+here	O
+
+please	O
+move	O
+a	O
+directory	O
+
+please	O
+move	O
+a	O
+folder	O
+
+please	O
+move	O
+that	O
+folder	O
+
+please	O
+move	O
+the	O
+directory	O
+
+please	O
+move	O
+the	O
+folder	O
+
+please	O
+move	O
+this	O
+directory	O
+
+please	O
+move	O
+this	O
+folder	O
+
+put	O
+the	O
+folder	O
+here	O
+

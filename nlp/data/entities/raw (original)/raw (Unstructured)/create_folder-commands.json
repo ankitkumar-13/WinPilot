@@ -1,0 +1,391 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "can you create a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "can you create a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "can you create a new directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "can you create a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "can you make a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "can you make a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "can you make a new directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "can you make a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "could you create a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "could you create a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "could you create a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "could you make a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "could you make a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "could you make a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a directory for Ankit"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a directory for Project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a folder for Ankit"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a folder for college work"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a folder for documents"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a folder for my files"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a folder for my project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a folder for Project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a folder for Rahul"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a new directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a new directory for my project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create a new folder for my project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create one directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "create one folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I need a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I need a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I need a new directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I need a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I need to create a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I need to create a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I need to make a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I need to make a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I want to create a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I want to create a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I want to create a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I want to make a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I want to make a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "I want to make a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a directory for Ankit"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a directory for Project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a directory for Rahul"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a folder for Ankit"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a folder for college work"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a folder for documents"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a folder for my files"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a folder for my project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a folder for Project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a folder for Rahul"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a new directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a new directory for my project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make a new folder for my project"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make one directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "make one folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please create a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please create a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please create a new directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please create a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please create one directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please create one folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please make a directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please make a folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please make a new directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please make a new folder"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please make one directory"
+    },
+    {
+      "dataset": "create_folder",
+      "intent": "create_folder",
+      "text": "please make one folder"
+    }
+  ]
+}

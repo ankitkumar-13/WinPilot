@@ -1,0 +1,867 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you change {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you change {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you change the {FOLDER} folder name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you change the {PATH_DIR} folder name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename the {FOLDER} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename the {PATH_DIR} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename the folder {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename the folder {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename the folder {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "can you rename the folder {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change {FOLDER} folder name to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change {PATH_DIR} folder name to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the folder from {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the folder from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the folder name {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the folder name {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the folder name in {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the folder name in {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the folder name to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the folder name to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the name of {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the name of {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the name of a folder in {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "change the name of a folder in {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you change {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you change {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you change the {PATH_DIR} folder name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename the {FOLDER} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename the {PATH_DIR} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename the folder {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename the folder {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename the folder {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "could you rename the folder {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give {FOLDER} a new name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give {FOLDER} folder a new name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give {FOLDER} the new name {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give {PATH_DIR} a new name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give {PATH_DIR} folder a new name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give {PATH_DIR} the new name {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give the {FOLDER} folder a new name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give the {PATH_DIR} folder a new name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give the folder the name {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give the folder the name {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give the folder the new name {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "give the folder the new name {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I need to change {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I need to change {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I need to rename {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I need to rename {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I need to rename {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I need to rename {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I want to change {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I want to change {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I want to rename {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I want to rename {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I want to rename {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I want to rename {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I want to rename the {FOLDER} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "I want to rename the {PATH_DIR} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please change {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please change {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please change the {FOLDER} folder name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please change the {PATH_DIR} folder name",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename the {FOLDER} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename the {PATH_DIR} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename the folder {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename the folder {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename the folder {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "please rename the folder {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {FOLDER} as {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {FOLDER} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {FOLDER} folder in {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {FOLDER} folder to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {PATH_DIR} as {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {PATH_DIR} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {PATH_DIR} folder in {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {PATH_DIR} folder to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename a folder called {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename a folder called {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename a folder in {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename a folder in {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename a folder named {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename a folder named {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename folder {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename folder {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename folder {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename folder {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the {FOLDER} as the {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the {FOLDER} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the {FOLDER} to the {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the {PATH_DIR} as the {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the {PATH_DIR} folder",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the {PATH_DIR} to the {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder as {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder as {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder called {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder called {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder called {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder called {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder named {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder named {FOLDER} to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder named {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder named {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder to {FOLDER}",
+      "intents": [
+        "rename_folder"
+      ]
+    },
+    {
+      "dataset": "rename_folder",
+      "pattern": "rename the folder to {PATH_DIR}",
+      "intents": [
+        "rename_folder"
+      ]
+    }
+  ]
+}

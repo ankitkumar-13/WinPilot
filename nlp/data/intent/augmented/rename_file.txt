@@ -1,0 +1,152 @@
+can you change borrower list.csv to membership form.pdf
+can you change registration form.pdf to application form.pdf
+can you change admission letter.docx to certificate copy.pdf
+can you change identity proof.pdf to passport scan.pdf
+can you change visa document.pdf to travel booking.pdf
+can you change hotel reservation.pdf to flight details.pdf
+can you change D:\Archive\Previous\eastern outline.py to D:\Research\Notes\eastern register.sql
+can you change D:\Research\Results\eastern summary.pdf to E:\Shared\Operations\eastern checklist.docx
+can you change E:\Shared\Finance\eastern notice.xlsx to F:\Records\Personal\forest ledger.txt
+can you change F:\Records\Business\forest brief.csv to F:\Backup\Monthly\forest memo.json
+can you change F:\Backup\Projects\forest record.md to C:\Projects\Greenfield\forest snapshot.log
+can you change C:\Projects\Harbour View\forest outline.py to D:\Development\Tools\forest register.sql
+can you rename train ticket.pdf
+can you rename event ticket.pdf
+can you rename parking receipt.pdf
+can you rename vehicle record.xlsx
+can you rename service history.pdf
+can you rename repair estimate.pdf
+can you rename maintenance schedule.xlsx to home inventory.xlsx
+can you rename garden plan.docx to meal planner.xlsx
+can you rename fitness routine.docx to daily journal.txt
+can you rename personal notes.md to photo index.csv
+can you rename image catalogue.csv to design assets.json
+can you rename logo draft.svg to colour palette.json
+can you rename E:\University\Coursework\forest summary.pdf
+can you rename C:\Data\Incoming\forest checklist.docx
+can you rename C:\Data\Exports\forest notice.xlsx
+can you rename C:\Work\Client Files\golden ledger.txt
+can you rename C:\Work\Team Files\golden brief.csv
+can you rename D:\Archive\Current\golden memo.json
+can you rename D:\Archive\Previous\golden record.md to D:\Research\Notes\golden snapshot.log
+can you rename D:\Research\Results\golden outline.py to E:\Shared\Operations\golden register.sql
+can you rename E:\Shared\Finance\golden summary.pdf to F:\Records\Personal\golden checklist.docx
+can you rename F:\Records\Business\golden notice.xlsx to F:\Backup\Monthly\harbour ledger.txt
+can you rename F:\Backup\Projects\harbour brief.csv to C:\Projects\Greenfield\harbour memo.json
+can you rename C:\Projects\Harbour View\harbour record.md to D:\Development\Tools\harbour snapshot.log
+can you rename the file wireframe notes.docx
+can you rename the file interface mockup.pdf
+can you rename the file network diagram.svg
+can you rename the file system architecture.pdf
+can you rename the file a.txt
+can you rename the file x1.txt
+can you rename the file E:\University\Coursework\harbour outline.py
+can you rename the file C:\Data\Incoming\harbour register.sql
+can you rename the file C:\Data\Exports\harbour summary.pdf
+can you rename the file C:\Work\Client Files\harbour checklist.docx
+can you rename the file C:\Work\Team Files\harbour notice.xlsx
+can you rename the file D:\Archive\Current\hidden ledger.txt
+change v2_notes.md name to Q4_summary.xlsx
+change log7.txt name to test-1.csv
+change notes_2.txt name to 2026_report.pdf
+change backup (1).zip name to final!.txt
+change C++ notes.txt name to 3D model.obj
+change README.md name to API_v3.json
+change D:\Archive\Previous\hidden brief.csv name to D:\Research\Notes\hidden memo.json
+change D:\Research\Results\hidden record.md name to E:\Shared\Operations\hidden snapshot.log
+change E:\Shared\Finance\hidden outline.py name to F:\Records\Personal\hidden register.sql
+change F:\Records\Business\hidden summary.pdf name to F:\Backup\Monthly\hidden checklist.docx
+change F:\Backup\Projects\hidden notice.xlsx name to C:\Projects\Greenfield\lunar ledger.txt
+change C:\Projects\Harbour View\lunar brief.csv name to D:\Development\Tools\lunar memo.json
+change file name todo!.txt to draft#2.docx
+change file name img_07.png to part-3.pdf
+change file name r2d2.txt to x9.csv
+change file name data@home.csv to build_v4.log
+change file name week_5.xlsx to report.pdf
+change file name E:\University\Coursework\lunar record.md to C:\Data\Incoming\lunar snapshot.log
+change file name C:\Data\Exports\lunar outline.py to C:\Work\Client Files\lunar register.sql
+change file name C:\Work\Team Files\lunar summary.pdf to D:\Archive\Current\lunar checklist.docx
+change file name D:\Archive\Previous\lunar notice.xlsx to D:\Research\Notes\maple ledger.txt
+change file name D:\Research\Results\maple brief.csv to E:\Shared\Operations\maple memo.json
+change file name E:\Shared\Finance\maple record.md to F:\Records\Personal\maple snapshot.log
+change filename F:\Records\Business\maple outline.py to F:\Backup\Monthly\maple register.sql
+change filename F:\Backup\Projects\maple summary.pdf to C:\Projects\Greenfield\maple checklist.docx
+change filename C:\Projects\Harbour View\maple notice.xlsx to D:\Development\Tools\misty ledger.txt
+change filename E:\University\Coursework\misty brief.csv to C:\Data\Incoming\misty memo.json
+change filename C:\Data\Exports\misty record.md to C:\Work\Client Files\misty snapshot.log
+change filename C:\Work\Team Files\misty outline.py to D:\Archive\Current\misty register.sql
+change the file name to D:\Archive\Previous\misty summary.pdf
+change the file name to D:\Research\Notes\misty checklist.docx
+change the file name to D:\Research\Results\misty notice.xlsx
+change the file name to E:\Shared\Operations\northern ledger.txt
+change the file name to E:\Shared\Finance\northern brief.csv
+change the file name to F:\Records\Personal\northern memo.json
+change the filename F:\Records\Business\northern record.md to F:\Backup\Monthly\northern snapshot.log
+change the filename F:\Backup\Projects\northern outline.py to C:\Projects\Greenfield\northern register.sql
+change the filename C:\Projects\Harbour View\northern summary.pdf to D:\Development\Tools\northern checklist.docx
+change the filename E:\University\Coursework\northern notice.xlsx to C:\Data\Incoming\quiet ledger.txt
+change the filename C:\Data\Exports\quiet brief.csv to C:\Work\Client Files\quiet memo.json
+change the filename C:\Work\Team Files\quiet record.md to D:\Archive\Current\quiet snapshot.log
+change the name of D:\Archive\Previous\quiet outline.py
+change the name of D:\Research\Notes\quiet register.sql
+change the name of D:\Research\Results\quiet summary.pdf
+change the name of E:\Shared\Operations\quiet checklist.docx
+change the name of E:\Shared\Finance\quiet notice.xlsx
+change the name of F:\Records\Personal\silver ledger.txt
+change the name of F:\Records\Business\silver brief.csv to F:\Backup\Monthly\silver memo.json
+change the name of F:\Backup\Projects\silver record.md to C:\Projects\Greenfield\silver snapshot.log
+change the name of C:\Projects\Harbour View\silver outline.py to D:\Development\Tools\silver register.sql
+change the name of E:\University\Coursework\silver summary.pdf to C:\Data\Incoming\silver checklist.docx
+change the name of C:\Data\Exports\silver notice.xlsx to C:\Data\Incoming\amber ledger.pdf
+change the name of E:\University\Coursework\crystal brief.csv to C:\Data\Incoming\crystal memo.json
+change the name of the file C:\Data\Exports\crystal record.md to C:\Work\Client Files\crystal snapshot.log
+change the name of the file C:\Work\Team Files\crystal outline.py to D:\Archive\Current\crystal register.sql
+change the name of the file D:\Archive\Previous\crystal summary.pdf to D:\Research\Notes\crystal checklist.docx
+change the name of the file D:\Research\Results\crystal notice.xlsx to E:\Shared\Operations\dawn ledger.txt
+change the name of the file E:\Shared\Finance\dawn brief.csv to F:\Records\Personal\dawn memo.json
+change the name of the file F:\Records\Business\dawn record.md to F:\Backup\Monthly\dawn snapshot.log
+could you change F:\Backup\Projects\dawn outline.py to C:\Projects\Greenfield\dawn register.sql
+could you change C:\Projects\Harbour View\dawn summary.pdf to D:\Development\Tools\dawn checklist.docx
+could you change E:\University\Coursework\dawn notice.xlsx to C:\Data\Incoming\eastern ledger.txt
+could you change C:\Data\Exports\eastern brief.csv to C:\Work\Client Files\eastern memo.json
+could you change C:\Work\Team Files\eastern record.md to D:\Archive\Current\eastern snapshot.log
+can you change the file name
+can you rename the file
+change a file name
+change the file name
+change the filename
+change the name of a file
+change the name of one file
+change the name of that file
+change the name of this file
+could you change the file name
+could you rename the file
+give a file a new name
+give one file a new name
+give the document a new name
+give the file a new name
+give the old file a new name
+I need to change the file name
+I need to rename the file
+I want to rename the file
+please change the file name
+please give the file a new name
+please rename the file
+rename a document
+rename a file
+rename a single file
+rename file
+rename my document
+rename my report file
+rename one file
+rename one of my files
+rename that file
+rename the assignment file
+rename the document
+rename the file
+rename the new file
+rename the notes file
+rename the old file
+rename the project file
+rename the report
+rename this file

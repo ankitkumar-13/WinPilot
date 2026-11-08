@@ -2,7 +2,10 @@ import logging
 from typing import Any
 
 from app.mcp_client import WinPilotMCPClient
+from core.command import Command
+from core.command_parser import CommandParser
 from llm.router import LLMRouter
+from nlp.adapter import LocalNLPInterpreter
 
 logger = logging.getLogger(__name__)
 
@@ -26,6 +29,8 @@ class WinPilotOrchestrator:
         """
         self.client = client
         self.router = router
+        self.parser = CommandParser()
+        self.local_nlp = LocalNLPInterpreter()
         self._tools: list[Any] = []
         self._tool_names: set[str] = set()
         self._initialised = False
@@ -141,14 +146,30 @@ class WinPilotOrchestrator:
             except Exception:
                 return "Failed to retrieve MCP tools. Check the logs."
 
-        try:
-            response = await self.router.process_query(
-                query,
-                self._get_tool_schemas(),
-            )
-        except Exception:
-            logger.exception("LLM failed to process request")
-            return "Failed to process the request. Check the logs."
+        command = self.parser.parse_command(query)
+        if command.action == "unknown":
+            try:
+                command = self.local_nlp.interpret(query) or command
+            except Exception:
+                logger.exception("Local NLP interpretation failed")
+
+        if command.action != "unknown":
+            response = self._command_response(command)
+            if response is None:
+                logger.warning("Parsed command could not be mapped to an MCP tool")
+                response = None
+        else:
+            response = None
+
+        if response is None:
+            try:
+                response = await self.router.process_query(
+                    query,
+                    self._get_tool_schemas(),
+                )
+            except Exception:
+                logger.exception("LLM failed to process request")
+                return "Failed to process the request. Check the logs."
 
         if not isinstance(response, dict):
             logger.error(
@@ -196,3 +217,47 @@ class WinPilotOrchestrator:
             return f"Tool '{name}' failed. Check the logs."
 
         return self._format_tool_result(name, result)
+
+    def _command_response(self, command: Command) -> dict[str, Any] | None:
+        """Map an interpreted command to its discovered MCP tool.
+
+        Args:
+            command - Locally interpreted command to map.
+
+        Returns:
+            Tool-call response, or None when no matching tool is available.
+        """
+        action = command.action
+        arguments = command.arguments
+
+        if action == "open_application":
+            name, args = "open_application", {"application": arguments.get("target")}
+        elif action in {"create_file", "create_folder"}:
+            name = action
+            args = {"name": arguments.get("target")}
+        elif action in {"move", "copy"}:
+            name = "move_item" if action == "move" else "copy_item"
+            args = {
+                "source": arguments.get("source"),
+                "destination": arguments.get("destination"),
+            }
+        elif action in {"delete_file", "delete_folder"}:
+            name = "delete_item"
+            args = {
+                "target": arguments.get("target"),
+                "kind": action.removeprefix("delete_"),
+            }
+        elif action in {"rename_file", "rename_folder"}:
+            name = "rename_item"
+            args = {
+                "path": arguments.get("target"),
+                "new_name": arguments.get("new_name"),
+                "kind": action.removeprefix("rename_"),
+            }
+        else:
+            return None
+
+        if name not in self._tool_names or any(value is None for value in args.values()):
+            return None
+        logger.info("Command interpreted locally as MCP tool: %s", name)
+        return {"type": "tool_call", "tool_name": name, "arguments": args}

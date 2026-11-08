@@ -1,0 +1,86 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "can you move the file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "could you move the file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "I need to move the file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "I want to move the file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move a file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move a file from one folder to another"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move a new file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move one file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move that file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move the file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move the file from one folder to another"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move the file here"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "move this file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "please move the file"
+    },
+    {
+      "dataset": "move_file",
+      "intent": "move_file",
+      "text": "put the file here"
+    }
+  ]
+}

@@ -1,0 +1,1350 @@
+copy Year Private across into Department Archive
+copy BIOS Notes across into College Current
+copy GEHU - Final Submission across into Open Source Tools
+copy Webinar across into Medical Reimbursements
+copy Department Research across into Semester 4
+copy DBMS Project Support across into E:\Incoming\travel\screenshots\Project Revisions
+copy WinPilot - Policies across into C:\Users\Ankit\Videos\photos\warehouse\Payroll Manager
+copy Team Tests across into C:\Program Files (x86)\receipts\Semester 7\Year Raw
+copy University - Designs across into E:\College\Validation Data
+copy Payroll Manager References across into \\NAS01\Shared\Source Code\test results\Department Logs
+copy GEHU - Results across into C:\Users\Ankit\Videos\archives\config\Department Responses
+copy Payroll Manager - Tests across into \\NAS01\Shared\config\screenshots\Team Screenshots
+copy University - Rejected across into C:\Temp\diagnostics\Certificates\Year Records
+copy Decision Records across into C:\ProgramData\Supplier North\campaigns\Team Records
+copy Team Invoices across into D:\Projects\config\Semester 7\Contract Archive
+copy NER datasets across to Support Bundle
+copy Year Inputs across to DBMS Project - Templates
+copy Department Planning across to Payroll Manager Support
+copy Action Items across to Games
+copy GEHU Finance across to GEHU Planning
+copy Marketing Campaigns across to D:\Staging\receipts\Research Papers\Ben 10 Games
+copy Known Issues across to \\192.168.1.20\teamshare\generated\engineering\Household Admin
+copy University Assets across to C:\Users\Ankit\OneDrive\finance\operations\Department Materials
+copy Controller Profiles across to D:\Data\Receipts
+copy Year Metrics across to D:\Backups\meeting notes\design files\On-call Handover
+copy Client Videos across to D:\Backups\Assignments\migrations\Year November
+copy GEHU Videos across to D:\Work\travel\meeting notes\Client Releases
+copy College - Research across to E:\Media\tests\logs\Project Screenshots
+copy AWS Training across to E:\Personal\Personal Finance\temp\Department Notes
+copy DBMS Project - Requests across to D:\Backups\WinPilot3
+copy WinPilot - Pending Review across to the folder DBMS Project Ready to Submit
+copy Augmentation Reports across to the folder WinPilot - Previous
+copy WinPilot - Published across to the folder DBMS Project - Metrics
+copy DBMS Project Validation across to the folder Payroll Manager - Suppliers
+copy College - Forms across to the folder Year Validation
+copy Intent Evaluation across to the folder C:\Users\Ankit\Pictures\logs\database\Project Shared
+copy College - Operations across to the folder C:\Users\Public\Documents\invoices\finance\Year Evidence
+copy GEHU - Tests across to the folder F:\USB Backup\Model Outputs
+copy models across to the folder D:\Projects\Reports\Semester 7\Onboarding
+copy Lecture Recordings across to the folder G:\Shared\meeting notes\Windows Logs\Crash Reports
+copy DBMS Project - Students across to the folder C:\Temp\Personal Finance\Personal Finance\Client 2025
+copy Year Documents across to the folder G:\Shared\client files\diagnostics\Project Version 2
+copy Project Inputs across to the folder D:\College\GEHU\Client A\Shared Documents\Music Playlists
+copy Payroll Manager Students across to the folder E:\Archive\Windows Logs\meeting notes\Client Research
+copy Project Screenshots across to the folder D:\Backups\HR\assets\Ben 10 Games
+copy temp and place it in DBMS Project Policies
+copy University Backups and place it in Firewall Configs
+copy Payroll Manager Customers and place it in Project Gamma
+copy GEHU Published and place it in Payroll Manager - Designs
+copy Weekend Plans and place it in HR Team
+copy ETL Jobs and place it in F:\External Drive\campaigns\Windows Logs\Decision Records
+copy HR Documents and place it in C:\Users\ankit.kumar\Documents\Tests
+copy Travel Bookings and place it in D:\Source\operations\Week 42\Project Invoices
+copy Content Calendar and place it in G:\Shared\Network Captures\Course Material\Import Queue
+copy WinPilot Application Plugins and place it in C:\Users\Ankit\Documents\docs\imports\Team Data
+copy DBMS Project Results and place it in C:\Temp\migrations\Source Code\Bank Statements
+copy Team Designs and place it in G:\Shared\test results\campaigns\Client Inputs
+copy WinPilot Scripts and place it in C:\Dev\model outputs\assets\Client Designs
+copy GEHU Audio and place it in C:\Program Files\Reports\model outputs\Hindi
+copy Year Invoices and place it in C:\Temp\config\Lab Work\LeetCode
+copy Security Patches and put it in DBMS Project Finance
+copy Product Images and put it in WinPilot Data
+copy Incident Response and put it in Unsolved Question Papers
+copy Department Cleaned and put it in College - Responses
+copy Developer Guide and put it in College Inputs
+copy Team Imports and put it in C:\Temp\Model Outputs
+copy WinPilot - Records and put it in D:\Data\Model Outputs
+copy Licensed Software and put it in \\backup-server\weekly\Personal Finance\Payroll Manager\Project Gamma
+copy Model Monitoring and put it in C:\Dev\entity pools\backend\Temporary Working
+copy Year Videos and put it in C:\Users\Ankit\Downloads\Shared Drive
+copy Mobile Videos and put it in C:\Dev\SQL Scripts
+copy Backend and put it in E:\Personal\backups\Reports\Department Contracts
+copy College - Requests and put it in D:\Projects\Device Reports\release builds\Client Deliverables
+copy University For Approval and put it in D:\Data\October 2026\docs\Client Archive 2026
+copy Projects and put it in C:\Users\ankit.kumar\Documents\Travel
+copy GEHU - Backups and save it to College - Backups
+copy GEHU Evidence and save it to College - Evidence
+copy WinPilot - Engineering and save it to University - Results
+copy Expense Claims and save it to Payroll Manager - Resources
+copy Project Audio and save it to University Resources
+copy DBMS Project - Deliverables and save it to C:\Users\Ankit\Desktop\Final Versions
+copy DBMS Project - Tickets and save it to C:\Users\Ankit\Videos\Semester 7\receipts\Automated Test Reports
+copy experiments and save it to D:\Data\Entity Pools
+copy University Pending Review and save it to C:\Program Files\campaigns\To Review\Attendance Records
+copy WinPilot Notes and save it to D:\Projects\Semester 5
+copy Storage Reports and save it to C:\Users\Public\Documents\To Review
+copy GEHU - Old Versions and save it to F:\USB Backup\entity pools\Exam Preparation\Package Locks
+copy GEHU - Code and save it to E:\Personal\Payroll Manager\Shared Documents\Property Documents
+copy Database and save it to E:\Media\Semester 5\Certificates\Department October
+copy Operating Systems - Notes and save it to C:\Users\Public\Documents\Personal Finance\invoices\Engineering
+copy Payroll Manager - Assets and store it in Payroll Manager - Engineering
+copy Pet Records and store it in Cycling
+copy Entity Pool Rejected and store it in Reserved Names Tests
+copy College - Manifests and store it in Project Week 42
+copy Personal and store it in College Outgoing
+copy Year Archive and store it in C:\Users\Ankit\Desktop\Config
+copy University Tracking and store it in F:\External Drive\presentations\PBL Phase 2\Rental Agreement
+copy Structure Library Imports and store it in \\NAS01\Shared\validation data\logs\Scanned Documents
+copy Payroll Manager - Scripts and store it in D:\Projects\Receipts
+copy WinPilot Planning and store it in D:\Backups\WinPilot
+copy GEHU References and store it in C:\Users\Ankit\Desktop\Semester 7
+copy Payroll Manager - Inputs and store it in F:\USB Backup\family photos\Week 42\temp
+copy WinPilot For Review and store it in D:\Staging\src\contracts\Windows Explorer
+copy Order Tracking and store it in E:\Media\Research
+copy Locked File Tests and store it in C:\Users\Ankit\Pictures\finance\test results\Bike Documents
+copy GEHU - Approved into DBMS Project - Notes
+copy Failed Exports into Team Test Set
+copy Insurance into Monthly Reports
+copy Payroll Manager - Contracts into DBMS Project References
+copy Donations into Business Continuity
+copy GEHU Tracking into C:\Users\Ankit\OneDrive\assets\release builds\Firewall Configs
+copy Cloud Backups into C:\Users\Ankit\Desktop\HR\invoices\Lead Management
+copy Project Team B into D:\Data\To Review
+copy Team Team A into C:\ProgramData\diagnostics\Certificates\Risk Register
+copy University Records into D:\Projects\Source Code
+copy Payroll Manager Builds into C:\Users\Ankit\Videos\backups\src\Browser Backups
+copy Department Shared Files into C:\Users\Ankit\Pictures\Personal Finance\Firewall Configs\Year Policies
+copy DBMS Project - Forms into D:\Source\screenshots\Semester 5\Leadership
+copy WinPilot Finance into C:\Users\Ankit\Videos\marketing\design files\File Migration
+copy College - Temporary Files into C:\Temp\Client A\design files\Travel Documents
+copy Team History into the destination folder DBMS Project - For Approval
+copy Cover Letters into the destination folder Year Engineering
+copy WinPilot - Sprint 12 into the destination folder Year Requests
+copy Midsem Preparation into the destination folder GEHU - Revisions
+copy Department Reports into the destination folder Payroll Manager - To Print
+copy GEHU - Published into the destination folder D:\Staging\Firewall Configs\Release 1.4\Client Documentation
+copy University Builds into the destination folder C:\ProgramData\imports\Assignments\annotations
+copy Return Requests into the destination folder C:\Users\Ankit\Pictures\WinPilot\Release 1.4\Project Outputs
+copy Payroll Manager Raw Data into the destination folder D:\Research\Model Outputs
+copy WinPilot - Research into the destination folder F:\External Drive\Assignments\Windows Logs\Disk Health
+copy Diagnostics into the destination folder D:\Source\To Review\test results\Client Tracking
+copy Train Tickets into the destination folder C:\Users\Ankit\Pictures\archives\Lab Work\Client History
+copy Team Old Versions into the destination folder E:\Incoming\backups\api tests\Department Team A
+copy Year Q3 into the destination folder \\192.168.1.20\teamshare\family photos\operations\Department Checkpoints
+copy Year Screenshots into the destination folder \\backup-server\weekly\Exam Preparation\Audio Troubleshooting\Team To Submit
+copy Recovery Files into the directory Payroll Manager Validation
+copy College - Resources into the directory Security Reviews
+copy GEHU Training into the directory University - Code
+copy Project Photos into the directory Client Engineering
+copy GEHU Clients into the directory DBMS Project - Temporary Files
+copy DBMS Project - Audits into the directory E:\Archive\api tests\entity pools\Published
+copy Operating Systems - Invoices into the directory C:\Users\Ankit\Pictures\Home Repairs\entity pools\Project Invoices
+copy 2024 Payroll Manager into the directory D:\Source\October 2026\campaigns\Client Raw
+copy WinPilot Evidence into the directory D:\Source\Shared Documents\recordings\Team Builds
+copy College - Materials into the directory C:\Users\Public\Documents\Archives
+copy WinPilot References into the directory D:\Projects\Payroll Manager\Shared Documents\October 2026
+copy Pull Requests into the directory D:\Projects\Release 1.4\Firewall Configs\notebooks
+copy DBMS Project - Team Shared into the directory F:\USB Backup\Client A\inventory\Licensed Software
+copy Do Not Delete into the directory D:\Source\Exam Preparation\Graphics Troubleshooting\Project Sprint 13
+copy Payroll Manager Final Versions into the directory C:\Users\Ankit\Documents\Database
+copy GEHU - For Review over to DBMS Project Deliverables
+copy Team Revisions over to Payroll Manager Planning
+copy Gym over to College - Week 42
+copy Payroll Manager - Sprint 12 over to Client Templates
+copy DBMS Project Evidence over to 2025 Records
+copy Data Quality over to C:\Dev\Client B
+copy PBL Phase 2 over to C:\Dev\intent models\To Submit\Export Staging
+copy Operating Systems Inputs over to F:\USB Backup\Audio Troubleshooting\test results\Receipts
+copy Project Reports over to F:\USB Backup\backups\finance\Client Files
+copy WinPilot Pending Review over to E:\Personal\api tests\backups\src
+copy DBMS Project - Materials over to G:\Shared\entity pools\exports\Sales Reports
+copy WinPilot - Planning over to D:\Source\Old Versions\Source Code\WinPilot Voice Pipeline
+copy Department Schedules over to D:\WinPilot\Week 42\api tests\Calendar Exports
+copy WinPilot - Approved over to C:\Dev\customer support\Semester 5\scripts
+copy DBMS Project Metrics over to D:\Data\src\release builds\Year Audits
+copy Scanned Documents to Staff Training
+copy Department Team B to Previous Year Questions
+copy University Templates to College - Contracts
+copy College Requests to Payroll Manager Archives
+copy GEHU - Requests to VPN Profiles
+copy WinPilot - Responses to D:\Shared\Receipts
+copy WinPilot For Approval to C:\Users\ankit.kumar\Documents\Validation Data
+copy Client Suppliers to D:\Data\release builds\logs\Pokemon Saves
+copy Contracts to D:\College\GEHU\Supplier North\backend\Employee Offboarding
+copy WinPilot Research to F:\USB Backup\Sprint 13\client files\Department 2025
+copy DBMS Project Tracking to C:\Users\Public\Documents\Sprint 13\config\Hackathon
+copy GEHU Results to D:\Backups\validation data\training data\Year History
+copy Department October to C:\Users\Ankit\Desktop\datasets\presentations\Team Support
+copy University - Tickets to \\NAS01\Shared\design files\frontend\Orphaned Files
+copy DBMS Project - Old Versions to C:\Program Files (x86)\archives\Payroll Manager\Android Logs
+copy Test Fixtures to the destination folder University Evaluation
+copy DBMS Project - Code to the destination folder DBMS Project - Inventory
+copy GEHU Previous to the destination folder Dehradun Trip
+copy Team Records to the destination folder College - To Sort
+copy DBMS Project Training to the destination folder WinPilot Published
+copy DBMS Project - Videos to the destination folder G:\Shared\Source Code\intent models\Team Results
+copy University Final Versions to the destination folder E:\College\Firewall Configs\To Submit\Music
+copy DBMS Project Clean Data to the destination folder \\FileServer\Departments\assets\warehouse\Family Photos
+copy Java Projects to the destination folder E:\Archive\Config
+copy Payroll Manager - Temporary Files to the destination folder G:\Shared\generated\test results\Support Team
+copy reports to the destination folder \\NAS01\Shared\warehouse\presentations\Service Metrics
+copy GEHU - Responses to the destination folder D:\Data\travel\Audio Troubleshooting\Year Responses
+copy University Reference Material to the destination folder E:\College\Final Versions
+copy Cloud Computing Course to the destination folder C:\Users\Ankit\Desktop\Travel
+copy DBMS Project - Policies to the destination folder E:\Media\training data\exports\Team Screenshots
+copy Department Customers to the directory GEHU - Drafts
+copy Payroll Manager History to the directory Project Pending
+copy College - Raw Data to the directory WinPilot - Shared
+copy WinPilot - Videos to the directory Client Approved
+copy Payroll Manager Inputs to the directory Empty Folders Review
+copy Confidential Archive to the directory E:\Incoming\client files\WinPilot\Year Week 43
+copy University - Audio to the directory C:\Program Files (x86)\Release 1.4\Exam Preparation\English
+copy Project Test Set to the directory \\NAS01\Shared\Week 42\Reports\Client October
+copy Desktop Cleanup to the directory E:\Archive\validation data\receipts\Release 1.4
+copy Emulator Setup to the directory C:\Users\Ankit\Downloads\warehouse\migrations\Year Private
+copy Department Deliverables to the directory C:\Users\Public\Documents\Assets
+copy DBMS Project - Drafts to the directory C:\Users\Public\Documents\Sprint 13
+copy Security Operations to the directory D:\Projects\tests\datasets\Year Notes
+copy tmp to the directory D:\Backups\frontend\temp\Team Schedules
+copy University Suppliers to the directory D:\Projects\tests\screenshots\Graphic Design
+copy D:\Staging\Travel Planning\operations\Team Team B across into College - November 2026
+copy \\backup-server\weekly\screenshots\Travel Planning\Department Policies across into GEHU - To Copy
+copy D:\Source\training data\Assignments\Year Q3 across into WinPilot Release Builds
+copy C:\Users\Ankit\Desktop\Model Outputs across into University - To Move
+copy D:\Projects\Semester 7 across into Client Sprint 13
+copy C:\Program Files\Projects\src\Automated Test Reports across into App Diagnostics
+copy C:\Users\Ankit\Desktop\travel\marketing\Year Cleaned across into WinPilot To Move
+copy C:\Users\Ankit\Videos\frontend\client files\PostgreSQL across into Year To Submit
+copy C:\Program Files (x86)\meeting notes\Driver Backups\Practical Exam across into Meal Planning
+copy \\backup-server\weekly\generated\backups\Team History across into Data Retention
+copy D:\Shared\Photos across into G:\Shared\imports\Audio Troubleshooting\Client Reports
+copy \\192.168.1.20\teamshare\photos\Source Code\Payroll Reports across into C:\Dev\Client A\recordings\GitHub Projects
+copy D:\Backups\Source Code across into D:\Projects\Travel
+copy \\FileServer\Departments\model outputs\Sprint 13\Department Results across into C:\Program Files\Device Reports\validation data\Known Issues
+copy D:\Backups\To Review across into C:\ProgramData\Personal Finance\contracts\Volunteering
+copy D:\Data\Week 42\engineering\Windows Recovery across to Department Finance
+copy C:\Users\Ankit\Videos\Old Versions\To Submit\Accounts Payable across to GEHU Backups
+copy C:\Users\Ankit\Downloads\HR\Semester 5\WinPilot Release Builds across to College Videos
+copy C:\Users\Ankit\OneDrive\inventory\Home Repairs\Customer Onboarding across to DBMS Project - Contracts
+copy C:\Users\Ankit\Desktop\Reports across to GEHU - Semester 5
+copy C:\Dev\Windows Logs\photos\Client Cleaned across to Duplicate Review
+copy C:\Users\Ankit\Downloads\intent models\Release 1.4\Year Files across to System Restore Backups
+copy C:\Users\Ankit\Desktop\Tests across to Year Pending
+copy D:\College\GEHU\release builds\datasets\UI Assets across to DBMS Project - Q3 2026
+copy F:\External Drive\entity pools\Assignments\Architecture Decision Records across to Family Records
+copy D:\Shared\Invoices across to D:\Data\Backups
+copy C:\Users\Ankit\Downloads\training data\Travel Planning\Team October across to C:\Users\Ankit\Videos\Home Repairs\finance\assets
+copy D:\Staging\screenshots\database\Audits across to C:\Users\Ankit\Pictures\operations\HR\Client Videos
+copy E:\College\Client A\presentations\WSL across to C:\Users\Ankit\Documents\logs\WinPilot\Query Results
+copy C:\Users\Ankit\Pictures\Reports\presentations\Incident Response across to \\192.168.1.20\teamshare\Research Papers\campaigns\3D Models
+copy E:\Incoming\HR\Supplier North\WinPilot Voice Pipeline across to the folder Year 2026
+copy C:\Users\Ankit\Desktop\Release 1.4 across to the folder build
+copy D:\College\GEHU\Certificates\Supplier North\Project Contracts across to the folder Access Control
+copy E:\Archive\NER experiments\Payroll Manager\Department Records across to the folder Department Current
+copy C:\Users\Ankit\Desktop\WinPilot3 across to the folder DBMS Project Reports
+copy C:\Dev\Reports across to the folder GEHU - Archived
+copy D:\Projects\test results\Assignments\Supplier North across to the folder Load Tests
+copy C:\Program Files\campaigns\October 2026\cache across to the folder November 2026
+copy D:\College\GEHU\backend\meeting notes\Year Q3 across to the folder DBMS Project - Support
+copy C:\Users\Ankit\Documents\Semester 7\Lab Work\Analytics across to the folder Project Reviewed
+copy \\192.168.1.20\teamshare\Shared Documents\Windows Logs\Team To Review across to the folder C:\Users\Ankit\Downloads\recordings\PBL Phase 2\Employee Offboarding
+copy E:\Archive\contracts\Research Papers\Feature Engineering across to the folder F:\USB Backup\engineering\entity pools\Support Escalations
+copy E:\Media\To Review across to the folder F:\USB Backup\Client B
+copy F:\USB Backup\Downloads across to the folder E:\College\Exam Preparation\database\Warranty Expiry
+copy C:\Program Files (x86)\Exam Preparation\Travel Planning\Study Material across to the folder C:\Dev\Config
+copy \\NAS01\Shared\travel\exports\WinPilot Models and place it in Project Responses
+copy F:\USB Backup\Generated Records and place it in Source Code
+copy E:\Personal\release builds\design files\Support Bundle and place it in Documents for HR
+copy C:\Program Files\receipts\marketing\Year Reports and place it in DBMS Project Outgoing
+copy C:\Temp\Archives and place it in Client October
+copy C:\ProgramData\Supplier North\Week 42\Python Projects and place it in Bookmarks
+copy C:\Dev\Lab Work and place it in Translations
+copy C:\Users\Ankit\Desktop\Screenshots and place it in GEHU - Week 43
+copy D:\Work\Photos and place it in WinPilot Code
+copy E:\Archive\Windows Logs\photos\Uptime Reports and place it in Payroll Manager Scripts
+copy C:\Dev\Graphics Troubleshooting\recordings\Vendor Management and place it in \\192.168.1.20\teamshare\Network Captures\entity pools\Client Operations
+copy D:\Backups\Research and place it in C:\Users\Ankit\Documents\SQL Scripts
+copy C:\Users\Ankit\Downloads\Receipts and place it in C:\Program Files\receipts\Projects\Rental Agreement
+copy \\OfficePC\Public\temp\imports\Bug Triage and place it in C:\Users\ankit.kumar\Documents\Client B
+copy \\backup-server\weekly\Shared Documents\client files\Team Drafts and place it in E:\Archive\photos\database\Team Audio
+copy E:\Archive\Client A and put it in WinPilot Tests
+copy E:\Archive\Music and put it in Final Versions
+copy G:\Shared\Week 42\PBL Phase 2\Department Suppliers and put it in University - Pending Review
+copy E:\Incoming\Source Code\NER experiments\Work Documents and put it in Client Records
+copy C:\ProgramData\training data\assets\Department Exports and put it in College - Tracking
+copy C:\Dev\inventory\customer support\Client Receipts and put it in To Copy
+copy C:\Users\Ankit\Pictures\Research Papers\Release 1.4\Return Requests and put it in WinPilot Tracking
+copy C:\ProgramData\operations\Windows Logs\Department To Submit and put it in Q3 2026
+copy \\backup-server\weekly\archives\archives\WinPilot and put it in Payroll Manager 2027
+copy E:\Archive\release builds\meeting notes\Project Logs and put it in Payroll Manager - Rejected
+copy C:\Users\Public\Documents\WinPilot3 and put it in C:\Dev\Release 1.4
+copy E:\Media\Device Reports\invoices\Team Documents and put it in C:\Temp\website\backend\Action Item Tracking
+copy C:\Users\Ankit\Pictures\receipts\tests\Cloud Computing Course and put it in C:\Users\Ankit\Desktop\Generated Records
+copy C:\Dev\Projects and put it in E:\College\Client A\October 2026\Department Pending
+copy C:\Program Files\Exam Preparation\Assignments\Department Shared and put it in E:\Media\Validation Data
+copy C:\Users\Ankit\OneDrive\recordings\client files\Node Packages and save it to College - Invoices
+copy C:\Temp\diagnostics\photos\Path Length Tests and save it to Year Policies
+copy G:\Shared\model outputs\Lab Work\Project 2025 and save it to Project Builds
+copy E:\Incoming\To Review\Exam Preparation\Linux Notes and save it to Payroll Manager - Team Shared
+copy D:\WinPilot\Exam Preparation\screenshots\Team Old Versions and save it to GEHU Manifests
+copy E:\Incoming\marketing\archives\Documents for Internship and save it to Offline Videos
+copy C:\Users\Ankit\Videos\recordings\campaigns\Unsolved Question Papers and save it to University - Clients
+copy D:\Staging\October 2026\family photos\Legal Review and save it to WinPilot To Rename
+copy F:\External Drive\Travel Planning\Device Reports\Year Photos and save it to Utility Payments
+copy C:\Users\Ankit\Pictures\model outputs\To Submit\annotations and save it to Project Policies
+copy C:\Users\Public\Documents\Sprint 13\Sprint 13\Product Images and save it to D:\Shared\Semester 5
+copy C:\Users\Ankit\Downloads\Release 1.4\Windows Logs\Hackathon and save it to C:\Program Files (x86)\Windows Logs\Course Material\Department References
+copy E:\Media\Database and save it to D:\Work\test results\website\Video Projects
+copy C:\Users\Ankit\Downloads\Downloads and save it to D:\Staging\October 2026\inventory\Leadership
+copy C:\Program Files\Certificates\generated\Year Validation and save it to C:\Users\Public\Documents\campaigns\marketing\Installer Files
+copy D:\Work\test results\Lab Work\Department Metrics and store it in WinPilot To Copy
+copy C:\Program Files (x86)\datasets\HR\Project To Review and store it in Team Week 43
+copy \\OfficePC\Public\imports\Final Versions\Team History and store it in GEHU - Training
+copy C:\Program Files (x86)\receipts\Certificates\Client Pending and store it in WinPilot - Processed Data
+copy E:\Archive\family photos\Semester 5\License Reports and store it in Birthdays
+copy E:\Media\To Review\HR\Vendor Contracts and store it in Marketing Analytics
+copy C:\Program Files\Semester 5\Client A\Needs Sorting and store it in Symlink Tests
+copy C:\Program Files (x86)\Firewall Configs\meeting notes\Office Admin and store it in Payroll Manager - Archived
+copy C:\Temp\Supplier North\logs\Visitor Management and store it in DBMS Project Packages
+copy D:\Research\Datasets and store it in University - Sprint 12
+copy E:\Archive\To Submit and store it in E:\Media\warehouse\archives\Family Records
+copy E:\Incoming\release builds\api tests\Customer Onboarding and store it in D:\WinPilot\Source Code\backups\Department Students
+copy D:\Research\recordings\migrations\Online Orders and store it in D:\Work\To Review
+copy C:\Users\Ankit\Documents\Client B and store it in D:\Backups\travel\datasets\Quarantine
+copy D:\Data\screenshots\marketing\Department Videos and store it in C:\Users\Ankit\Desktop\Database
+copy D:\Projects\Config into Merged Pull Requests
+copy D:\Work\Archives into Family Events
+copy F:\USB Backup\finance\database\Team Customers into Client Backups
+copy \\FileServer\Departments\database\intent models\Week 43 into University To Sort
+copy D:\WinPilot\Projects\docs\Team Planning into Driver Rollback Packages
+copy E:\Archive\src\Graphics Troubleshooting\Client 2026 into Department Private
+copy \\192.168.1.20\teamshare\Network Captures\warehouse\Year Audio into Client Schedules
+copy C:\Users\Ankit\Documents\recordings\Payroll Manager\Department Version 2 into College - To Print
+copy D:\Data\Lab Work into Year Research
+copy F:\USB Backup\Backups into OneDrive Sync
+copy C:\Dev\Tests into D:\Research\Sprint 13\Final Versions\Router Configs
+copy C:\Users\Ankit\Pictures\campaigns\warehouse\Licensed Software into D:\Projects\WinPilot\Certificates\Sprint Planning
+copy D:\WinPilot\Lab Work\screenshots\Customer Success into E:\Media\Lab Work\photos\Project Builds
+copy D:\Research\diagnostics\intent models\Year Packages into C:\Users\Public\Documents\Source Code
+copy \\192.168.1.20\teamshare\Research Papers\campaigns\Unit 1 Notes into C:\Users\Ankit\Downloads\Generated Records
+copy \\FileServer\Departments\Exam Preparation\Projects\Product Images into the destination folder Project Outputs
+copy C:\Users\Ankit\Videos\entity pools\tests\Lab Work into the destination folder Payroll Manager Templates
+copy \\backup-server\weekly\backups\temp\Quarterly Planning into the destination folder Payroll Manager - Drafts
+copy D:\Work\travel\training data\Team Processed into the destination folder GEHU Policies
+copy C:\Temp\Database into the destination folder Client Final
+copy C:\Users\Public\Documents\Training Data into the destination folder GEHU - Receipts
+copy C:\Temp\Entity Pools into the destination folder GEHU - October 2026
+copy D:\Projects\tests\Old Versions\Bookmarks into the destination folder Project Data
+copy C:\Users\Ankit\Downloads\Validation Data into the destination folder Long Term Archive
+copy D:\Data\exports\marketing\Rental Records into the destination folder Team Responses
+copy C:\Users\Ankit\Pictures\Final Versions\Network Captures\Department History into the destination folder F:\USB Backup\Tests
+copy C:\Users\Public\Documents\recordings\finance\Documents for Bank into the destination folder C:\Users\Public\Documents\Photos
+copy D:\Data\Presentations into the destination folder C:\Dev\receipts\database\Merge Conflicts
+copy C:\Program Files\datasets\Research Papers\Restricted Documents into the destination folder C:\Program Files\Week 42\imports\Year Scripts
+copy D:\Data\Semester 5 into the destination folder C:\Users\Ankit\Desktop\Presentations
+copy D:\Work\WinPilot into the directory Branches
+copy C:\Dev\Travel Planning\photos\Project Tracking into the directory GEHU Metrics
+copy E:\Archive\warehouse\logs\Client Requests into the directory Year Finance
+copy C:\Program Files\Travel Planning\Shared Documents\Department November into the directory Temporary Working
+copy C:\Users\Public\Documents\backups\docs\Pull Requests into the directory Feature Requests
+copy C:\Users\ankit.kumar\Documents\College into the directory Client Support
+copy E:\Archive\Travel Planning\Release 1.4\Migrations into the directory College - History
+copy C:\Users\Ankit\Desktop\Training Data into the directory Payroll Manager Drafts
+copy C:\Users\Ankit\Pictures\config\intent models\Reimbursements into the directory Department Resources
+copy C:\Users\Public\Documents\Sprint 13\Payroll Manager\Project Resources into the directory Year Audio
+copy D:\Backups\engineering\Personal Finance\Load Tests into the directory D:\Backups\Config
+copy \\192.168.1.20\teamshare\Lab Work\screenshots\Python Environments into the directory E:\Archive\WinPilot
+copy C:\Users\Ankit\Desktop\operations\Network Captures\Week 42 into the directory \\NAS01\Shared\backups\logs\Year Old Versions
+copy D:\Source\website\datasets\Flight Tickets into the directory E:\College\Release 1.4
+copy D:\College\GEHU\Projects\Old Versions\Public Resources into the directory C:\Users\Ankit\Documents\design files\Old Versions\Android Debugging
+copy C:\Users\Ankit\Downloads\Lab Work\Firewall Configs\Year Screenshots over to Payroll Manager Materials
+copy C:\Program Files (x86)\generated\Week 42\Training Corpora over to WinPilot Evaluation
+copy \\FileServer\Departments\Research Papers\Driver Backups\Team Operations over to Documents for Landlord
+copy E:\College\Travel over to 2027 WinPilot
+copy C:\Program Files\HR\config\Department Records over to Model Outputs
+copy E:\Archive\photos\Personal Finance\Year Requests over to DBMS Project - Validation
+copy D:\College\GEHU\screenshots\Assignments\Dehradun Trip over to Dataset Snapshots
+copy E:\Archive\Lab Work over to GEHU Builds
+copy C:\Users\Ankit\Downloads\Audio Troubleshooting\Exam Preparation\Client Sprint 12 over to Desktop
+copy E:\College\api tests\exports\Unit 1 Notes over to Client Builds
+copy D:\Data\Release 1.4 over to C:\Users\Ankit\Documents\Driver Backups\PBL Phase 2\Driver Installers
+copy D:\Staging\Firewall Configs\marketing\Inference Profiling over to D:\Projects\contracts\website\PBL Phase 1
+copy D:\Work\model outputs\Semester 5\WinPilot Exports over to C:\Users\Ankit\Desktop\Research Papers\logs\Assignments
+copy C:\Program Files\api tests\presentations\Documents for Final Submission over to C:\Dev\test results\Audio Troubleshooting\Project Materials
+copy C:\Dev\HR\test results\Final Submission Package over to C:\Users\Ankit\Downloads\Recordings
+copy D:\Backups\Sprint 13 to Bills
+copy D:\Research\Home Repairs\finance\Intent Training to Department Receipts
+copy C:\Users\Ankit\OneDrive\generated\diagnostics\Client Team B to docs
+copy C:\Temp\Release 1.4 to University - Customers
+copy D:\Projects\Logs to Project Engineering
+copy C:\Temp\October 2026 to DBMS Project - Results
+copy C:\Users\Ankit\Desktop\Release 1.4\training data\Contact Exports to College - Templates
+copy C:\Dev\WinPilot\recordings\Year Schedules to Year Inventory
+copy E:\Media\meeting notes\PBL Phase 2\Production Incidents to Team Scripts
+copy C:\Users\ankit.kumar\Documents\WinPilot to Personal Certificates
+copy E:\Personal\finance\inventory\Project Team A to D:\Staging\WinPilot\customer support\English Copy
+copy C:\Users\Ankit\Documents\To Review\archives\Q3 2026 to C:\Users\Ankit\Videos\diagnostics\Source Code\Project Training
+copy \\FileServer\Departments\src\Course Material\Birthdays to E:\Media\validation data\design files\Year Records
+copy C:\Users\ankit.kumar\Documents\Datasets to D:\Staging\Release 1.4\Course Material\Hackathon
+copy D:\Research\GEHU to C:\Users\Ankit\Desktop\client files\Release 1.4\Model Error Cases
+copy E:\Media\Final Versions\family photos\Team Approved to the destination folder GEHU Final Submission
+copy D:\Backups\customer support\travel\Year Old Versions to the destination folder Department Reviewed
+copy D:\Shared\Client B to the destination folder Payroll Manager - For Approval
+copy F:\USB Backup\PBL Phase 2\archives\Department Documents to the destination folder VMware
+copy E:\Media\WinPilot to the destination folder Rollback Tests
+copy F:\External Drive\backend\diagnostics\Project Policies to the destination folder Payroll Manager To Sort
+copy C:\Users\Ankit\Videos\To Review\Week 42\Permission Tests to the destination folder Deployment Packages
+copy \\FileServer\Departments\screenshots\generated\Team Designs to the destination folder Teacher Notes
+copy D:\College\GEHU\tests\receipts\Project Training to the destination folder University Metrics
+copy C:\Users\Public\Documents\inventory\Release 1.4\Client Manifests to the destination folder Project Receipts
+copy C:\Users\ankit.kumar\Documents\Engineering Team to the destination folder D:\Data\Game Saves
+copy C:\Users\Ankit\Videos\validation data\diagnostics\Project Results to the destination folder E:\Archive\Client A\Research Papers\Daily Standup
+copy D:\Data\temp\Home Repairs\Ben 10 Games to the destination folder E:\Personal\release builds\Home Repairs\VPN Profiles
+copy C:\ProgramData\Release 1.4\docs\Travel Receipts to the destination folder C:\Users\Public\Documents\Home Repairs\HR\Frontend Components
+copy C:\Program Files\contracts\validation data\Manali Trip to the destination folder E:\Archive\validation data\engineering\Year Records
+copy E:\Archive\Backups to the directory College Documentation
+copy E:\Media\Client A to the directory Export Queue
+copy D:\Research\Driver Backups\Windows Logs\Internal Audit to the directory logs
+copy C:\Users\Ankit\Documents\Lab Work to the directory Payroll Manager - Manifests
+copy D:\Research\Client A\Payroll Manager\Entity Boundary Cases to the directory Department Sprint 12
+copy D:\Data\PBL Phase 2\src\Translations to the directory WinPilot - Results
+copy D:\WinPilot\Shared Documents\Projects\Signed Documents to the directory Gift Receipts
+copy C:\Users\Ankit\Documents\photos\Final Versions\Client Training to the directory Reimbursements
+copy D:\Work\To Submit to the directory WinPilot - Semester 7
+copy D:\WinPilot\archives\Assignments\CI Reports to the directory DBMS Project Forms
+copy \\FileServer\Departments\generated\HR\Database Systems Course to the directory C:\Temp\Docs
+copy C:\Users\Ankit\Desktop\Assets to the directory \\NAS01\Shared\Client A\validation data\Game Saves
+copy D:\Staging\Payroll Manager\generated\Team Documents to the directory \\OfficePC\Public\receipts\Travel Planning\To Move
+copy C:\Users\Ankit\Videos\model outputs\training data\Client Suppliers to the directory E:\Archive\Screenshots
+copy C:\Users\Public\Documents\Test Results to the directory E:\Archive\Old Versions
+copy folder CI Artifacts into College - Records
+copy folder Android Debugging into Team Forms
+copy folder Patch Files into WinPilot - Tests
+copy folder GEHU Resources into Department November
+copy folder ERP Data into DBMS Project - Q4 2026
+copy folder College - Sprint 13 into E:\College\Sprint 13
+copy folder Git Repositories into D:\Work\Validation Data
+copy folder Payroll Manager For Review into D:\Work\Music
+copy folder Department Videos into C:\Dev\Windows Logs\Home Repairs\To Move
+copy folder DBMS Project - To Rename into C:\Users\Public\Documents\Config
+copy folder Client Research into E:\Incoming\diagnostics\config\Client Drafts
+copy folder College Materials into F:\USB Backup\To Submit\release builds\Video Editing
+copy folder WinPilot Audits into D:\Source\Travel Planning\campaigns\Meeting Minutes
+copy folder General Ledger into D:\College\GEHU\contracts\family photos\Forms
+copy folder GEHU - Outgoing into D:\Work\Device Reports\screenshots\Client Photos
+copy folder College - Support to Department Templates
+copy folder Team Archive 2026 to DBMS Project - Planning
+copy folder Operations Team to GEHU - Records
+copy folder University - Research to Project Planning
+copy folder WinPilot - Semester 5 to GEHU - Assets
+copy folder Client Results to D:\Staging\imports\To Submit\Export Staging
+copy folder WinPilot - Packages to C:\Temp\Research
+copy folder College - Reports to D:\Backups\Archives
+copy folder GEHU Templates to D:\Backups\logs\Windows Logs\Venue
+copy folder University To Copy to F:\External Drive\meeting notes\test results\Weekend Plans
+copy folder GEHU - Schedules to D:\College\GEHU\Week 42\Driver Backups\Previous Semester
+copy folder Team Data to C:\Users\Ankit\Desktop\NER experiments\Device Reports\Team Share
+copy folder Entity Recognition to C:\Users\Ankit\Desktop\operations\intent models\Year Resources
+copy folder College - Validation to D:\Projects\entity pools\HR\Project Archive
+copy folder Research to \\OfficePC\Public\Home Repairs\marketing\Project Inventory
+copy folder D:\Data\SQL Scripts into DBMS Project - Approved
+copy folder D:\WinPilot\validation data\Personal Finance\Lead Management into University - Notes
+copy folder C:\Users\Ankit\Videos\finance\Semester 5\Website Redesign into Project To Submit
+copy folder D:\Shared\Assignments into GEHU For Approval
+copy folder \\OfficePC\Public\assets\Semester 5\Stock Reports into Warehouse
+copy folder C:\Users\Ankit\Videos\Shared Documents\Source Code\Project Records into WinPilot Outgoing
+copy folder C:\Users\Ankit\Pictures\Semester 7\Graphics Troubleshooting\Large Files into Archived Branches
+copy folder G:\Shared\recordings\logs\Support Team into University Photos
+copy folder E:\Incoming\Network Captures\logs\Client Photos into Project Documentation
+copy folder D:\Source\backend\temp\Department Materials into Collision Tests
+copy folder \\192.168.1.20\teamshare\presentations\docs\API Contracts into C:\Dev\To Submit\Client A\Query Performance
+copy folder D:\Source\marketing\generated\Department Research into C:\Users\Ankit\Documents\Tests
+copy folder D:\Shared\Docs into D:\College\GEHU\archives\NER experiments\Travel Planning
+copy folder D:\Projects\HR\release builds\Team Reviewed into C:\ProgramData\photos\validation data\Audio Troubleshooting
+copy folder \\backup-server\weekly\database\Source Code\presentations into \\FileServer\Departments\validation data\engineering\Migration Rollback
+copy folder C:\Program Files (x86)\NER experiments\diagnostics\Garden Plans to Temporary Exports
+copy folder C:\Users\Ankit\Videos\Firewall Configs\docs\Processed Files to Driver Backups
+copy folder C:\Users\Public\Documents\Database to Payroll Manager - Semester 7
+copy folder \\NAS01\Shared\customer support\receipts\Project Deliverables to Operating Systems Imports
+copy folder C:\Users\Ankit\OneDrive\Semester 5\generated\Issue Attachments to College - Revisions
+copy folder \\OfficePC\Public\training data\Research Papers\Unicode Names Tests to To Rename
+copy folder D:\Research\Reports to WinPilot Assets
+copy folder \\NAS01\Shared\Device Reports\campaigns\Project Suppliers to Network Troubleshooting
+copy folder \\192.168.1.20\teamshare\operations\validation data\Purchase Approvals to Year Contracts
+copy folder C:\Users\Ankit\Downloads\Driver Backups\Graphics Troubleshooting\DNS Exports to College Invoices
+copy folder D:\Backups\Projects\Home Repairs\Social Media to C:\Users\Ankit\Pictures\migrations\Windows Logs\Year Engineering
+copy folder C:\Users\Ankit\Downloads\contracts\Final Versions\Study Material to C:\Temp\Week 42
+copy folder D:\Staging\tests\PBL Phase 2\Training Materials to E:\College\exports\Lab Work\release
+copy folder F:\External Drive\Exam Preparation\api tests\Year Planning to D:\Data\WinPilot3
+copy folder C:\Users\Ankit\Videos\Payroll Manager\marketing\temp to D:\College\GEHU\October 2026\screenshots\Entity Pool Sources
+copy the folder Payroll Manager - Final Versions into GEHU Research
+copy the folder Payroll Manager For Approval into DBMS Project - Clean Data
+copy the folder WinPilot Previous into University - Tests
+copy the folder Project Notes into University - Temporary Files
+copy the folder Research Papers into Open Source
+copy the folder Department Tests into D:\Research\training data\Audio Troubleshooting\Decision Records
+copy the folder College - Documentation into C:\Users\Ankit\Desktop\Entity Pools
+copy the folder GEHU - To Print into \\FileServer\Departments\Assignments\Reports\Move Tests
+copy the folder Payroll Manager - Approved into C:\Temp\Old Versions\To Submit\Department 2025
+copy the folder College - Audits into G:\Shared\Release 1.4\To Review\Client Pending
+copy the folder DBMS Project - Private into F:\USB Backup\migrations\Projects\Client Final
+copy the folder University - Archived into C:\Users\Ankit\Downloads\database\family photos\Automated Test Reports
+copy the folder Quarterly Reviews into D:\WinPilot\entity_pools\reviewed
+copy the folder WinPilot - Rejected into D:\Research\Projects
+copy the folder University To Move into D:\Research\Training Data
+copy the folder Purchase Orders to Encrypted Archives
+copy the folder Client Operations to GEHU - References
+copy the folder GEHU - History to Department Responses
+copy the folder Mobile Backup to College - Week 43
+copy the folder backups to Department Operations
+copy the folder Payroll Manager Outputs to D:\Data\Music
+copy the folder WinPilot Archives to E:\College\photos\To Review\Website Redesign
+copy the folder Payroll Manager - Week 43 to C:\Users\Ankit\OneDrive\src\database\Crash Dumps
+copy the folder University Evidence to C:\Temp\Audio Troubleshooting\test results\Year Data
+copy the folder Ubuntu to C:\Users\Ankit\Documents\frontend\test results\Cloud Computing Course
+copy the folder Payroll Manager - Operations to \\NAS01\Shared\family photos\training data\Project Schedules
+copy the folder Product Analytics to F:\External Drive\Personal Finance\Supplier North\Viva Preparation
+copy the folder Rename Tests to E:\College\Invoices
+copy the folder Final Report Attachments to C:\Users\Ankit\Pictures\Driver Backups\config\Terraform
+copy the folder WinPilot - Manifests to F:\USB Backup\October 2026
+copy the folder C:\Dev\Downloads into Awaiting Approval
+copy the folder D:\College\GEHU\Projects\Audio Troubleshooting\notebooks into Client Files
+copy the folder \\192.168.1.20\teamshare\backend\invoices\Team Inventory into Payroll Manager - Incoming
+copy the folder \\FileServer\Departments\Device Reports\archives\Project Designs into Operating Systems Videos
+copy the folder C:\Temp\College into Project Proposals
+copy the folder D:\Projects\Database into College Documents
+copy the folder D:\Backups\Driver Backups\To Submit\Phone Restore into Department Q3
+copy the folder \\OfficePC\Public\Assignments\Audio Troubleshooting\ETL Jobs into University - References
+copy the folder D:\Work\Tests into Team Tickets
+copy the folder C:\Dev\Device Reports\datasets\Project Working into Performance Appraisals
+copy the folder C:\Dev\To Review\WinPilot\WinPilot3 into C:\Users\Ankit\Videos\screenshots\Old Versions\Ubuntu
+copy the folder C:\Temp\api tests\Semester 5\temp into E:\Media\Reports\Graphics Troubleshooting\Department Logs
+copy the folder \\OfficePC\Public\Reports\exports\Copy Tests into C:\Users\Ankit\Downloads\campaigns\generated\Team Inventory
+copy the folder C:\Temp\Tests into C:\Users\Ankit\Desktop\marketing\warehouse\Project Team A
+copy the folder D:\Backups\src\exports\Analytics Models into C:\Users\Ankit\OneDrive\Week 42\contracts\Data Catalog
+copy the folder D:\Staging\marketing\imports\Project Requests to WinPilot - Old Versions
+copy the folder D:\Backups\College to Year To Review
+copy the folder C:\Users\Ankit\Documents\Old Versions to GEHU - Archives
+copy the folder D:\Backups\Semester 7\Firewall Configs\Venue to Payroll Manager Private
+copy the folder F:\USB Backup\Photos to Team Documentation
+copy the folder D:\WinPilot\backend\diagnostics\VirtualBox to WinPilot Students
+copy the folder E:\College\To Review to GEHU - To Move
+copy the folder C:\Users\Ankit\Downloads\Final Versions to University Forms
+copy the folder C:\Users\Ankit\Documents\engineering\Lab Work\WinPilot Voice Pipeline to WinPilot Archived
+copy the folder D:\Backups\October 2026 to Version 3
+copy the folder E:\Personal\receipts\contracts\Client Research to E:\Incoming\receipts\Client A\Unit 3 Notes
+copy the folder C:\Users\Ankit\Videos\Firewall Configs\backups\Project Validation to D:\Staging\tests\Research Papers\Submitted and Accepted
+copy the folder C:\Users\Public\Documents\screenshots\receipts\WinPilot Models to E:\Archive\Shared Documents\HR\Team Audio
+copy the folder E:\College\Source Code\datasets\Team Forms to D:\College\GEHU\generated\Supplier North\Client A
+copy the folder D:\Projects\exports\warehouse\API Documentation to E:\Media\Semester 5
+could you copy Customer Success into Graphic Design
+could you copy University - Builds into Product Roadmap
+could you copy GEHU - Rejected into WinPilot - Working Files
+could you copy WinPilot Old Versions into Client Archive 2026
+could you copy Crash Dumps into Year Data
+could you copy Client Processed into C:\Users\Ankit\Pictures\exports\Device Reports\Tax Documents
+could you copy University - For Approval into D:\Research\design files\test results\Linux Notes
+could you copy DBMS Project 2024 into E:\Archive\model outputs\Client A\Public Resources
+could you copy Flight Tickets into C:\Program Files\Final Versions\Firewall Configs\Team November
+could you copy Team References into \\FileServer\Departments\migrations\src\Project Q3
+could you copy Comics into F:\External Drive\api tests\campaigns\Invitations
+could you copy University 2024 into E:\Media\Sprint 13\model outputs\Monthly Reports
+could you copy Dependency Updates into E:\Archive\entity pools\intent models\Privacy
+could you copy Build Logs into C:\Users\Ankit\Downloads\Videos
+could you copy Payroll Manager - Reference Material into E:\College\Backups
+could you copy Project Research to WinPilot
+could you copy Copy Tests to University Receipts
+could you copy Team Receipts to University - Resources
+could you copy DBMS Project - Documents to Test Results
+could you copy PBL Phase 1 to Travel Planning
+could you copy Team Packages to C:\Users\Ankit\Desktop\GEHU
+could you copy Department Builds to C:\Users\Ankit\OneDrive\Supplier North\warehouse\Deployment Rollbacks
+could you copy tests to D:\Projects\Semester 7\To Submit\Project Metrics
+could you copy College Finance to D:\Source\contracts\Release 1.4\Database Migrations
+could you copy Client Contracts to D:\Source\recordings\imports\Q3 2026
+could you copy GEHU - Deliverables to C:\ProgramData\To Review\engineering\Project Documentation
+could you copy Disk Cleanup Review to C:\Users\Public\Documents\Release 1.4
+could you copy College - Semester 7 to D:\Work\api tests\test results\Appliance Manuals
+could you copy Year Assets to C:\Users\Ankit\Pictures\Windows Logs\Research Papers\Structure Library Exports
+could you copy NER Training to C:\Dev\Logs
+could you copy E:\Archive\photos\warehouse\Project Plans into Frontend Components
+could you copy C:\Users\Ankit\Documents\design files\presentations\Build Artifacts into Payroll Manager Revisions
+could you copy C:\Program Files\invoices\config\CI Reports into DBMS Project Tests
+could you copy G:\Shared\invoices\receipts\Client Contracts into Bug Reproduction Kits
+could you copy E:\Archive\Engineering Team into Payroll Manager - Outgoing
+could you copy C:\Users\Public\Documents\marketing\logs\Bookings into Client Notes
+could you copy D:\Work\Recordings into University - Planning
+could you copy C:\Program Files\logs\intent models\Team Drafts into Employment Records
+could you copy F:\External Drive\database\Graphics Troubleshooting\Project Engineering into WinPilot - Students
+could you copy G:\Shared\invoices\Driver Backups\Book Summaries into FY2026-27
+could you copy E:\Archive\Validation Data into D:\Research\Audio Troubleshooting\entity pools\Duplicate Review
+could you copy C:\Users\Ankit\OneDrive\Personal Finance\Course Material\Department Deliverables into E:\College\src\Semester 5\Department Videos
+could you copy D:\Research\design files\inventory\Year Validation into F:\USB Backup\Shared Documents\campaigns\Client Working
+could you copy C:\Users\Ankit\Downloads\Presentations into C:\Users\Ankit\OneDrive\Reports\assets\Year Policies
+could you copy D:\Data\Week 42 into D:\Work\PBL Phase 2\release builds\Python Environments
+could you copy C:\ProgramData\Assignments\contracts\Year Old Versions to Project Handover
+could you copy C:\Users\Ankit\OneDrive\invoices\Network Captures\Project Invoices to DBMS Project Contracts
+could you copy C:\ProgramData\Assignments\contracts\Needs Sorting to WinPilot - Builds
+could you copy C:\Users\Ankit\Documents\design files\Supplier North\Downloads To Keep to DBMS Project - Exports
+could you copy F:\USB Backup\customer support\logs\Dataset Versioning to Payroll Manager - Processed Data
+could you copy C:\Users\Ankit\Desktop\config\family photos\Augmentation Output to WinPilot - Documents
+could you copy \\192.168.1.20\teamshare\Assignments\Shared Documents\Feature Engineering to Purchase Approvals
+could you copy C:\Program Files\campaigns\presentations\Tax Returns to College Working Files
+could you copy C:\Users\Ankit\Desktop\Recordings to Payroll Manager Temporary Files
+could you copy E:\Archive\tests\backend\Book Summaries to DBMS Project - Processed Data
+could you copy \\OfficePC\Public\src\Projects\Project Policies to D:\Work\Generated Records
+could you copy \\192.168.1.20\teamshare\api tests\archives\Team Policies to D:\Work\Network Captures\Personal Finance\Website Content
+could you copy C:\Program Files (x86)\frontend\finance\Privacy to D:\WinPilot\recordings\customer support\Department Records
+could you copy \\NAS01\Shared\contracts\warehouse\Client Templates to D:\Shared\Shared Drive
+could you copy D:\Backups\Personal Finance\exports\Payroll Reports to C:\Users\Ankit\Documents\Source Code
+create a copy of DBMS Project Assets in Year Resources
+create a copy of Entity Pool Generated in GEHU - Scripts
+create a copy of Safety Records in University Packages
+create a copy of DBMS Project Imports in Event Viewer
+create a copy of Bank Statements in diagrams
+create a copy of Team Screenshots in \\NAS01\Shared\Windows Logs\Exam Preparation\Team Raw
+create a copy of Wi-Fi Diagnostics in E:\Media\logs\backend\Security Reviews
+create a copy of College Raw Data in E:\College\Research
+create a copy of University Documents in D:\Work\Database
+create a copy of Team Audio in C:\Users\Ankit\OneDrive\assets\Travel Planning\Python Environments
+create a copy of Payroll Manager Data in C:\Users\Public\Documents\Screenshots
+create a copy of Year Files in D:\Data\campaigns\entity pools\Department Version 1
+create a copy of Department Documentation in E:\Archive\Entity Pools
+create a copy of Windows Settings in D:\Backups\Screenshots
+create a copy of Semester 6 in C:\Users\Ankit\OneDrive\test results\backups\resources
+create a copy of C:\Users\Public\Documents\Client A\Lab Work\To Sort in GEHU Outgoing
+create a copy of E:\College\Database in GEHU Assets
+create a copy of F:\USB Backup\Source Code in GEHU Suppliers
+create a copy of D:\Data\Projects in University - For Review
+create a copy of \\backup-server\weekly\Exam Preparation\campaigns\Client Results in English
+create a copy of D:\Staging\backend\assets\Equipment in Year November
+create a copy of E:\Media\Lab Work in Team Tracking
+create a copy of E:\College\Research Papers\Driver Backups\Project Code in Travel Documents
+create a copy of D:\Source\marketing\screenshots\Confidential Archive in Client Code
+create a copy of C:\Users\Public\Documents\backups\config\Reading Notes in GEHU - Tickets
+create a copy of D:\Work\logs\Certificates\Release Notes in C:\Users\Ankit\Downloads\travel\test results\Travel Receipts
+create a copy of C:\Users\ankit.kumar\Documents\Game Saves in D:\Data\Windows Logs\release builds\Client Students
+create a copy of F:\USB Backup\Reports in \\OfficePC\Public\tests\api tests\Access Control
+create a copy of \\backup-server\weekly\Supplier North\Home Repairs\Deployment Packages in D:\Projects\entity pools\logs\archives
+create a copy of \\FileServer\Departments\config\receipts\Public in C:\Users\Ankit\Desktop\assets\assets\Export Staging
+create a copy of the folder University - Operations inside DBMS Project Planning
+create a copy of the folder Operating Systems Backups inside DBMS Project - Invoices
+create a copy of the folder GEHU - Reference Material inside Project Checkpoints
+create a copy of the folder Year Planning inside WinPilot Outputs
+create a copy of the folder Project Assets inside University Scripts
+create a copy of the folder DBMS Project - Records inside E:\College\api tests\Semester 5\Employment Records
+create a copy of the folder University - Photos inside D:\College\GEHU\inventory\operations\Insurance Policies
+create a copy of the folder WinPilot - Deliverables inside C:\Users\Ankit\Downloads\Semester 5
+create a copy of the folder Ben 10 Games inside D:\Backups\Model Outputs
+create a copy of the folder University Team Shared inside D:\Projects\photos\Network Captures\Network Troubleshooting
+create a copy of the folder Team Deliverables inside C:\Dev\customer support\customer support\Client Tickets
+create a copy of the folder Reference Books inside C:\Users\ankit.kumar\Documents\Config
+create a copy of the folder C++ Practice inside C:\ProgramData\archives\migrations\Department Data
+create a copy of the folder GEHU - Raw Data inside C:\Users\Public\Documents\logs\contracts\Augmentation Reports
+create a copy of the folder Payroll Manager - Q3 2026 inside C:\Program Files\Assignments\Network Captures\Semester 6
+create a copy of the folder C:\Temp\Audio Troubleshooting\src\Dashboards inside Operating Systems - Photos
+create a copy of the folder D:\Backups\Assets inside Team Files
+create a copy of the folder D:\Research\NER experiments\archives\Locked File Tests inside WinPilot Working Files
+create a copy of the folder D:\Backups\meeting notes\Semester 5\Team Documentation inside Vehicle Records
+create a copy of the folder F:\USB Backup\PBL Phase 2\generated\Year Tickets inside Videos
+create a copy of the folder \\backup-server\weekly\Final Versions\family photos\API Responses inside Payroll Manager Research
+create a copy of the folder D:\Research\Generated Records inside WinPilot - Validation
+create a copy of the folder F:\External Drive\PBL Phase 2\imports\Department Deliverables inside Benchmark Datasets
+create a copy of the folder C:\Users\Ankit\Documents\Projects inside DBMS Project Scripts
+create a copy of the folder C:\Users\Ankit\OneDrive\warehouse\Exam Preparation\Team Sprint 13 inside Team Working
+create a copy of the folder E:\Personal\archives\Shared Documents\Client Tests inside C:\Users\Ankit\Desktop\Old Versions
+create a copy of the folder E:\Archive\inventory\config\Meeting Notes inside D:\Research\website\frontend\Ebooks
+create a copy of the folder D:\Research\migrations\website\Content Calendar inside G:\Shared\intent models\exports\Accessibility Review
+create a copy of the folder C:\Users\Ankit\Documents\Videos inside E:\Incoming\family photos\To Submit\Sports
+create a copy of the folder D:\College\GEHU\engineering\screenshots\Year Metrics inside \\FileServer\Departments\training data\receipts\Load Tests
+create a duplicate of College - To Rename in Team Metrics
+create a duplicate of Project Archive in GEHU Temporary Files
+create a duplicate of External Drives in Game Mods
+create a duplicate of Project Approved in Vendor Management
+create a duplicate of Department Week 42 in Startup Apps
+create a duplicate of University References in C:\Program Files (x86)\Old Versions\Windows Logs\Registrations
+create a duplicate of College Planning in C:\Users\Ankit\Downloads\Network Captures\Semester 5\Client Contracts
+create a duplicate of Client Q4 in C:\Program Files\marketing\warehouse\Team Pending
+create a duplicate of Client Forms in C:\ProgramData\docs\generated\Team Files
+create a duplicate of Team Backups in D:\College\GEHU\HR\recordings\Bank Statements
+create a duplicate of Language Learning in C:\Users\Ankit\Downloads\Exam Preparation\Sprint 13\Action Items
+create a duplicate of Project Videos in D:\College\GEHU\Home Repairs\test results\Year Backups
+create a duplicate of API Contracts in \\backup-server\weekly\customer support\presentations\Outgoing Files
+create a duplicate of Migration Validation in D:\WinPilot\Reports\imports\Utilities
+create a duplicate of GEHU - Evidence in E:\College\Recordings
+create a duplicate of E:\Media\Old Versions in WinPilot - Tickets
+create a duplicate of C:\Program Files\Client A\entity pools\DNS Exports in WinPilot Invoices
+create a duplicate of D:\College\GEHU\Final Versions\October 2026\Team Materials in Endsem Preparation
+create a duplicate of C:\Users\Ankit\Downloads\Docs in Payroll Manager Resources
+create a duplicate of D:\Projects\Validation Data in Team Reports
+create a duplicate of E:\Incoming\Week 42\src\Local Backups in WinPilot Incoming
+create a duplicate of D:\Data\Sprint 13\family photos\Work Documents in University Documentation
+create a duplicate of E:\Media\Downloads in Team Templates
+create a duplicate of D:\Projects\Payroll Manager\assets\Smoke Tests in GEHU - Builds
+create a duplicate of C:\Users\Public\Documents\PBL Phase 2\Old Versions\Firewall Configs in Privacy Requests
+create a duplicate of D:\Projects\HR\Windows Logs\Video Editing in \\OfficePC\Public\Payroll Manager\archives\Project Old Versions
+create a duplicate of \\OfficePC\Public\docs\To Review\Project Tracking in D:\Projects\Final Versions
+create a duplicate of \\OfficePC\Public\design files\tests\Client Builds in \\NAS01\Shared\contracts\Semester 7\Semester 1
+create a duplicate of D:\WinPilot\Source Code\warehouse\Project Assets in C:\Dev\GEHU
+create a duplicate of C:\Users\Ankit\Downloads\Python Projects in D:\Backups\HR\Firewall Configs\Year Raw
+create another copy of Leadership in Error Analysis
+create another copy of College Training in Shaders
+create another copy of 2027 College in Vulnerability Scans
+create another copy of Voice Activity Detection in Payroll Manager Tests
+create another copy of Department Files in Year Week 43
+create another copy of University Outgoing in C:\Users\Ankit\Documents\Generated Records
+create another copy of Year Archive 2026 in C:\Users\Ankit\Pictures\October 2026\datasets\Course Recordings
+create another copy of Property Documents in E:\Archive\client files\migrations\Property Documents
+create another copy of Support Escalations in C:\ProgramData\generated\Semester 5\Ready to Share
+create another copy of Project Version 1 in E:\Incoming\website\generated\PESE Lab
+create another copy of University - Data in D:\Work\api tests\Network Captures\Year Designs
+create another copy of DBMS Project Audits in E:\Personal\website\datasets\Chat Exports
+create another copy of College Research in C:\Program Files\Home Repairs\To Submit\Telemetry
+create another copy of College Schedules in C:\Users\Ankit\Pictures\docs\Semester 5\Employee Onboarding
+create another copy of Client Assets in D:\Data\recordings\NER experiments\Sprint 12
+create another copy of C:\Users\Ankit\OneDrive\Course Material\src\Unsolved Question Papers in WinPilot - Evaluation
+create another copy of D:\Work\Travel in Project Customers
+create another copy of \\NAS01\Shared\WinPilot\Travel Planning\Year Support in Client Week 43
+create another copy of \\NAS01\Shared\recordings\backups\Team Backups in GEHU - Week 42
+create another copy of \\FileServer\Departments\PBL Phase 2\recordings\Year Private in GEHU - Clean Data
+create another copy of D:\Research\Sprint 13\Audio Troubleshooting\NER Training in WinPilot - References
+create another copy of \\NAS01\Shared\receipts\finance\Locked File Tests in 2027 GEHU
+create another copy of D:\College\GEHU\warehouse\customer support\Design Files in Coding Practice
+create another copy of E:\Archive\Research in DBMS Project To Move
+create another copy of D:\Data\Tests in University - Documents
+create another copy of \\192.168.1.20\teamshare\config\screenshots\Datasets in D:\Projects\Invoices
+create another copy of C:\Temp\Old Versions\tests\models in E:\Incoming\tests\backend\Department Packages
+create another copy of F:\External Drive\migrations\datasets\WinPilot Exports in C:\Users\Ankit\Downloads\marketing\Device Reports\Project Proposals
+create another copy of \\NAS01\Shared\Firewall Configs\config\Data Quality in C:\Users\Ankit\Desktop\warehouse\Driver Backups\Annotation Guidelines
+create another copy of D:\Projects\Python Projects in E:\College\backend\Windows Logs\Client 2025
+duplicate CRM Exports into College Suppliers
+duplicate Payroll Manager Operations into Customer Onboarding
+duplicate Team Resources into Operating Systems Photos
+duplicate Payroll Manager Invoices into Downloads
+duplicate DBMS Project - Archived into Year Reviewed
+duplicate University Current into C:\Users\Ankit\OneDrive\generated\meeting notes\Visitor Management
+duplicate WinPilot - Archives into D:\Source\test results\api tests\Synthetic Data
+duplicate Travel Receipts into C:\Users\Ankit\Desktop\customer support\validation data\Application Config
+duplicate English Copy into E:\College\Temporary Exports
+duplicate Open Pull Requests into C:\Users\Ankit\Downloads\NER experiments\backups\Lab Work
+duplicate Potential Duplicates into \\NAS01\Shared\presentations\Course Material\Read Only Reference
+duplicate Year Tickets into D:\Projects\frontend\temp\To Print
+duplicate Postmortems into C:\Users\Ankit\Downloads\Old Versions\Release 1.4\Project Team B
+duplicate University Requests into D:\College\GEHU\NER experiments\migrations\3D Assets
+duplicate College History into \\backup-server\weekly\contracts\inventory\Documents
+duplicate Client Evidence to Team Final
+duplicate DBMS Project - Schedules to Project Version 2
+duplicate GEHU Audits to Needs Sorting
+duplicate Department Training to Payroll Manager - Inventory
+duplicate College Pending Review to Client November
+duplicate University - Approved to E:\Media\Temporary Exports
+duplicate WinPilot - Inputs to C:\Users\Ankit\OneDrive\intent models\WinPilot\LeetCode
+duplicate GEHU - Q3 2026 to D:\Staging\photos\meeting notes\Client Version 1
+duplicate Payroll Manager Manifests to D:\Work\temp\recordings\Project Pending
+duplicate Project Requests to C:\Program Files (x86)\Exam Preparation\Device Reports\Phone Restore
+duplicate College Photos to E:\Media\Presentations
+duplicate Vendor Contracts to C:\Users\Ankit\Videos\Audio Troubleshooting\Certificates\Support Tickets
+duplicate Event Planning to D:\Staging\presentations\operations\Interview Prep
+duplicate Team Research to E:\Incoming\Lab Work\Week 42\Hindi Translation
+duplicate WinPilot Engineering to C:\Users\Ankit\Documents\backups\src\Department To Review
+duplicate \\FileServer\Departments\Audio Troubleshooting\Supplier North\Language Learning into Payroll Manager - Pending Review
+duplicate D:\Projects\Research into WinPilot Team Shared
+duplicate \\OfficePC\Public\campaigns\Source Code\Department November into Warranty Expiry
+duplicate C:\Users\Ankit\OneDrive\Audio Troubleshooting\Week 42\Project Raw into College Evaluation
+duplicate C:\Dev\contracts\customer support\Annotation Guidelines into Documents Pending Signature
+duplicate C:\Users\Public\Documents\HR\Firewall Configs\Department Week 42 into Week 43
+duplicate D:\Research\Old Versions\Source Code\WinPilot Voice Pipeline into Payroll Manager Project
+duplicate D:\Projects\Music into Awaiting Feedback
+duplicate C:\Users\Ankit\Desktop\Validation Data into University - Tracking
+duplicate C:\Users\ankit.kumar\Documents\Final Versions into Project Resources
+duplicate \\FileServer\Departments\Supplier North\Payroll Manager\Duplicate Review into \\backup-server\weekly\website\warehouse\Status Updates
+duplicate C:\Users\Public\Documents\Presentations into D:\Data\receipts\meeting notes\Year Approved
+duplicate E:\Archive\customer support\Windows Logs\Encrypted Archives into E:\College\src\archives\Translations
+duplicate C:\Users\Ankit\Documents\receipts\presentations\Endsem Preparation into D:\Staging\imports\Source Code\docs
+duplicate E:\College\Semester 7\Exam Preparation\Recovery Codes into F:\USB Backup\Recordings
+duplicate C:\Users\ankit.kumar\Documents\Temporary Exports to GEHU Designs
+duplicate D:\Shared\Videos to Misclassified Commands
+duplicate D:\Work\Logs to WinPilot Ready to Submit
+duplicate F:\External Drive\receipts\Payroll Manager\Department Sprint 13 to DBMS Project Working Files
+duplicate C:\Users\Ankit\Videos\recordings\Semester 7\Client Tests to University - Sprint 13
+duplicate E:\Incoming\October 2026\exports\Client Results to WinPilot Approved
+duplicate E:\Archive\Finance Team to Release Changelog
+duplicate \\OfficePC\Public\finance\training data\Year Students to WinPilot - Q4 2026
+duplicate D:\College\GEHU\website\screenshots\Local Backups to University Revisions
+duplicate E:\Incoming\Home Repairs\Network Captures\Cloud Operations to WinPilot - Receipts
+duplicate E:\College\diagnostics\Home Repairs\Compliance Evidence to D:\Work\Model Outputs
+duplicate E:\College\Course Material\frontend\Decision Records to \\192.168.1.20\teamshare\contracts\Semester 5\Client Inputs
+duplicate \\OfficePC\Public\Shared Documents\finance\Archived 2025 to C:\Users\Public\Documents\Finance Team
+duplicate D:\Shared\College to D:\Projects\Model Outputs
+duplicate C:\Users\Ankit\OneDrive\invoices\generated\Datasets to \\backup-server\weekly\To Submit\Old Versions\tests
+duplicate the folder Department Manifests in Pets
+duplicate the folder GEHU - Imports in Employee Onboarding
+duplicate the folder Year Tests in Work Documents
+duplicate the folder Team Manifests in College Evidence
+duplicate the folder Payroll Manager Code in Network Shares
+duplicate the folder Year Responses in C:\Users\Public\Documents\Projects
+duplicate the folder Browser Compatibility in C:\Users\Ankit\Pictures\backend\Assignments\GitHub Projects
+duplicate the folder WinPilot - Resources in D:\Source\training data\assets\Awaiting Approval
+duplicate the folder dist in F:\External Drive\presentations\database\Audio Editing
+duplicate the folder Payroll Manager - Audits in E:\Archive\Semester 5
+duplicate the folder DBMS Project - Assets in C:\Users\Ankit\Downloads\WinPilot
+duplicate the folder WinPilot Tickets in F:\External Drive\assets\receipts\Project Alpha
+duplicate the folder Office Facilities in E:\Archive\Database
+duplicate the folder Client Students in C:\Program Files (x86)\NER experiments\training data\To Delete After Review
+duplicate the folder Operating Systems - Outputs in C:\Users\Ankit\Pictures\Reports\Device Reports\Pet Records
+duplicate the folder \\FileServer\Departments\src\generated\Client Working in Pet Care
+duplicate the folder E:\College\Client A in Team Approved
+duplicate the folder C:\Dev\WinPilot in WinPilot - Training
+duplicate the folder C:\Users\Ankit\Downloads\engineering\Home Repairs\Vehicle Documents in Virtual Machines
+duplicate the folder C:\Temp\model outputs\frontend\exports in Payroll Manager Audio
+duplicate the folder D:\Projects\Game Saves in Mobile Photos
+duplicate the folder F:\External Drive\Travel Planning\NER experiments\Network Captures in Department Data
+duplicate the folder F:\USB Backup\Game Saves in Brand Guidelines
+duplicate the folder E:\College\Receipts in DBMS Project Approved
+duplicate the folder \\backup-server\weekly\inventory\presentations\Audio Production in DBMS Project - Engineering
+duplicate the folder D:\WinPilot\Graphics Troubleshooting\Reports\Action Item Tracking in G:\Shared\Travel Planning\temp\Personal Certificates
+duplicate the folder C:\Users\ankit.kumar\Documents\Generated Records in D:\Backups\test results\client files\Year Validation
+duplicate the folder C:\Users\Ankit\Documents\Assignments in C:\Program Files (x86)\release builds\Payroll Manager\Client Revisions
+duplicate the folder F:\USB Backup\Shared Drive in F:\USB Backup\Docs
+duplicate the folder D:\College\GEHU\Semester 5\DBMS\Payroll Manager in C:\Users\Ankit\Videos\intent models\customer support\Website Redesign
+I need to copy Team Processed into Book Notes
+I need to copy Import Queue into Department References
+I need to copy GEHU Invoices into Year Imports
+I need to copy Payroll Manager Forms into College - Metrics
+I need to copy Client Tickets into University - Exports
+I need to copy Planning into \\192.168.1.20\teamshare\Windows Logs\training data\Practical Exam
+I need to copy GEHU To Move into C:\Users\Ankit\Desktop\October 2026
+I need to copy Team Sprint 12 into F:\External Drive\src\PBL Phase 2\Insurance
+I need to copy College Tests into \\backup-server\weekly\photos\Course Material\Obsolete
+I need to copy Operating Systems - Deliverables into D:\Data\screenshots\Final Versions\Year Final
+I need to copy 2024 University into D:\Backups\Backups
+I need to copy Salary Records into E:\Personal\screenshots\Semester 5\Team Tests
+I need to copy Status Updates into D:\Research\Device Reports\test results\Open Pull Requests
+I need to copy Client Releases into \\NAS01\Shared\HR\Exam Preparation\WinPilot Release Builds
+I need to copy Contact Exports into C:\Temp\Release 1.4\Windows Logs\scripts
+I need to copy College - Students to Operating Systems - Inputs
+I need to copy Team November to Project Templates
+I need to copy Unit 1 Notes to GEHU 2026
+I need to copy Project Backups to University - Evidence
+I need to copy Weekly Review to Client Exports
+I need to copy Team Materials to F:\External Drive\Reports\src\Automation Runs
+I need to copy Documents for Insurance to G:\Shared\Course Material\NER experiments\Shortcuts
+I need to copy Payroll Manager Engineering to D:\Backups\Entity Pools
+I need to copy src to C:\Users\Ankit\Downloads\Assets
+I need to copy Operating Systems - Receipts to E:\Media\invoices\assets\Generated Records
+I need to copy GEHU Validation to E:\College\datasets\contracts\Version 3
+I need to copy Ebooks to E:\College\Projects
+I need to copy Audio to F:\USB Backup\database\Shared Documents\Final Submission Package
+I need to copy Textures to \\192.168.1.20\teamshare\Assignments\warehouse\Midsem Preparation
+I need to copy Semester 7 to C:\Program Files (x86)\backend\Reports\Browser Backups
+I need to copy F:\USB Backup\Validation Data into Operating Systems - Designs
+I need to copy C:\Users\ankit.kumar\Documents\Python Projects into Payroll Manager - Final Submission
+I need to copy C:\Users\Ankit\Desktop\Projects into Client Imports
+I need to copy C:\Temp\marketing\marketing\Project Files into WinPilot - Metrics
+I need to copy \\192.168.1.20\teamshare\Semester 5\temp\Security Operations into University Previous
+I need to copy E:\Media\To Review\Device Reports\Unicode Names Tests into Client History
+I need to copy D:\Projects\HR\datasets\Workshop into Operating Systems Reports
+I need to copy F:\External Drive\Reports\backups\Data Engineering into Operating Systems Code
+I need to copy \\NAS01\Shared\migrations\api tests\Team Archive 2026 into GEHU - Inventory
+I need to copy E:\Media\Graphics Troubleshooting\validation data\development into Club Activities
+I need to copy C:\Dev\Assignments\Assignments\Client Forms into C:\Users\Ankit\Desktop\Semester 5\HR\Client Training
+I need to copy D:\Research\Semester 5 into C:\Temp\Sprint 13
+I need to copy C:\Temp\Assignments\validation data\Ready to Share into \\OfficePC\Public\recordings\Final Versions\Department Cleaned
+I need to copy F:\USB Backup\Network Captures\Certificates\Volunteering into E:\Media\October 2026
+I need to copy C:\Users\Public\Documents\Assignments into C:\Dev\WinPilot3
+I need to copy E:\Personal\Firewall Configs\Client A\Product Images to Network Captures
+I need to copy C:\Users\Ankit\Downloads\To Submit to Department Backups
+I need to copy C:\Users\Ankit\Videos\Travel Planning\NER experiments\Team Files to Payroll Manager - Reports
+I need to copy D:\Projects\Training Data to WinPilot - Evidence
+I need to copy C:\Dev\Training Data to University Private
+I need to copy C:\Users\Public\Documents\Model Outputs to DBMS Project Invoices
+I need to copy E:\Archive\logs\contracts\Leave Requests to Garden Plans
+I need to copy C:\Users\Public\Documents\Invoices to College Deliverables
+I need to copy C:\Users\Ankit\OneDrive\Exam Preparation\campaigns\Engineering to 2026 GEHU
+I need to copy D:\WinPilot\WinPilot\release builds\backups to Retired
+I need to copy D:\Research\Device Reports\Home Repairs\Household Budget to E:\Media\model outputs\WinPilot\Supplier Quotes
+I need to copy C:\Dev\client files\Travel Planning\Department Audio to D:\Research\invoices\Week 42\Team 2025
+I need to copy \\backup-server\weekly\invoices\Source Code\Client Materials to F:\External Drive\design files\photos\2025 Records
+I need to copy C:\Users\Ankit\Desktop\Python Projects to C:\Users\Ankit\Desktop\Logs
+I need to copy C:\ProgramData\Device Reports\Personal Finance\Client Archive to \\192.168.1.20\teamshare\invoices\Assignments\Department Photos
+I want a copy of Unit 5 Notes in Project November
+I want a copy of Payroll Manager Imports in WinPilot - Clean Data
+I want a copy of Internship Applications in Client Current
+I want a copy of College - Clients in Year Templates
+I want a copy of DBMS Project Previous in Year Schedules
+I want a copy of DBMS Project - Resources in D:\Source\WinPilot\Shared Documents\Maintenance
+I want a copy of Payroll Manager Published in E:\College\Engineering Team
+I want a copy of College - Imports in E:\Personal\NER experiments\entity pools\Team Support
+I want a copy of Processed Files in D:\Projects\temp\campaigns\Shift Rosters
+I want a copy of Documents for Accountant in C:\Temp\Semester 7\meeting notes\Phone Transfer
+I want a copy of DBMS Project - Evidence in D:\WinPilot\diagnostics\imports\WinPilot Exports
+I want a copy of College Revisions in E:\Media\Release 1.4\receipts\Browser Session Backups
+I want a copy of Operating Systems - Resources in D:\Research\Music
+I want a copy of Operating Systems Records in D:\Research\photos\release builds\Project Reports
+I want a copy of Team Support in E:\Archive\customer support\imports\Semester 2
+I want a copy of C:\Temp\Downloads in WinPilot Current
+I want a copy of C:\Users\ankit.kumar\Documents\SQL Scripts in Project Sprint 12
+I want a copy of \\FileServer\Departments\To Submit\family photos\Certificates in GEHU Exports
+I want a copy of \\backup-server\weekly\HR\Release 1.4\Project Team B in Path Tests
+I want a copy of D:\WinPilot\receipts\archives\Website Redesign in Data Catalog
+I want a copy of C:\ProgramData\exports\customer support\Project References in University Research
+I want a copy of C:\Users\Public\Documents\Videos in Templates
+I want a copy of E:\Incoming\temp\contracts\Client Research in College - Deliverables
+I want a copy of \\OfficePC\Public\release builds\Final Versions\Project Requests in Team Training
+I want a copy of C:\Dev\Old Versions\marketing\Year Drafts in Department Version 2
+I want a copy of E:\Media\website\Projects\License Inventory in G:\Shared\operations\assets\Localization
+I want a copy of F:\External Drive\client files\finance\Maintenance in C:\Temp\Shared Documents\Client A\Study Material
+I want a copy of E:\Media\Source Code in E:\College\Entity Pools
+I want a copy of D:\Research\Invoices in E:\Personal\Exam Preparation\assets\Automation Runs
+I want a copy of C:\Users\Ankit\Downloads\training data\meeting notes\Network Share Tests in C:\Users\Ankit\Desktop\Exam Preparation\Graphics Troubleshooting\Templates
+I want to copy University - Metrics into WinPilot Backups
+I want to copy GEHU - Forms into GEHU Code
+I want to copy Client Tests into GEHU - Planning
+I want to copy Sprint 13 into Forms
+I want to copy Telemetry into Department Engineering
+I want to copy Payroll Manager Contracts into \\NAS01\Shared\invoices\receipts\Team Old Versions
+I want to copy Personal Finance into D:\Work\Assets
+I want to copy Payroll Manager - Exports into C:\Program Files (x86)\Network Captures\Projects\End-to-End Tests
+I want to copy Action Item Tracking into C:\Program Files\Research Papers\Semester 7\Windows Explorer
+I want to copy Validation Data into C:\Users\Ankit\Downloads\receipts\Old Versions\Project Scripts
+I want to copy GEHU Inventory into \\OfficePC\Public\recordings\Exam Preparation\Video Projects
+I want to copy Meeting Recordings into C:\Users\Ankit\Videos\generated\Semester 7\Submitted for Correction
+I want to copy Team October into C:\Users\Public\Documents\Research Papers\photos\Client Old Versions
+I want to copy NPTEL Material into E:\College\contracts\October 2026\Bookmarks
+I want to copy Payroll Manager To Rename into E:\Media\Screenshots
+I want to copy Python Environments to sandbox
+I want to copy Audio Editing to Operating Systems - Data
+I want to copy GEHU Inputs to Year Raw
+I want to copy Team Share to DBMS Project Customers
+I want to copy License Reports to WinPilot History
+I want to copy Support Tickets to G:\Shared\finance\temp\NPTEL Material
+I want to copy Legal Review to D:\Shared\Python Projects
+I want to copy DBMS Project - Archives to D:\Data\design files\assets\Client Reviewed
+I want to copy Payroll Manager - Records to D:\Projects\Semester 5\src\Team References
+I want to copy Department Drafts to E:\College\Training Data
+I want to copy GEHU Schedules to C:\Program Files\engineering\photos\Year Operations
+I want to copy Vehicle Documents to E:\Media\Entity Pools
+I want to copy College For Approval to \\NAS01\Shared\HR\Driver Backups\Department Version 1
+I want to copy University - Q3 2026 to C:\Temp\GEHU
+I want to copy Public Resources to C:\Program Files\Lab Work\Projects\Project Audio
+I want to copy E:\College\tests\Semester 5\Team Team B into College - Inputs
+I want to copy F:\USB Backup\Device Reports\backups\Property Documents into Project Drafts
+I want to copy D:\Backups\Windows Logs\Personal Finance\Banking Records into DBMS Project Students
+I want to copy \\OfficePC\Public\Travel Planning\warehouse\Year Documents into Week 42
+I want to copy D:\Projects\finance\October 2026\Restore Tests into 2027 DBMS Project
+I want to copy F:\External Drive\Travel Planning\customer support\Department 2025 into Department Contracts
+I want to copy E:\Archive\Downloads into Windows Explorer
+I want to copy D:\Work\engineering\Research Papers\Customer Feedback into Orphaned Files
+I want to copy \\FileServer\Departments\Windows Logs\Week 42\Projects into Department Notes
+I want to copy D:\Work\October 2026 into Year Evidence
+I want to copy C:\Users\Ankit\Documents\test results\migrations\Leave Requests into E:\Archive\Model Outputs
+I want to copy E:\Archive\Assets into C:\Temp\assets\Windows Logs\Support Bundle
+I want to copy C:\Program Files (x86)\contracts\WinPilot\Project Training into \\FileServer\Departments\Release 1.4\Lab Work\Department Private
+I want to copy D:\Research\generated\tests\Data Retention into E:\College\Generated Records
+I want to copy C:\Users\Ankit\OneDrive\docs\intent models\Unsorted into C:\Users\Public\Documents\To Review\HR\Ready to Share
+I want to copy C:\Users\Ankit\Documents\design files\Research Papers\Year Operations to Client Inputs
+I want to copy C:\Users\Ankit\Downloads\GEHU to College - Outputs
+I want to copy F:\USB Backup\docs\warehouse\Department Reports to GEHU - Temporary Files
+I want to copy D:\Staging\customer support\finance\Department Customers to DBMS Project - Backups
+I want to copy E:\Archive\Travel Planning\recordings\Archived Branches to Windows Diagnostics
+I want to copy D:\Data\config\api tests\Client Team B to Client References
+I want to copy E:\Media\WinPilot\website\Keep for Reference to College Audits
+I want to copy \\192.168.1.20\teamshare\campaigns\inventory\Project Students to DBMS Project - Rejected
+I want to copy C:\Users\Ankit\Downloads\To Review to Experimental Branches
+I want to copy E:\Media\marketing\config\Lab Work to Kubernetes
+I want to copy C:\Users\Ankit\Pictures\Device Reports\Course Material\Equipment to C:\Users\Ankit\Downloads\Entity Pools
+I want to copy F:\External Drive\tests\Exam Preparation\Team Files to C:\Users\Ankit\Desktop\frontend\database\Year Metrics
+I want to copy E:\Personal\generated\Personal Finance\Year Week 43 to C:\Users\Ankit\Downloads\Lab Work\Lab Work\Finance Team
+I want to copy C:\Temp\Final Versions to C:\Temp\Semester 5\Client A\Animation
+I want to copy D:\Data\backups\Week 42\Department Notes to C:\Users\Ankit\Desktop\Invoices
+make a copy of University Final Submission in Operating Systems - Results
+make a copy of Operating Systems Resources in WinPilot Videos
+make a copy of University Operations in 2024 GEHU
+make a copy of Department Support in College Processed Data
+make a copy of GEHU - Finance in Client Week 42
+make a copy of Solved Question Papers in C:\Users\Ankit\Documents\Release 1.4\generated\Home Repairs
+make a copy of Semester 2 in C:\Users\Ankit\Downloads\marketing\screenshots\Leadership
+make a copy of University To Print in C:\Program Files (x86)\frontend\Client A\Gaming Backups
+make a copy of University - October 2026 in C:\Users\Ankit\Documents\Backups
+make a copy of Read Only Tests in D:\Source\presentations\October 2026\Startup Apps
+make a copy of Team Pending in G:\Shared\Reports\Course Material\Support Bundle
+make a copy of College - Final Submission in D:\Backups\validation data\October 2026\Department Working
+make a copy of Client Version 1 in C:\Users\Ankit\Documents\Week 42
+make a copy of Payroll Manager Previous in D:\Work\Engineering Team
+make a copy of University Invoices in C:\Users\Ankit\Documents\HR\Firewall Configs\Client Training
+make a copy of Operating Systems - Documents inside Storage Migration
+make a copy of Training Data inside University - Materials
+make a copy of 2025 College inside University Processed Data
+make a copy of Department Audio inside Payroll Manager Schedules
+make a copy of WinPilot - Ready to Submit inside NER Evaluation
+make a copy of Team Current inside C:\Users\Ankit\Downloads\Datasets
+make a copy of Intent Validation inside C:\Program Files\Reports\tests\Year Inputs
+make a copy of DBMS Project To Rename inside D:\College\GEHU\marketing\migrations\Client Working
+make a copy of WinPilot Receipts inside C:\Users\Ankit\Documents\October 2026\Firewall Configs\Department Logs
+make a copy of Client Shared Files inside C:\Users\Public\Documents\Reports\warehouse\Model Benchmarks
+make a copy of Client Sprint 12 inside D:\Research\Screenshots
+make a copy of WinPilot - November 2026 inside C:\Program Files\release builds\HR\Unit 5 Notes
+make a copy of Animation inside D:\Work\Game Saves
+make a copy of Work inside E:\Incoming\Week 42\meeting notes\Project Version 2
+make a copy of College - Releases inside D:\Research\Semester 7
+make a copy of E:\Media\Test Results in Client Photos
+make a copy of F:\USB Backup\invoices\Personal Finance\Office Admin in Driver Installers
+make a copy of C:\Dev\Photos in GEHU Imports
+make a copy of E:\Archive\Assignments in Entity Pool Reviewed
+make a copy of \\NAS01\Shared\imports\backend\Security Alerts in Year Approved
+make a copy of D:\Data\Exam Preparation\Sprint 13\exports in Payroll Manager - Notes
+make a copy of F:\USB Backup\Travel in GEHU Reports
+make a copy of C:\Users\Ankit\Pictures\assets\warehouse\Year Code in WinPilot - To Sort
+make a copy of C:\Program Files (x86)\generated\test results\Year Audio in Payroll Manager - Invoices
+make a copy of C:\Users\Ankit\Pictures\meeting notes\docs\Team Forms in DBMS Project - Receipts
+make a copy of C:\ProgramData\To Submit\release builds\Client Archive in \\OfficePC\Public\datasets\frontend\Audits
+make a copy of C:\Dev\Research in C:\Dev\backend\Final Versions\Intent Evaluation
+make a copy of D:\Data\contracts\meeting notes\Portable Apps in C:\Dev\imports\PBL Phase 2\Project Week 43
+make a copy of \\192.168.1.20\teamshare\tests\campaigns\Client Shared Files in D:\Projects\Semester 7\HR\Failed Imports
+make a copy of C:\Dev\Docs in C:\Users\Ankit\Documents\Invoices
+make a copy of D:\Source\tests\Travel Planning\Holiday 2026 inside Daily Standup
+make a copy of C:\Users\Ankit\Desktop\Course Material\frontend\Project To Submit inside Operating Systems - Validation
+make a copy of C:\Users\Ankit\Downloads\Personal Finance\Semester 7\WinPilot Tests inside DBMS Project 2027
+make a copy of D:\Staging\backups\finance\Label Disagreements inside Analytics
+make a copy of D:\Source\Shared Documents\October 2026\Frontend Components inside Accounts Payable
+make a copy of E:\College\Sprint 13\NER experiments\Solved Question Papers inside Team 2026
+make a copy of C:\Users\Ankit\Downloads\Research Papers\temp\Client Deliverables inside Music Collection
+make a copy of C:\Temp\meeting notes\HR\Project Files inside College Drafts
+make a copy of D:\WinPilot\travel\WinPilot\Unit 2 Notes inside Team Schedules
+make a copy of E:\Archive\entity pools\website\Q3 2026 inside FY2025-26
+make a copy of C:\Dev\release builds\inventory\Contract Archive inside D:\Research\customer support\api tests\Team Archive
+make a copy of G:\Shared\screenshots\Assignments\NDAs inside E:\College\Music
+make a copy of D:\Backups\Audio Troubleshooting\finance\Ebooks inside C:\Users\Ankit\Documents\temp\family photos\Temporary Working
+make a copy of D:\Source\Driver Backups\contracts\Device Manager inside C:\Users\Ankit\OneDrive\backend\archives\Client 2026
+make a copy of E:\Media\entity pools\customer support\Cycling inside E:\Incoming\src\Certificates\Training Corpora
+make a copy of the folder DBMS Project - Imports in College Forms
+make a copy of the folder Operating Systems Designs in Ethernet Tests
+make a copy of the folder WinPilot - Inventory in Documents
+make a copy of the folder Department Photos in Payroll Manager - Responses
+make a copy of the folder Team Evidence in Code Review Feedback
+make a copy of the folder Outgoing Files in C:\Temp\Reports
+make a copy of the folder GEHU - Packages in D:\Data\To Submit
+make a copy of the folder Operating Systems - Working Files in E:\Incoming\imports\customer support\Quarterly Reviews
+make a copy of the folder DBMS Project History in D:\WinPilot\datasets\generated
+make a copy of the folder University - Training in D:\Backups\archives\marketing\Business Intelligence
+make a copy of the folder Recruitment Pipeline in C:\Users\Ankit\Videos\customer support\Reports\Contact Exports
+make a copy of the folder Python Projects in D:\Data\backend\Personal Finance\Drafts
+make a copy of the folder Lead Management in \\NAS01\Shared\Projects\WinPilot\Release 1.4
+make a copy of the folder Year Week 42 in C:\Temp\Lab Work
+make a copy of the folder Department 2026 in E:\College\October 2026
+make a copy of the folder \\192.168.1.20\teamshare\src\receipts\Needs Sorting in DBMS Project - References
+make a copy of the folder C:\Users\Ankit\Documents\temp\frontend\Incoming Files in WinPilot Validation
+make a copy of the folder C:\Users\Public\Documents\Final Versions\entity pools\Product Roadmap in University - Scripts
+make a copy of the folder E:\College\NER experiments\design files\Department Week 43 in Rental Records
+make a copy of the folder C:\Users\Ankit\Pictures\Firewall Configs\Old Versions\Unit 1 Notes in Department Students
+make a copy of the folder C:\Program Files\diagnostics\entity pools\Pending Approval in Department Tracking
+make a copy of the folder F:\USB Backup\Network Captures\diagnostics\Year Outputs in Operating Systems - Archives
+make a copy of the folder C:\Temp\Supplier North\Release 1.4\Team Contracts in University - Q4 2026
+make a copy of the folder \\NAS01\Shared\Exam Preparation\receipts\Project Students in DBMS Project - Week 42
+make a copy of the folder D:\WinPilot\validation data\Exam Preparation\Path Length Tests in Client Screenshots
+make a copy of the folder D:\Backups\Music in D:\Data\Course Material\Semester 7\Department Sprint 13
+make a copy of the folder D:\Projects\migrations\Supplier North\Bank Reconciliation in C:\Users\Ankit\Documents\Graphics Troubleshooting\Sprint 13\Failed Exports
+make a copy of the folder D:\Work\migrations\database\Personal Finance in C:\Users\Ankit\Documents\WinPilot3
+make a copy of the folder C:\Users\Ankit\Desktop\migrations\training data\Short Term Staging in C:\Dev\Source Code\Semester 5\staging
+make a copy of the folder D:\Research\meeting notes\Shared Documents\Team Training in D:\Backups\Generated Records
+make a duplicate copy of GEHU Working Files in Payroll Manager Photos
+make a duplicate copy of University - Suppliers in Regression Tests
+make a duplicate copy of Obsolete in DBMS Project To Print
+make a duplicate copy of DBMS Project Documents in Department Scripts
+make a duplicate copy of Project Materials in 2026 Records
+make a duplicate copy of Project Beta in \\backup-server\weekly\Audio Troubleshooting\October 2026\Year Current
+make a duplicate copy of Supplier Quotes in C:\Users\Public\Documents\Semester 7
+make a duplicate copy of Pictures in \\192.168.1.20\teamshare\Client A\Release 1.4\Project Records
+make a duplicate copy of Payroll Manager Documentation in D:\Projects\Presentations
+make a duplicate copy of Team Finance in C:\Users\Ankit\Documents\tests\training data\Procurement
+make a duplicate copy of Year Logs in \\backup-server\weekly\backups\training data\Project Sprint 12
+make a duplicate copy of Offsite Backups in C:\ProgramData\Sprint 13\campaigns\Retired
+make a duplicate copy of SQL Scripts in C:\Temp\Logs
+make a duplicate copy of Payroll Manager - Documentation in D:\Research\Semester 7\Lab Work\Website Content
+make a duplicate copy of College 2024 in F:\USB Backup\Semester 5
+make a duplicate copy of D:\Data\Validation Data in Project Support
+make a duplicate copy of \\backup-server\weekly\Assignments\src\Client Planning in DBMS Project - Previous
+make a duplicate copy of \\FileServer\Departments\warehouse\WinPilot\WinPilot Backups in Payroll Manager - Imports
+make a duplicate copy of D:\College\GEHU\Certificates\screenshots\Project Responses in PostgreSQL
+make a duplicate copy of \\OfficePC\Public\test results\intent models\Client Scripts in College Ready to Submit
+make a duplicate copy of \\backup-server\weekly\generated\intent models\WinPilot Dataset in Department Packages
+make a duplicate copy of D:\Source\training data\training data\Shopping Lists in Performance Tests
+make a duplicate copy of E:\Archive\Driver Backups\operations\Unsolved Question Papers in College Team Shared
+make a duplicate copy of E:\College\Assignments\screenshots\Project Checkpoints in Client Inventory
+make a duplicate copy of F:\USB Backup\Research in GEHU - Materials
+make a duplicate copy of E:\Media\frontend\imports\Home Renovation in C:\Users\Ankit\Desktop\Windows Logs\Device Reports\Year Private
+make a duplicate copy of E:\College\Semester 5 in \\OfficePC\Public\screenshots\To Review\Rename Tests
+make a duplicate copy of D:\Research\training data\docs\Department Revisions in D:\Source\tests\generated\Project Contracts
+make a duplicate copy of C:\Temp\Semester 7 in C:\Users\ankit.kumar\Documents\Shared Drive
+make a duplicate copy of D:\Research\Shared Documents\contracts\Project Requests in D:\Work\Videos
+place a copy of Client Customers in Department Test Set
+place a copy of WinPilot 2024 in To Delete After Review
+place a copy of DBMS Project Archives in Model Experiments
+place a copy of College - Q4 2026 in Structure Library Exports
+place a copy of Year Deliverables in GEHU Evaluation
+place a copy of WinPilot Schedules in \\FileServer\Departments\Sprint 13\receipts\Data Engineering
+place a copy of University - To Rename in E:\Media\entity pools\travel\Team Photos
+place a copy of Project Tickets in D:\Staging\Sprint 13\Client A\Design Files
+place a copy of University - Current in D:\Work\temp\receipts\Hotel Reservations
+place a copy of DBMS Project - Finance in C:\Program Files\release builds\October 2026\Department Designs
+place a copy of API Responses in D:\Backups\Photos
+place a copy of Viva Preparation in D:\Data\Reports\October 2026\Supplier Shared Files
+place a copy of University - Packages in D:\Research\Backups
+place a copy of Evaluation Corpora in F:\USB Backup\Receipts
+place a copy of Family Celebrations in E:\Media\backups\To Submit\Project Version 1
+place a copy of E:\Archive\intent models\Device Reports\Load Tests in Operating Systems - Code
+place a copy of \\192.168.1.20\teamshare\docs\exports\Team Contracts in Payroll Manager Clients
+place a copy of E:\Personal\meeting notes\docs\Project Outputs in Operating Systems - Clean Data
+place a copy of D:\Work\Final Versions\archives\Team Inputs in WinPilot Suppliers
+place a copy of D:\Research\To Review\intent models\Supplier Shared Files in Operating Systems Course
+place a copy of C:\Users\Ankit\Downloads\Travel in University - Audits
+place a copy of C:\Users\Ankit\Downloads\finance\customer support\Documents for University in University Shared
+place a copy of C:\Users\Ankit\OneDrive\logs\datasets\docs in DBMS Project - Semester 7
+place a copy of E:\Media\Sprint 13\meeting notes\To Sort in Client Revisions
+place a copy of F:\USB Backup\customer support\Semester 5\Client Manifests in Year Q4
+place a copy of C:\Temp\Research Papers\logs\Client Releases in D:\College\GEHU\Personal Finance\Sprint 13\Personal
+place a copy of C:\Dev\To Submit in G:\Shared\Sprint 13\client files\Department Outputs
+place a copy of C:\Users\Ankit\Videos\photos\Research Papers\Q4 2026 in D:\Data\Client A
+place a copy of C:\Users\Ankit\Downloads\operations\diagnostics\Compliance Evidence in C:\Users\Ankit\Downloads\Reports
+place a copy of F:\USB Backup\Home Repairs\screenshots\Project Training in E:\College\Graphics Troubleshooting\Old Versions\Entity Pool Generated
+please copy GEHU Customers into Department Evidence
+please copy WinPilot - Incoming into Stable Release
+please copy Year October into Podcasts
+please copy Year Scripts into College - Drafts
+please copy Model Benchmarks into Payroll Manager - History
+please copy College Reference Material into F:\USB Backup\imports\PBL Phase 2\Long Term Archive
+please copy DBMS Project For Review into C:\Users\Ankit\OneDrive\logs\inventory\Project Policies
+please copy WinPilot - To Copy into \\NAS01\Shared\finance\family photos\PostgreSQL
+please copy GEHU Clean Data into \\backup-server\weekly\finance\backend\Client Old Versions
+please copy Payroll Manager - Support into D:\WinPilot\Old Versions\datasets\notebooks
+please copy Payroll Manager 2024 into C:\Program Files (x86)\family photos\intent models\Data Governance
+please copy Car Maintenance into D:\Projects\Client A
+please copy Repair Estimates into C:\Users\Ankit\Downloads\Game Saves
+please copy Game Capture Clips into D:\Projects\SQL Scripts
+please copy College Inventory into C:\Users\ankit.kumar\Documents\Sprint 13
+please copy Payroll Manager - To Move to Signed Documents
+please copy GEHU Deliverables to Parser Tests
+please copy Team 2025 to GEHU For Review
+please copy Payroll Manager - Backups to College - Receipts
+please copy GEHU - Current to Payroll Manager Deliverables
+please copy Year Training to C:\Dev\HR\Network Captures\Client Working
+please copy GitHub Projects to D:\Data\database\api tests\Client Requests
+please copy College - Tests to D:\College\GEHU\WinPilot\family photos\Team History
+please copy Contract Archive to E:\Personal\imports\database\Documents for Bank
+please copy Payroll Manager - Receipts to D:\Staging\recordings\engineering\User Feedback
+please copy Training Materials to D:\Staging\Graphics Troubleshooting\Personal Finance\Client Records
+please copy Payroll Manager - November 2026 to C:\Dev\Recordings
+please copy Hotel Reservations to D:\WinPilot\Semester 5\Semester 5\Rental Records
+please copy Oracle Database to D:\Data\Docs
+please copy Architecture Decision Records to F:\External Drive\validation data\Sprint 13\Year Private
+please copy E:\College\WinPilot into MySQL
+please copy D:\WinPilot\training data\contracts\Games into Payroll Manager Outgoing
+please copy E:\College\receipts\tests\Employee Offboarding into College - Videos
+please copy C:\Program Files\entity pools\release builds\Client October into Mockups
+please copy C:\Users\Ankit\Desktop\To Submit into WinPilot - Contracts
+please copy C:\Temp\Temporary Exports into Payroll Manager Final Submission
+please copy D:\Projects\marketing\migrations\Loan Documents into DBMS Project Code
+please copy C:\Dev\temp\Assignments\Volunteering into College Resources
+please copy D:\College\GEHU\Week 42\engineering\Department Q3 into Festival Planning
+please copy E:\College\website\frontend\Project Tests into University
+please copy C:\Users\Ankit\Videos\generated\Audio Troubleshooting\Year To Submit into E:\College\Audio Troubleshooting\Sprint 13\Project Week 42
+please copy E:\Media\Final Versions into G:\Shared\website\generated\Department Assets
+please copy C:\Users\Ankit\Pictures\frontend\recordings\checkpoints into D:\Staging\Old Versions\design files\Supplier Quotes
+please copy G:\Shared\Home Repairs\finance\Action Items into D:\Work\To Review\campaigns\Department Documents
+please copy E:\Archive\Datasets into C:\Temp\Projects
+please copy C:\Program Files\Semester 7\Shared Documents\Ready to Share to Year Old Versions
+please copy E:\Archive\Generated Records to Operating Systems Receipts
+please copy D:\Work\Receipts to UI Assets
+please copy \\OfficePC\Public\website\To Review\Data Catalog to Home Renovation
+please copy C:\Temp\Shared Documents\receipts\Invitations to Insurance Policies
+please copy \\OfficePC\Public\To Review\inventory\Integration Tests to GEHU - Team Shared
+please copy E:\Personal\Personal Finance\archives\Department To Submit to Operating Systems Notes
+please copy \\192.168.1.20\teamshare\Certificates\Network Captures\Project Responses to WinPilot Processed Data
+please copy E:\Incoming\warehouse\recordings\Restore Points to WinPilot Final Submission
+please copy C:\Users\Ankit\Pictures\archives\Device Reports\Donations to Duplicates for Review
+please copy C:\Users\Ankit\Desktop\generated\migrations\Animation to C:\Users\Ankit\Videos\family photos\NER experiments\Project Operations
+please copy D:\College\GEHU\invoices\assets\Merge Conflicts to \\OfficePC\Public\Reports\marketing\Department Logs
+please copy C:\Program Files (x86)\October 2026\invoices\Department Pending to D:\WinPilot\docs\WinPilot\Project Audits
+please copy C:\Dev\Archives to C:\Users\Public\Documents\October 2026\Driver Backups\Software Receipts
+please copy E:\Archive\Source Code\Payroll Manager\Team Manifests to G:\Shared\marketing\NER experiments\Book Notes
+please duplicate Operating Systems Audio into WinPilot Requests
+please duplicate University - History into Client Cleaned
+please duplicate Project Schedules into Scanned Originals
+please duplicate Disaster Recovery into Drafts
+please duplicate Team Inputs into Payroll Reports
+please duplicate Team Shared into C:\Program Files (x86)\Audio Troubleshooting\database\Translations
+please duplicate GEHU - Tracking into \\NAS01\Shared\Graphics Troubleshooting\Supplier North\Compliance Evidence
+please duplicate DBMS Project - Tests into F:\USB Backup\Python Projects
+please duplicate Payroll Manager - Forms into C:\Program Files (x86)\diagnostics\client files\Team Audio
+please duplicate Home Repairs into C:\Users\Public\Documents\WinPilot\family photos\Project Planning
+please duplicate WinPilot Inputs into D:\Source\temp\Sprint 13\Data Engineering
+please duplicate GEHU - Evaluation into F:\USB Backup\Semester 7
+please duplicate Interview Prep into F:\USB Backup\assets\finance\Performance Reviews
+please duplicate Client Logs into D:\WinPilot\release builds\inventory\Client Planning
+please duplicate Year Builds into F:\USB Backup\GEHU
+please duplicate CI Reports to University - Final Versions
+please duplicate Inference Profiling to GEHU Responses
+please duplicate Business Intelligence Course to GEHU Old Versions
+please duplicate University - Week 43 to GEHU Incoming
+please duplicate File Operations to DBMS Project - Final Versions
+please duplicate Client Manifests to E:\Personal\Source Code\exports\Browser Compatibility
+please duplicate Software to E:\Incoming\Week 42\frontend\docs
+please duplicate Monthly Closing to \\OfficePC\Public\release builds\backend\Unit 5 Notes
+please duplicate Android Logs to \\192.168.1.20\teamshare\contracts\Home Repairs\Augmentation Reports
+please duplicate DBMS Project - Audio to E:\College\College
+please duplicate GEHU - For Approval to E:\Personal\PBL Phase 2\recordings\Portfolio
+please duplicate DBMS Project Incoming to C:\Users\Ankit\Videos\temp\Research Papers\Model Error Cases
+please duplicate WinPilot 2027 to C:\Users\Ankit\Desktop\release builds\Firewall Configs\Project Designs
+please duplicate University - Invoices to E:\Archive\Presentations
+please duplicate LeetCode to C:\Users\Ankit\Videos\engineering\logs\Daily Standup
+please duplicate E:\Archive\Test Results into Smoke Tests
+please duplicate D:\Research\intent models\PBL Phase 2\Keep for Reference into Seed Data
+please duplicate D:\Research\HR\config\Project Designs into staging
+please duplicate E:\College\To Submit\recordings\Year Q3 into GEHU - Documentation
+please duplicate E:\Personal\inventory\travel\Product Images into Team Outputs
+please duplicate \\backup-server\weekly\warehouse\client files\Department Code into WinPilot Final Versions
+please duplicate C:\Program Files (x86)\Course Material\Course Material\Department Reviewed into College - Incoming
+please duplicate D:\Staging\release builds\engineering\Data Quality into Linux Notes
+please duplicate C:\Temp\assets\generated\Year Scripts into University - Final Submission
+please duplicate \\OfficePC\Public\website\logs\Payroll Reports into College To Copy
+please duplicate \\FileServer\Departments\intent models\Assignments\Client Students into C:\Users\Ankit\Documents\test results\finance\Department Team A
+please duplicate C:\Temp\Release 1.4\Network Captures\Social Media into C:\Users\Public\Documents\Old Versions
+please duplicate C:\ProgramData\Payroll Manager\client files\Incident Management into D:\WinPilot\Supplier North\Research Papers\Department Shared Files
+please duplicate \\backup-server\weekly\Exam Preparation\warehouse\Misclassified Commands into C:\Program Files\October 2026\HR\USB Transfer
+please duplicate C:\Temp\Shared Drive into D:\Work\migrations\Semester 7\Club Activities
+please duplicate C:\Users\Ankit\Documents\Screenshots to Accessibility Review
+please duplicate C:\Users\ankit.kumar\Documents\Source Code to GEHU Shared
+please duplicate G:\Shared\marketing\Semester 5\Inbox to WinPilot - Forms
+please duplicate C:\Program Files (x86)\client files\Audio Troubleshooting\Recovery Files to WinPilot 2025
+please duplicate F:\External Drive\Final Versions\Audio Troubleshooting\Tax Returns to College Students
+please duplicate E:\College\Home Repairs\diagnostics\Monthly Closing to College - Shared
+please duplicate F:\USB Backup\invoices\To Submit\Team Processed to Documents for Placement
+please duplicate D:\Source\Payroll Manager\Audio Troubleshooting\Year November to University - Engineering
+please duplicate D:\Backups\Graphics Troubleshooting\Sprint 13\Year Inventory to Equipment
+please duplicate C:\Users\Ankit\OneDrive\Exam Preparation\family photos\Year Tracking to University - Old Versions
+please duplicate E:\Personal\Graphics Troubleshooting\docs\Solved Question Papers to C:\Users\Ankit\Pictures\Release 1.4\receipts\Rollback Tests
+please duplicate \\backup-server\weekly\meeting notes\Exam Preparation\Client Q3 to E:\Media\frontend\campaigns\Client Reports
+please duplicate D:\Backups\Course Material\To Submit\Donations to C:\Temp\family photos\model outputs\Games
+please duplicate E:\Archive\api tests\Exam Preparation\Scheduled Tasks to D:\Projects\Videos
+please duplicate C:\Users\Public\Documents\Certificates\client files\Home Maintenance to D:\Data\Network Captures\recordings\annotations
+put a copy of College Final Submission into Long Path Tests
+put a copy of Payroll Manager To Print into Operating Systems Working Files
+put a copy of University - Backups into University - Requests
+put a copy of Integration Tests into WinPilot - Code
+put a copy of Client B into DBMS Project - October 2026
+put a copy of DBMS Project Revisions into C:\Dev\Device Reports\photos\Fitness Tracking
+put a copy of Department Shared into E:\College\HR\To Submit\Bookmarks
+put a copy of Payroll Manager - Data into D:\Staging\photos\Device Reports\Contracts
+put a copy of Team Reviewed into \\backup-server\weekly\customer support\To Review\Website Redesign
+put a copy of Project Inventory into C:\Users\Ankit\Pictures\family photos\Payroll Manager\Downloads
+put a copy of GEHU - Processed Data into D:\Shared\Screenshots
+put a copy of College - Suppliers into D:\Data\campaigns\model outputs\Patch Files
+put a copy of DBMS Project Reference Material into C:\Users\Public\Documents\temp\exports\Assignments
+put a copy of Year History into F:\USB Backup\WinPilot
+put a copy of Reading List into C:\Dev\Test Results
+put a copy of D:\Source\Payroll Manager\October 2026\Video Projects into College Imports
+put a copy of C:\Users\Ankit\Downloads\Finance Team into DBMS Project Temporary Files
+put a copy of D:\Data\Old Versions\Shared Documents\Department Drafts into WinPilot Responses
+put a copy of E:\Archive\Invoices into Team Validation
+put a copy of F:\USB Backup\logs\inventory\DNS Exports into Year Documentation
+put a copy of C:\Users\Ankit\Desktop\Backups into Returns to Send
+put a copy of D:\Staging\Old Versions\Device Reports\Do Not Delete into College - References
+put a copy of E:\Media\imports\Shared Documents\Encrypted Archives into WinPilot - Audio
+put a copy of D:\College\GEHU\Reports\Shared Documents\Signed Documents into University - Outputs
+put a copy of \\OfficePC\Public\Release 1.4\Source Code\Videos into Team Contracts
+put a copy of C:\Program Files (x86)\temp\Shared Documents\Product Analytics into D:\Projects\backups\logs\Team Tracking
+put a copy of C:\Temp\temp\engineering\Returns to Send into D:\Shared\Temporary Exports
+put a copy of D:\WinPilot\Semester 7\operations\Project Research into F:\External Drive\Sprint 13\screenshots\Mobile Videos
+put a copy of D:\Staging\Graphics Troubleshooting\exports\Client Outputs into F:\USB Backup\Semester 7\Graphics Troubleshooting\Department Releases
+put a copy of C:\Users\Ankit\Downloads\Research Papers\model outputs\Code Review Feedback into C:\Users\Ankit\OneDrive\travel\Graphics Troubleshooting\Team Records
+put a duplicate of Project Deliverables in Operating Systems Data
+put a duplicate of University Tests in WinPilot - Exports
+put a duplicate of assets in Client Test Set
+put a duplicate of Crash Reports in Team Private
+put a duplicate of Engineering Team in Junction Tests
+put a duplicate of Compatibility Matrix in D:\Backups\Reports\customer support\Language Learning
+put a duplicate of GEHU - Clients in E:\Media\GEHU
+put a duplicate of WinPilot Materials in D:\Backups\recordings\exports\Merge Conflicts
+put a duplicate of Payroll Manager Videos in C:\Users\Ankit\Documents\model outputs\Research Papers\Salary Records
+put a duplicate of Documents for Internship in C:\Users\Ankit\Videos\Network Captures\marketing\Reserved Names Tests
+put a duplicate of DBMS Project - Operations in C:\Users\Public\Documents\Semester 5
+put a duplicate of Operating Systems Assets in C:\Program Files\Driver Backups\model outputs\Project Templates
+put a duplicate of University - Team Shared in C:\Users\Ankit\Downloads\entity pools\datasets\Registrations
+put a duplicate of DBMS Project 2025 in C:\Dev\Lab Work\logs\Team Customers
+put a duplicate of Payroll Manager - Customers in D:\Projects\Finance Team
+put a duplicate of F:\External Drive\diagnostics\Audio Troubleshooting\Migration Validation in University Deliverables
+put a duplicate of G:\Shared\customer support\database\Label Disagreements in Department To Review
+put a duplicate of \\NAS01\Shared\Exam Preparation\contracts\Collision Tests in College - Clean Data
+put a duplicate of E:\Media\Music in DBMS Project To Copy
+put a duplicate of C:\Dev\design files\WinPilot\Project Packages in Department Version 1
+put a duplicate of C:\Users\Ankit\Documents\operations\Old Versions\UX Research in Design Files
+put a duplicate of C:\Users\Ankit\Documents\PBL Phase 2\campaigns\Backend in GEHU Team Shared
+put a duplicate of C:\Users\Ankit\Desktop\To Submit\warehouse\LeetCode in Recipes
+put a duplicate of \\192.168.1.20\teamshare\generated\test results\Invoices in College Operations
+put a duplicate of \\FileServer\Departments\engineering\docs\Submitted Work in Lab Work
+put a duplicate of \\FileServer\Departments\Source Code\presentations\Unit 1 Notes in D:\Research\Videos
+put a duplicate of C:\Users\Ankit\Downloads\Client A in G:\Shared\Research Papers\To Review\Permissions Audit
+put a duplicate of \\192.168.1.20\teamshare\photos\Research Papers\Client Invoices in D:\Work\tests\Assignments\Java Projects
+put a duplicate of C:\Users\Public\Documents\diagnostics\Sprint 13\Department Audits in C:\ProgramData\presentations\inventory\Datasets
+put a duplicate of E:\Media\database\tests\Team Requests in C:\Temp\Supplier North\inventory\Year Assets
+save a copy of Video Editing in Music
+save a copy of College - Archived in College - Private
+save a copy of College - Final Versions in College Archives
+save a copy of Operating Systems Training in Project Team A
+save a copy of Returns in Project References
+save a copy of GEHU Current in \\NAS01\Shared\design files\backend\Documents for Landlord
+save a copy of Year Results in G:\Shared\photos\validation data\Incident Response
+save a copy of Department Logs in F:\USB Backup\customer support\Exam Preparation\Client Policies
+save a copy of 2025 University in D:\Projects\Personal Finance\To Review\CI Reports
+save a copy of Unsorted in C:\Temp\campaigns\PBL Phase 2\Branches
+save a copy of Payroll Manager Ready to Submit in C:\Users\Public\Documents\Payroll Manager\Driver Backups\File Migration
+save a copy of User Guide Drafts in E:\College\assets\marketing\Potential Duplicates
+save a copy of Operating Systems - Templates in \\NAS01\Shared\Course Material\Release 1.4\Gym
+save a copy of Travel Photos in D:\WinPilot\operations\Exam Preparation\Client Metrics
+save a copy of Tokenisation in D:\College\GEHU\To Submit\diagnostics\reports
+save a copy of E:\Personal\Audio Troubleshooting\docs\Department Planning in Service Monitoring
+save a copy of C:\Users\Ankit\OneDrive\archives\Graphics Troubleshooting\Disaster Recovery in Legacy Migration
+save a copy of \\FileServer\Departments\training data\assets\Feature Engineering in Team Q4
+save a copy of E:\College\Driver Backups\presentations\Team Team B in University - Documentation
+save a copy of C:\ProgramData\docs\campaigns\Team Records in University Old Versions
+save a copy of G:\Shared\config\temp\Intent Validation in University - Receipts
+save a copy of F:\External Drive\imports\Payroll Manager\Intent Training in DBMS Project - For Review
+save a copy of C:\Users\Ankit\Documents\Week 42\contracts\Department Exports in WinPilot Policies
+save a copy of D:\WinPilot\Exam Preparation\Payroll Manager\Club Activities in config
+save a copy of \\OfficePC\Public\Payroll Manager\NER experiments\Assignments in Practical Files
+save a copy of D:\Research\tests\training data\Leave and Attendance in C:\Users\ankit.kumar\Documents\Test Results
+save a copy of E:\Media\training data\campaigns\Video Projects in F:\USB Backup\College
+save a copy of C:\Program Files\recordings\archives\Projects in E:\Archive\Logs
+save a copy of C:\Users\Ankit\Desktop\WinPilot\Certificates\Final Submission Package in C:\ProgramData\logs\screenshots\Project Receipts
+save a copy of D:\Source\src\receipts\presentations in D:\WinPilot\Reports\Device Reports\Driver Backups
+store a duplicate of WSL in Permissions Audit
+store a duplicate of College Clients in Team Requests
+store a duplicate of University Schedules in DBMS Project Processed Data
+store a duplicate of cache in Tax Documents
+store a duplicate of Operating Systems - Training in GEHU Contracts
+store a duplicate of Game Assets in \\OfficePC\Public\October 2026\Payroll Manager\Ambiguous Commands
+store a duplicate of Project Old Versions in D:\Work\warehouse\screenshots\Personal Certificates
+store a duplicate of Plant Care in D:\Shared\Tests
+store a duplicate of University - To Sort in C:\Dev\Backups
+store a duplicate of WinPilot Designs in C:\Users\Ankit\Downloads\Research Papers\Device Reports\Leadership
+store a duplicate of GEHU - Research in \\OfficePC\Public\Course Material\Device Reports\Downloads To Keep
+store a duplicate of Project Logs in C:\Users\Public\Documents\Datasets
+store a duplicate of WinPilot Manifests in D:\Work\Source Code
+store a duplicate of Year Code in C:\Program Files\warehouse\tests\Client Materials
+store a duplicate of Department Clients in C:\ProgramData\Firewall Configs\family photos\Brand Guidelines
+store a duplicate of D:\Shared\Config in DBMS Project Audio
+store a duplicate of \\OfficePC\Public\Shared Documents\Semester 5\Disaster Recovery in Client Old Versions
+store a duplicate of C:\Users\Ankit\Videos\October 2026\receipts\Privacy Requests in Project Q3
+store a duplicate of D:\College\GEHU\config\marketing\tokenizers in Year 2025
+store a duplicate of D:\Shared\To Submit in Payroll Manager - Students
+store a duplicate of C:\Program Files\Home Repairs\migrations\Load Tests in NER Validation
+store a duplicate of E:\Archive\campaigns\backend\Client Training in Container Images
+store a duplicate of C:\Users\ankit.kumar\Documents\Projects in Operating Systems - Processed Data
+store a duplicate of E:\College\PBL Phase 2\test results\Quarterly Planning in Labelled Examples
+store a duplicate of G:\Shared\To Review\Course Material\Package Locks in Team Clients
+store a duplicate of C:\Users\Ankit\Desktop\Graphics Troubleshooting\release builds\To Delete After Review in C:\Users\Public\Documents\To Submit
+store a duplicate of \\NAS01\Shared\engineering\Driver Backups\Department Data in F:\USB Backup\Assignments\backend\Load Tests
+store a duplicate of \\OfficePC\Public\Projects\Network Captures\Warranties in F:\USB Backup\frontend\migrations\Client October
+store a duplicate of C:\Users\Ankit\OneDrive\NER experiments\model outputs\Department Checkpoints in D:\Staging\warehouse\Driver Backups\Client Operations
+store a duplicate of C:\Users\Ankit\Documents\Source Code\archives\Team To Submit in C:\Users\Ankit\Documents\Recordings

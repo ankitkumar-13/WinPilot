@@ -1,0 +1,187 @@
+close chrome
+close Chrome
+close google chrome
+close Google Chrome
+stop firefox
+stop Firefox
+stop mozilla firefox
+stop Mozilla Firefox
+terminate edge
+terminate Edge
+terminate microsoft edge
+terminate Microsoft Edge
+exit ms edge
+exit brave
+exit Brave
+exit opera
+quit Opera
+quit opera browser
+quit Vivaldi
+quit tor browser
+shut down VSCode
+shut down vscode
+shut down VS Code
+shut down vs code
+shutdown visual studio code
+shutdown Visual Studio Code
+shutdown code
+shutdown VSCode Insiders
+end visual studio
+end Visual Studio
+end VS
+end visual studio community
+stop Visual Studio Community now
+stop visual studio professional now
+stop Visual Studio Professional now
+stop pycharm now
+exit PyCharm now
+exit pycharm community now
+exit PyCharm Community now
+exit pycharm professional now
+quit PyCharm Professional now
+quit intellij now
+quit IntelliJ now
+quit intellij idea now
+please close IntelliJ IDEA
+please close eclipse
+please close Eclipse
+please close android studio
+please stop Android Studio
+please stop netbeans
+please stop NetBeans
+please stop sublime text
+please terminate Sublime Text
+please terminate sublime
+please terminate Sublime
+please terminate notepad
+please end Notepad
+please end windows notepad
+please end Notepad++
+please end notepad++
+please shut down notepad plus plus
+please shut down Notepad Plus Plus
+please shut down word
+please shut down Word
+can you close microsoft word
+can you close Microsoft Word
+can you close ms word
+can you close excel
+can you stop Excel
+can you stop microsoft excel
+can you stop Microsoft Excel
+can you stop ms excel
+can you exit powerpoint
+can you exit PowerPoint
+can you exit microsoft powerpoint
+can you exit Microsoft PowerPoint
+can you quit ms powerpoint
+can you quit outlook
+can you quit Outlook
+can you quit microsoft outlook
+can you terminate Microsoft Outlook
+can you terminate onenote
+can you terminate OneNote
+can you terminate microsoft onenote
+can you shut down Microsoft OneNote
+can you shut down teams
+can you shut down Teams
+can you shut down microsoft teams
+could you close Microsoft Teams
+could you close ms teams
+could you close onedrive
+could you close OneDrive
+could you stop microsoft onedrive
+could you stop Microsoft OneDrive
+could you stop sharepoint
+could you stop SharePoint
+could you exit skype
+could you exit Skype
+could you exit discord
+could you exit Discord
+could you quit slack
+could you quit Slack
+could you quit zoom
+could you quit Zoom
+I want to close whatsapp
+I want to close WhatsApp
+I want to close telegram
+I want to close Telegram
+I want to stop spotify
+I want to stop Spotify
+I want to stop vlc
+I want to stop VLC
+I want to terminate vlc player
+I want to terminate VLC Player
+I want to terminate windows media player
+I want to terminate Media Player
+I want to shut down photos
+I want to shut down microsoft photos
+I want to shut down paint
+I want to shut down Paint
+I need to close mspaint
+I need to close MSPaint
+I need to close paint 3d
+I need to close Paint 3D
+I need to stop calculator
+I need to stop Calculator
+I need to stop calendar
+I need to stop Calendar
+close clock now
+close Clock now
+close mail now
+close Mail now
+terminate weather now
+terminate Weather now
+terminate maps now
+terminate Maps now
+shut down camera now
+shut down Camera now
+shut down xbox now
+shut down Xbox now
+end microsoft store now
+end Microsoft Store now
+end settings now
+end Settings now
+exit
+quit
+close the application
+close the program
+stop the program
+stop the application
+terminate the program
+terminate the application
+end the program
+end the application
+please exit
+please quit
+please close the program
+please stop the program
+please terminate the application
+please end the application
+could you terminate the program
+could you close the application
+I want to exit
+I want to quit
+I need to exit
+I need to quit
+I need to terminate the program
+close this program
+exit this program
+stop this program
+quit this program
+terminate this program
+close this application
+stop this application
+exit this application
+quit this application
+terminate this application
+shut down the program
+shut down the application
+quit the program
+quit the application
+stop
+close
+terminate
+shutdown
+shut down
+end

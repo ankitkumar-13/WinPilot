@@ -1,0 +1,421 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you delete a directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you delete a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you delete the directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you delete the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you get rid of the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you remove a directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you remove a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you remove the directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "can you remove the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you delete a directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you delete a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you delete the directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you delete the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you get rid of the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you remove a directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you remove a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you remove the directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "could you remove the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete a directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete a new folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete an old folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete my folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete one directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete one folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete that folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete the directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete the empty folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete the folder from here"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete the old folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete the selected directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete the selected folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete the temporary folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete the unwanted folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete this directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "delete this folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "get rid of that directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "get rid of that folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "get rid of this directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "get rid of this folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I need the folder removed"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I need to delete a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I need to delete the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I need to get rid of the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I need to remove a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I need to remove the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I want the folder deleted"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I want to delete a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I want to delete the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I want to get rid of the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I want to remove a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "I want to remove the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please delete a directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please delete a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please delete one folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please delete the directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please delete the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please get rid of the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please remove a directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please remove a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please remove one folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please remove the directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "please remove the folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove a directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove a folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove a new folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove an old folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove my folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove one directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove one folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove that folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove the directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove the empty folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove the folder from here"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove the old folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove the selected directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove the selected folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove the temporary folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove the unwanted folder"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove this directory"
+    },
+    {
+      "dataset": "delete_folder",
+      "intent": "delete_folder",
+      "text": "remove this folder"
+    }
+  ]
+}

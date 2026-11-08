@@ -1,0 +1,226 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "can you change the folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "can you rename a folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "can you rename the folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the current folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the directory name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the name of a directory"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the name of a folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the name of one folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the name of that folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the name of this folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "change the old folder name to the new folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "could you change the folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "could you rename a folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "could you rename the folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "give a folder a new name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "give one folder a new name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "give that folder a new name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "give the directory a new name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "give the folder a new name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "give this folder a new name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "I need to change the folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "I need to rename a folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "I need to rename the folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "I want to change the folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "I want to rename a folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "I want to rename the folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "please change the folder name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "please give the folder a new name"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "please rename a folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "please rename the folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename a directory"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename a folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename a single folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename directory"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename one folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename one of my folders"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename that folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename the current folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename the directory"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename the folder"
+    },
+    {
+      "dataset": "rename_folder",
+      "intent": "rename_folder",
+      "text": "rename this folder"
+    }
+  ]
+}

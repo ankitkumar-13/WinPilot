@@ -1,0 +1,407 @@
+move Projects folder
+move D:\Projects folder
+move D:\Projects\WinPilot folder
+move D:\College\Semester5 folder
+move D:\Work\Reports folder
+move folder D:\Backup\Projects
+move folder E:\Research
+move folder E:\Research\Datasets
+move folder E:\Media\Projects
+move the E:\Archive\OldFiles folder
+move the Projects\WinPilot folder
+move the Projects\WinPilot\Source folder
+move the Projects\WinPilot\Data folder
+move the folder Projects\WinPilot\Documentation
+move the folder Projects\WebApplication
+move the folder Projects\WebApplication\Source
+move the folder Projects\WebApplication\Assets
+move a folder called Projects\Backup
+move a folder called Projects\Archives
+move a folder called College\Assignments
+move a folder called College\Notes
+move a folder named College\Projects
+move a folder named College\Semester5
+move a folder named College\Semester5\OS
+move a folder named College\Semester5\DBMS
+move the folder called College\Semester5\Projects
+move the folder called College\Exams
+move the folder called College\Documents
+move the folder called Work\Projects
+move the folder named Work\Projects\Website
+move the folder named Work\Projects\Application
+move the folder named Work\Reports
+move the folder named Work\Reports\2026
+move Work\Meetings directory
+move Work\Clients directory
+move Work\Invoices directory
+move Work\Archive directory
+move directory Personal\Documents
+move directory Personal\Photos
+move directory Personal\Videos
+move directory Personal\Projects
+move a directory called WinPilot
+move a directory called Media
+move a directory called Images
+move a directory called Audio
+move a directory called Personal\Backup
+move a directory called Personal\Finance
+move a directory called Personal\ImportantDocuments
+move a directory called Personal\OldFiles
+move a directory named Presentations
+move a directory named Screenshots
+move a directory named Recordings
+move a directory named Wallpapers
+move a directory named Personal\Travel
+move a directory named Personal\Archive
+move a directory named Research\MachineLearning
+move a directory named Research\MachineLearning\Data
+move the directory called Downloads
+move the directory called Storage
+move the directory called Database
+move the directory called Databases
+move the directory called Research\MachineLearning\Models
+move the directory called Research\MachineLearning\Experiments
+move the directory called Research\Reports
+move the directory called Research\Papers
+move the directory named SQL
+move the directory named MySQL
+move the directory named PostgreSQL
+move the directory named Oracle
+move the directory named Research\Datasets
+move the directory named Research\Projects
+move the directory named Research\References
+move the directory named Data\Raw
+move Server to Client
+move Network to Security
+move Systems to Applications
+move Software to Tools
+move Data\Processed to Data\Exports
+move Data\Imports to Data\Reports
+move Data\Backup to Data\2026
+move Data\StudentRecords to Data\ProjectData
+move folder Utilities to Resources
+move folder Projects2025 to Completed
+move folder Pending to Temporary
+move folder OldFiles to NewFiles
+move folder Source\Python to Source\Cpp
+move folder Source\Java to Source\JavaScript
+move folder Source\Web to Source\Scripts
+move folder Source\Libraries to Source\Tests
+move the folder Important to Shared
+move the folder Public to Private
+move the folder PersonalFiles to WorkFiles
+move the folder CollegeFiles to StudyMaterial
+move the folder Source\Configuration to Media\Images
+move the folder Media\Videos to Media\Audio
+move the folder Media\Projects to Media\Presentations
+move the folder Media\Screenshots to Media\Recordings
+move StudyNotes into StudyProjects
+move Semester5 into Semester6
+move Semester7 into OS
+move DBMS into AI
+move Media\Wallpapers into Media\Downloads
+move Media\Archive into Archive
+move Archive\2025 into Archive\2026
+move Archive\Projects into Archive\College
+move the folder into ML
+move the folder into CloudComputing
+move the folder into ComputerNetworks
+move the folder into OperatingSystems
+move the folder into Archive\Reports
+move the folder into Archive\OldDocuments
+move the folder into Archive\Backups
+move the folder into Archive\CompletedProjects
+move this folder into SoftwareEngineering
+move this folder into Assignments2026
+move this folder into LabWork
+move this folder into PracticalFiles
+move this folder into Archive\TemporaryFiles
+move this folder into Archive\PreviousVersions
+move this folder into ClientWork
+move this folder into ClientWork\Website
+move that folder into QuestionPapers
+move that folder into ExamPapers
+move that folder into Results
+move that folder into Certificates
+move that folder into ClientWork\Website\Source
+move that folder into ClientWork\Website\Assets
+move that folder into ClientWork\Reports
+move that folder into ClientWork\Documents
+put Reports2026 in MonthlyReports
+put AnnualReports in FinancialReports
+put ProjectReports in ResearchReports
+put ClientReports in TestData
+put ClientWork\Invoices in ClientWork\Projects
+put ClientWork\Backups in ProjectAlpha
+put ProjectAlpha\SourceCode in ProjectAlpha\Documentation
+put ProjectAlpha\TestData in ProjectAlpha\Releases
+put College Work in InputData
+put College Work in OutputData
+put College Work in ExpectedResults
+put College Work in SampleData
+put College Work in ProjectAlpha\Assets
+put College Work in ProjectBeta
+put College Work in ProjectBeta\Source
+put College Work in ProjectBeta\Database
+put the folder in RawData
+put the folder in ProcessedData
+put the folder in ExportData
+put the folder in ImportData
+put the folder in ProjectBeta\Reports
+put the folder in ProjectBeta\Documentation
+put the folder in Semester5\OS
+put the folder in Semester5\DBMS
+put this folder in SourceCode
+put this folder in DocumentationFiles
+put this folder in ReleaseFiles
+put this folder in TestFiles
+put this folder in Semester5\Projects
+put this folder in Semester5\Notes
+put this folder in Semester5\Assignments
+put this folder in MyFiles\Projects
+put that folder in ConfigFiles
+put that folder in LogFiles
+put that folder in SystemFiles
+put that folder in UserFiles
+put that folder in MyFiles\College
+put that folder in MyFiles\Personal
+put that folder in MyFiles\Work
+put that folder in MyFiles\ImportantDocuments
+send MyFiles to ImportantDocuments
+send PreviousVersions to CompletedProjects
+send TemporaryFiles to Projects
+send WinPilot to Source
+send 2026 to 2026\January
+send 2026\March to 2026\September
+send 2026\October to 2026\Projects
+send 2026\Reports to MyFiles\Personal
+send the folder to Data
+send the folder to Documentation
+send the folder to Archives
+send the folder to Backup
+send the folder to MyFiles\Work
+send the folder to MyFiles\ImportantDocuments
+send the folder to 2026
+send the folder to 2026\January
+send this folder to College
+send this folder to Assignments
+send this folder to Notes
+send this folder to Projects2026
+send this folder to 2026\March
+send this folder to 2026\September
+send this folder to 2026\October
+send this folder to 2026\Projects
+please move Exams to Documents
+please move Work to Reports
+please move Meetings to Clients
+please move Invoices to Personal
+please move 2026\Reports to TestData\Input
+please move TestData\Output to TestData\ExpectedResults
+please move .\Projects to .\Projects\Source
+please move .\College\Notes to .\Work\Reports
+please move the folder to Photos
+please move the folder to Videos
+please move the folder to Finance
+please move the folder to Travel
+please move the folder to .\Data\Processed
+please move the folder to ..\Projects
+please move the folder to ..\Documents
+please move the folder to ..\Backup
+can you move Research to MachineLearning
+can you move Datasets to Models
+can you move Experiments to Papers
+can you move References to Development
+can you move ..\College\Assignments to ..\Archive
+can you move C:\Users\Ankit\Projects to C:\Users\Ankit\Projects\WinPilot
+can you move C:\Users\Ankit\Documents\College to C:\Users\Ankit\Documents\Projects
+can you move C:\Users\Ankit\Pictures\ProjectImages to C:\Users\Ankit\OneDrive\Projects
+can you move the folder to Programming
+can you move the folder to Python
+can you move the folder to Cpp
+can you move the folder to Java
+can you move the folder to C:\Users\Public\Documents\SharedFiles
+can you move the folder to D:\Projects
+can you move the folder to D:\Projects\WinPilot
+can you move the folder to D:\College\Semester5
+could you move JavaScript to Web
+could you move Scripts to Libraries
+could you move Tests to Configuration
+could you move Media to Images
+could you move D:\Work\Reports to D:\Backup\Projects
+could you move E:\Research to E:\Research\Datasets
+could you move E:\Media\Projects to E:\Archive\OldFiles
+could you move Projects\WinPilot to Projects\WinPilot\Source
+could you move the folder to Audio
+could you move the folder to Presentations
+could you move the folder to Screenshots
+could you move the folder to Recordings
+could you move the folder to Projects\WinPilot\Data
+could you move the folder to Projects\WinPilot\Documentation
+could you move the folder to Projects\WebApplication
+could you move the folder to Projects\WebApplication\Source
+I want to move Wallpapers to Downloads
+I want to move Storage to Database
+I want to move Databases to SQL
+I want to move MySQL to PostgreSQL
+I want to move Projects\WebApplication\Assets to Projects\Backup
+I want to move Projects\Archives to College\Assignments
+I want to move College\Notes to College\Projects
+I want to move College\Semester5 to College\Semester5\OS
+I need to move Oracle to Server
+I need to move Client to Network
+I need to move Security to Systems
+I need to move Applications to Software
+I need to move College\Semester5\DBMS to College\Semester5\Projects
+I need to move College\Exams to College\Documents
+I need to move Work\Projects to Work\Projects\Website
+I need to move Work\Projects\Application to Work\Reports
+move Tools folder to Utilities
+move Resources folder to Projects2025
+move Completed folder to Pending
+move Temporary folder to OldFiles
+move Work\Reports\2026 folder to Work\Meetings
+move Work\Clients folder to Work\Invoices
+move Work\Archive folder to Personal\Documents
+move Personal\Photos folder to Personal\Videos
+move NewFiles folder into Important
+move Shared folder into Public
+move Private folder into PersonalFiles
+move WorkFiles folder into CollegeFiles
+move Personal\Projects folder into Personal\Backup
+move Personal\Finance folder into Personal\ImportantDocuments
+move Personal\OldFiles folder into Personal\Travel
+move Personal\Archive folder into Research\MachineLearning
+put StudyMaterial folder in StudyNotes
+put StudyProjects folder in Semester5
+put Semester6 folder in Semester7
+put OS folder in DBMS
+put Research\MachineLearning\Data folder in Research\MachineLearning\Models
+put Research\MachineLearning\Experiments folder in Research\Reports
+put Research\Papers folder in Research\Datasets
+put Research\Projects folder in Research\References
+send AI folder to ML
+send CloudComputing folder to ComputerNetworks
+send OperatingSystems folder to SoftwareEngineering
+send Assignments2026 folder to LabWork
+send Data\Raw folder to Data\Processed
+send Data\Exports folder to Data\Imports
+send Data\Reports folder to Data\Backup
+send Data\2026 folder to Data\StudentRecords
+move the folder from PracticalFiles to QuestionPapers
+move the folder from ExamPapers to Results
+move the folder from Certificates to Reports2026
+move the folder from MonthlyReports to AnnualReports
+move the folder from Data\ProjectData to Source\Python
+move the folder from Source\Cpp to Source\Java
+move the folder from Source\JavaScript to Source\Web
+move the folder from Source\Scripts to Source\Libraries
+move FinancialReports from ProjectReports to ResearchReports
+move ClientReports from TestData to InputData
+move OutputData from ExpectedResults to SampleData
+move RawData from ProcessedData to ExportData
+move ImportData from Source\Tests to Source\Configuration
+move SourceCode from Media\Images to Media\Videos
+move DocumentationFiles from Media\Audio to Media\Projects
+move ReleaseFiles from Media\Presentations to Media\Screenshots
+move a folder from TestFiles to ConfigFiles
+move a folder from LogFiles to SystemFiles
+move a folder from UserFiles to MyFiles
+move a folder from ImportantDocuments to PreviousVersions
+move a folder from Media\Recordings to Media\Wallpapers
+move a folder from Media\Downloads to Media\Archive
+move a folder from Archive to Archive\2025
+move a folder from Archive\2026 to Archive\Projects
+move a directory from CompletedProjects to TemporaryFiles
+move a directory from Projects to WinPilot
+move a directory from Source to Data
+move a directory from Documentation to Archives
+move a directory from Archive\College to Archive\Reports
+move a directory from Archive\OldDocuments to Archive\Backups
+move a directory from Archive\CompletedProjects to Archive\TemporaryFiles
+move a directory from Archive\PreviousVersions to ClientWork
+move the Backup folder from College to Assignments
+move the Notes folder from Projects2026 to Exams
+move the Documents folder from Work to Reports
+move the Meetings folder from Clients to Invoices
+move the Personal folder from ClientWork\Website to ClientWork\Website\Source
+move the Photos folder from ClientWork\Website\Assets to ClientWork\Reports
+move the Videos folder from ClientWork\Documents to ClientWork\Invoices
+move the Finance folder from ClientWork\Projects to ClientWork\Backups
+move Travel here
+move Research here
+move MachineLearning here
+move Datasets here
+move ProjectAlpha here
+move ProjectAlpha\SourceCode here
+move ProjectAlpha\Documentation here
+move ProjectAlpha\TestData here
+put Models here
+put Experiments here
+put Papers here
+put References here
+put ProjectAlpha\Releases here
+put ProjectAlpha\Assets here
+put ProjectBeta here
+put ProjectBeta\Source here
+move Development to my Programming
+move Python to my Cpp
+move Java to my JavaScript
+move Web to my Scripts
+move ProjectBeta\Database to my ProjectBeta\Reports
+move ProjectBeta\Documentation to my Semester5\OS
+move Semester5\DBMS to my Semester5\Projects
+move Semester5\Notes to my Semester5\Assignments
+put Rahul in my Libraries
+put Rahul in my Tests
+put Rahul in my Configuration
+put Rahul in my Media
+put Rahul in my MyFiles\Projects
+put Rahul in my MyFiles\College
+put Rahul in my ProjectBeta\Reports
+put Rahul in my ProjectBeta\Documentation
+put Images in my Audio
+put Presentations in my Screenshots
+put Recordings in my Wallpapers
+put Downloads in my Storage
+put Semester5\OS in my Semester5\DBMS
+put Semester5\Projects in my Semester5\Notes
+put Semester5\Assignments in my MyFiles\Projects
+put MyFiles\College in my MyFiles\Personal
+move a folder
+move folder
+move a new folder
+move one folder
+move the folder
+move this folder
+move that folder
+move a directory
+move directory
+move the directory
+move this directory
+move that directory
+please move a folder
+please move the folder
+please move a directory
+please move the directory
+please move this folder
+please move that folder
+please move this directory
+can you move a folder
+can you move the folder
+can you move a directory
+can you move the directory
+could you move a folder
+could you move the folder
+could you move a directory
+could you move the directory
+I want to move a folder
+I want to move the folder
+I want to move a directory
+I want to move the directory
+I need to move a folder
+I need to move the folder
+I need to move a directory
+I need to move the directory
+move the folder here
+move this folder here
+put the folder here

@@ -1,0 +1,3571 @@
+rename	O
+Public	B-FOLDER
+
+rename	O
+Private	B-FOLDER
+
+rename	O
+PersonalFiles	B-FOLDER
+
+rename	O
+WorkFiles	B-FOLDER
+
+rename	O
+..\College\Assignments	B-PATH_DIR
+
+rename	O
+..\Archive	B-PATH_DIR
+
+rename	O
+C:\Users\Ankit\Projects	B-PATH_DIR
+
+rename	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+
+rename	O
+CollegeFiles	B-FOLDER
+folder	O
+
+rename	O
+StudyMaterial	B-FOLDER
+folder	O
+
+rename	O
+StudyNotes	B-FOLDER
+folder	O
+
+rename	O
+StudyProjects	B-FOLDER
+folder	O
+
+rename	O
+C:\Users\Ankit\Documents\College	B-PATH_DIR
+folder	O
+
+rename	O
+C:\Users\Ankit\Documents\Projects	B-PATH_DIR
+folder	O
+
+rename	O
+C:\Users\Ankit\Pictures\ProjectImages	B-PATH_DIR
+folder	O
+
+rename	O
+C:\Users\Ankit\OneDrive\Projects	B-PATH_DIR
+folder	O
+
+rename	O
+folder	O
+Semester5	B-FOLDER
+
+rename	O
+folder	O
+Semester6	B-FOLDER
+
+rename	O
+folder	O
+Semester7	B-FOLDER
+
+rename	O
+folder	O
+OS	B-FOLDER
+
+rename	O
+folder	O
+C:\Users\Public\Documents\SharedFiles	B-PATH_DIR
+
+rename	O
+folder	O
+D:\Projects	B-PATH_DIR
+
+rename	O
+folder	O
+D:\Projects\WinPilot	B-PATH_DIR
+
+rename	O
+folder	O
+D:\College\Semester5	B-PATH_DIR
+
+rename	O
+DBMS	B-FOLDER
+to	O
+AI	B-FOLDER
+
+rename	O
+ML	B-FOLDER
+to	O
+CloudComputing	B-FOLDER
+
+rename	O
+ComputerNetworks	B-FOLDER
+to	O
+OperatingSystems	B-FOLDER
+
+rename	O
+SoftwareEngineering	B-FOLDER
+to	O
+Assignments2026	B-FOLDER
+
+rename	O
+D:\Work\Reports	B-PATH_DIR
+to	O
+D:\Backup\Projects	B-PATH_DIR
+
+rename	O
+E:\Research	B-PATH_DIR
+to	O
+E:\Research\Datasets	B-PATH_DIR
+
+rename	O
+E:\Media\Projects	B-PATH_DIR
+to	O
+E:\Archive\OldFiles	B-PATH_DIR
+
+rename	O
+Projects\WinPilot	B-PATH_DIR
+to	O
+Projects\WinPilot\Source	B-PATH_DIR
+
+rename	O
+LabWork	B-FOLDER
+folder	O
+to	O
+PracticalFiles	B-FOLDER
+
+rename	O
+QuestionPapers	B-FOLDER
+folder	O
+to	O
+ExamPapers	B-FOLDER
+
+rename	O
+Results	B-FOLDER
+folder	O
+to	O
+Certificates	B-FOLDER
+
+rename	O
+Reports2026	B-FOLDER
+folder	O
+to	O
+MonthlyReports	B-FOLDER
+
+rename	O
+Projects\WinPilot\Data	B-PATH_DIR
+folder	O
+to	O
+Projects\WinPilot\Documentation	B-PATH_DIR
+
+rename	O
+Projects\WebApplication	B-PATH_DIR
+folder	O
+to	O
+Projects\WebApplication\Source	B-PATH_DIR
+
+rename	O
+Projects\WebApplication\Assets	B-PATH_DIR
+folder	O
+to	O
+Projects\Backup	B-PATH_DIR
+
+rename	O
+Projects\Archives	B-PATH_DIR
+folder	O
+to	O
+College\Assignments	B-PATH_DIR
+
+rename	O
+folder	O
+AnnualReports	B-FOLDER
+to	O
+FinancialReports	B-FOLDER
+
+rename	O
+folder	O
+ProjectReports	B-FOLDER
+to	O
+ResearchReports	B-FOLDER
+
+rename	O
+folder	O
+ClientReports	B-FOLDER
+to	O
+TestData	B-FOLDER
+
+rename	O
+folder	O
+InputData	B-FOLDER
+to	O
+OutputData	B-FOLDER
+
+rename	O
+folder	O
+College\Notes	B-PATH_DIR
+to	O
+College\Projects	B-PATH_DIR
+
+rename	O
+folder	O
+College\Semester5	B-PATH_DIR
+to	O
+College\Semester5\OS	B-PATH_DIR
+
+rename	O
+folder	O
+College\Semester5\DBMS	B-PATH_DIR
+to	O
+College\Semester5\Projects	B-PATH_DIR
+
+rename	O
+folder	O
+College\Exams	B-PATH_DIR
+to	O
+College\Documents	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+ExpectedResults	B-FOLDER
+to	O
+SampleData	B-FOLDER
+
+rename	O
+the	O
+folder	O
+RawData	B-FOLDER
+to	O
+ProcessedData	B-FOLDER
+
+rename	O
+the	O
+folder	O
+ExportData	B-FOLDER
+to	O
+ImportData	B-FOLDER
+
+rename	O
+the	O
+folder	O
+SourceCode	B-FOLDER
+to	O
+DocumentationFiles	B-FOLDER
+
+rename	O
+the	O
+folder	O
+Work\Projects	B-PATH_DIR
+to	O
+Work\Projects\Website	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+Work\Projects\Application	B-PATH_DIR
+to	O
+Work\Reports	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+Work\Reports\2026	B-PATH_DIR
+to	O
+Work\Meetings	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+Work\Clients	B-PATH_DIR
+to	O
+Work\Invoices	B-PATH_DIR
+
+change	O
+ReleaseFiles	B-FOLDER
+folder	O
+name	O
+to	O
+TestFiles	B-FOLDER
+
+change	O
+ConfigFiles	B-FOLDER
+folder	O
+name	O
+to	O
+LogFiles	B-FOLDER
+
+change	O
+SystemFiles	B-FOLDER
+folder	O
+name	O
+to	O
+UserFiles	B-FOLDER
+
+change	O
+MyFiles	B-FOLDER
+folder	O
+name	O
+to	O
+ImportantDocuments	B-FOLDER
+
+change	O
+Work\Archive	B-PATH_DIR
+folder	O
+name	O
+to	O
+Personal\Documents	B-PATH_DIR
+
+change	O
+Personal\Photos	B-PATH_DIR
+folder	O
+name	O
+to	O
+Personal\Videos	B-PATH_DIR
+
+change	O
+Personal\Projects	B-PATH_DIR
+folder	O
+name	O
+to	O
+Personal\Backup	B-PATH_DIR
+
+change	O
+Personal\Finance	B-PATH_DIR
+folder	O
+name	O
+to	O
+Personal\ImportantDocuments	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+PreviousVersions	B-FOLDER
+to	O
+CompletedProjects	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+TemporaryFiles	B-FOLDER
+to	O
+Projects	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+WinPilot	B-FOLDER
+to	O
+Source	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+Data	B-FOLDER
+to	O
+Documentation	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+Personal\OldFiles	B-PATH_DIR
+to	O
+Personal\Travel	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+Personal\Archive	B-PATH_DIR
+to	O
+Research\MachineLearning	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+Research\MachineLearning\Data	B-PATH_DIR
+to	O
+Research\MachineLearning\Models	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+Research\MachineLearning\Experiments	B-PATH_DIR
+to	O
+Research\Reports	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+Archives	B-FOLDER
+to	O
+Backup	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+College	B-FOLDER
+to	O
+Assignments	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+Notes	B-FOLDER
+to	O
+Projects2026	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+Exams	B-FOLDER
+to	O
+Documents	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+Research\Papers	B-PATH_DIR
+to	O
+Research\Datasets	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+Research\Projects	B-PATH_DIR
+to	O
+Research\References	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+Data\Raw	B-PATH_DIR
+to	O
+Data\Processed	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+Data\Exports	B-PATH_DIR
+to	O
+Data\Imports	B-PATH_DIR
+
+give	O
+Work	B-FOLDER
+a	O
+new	O
+name	O
+
+give	O
+Reports	B-FOLDER
+a	O
+new	O
+name	O
+
+give	O
+Meetings	B-FOLDER
+a	O
+new	O
+name	O
+
+give	O
+Clients	B-FOLDER
+a	O
+new	O
+name	O
+
+give	O
+Data\Reports	B-PATH_DIR
+a	O
+new	O
+name	O
+
+give	O
+Data\Backup	B-PATH_DIR
+a	O
+new	O
+name	O
+
+give	O
+Data\2026	B-PATH_DIR
+a	O
+new	O
+name	O
+
+give	O
+Data\StudentRecords	B-PATH_DIR
+a	O
+new	O
+name	O
+
+give	O
+the	O
+Invoices	B-FOLDER
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+Personal	B-FOLDER
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+Photos	B-FOLDER
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+Videos	B-FOLDER
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+Data\ProjectData	B-PATH_DIR
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+Source\Python	B-PATH_DIR
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+Source\Cpp	B-PATH_DIR
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+Source\Java	B-PATH_DIR
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+Finance	B-FOLDER
+the	O
+new	O
+name	O
+Travel	B-FOLDER
+
+give	O
+Research	B-FOLDER
+the	O
+new	O
+name	O
+MachineLearning	B-FOLDER
+
+give	O
+Datasets	B-FOLDER
+the	O
+new	O
+name	O
+Models	B-FOLDER
+
+give	O
+Experiments	B-FOLDER
+the	O
+new	O
+name	O
+Papers	B-FOLDER
+
+give	O
+Source\JavaScript	B-PATH_DIR
+the	O
+new	O
+name	O
+Source\Web	B-PATH_DIR
+
+give	O
+Source\Scripts	B-PATH_DIR
+the	O
+new	O
+name	O
+Source\Libraries	B-PATH_DIR
+
+give	O
+Source\Tests	B-PATH_DIR
+the	O
+new	O
+name	O
+Source\Configuration	B-PATH_DIR
+
+give	O
+Media\Images	B-PATH_DIR
+the	O
+new	O
+name	O
+Media\Videos	B-PATH_DIR
+
+give	O
+the	O
+folder	O
+the	O
+new	O
+name	O
+References	B-FOLDER
+
+give	O
+the	O
+folder	O
+the	O
+new	O
+name	O
+Development	B-FOLDER
+
+give	O
+the	O
+folder	O
+the	O
+new	O
+name	O
+Programming	B-FOLDER
+
+give	O
+the	O
+folder	O
+the	O
+new	O
+name	O
+Python	B-FOLDER
+
+give	O
+the	O
+folder	O
+the	O
+new	O
+name	O
+Media\Audio	B-PATH_DIR
+
+give	O
+the	O
+folder	O
+the	O
+new	O
+name	O
+Media\Projects	B-PATH_DIR
+
+give	O
+the	O
+folder	O
+the	O
+new	O
+name	O
+Media\Presentations	B-PATH_DIR
+
+give	O
+the	O
+folder	O
+the	O
+new	O
+name	O
+Media\Screenshots	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+called	O
+Cpp	B-FOLDER
+
+rename	O
+the	O
+folder	O
+called	O
+Java	B-FOLDER
+
+rename	O
+the	O
+folder	O
+called	O
+JavaScript	B-FOLDER
+
+rename	O
+the	O
+folder	O
+called	O
+Web	B-FOLDER
+
+rename	O
+the	O
+folder	O
+called	O
+Media\Recordings	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+called	O
+Media\Wallpapers	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+called	O
+Media\Downloads	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+called	O
+Media\Archive	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+called	O
+Scripts	B-FOLDER
+to	O
+Libraries	B-FOLDER
+
+rename	O
+the	O
+folder	O
+called	O
+Tests	B-FOLDER
+to	O
+Configuration	B-FOLDER
+
+rename	O
+the	O
+folder	O
+called	O
+Media	B-FOLDER
+to	O
+Images	B-FOLDER
+
+rename	O
+the	O
+folder	O
+called	O
+Audio	B-FOLDER
+to	O
+Presentations	B-FOLDER
+
+rename	O
+the	O
+folder	O
+called	O
+Archive	B-PATH_DIR
+to	O
+Archive\2025	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+called	O
+Archive\2026	B-PATH_DIR
+to	O
+Archive\Projects	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+called	O
+Archive\College	B-PATH_DIR
+to	O
+Archive\Reports	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+called	O
+Archive\OldDocuments	B-PATH_DIR
+to	O
+Archive\Backups	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+named	O
+Screenshots	B-FOLDER
+
+rename	O
+the	O
+folder	O
+named	O
+Recordings	B-FOLDER
+
+rename	O
+the	O
+folder	O
+named	O
+Wallpapers	B-FOLDER
+
+rename	O
+the	O
+folder	O
+named	O
+Archive\CompletedProjects	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+named	O
+Archive\TemporaryFiles	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+named	O
+Archive\PreviousVersions	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+named	O
+ClientWork	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+named	O
+Storage	B-FOLDER
+to	O
+Database	B-FOLDER
+
+rename	O
+the	O
+folder	O
+named	O
+Databases	B-FOLDER
+to	O
+SQL	B-FOLDER
+
+rename	O
+the	O
+folder	O
+named	O
+MySQL	B-FOLDER
+to	O
+PostgreSQL	B-FOLDER
+
+rename	O
+the	O
+folder	O
+named	O
+Oracle	B-FOLDER
+to	O
+Server	B-FOLDER
+
+rename	O
+the	O
+folder	O
+named	O
+ClientWork\Website	B-PATH_DIR
+to	O
+ClientWork\Website\Source	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+named	O
+ClientWork\Website\Assets	B-PATH_DIR
+to	O
+ClientWork\Reports	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+named	O
+ClientWork\Documents	B-PATH_DIR
+to	O
+ClientWork\Invoices	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+named	O
+ClientWork\Projects	B-PATH_DIR
+to	O
+ClientWork\Backups	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+called	O
+Client	B-FOLDER
+
+rename	O
+a	O
+folder	O
+called	O
+Network	B-FOLDER
+
+rename	O
+a	O
+folder	O
+called	O
+Security	B-FOLDER
+
+rename	O
+a	O
+folder	O
+called	O
+Systems	B-FOLDER
+
+rename	O
+a	O
+folder	O
+called	O
+ProjectAlpha	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+called	O
+ProjectAlpha\SourceCode	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+called	O
+ProjectAlpha\Documentation	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+called	O
+ProjectAlpha\TestData	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+named	O
+Applications	B-FOLDER
+
+rename	O
+a	O
+folder	O
+named	O
+Software	B-FOLDER
+
+rename	O
+a	O
+folder	O
+named	O
+Tools	B-FOLDER
+
+rename	O
+a	O
+folder	O
+named	O
+Utilities	B-FOLDER
+
+rename	O
+a	O
+folder	O
+named	O
+ProjectAlpha\Releases	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+named	O
+ProjectAlpha\Assets	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+named	O
+ProjectBeta	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+named	O
+ProjectBeta\Source	B-PATH_DIR
+
+please	O
+rename	O
+Resources	B-FOLDER
+
+please	O
+rename	O
+Projects2025	B-FOLDER
+
+please	O
+rename	O
+Completed	B-FOLDER
+
+please	O
+rename	O
+Pending	B-FOLDER
+
+please	O
+rename	O
+ProjectBeta\Database	B-PATH_DIR
+
+please	O
+rename	O
+ClientWork\Projects	B-PATH_DIR
+
+please	O
+rename	O
+ClientWork\Backups	B-PATH_DIR
+
+please	O
+rename	O
+ProjectAlpha	B-PATH_DIR
+
+please	O
+rename	O
+Temporary	B-FOLDER
+to	O
+OldFiles	B-FOLDER
+
+please	O
+rename	O
+NewFiles	B-FOLDER
+to	O
+Important	B-FOLDER
+
+please	O
+rename	O
+Shared	B-FOLDER
+to	O
+Public	B-FOLDER
+
+please	O
+rename	O
+Private	B-FOLDER
+to	O
+PersonalFiles	B-FOLDER
+
+please	O
+rename	O
+ProjectAlpha\SourceCode	B-PATH_DIR
+to	O
+ProjectAlpha\Documentation	B-PATH_DIR
+
+please	O
+rename	O
+ProjectAlpha\TestData	B-PATH_DIR
+to	O
+ProjectAlpha\Releases	B-PATH_DIR
+
+please	O
+rename	O
+ProjectAlpha\Assets	B-PATH_DIR
+to	O
+ProjectBeta	B-PATH_DIR
+
+please	O
+rename	O
+ProjectBeta\Source	B-PATH_DIR
+to	O
+ProjectBeta\Database	B-PATH_DIR
+
+please	O
+rename	O
+the	O
+WorkFiles	B-FOLDER
+folder	O
+
+please	O
+rename	O
+the	O
+CollegeFiles	B-FOLDER
+folder	O
+
+please	O
+rename	O
+the	O
+StudyMaterial	B-FOLDER
+folder	O
+
+please	O
+rename	O
+the	O
+StudyNotes	B-FOLDER
+folder	O
+
+please	O
+rename	O
+the	O
+ProjectBeta\Reports	B-PATH_DIR
+folder	O
+
+please	O
+rename	O
+the	O
+ProjectBeta\Documentation	B-PATH_DIR
+folder	O
+
+please	O
+rename	O
+the	O
+Semester5\OS	B-PATH_DIR
+folder	O
+
+please	O
+rename	O
+the	O
+Semester5\DBMS	B-PATH_DIR
+folder	O
+
+please	O
+rename	O
+the	O
+folder	O
+StudyProjects	B-FOLDER
+
+please	O
+rename	O
+the	O
+folder	O
+Semester5	B-FOLDER
+
+please	O
+rename	O
+the	O
+folder	O
+Semester6	B-FOLDER
+
+please	O
+rename	O
+the	O
+folder	O
+Semester7	B-FOLDER
+
+please	O
+rename	O
+the	O
+folder	O
+Semester5\Projects	B-PATH_DIR
+
+please	O
+rename	O
+the	O
+folder	O
+Semester5\Notes	B-PATH_DIR
+
+please	O
+rename	O
+the	O
+folder	O
+Semester5\Assignments	B-PATH_DIR
+
+please	O
+rename	O
+the	O
+folder	O
+MyFiles\Projects	B-PATH_DIR
+
+please	O
+rename	O
+the	O
+folder	O
+OS	B-FOLDER
+to	O
+DBMS	B-FOLDER
+
+please	O
+rename	O
+the	O
+folder	O
+AI	B-FOLDER
+to	O
+ML	B-FOLDER
+
+please	O
+rename	O
+the	O
+folder	O
+CloudComputing	B-FOLDER
+to	O
+ComputerNetworks	B-FOLDER
+
+please	O
+rename	O
+the	O
+folder	O
+OperatingSystems	B-FOLDER
+to	O
+SoftwareEngineering	B-FOLDER
+
+please	O
+rename	O
+the	O
+folder	O
+MyFiles\College	B-PATH_DIR
+to	O
+MyFiles\Personal	B-PATH_DIR
+
+please	O
+rename	O
+the	O
+folder	O
+MyFiles\Work	B-PATH_DIR
+to	O
+MyFiles\ImportantDocuments	B-PATH_DIR
+
+please	O
+rename	O
+the	O
+folder	O
+2026	B-PATH_DIR
+to	O
+2026\January	B-PATH_DIR
+
+please	O
+rename	O
+the	O
+folder	O
+2026\March	B-PATH_DIR
+to	O
+2026\September	B-PATH_DIR
+
+please	O
+change	O
+Assignments2026	B-FOLDER
+to	O
+LabWork	B-FOLDER
+
+please	O
+change	O
+PracticalFiles	B-FOLDER
+to	O
+QuestionPapers	B-FOLDER
+
+please	O
+change	O
+ExamPapers	B-FOLDER
+to	O
+Results	B-FOLDER
+
+please	O
+change	O
+Certificates	B-FOLDER
+to	O
+Reports2026	B-FOLDER
+
+please	O
+change	O
+2026\October	B-PATH_DIR
+to	O
+2026\Projects	B-PATH_DIR
+
+please	O
+change	O
+2026\Reports	B-PATH_DIR
+to	O
+TestData\Input	B-PATH_DIR
+
+please	O
+change	O
+TestData\Output	B-PATH_DIR
+to	O
+TestData\ExpectedResults	B-PATH_DIR
+
+please	O
+change	O
+.\Projects	B-PATH_DIR
+to	O
+.\Projects\Source	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+MonthlyReports	B-FOLDER
+
+can	O
+you	O
+rename	O
+AnnualReports	B-FOLDER
+
+can	O
+you	O
+rename	O
+FinancialReports	B-FOLDER
+
+can	O
+you	O
+rename	O
+ProjectReports	B-FOLDER
+
+can	O
+you	O
+rename	O
+.\College\Notes	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+.\Work\Reports	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+.\Data\Processed	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+..\Projects	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+ResearchReports	B-FOLDER
+to	O
+ClientReports	B-FOLDER
+
+can	O
+you	O
+rename	O
+TestData	B-FOLDER
+to	O
+InputData	B-FOLDER
+
+can	O
+you	O
+rename	O
+OutputData	B-FOLDER
+to	O
+ExpectedResults	B-FOLDER
+
+can	O
+you	O
+rename	O
+SampleData	B-FOLDER
+to	O
+RawData	B-FOLDER
+
+can	O
+you	O
+rename	O
+..\Documents	B-PATH_DIR
+to	O
+..\Backup	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+..\College\Assignments	B-PATH_DIR
+to	O
+..\Archive	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+C:\Users\Ankit\Projects	B-PATH_DIR
+to	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+C:\Users\Ankit\Documents\College	B-PATH_DIR
+to	O
+C:\Users\Ankit\Documents\Projects	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+the	O
+ProcessedData	B-FOLDER
+folder	O
+
+can	O
+you	O
+rename	O
+the	O
+ExportData	B-FOLDER
+folder	O
+
+can	O
+you	O
+rename	O
+the	O
+ImportData	B-FOLDER
+folder	O
+
+can	O
+you	O
+rename	O
+the	O
+SourceCode	B-FOLDER
+folder	O
+
+can	O
+you	O
+rename	O
+the	O
+C:\Users\Ankit\Pictures\ProjectImages	B-PATH_DIR
+folder	O
+
+can	O
+you	O
+rename	O
+the	O
+C:\Users\Ankit\OneDrive\Projects	B-PATH_DIR
+folder	O
+
+can	O
+you	O
+rename	O
+the	O
+C:\Users\Public\Documents\SharedFiles	B-PATH_DIR
+folder	O
+
+can	O
+you	O
+rename	O
+the	O
+D:\Projects	B-PATH_DIR
+folder	O
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+DocumentationFiles	B-FOLDER
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+ReleaseFiles	B-FOLDER
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+TestFiles	B-FOLDER
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+ConfigFiles	B-FOLDER
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+D:\Projects\WinPilot	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+D:\College\Semester5	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+D:\Work\Reports	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+D:\Backup\Projects	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+LogFiles	B-FOLDER
+to	O
+SystemFiles	B-FOLDER
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+UserFiles	B-FOLDER
+to	O
+MyFiles	B-FOLDER
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+ImportantDocuments	B-FOLDER
+to	O
+PreviousVersions	B-FOLDER
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+CompletedProjects	B-FOLDER
+to	O
+TemporaryFiles	B-FOLDER
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+E:\Research	B-PATH_DIR
+to	O
+E:\Research\Datasets	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+E:\Media\Projects	B-PATH_DIR
+to	O
+E:\Archive\OldFiles	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+Projects\WinPilot	B-PATH_DIR
+to	O
+Projects\WinPilot\Source	B-PATH_DIR
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+Projects\WinPilot\Data	B-PATH_DIR
+to	O
+Projects\WinPilot\Documentation	B-PATH_DIR
+
+can	O
+you	O
+change	O
+Projects	B-FOLDER
+to	O
+WinPilot	B-FOLDER
+
+can	O
+you	O
+change	O
+Source	B-FOLDER
+to	O
+Data	B-FOLDER
+
+can	O
+you	O
+change	O
+Documentation	B-FOLDER
+to	O
+Archives	B-FOLDER
+
+can	O
+you	O
+change	O
+Backup	B-FOLDER
+to	O
+College	B-FOLDER
+
+can	O
+you	O
+change	O
+Projects\WebApplication	B-PATH_DIR
+to	O
+Projects\WebApplication\Source	B-PATH_DIR
+
+can	O
+you	O
+change	O
+Projects\WebApplication\Assets	B-PATH_DIR
+to	O
+Projects\Backup	B-PATH_DIR
+
+can	O
+you	O
+change	O
+Projects\Archives	B-PATH_DIR
+to	O
+College\Assignments	B-PATH_DIR
+
+can	O
+you	O
+change	O
+College\Notes	B-PATH_DIR
+to	O
+College\Projects	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+Assignments	B-FOLDER
+
+could	O
+you	O
+rename	O
+Notes	B-FOLDER
+
+could	O
+you	O
+rename	O
+Projects2026	B-FOLDER
+
+could	O
+you	O
+rename	O
+Exams	B-FOLDER
+
+could	O
+you	O
+rename	O
+College\Semester5	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+College\Semester5\OS	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+College\Semester5\DBMS	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+College\Semester5\Projects	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+Documents	B-FOLDER
+to	O
+Work	B-FOLDER
+
+could	O
+you	O
+rename	O
+Reports	B-FOLDER
+to	O
+Meetings	B-FOLDER
+
+could	O
+you	O
+rename	O
+Clients	B-FOLDER
+to	O
+Invoices	B-FOLDER
+
+could	O
+you	O
+rename	O
+Personal	B-FOLDER
+to	O
+Photos	B-FOLDER
+
+could	O
+you	O
+rename	O
+College\Exams	B-PATH_DIR
+to	O
+College\Documents	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+Work\Projects	B-PATH_DIR
+to	O
+Work\Projects\Website	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+Work\Projects\Application	B-PATH_DIR
+to	O
+Work\Reports	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+Work\Reports\2026	B-PATH_DIR
+to	O
+Work\Meetings	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+the	O
+Videos	B-FOLDER
+folder	O
+
+could	O
+you	O
+rename	O
+the	O
+Finance	B-FOLDER
+folder	O
+
+could	O
+you	O
+rename	O
+the	O
+Travel	B-FOLDER
+folder	O
+
+could	O
+you	O
+rename	O
+the	O
+Research	B-FOLDER
+folder	O
+
+could	O
+you	O
+rename	O
+the	O
+Work\Clients	B-PATH_DIR
+folder	O
+
+could	O
+you	O
+rename	O
+the	O
+Work\Invoices	B-PATH_DIR
+folder	O
+
+could	O
+you	O
+rename	O
+the	O
+Work\Archive	B-PATH_DIR
+folder	O
+
+could	O
+you	O
+rename	O
+the	O
+Personal\Documents	B-PATH_DIR
+folder	O
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+MachineLearning	B-FOLDER
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Datasets	B-FOLDER
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Models	B-FOLDER
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Experiments	B-FOLDER
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Personal\Photos	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Personal\Videos	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Personal\Projects	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Personal\Backup	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Papers	B-FOLDER
+to	O
+References	B-FOLDER
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Development	B-FOLDER
+to	O
+Programming	B-FOLDER
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Python	B-FOLDER
+to	O
+Cpp	B-FOLDER
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Java	B-FOLDER
+to	O
+JavaScript	B-FOLDER
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Personal\Finance	B-PATH_DIR
+to	O
+Personal\ImportantDocuments	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Personal\OldFiles	B-PATH_DIR
+to	O
+Personal\Travel	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Personal\Archive	B-PATH_DIR
+to	O
+Research\MachineLearning	B-PATH_DIR
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+Research\MachineLearning\Data	B-PATH_DIR
+to	O
+Research\MachineLearning\Models	B-PATH_DIR
+
+could	O
+you	O
+change	O
+Web	B-FOLDER
+to	O
+Scripts	B-FOLDER
+
+could	O
+you	O
+change	O
+Libraries	B-FOLDER
+to	O
+Tests	B-FOLDER
+
+could	O
+you	O
+change	O
+Configuration	B-FOLDER
+to	O
+Downloads	B-FOLDER
+
+could	O
+you	O
+change	O
+Images	B-FOLDER
+to	O
+Audio	B-FOLDER
+
+could	O
+you	O
+change	O
+Research\MachineLearning\Experiments	B-PATH_DIR
+to	O
+Research\Reports	B-PATH_DIR
+
+could	O
+you	O
+change	O
+Research\Papers	B-PATH_DIR
+to	O
+Research\Datasets	B-PATH_DIR
+
+could	O
+you	O
+change	O
+Research\Projects	B-PATH_DIR
+to	O
+Research\References	B-PATH_DIR
+
+could	O
+you	O
+change	O
+Data\Raw	B-PATH_DIR
+to	O
+Data\Processed	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+Presentations	B-FOLDER
+
+I	O
+want	O
+to	O
+rename	O
+Screenshots	B-FOLDER
+
+I	O
+want	O
+to	O
+rename	O
+Recordings	B-FOLDER
+
+I	O
+want	O
+to	O
+rename	O
+Wallpapers	B-FOLDER
+
+I	O
+want	O
+to	O
+rename	O
+Data\Exports	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+Data\Imports	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+Data\Reports	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+Data\Backup	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+Downloads	B-FOLDER
+to	O
+Storage	B-FOLDER
+
+I	O
+want	O
+to	O
+rename	O
+Database	B-FOLDER
+to	O
+Databases	B-FOLDER
+
+I	O
+want	O
+to	O
+rename	O
+SQL	B-FOLDER
+to	O
+MySQL	B-FOLDER
+
+I	O
+want	O
+to	O
+rename	O
+PostgreSQL	B-FOLDER
+to	O
+Oracle	B-FOLDER
+
+I	O
+want	O
+to	O
+rename	O
+Data\2026	B-PATH_DIR
+to	O
+Data\StudentRecords	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+Data\ProjectData	B-PATH_DIR
+to	O
+Source\Python	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+Source\Cpp	B-PATH_DIR
+to	O
+Source\Java	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+Source\JavaScript	B-PATH_DIR
+to	O
+Source\Web	B-PATH_DIR
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+Server	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+Client	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+Network	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+Security	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+Source\Scripts	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+Source\Libraries	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+Source\Tests	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+Source\Configuration	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+change	O
+Systems	B-FOLDER
+to	O
+Applications	B-FOLDER
+
+I	O
+want	O
+to	O
+change	O
+Software	B-FOLDER
+to	O
+Tools	B-FOLDER
+
+I	O
+want	O
+to	O
+change	O
+Utilities	B-FOLDER
+to	O
+Resources	B-FOLDER
+
+I	O
+want	O
+to	O
+change	O
+Projects2025	B-FOLDER
+to	O
+Completed	B-FOLDER
+
+I	O
+want	O
+to	O
+change	O
+Media\Images	B-PATH_DIR
+to	O
+Media\Videos	B-PATH_DIR
+
+I	O
+want	O
+to	O
+change	O
+Media\Audio	B-PATH_DIR
+to	O
+Media\Projects	B-PATH_DIR
+
+I	O
+want	O
+to	O
+change	O
+Media\Presentations	B-PATH_DIR
+to	O
+Media\Screenshots	B-PATH_DIR
+
+I	O
+want	O
+to	O
+change	O
+Media\Recordings	B-PATH_DIR
+to	O
+Media\Wallpapers	B-PATH_DIR
+
+I	O
+need	O
+to	O
+rename	O
+Pending	B-FOLDER
+
+I	O
+need	O
+to	O
+rename	O
+Temporary	B-FOLDER
+
+I	O
+need	O
+to	O
+rename	O
+OldFiles	B-FOLDER
+
+I	O
+need	O
+to	O
+rename	O
+NewFiles	B-FOLDER
+
+I	O
+need	O
+to	O
+rename	O
+Media\Downloads	B-PATH_DIR
+
+I	O
+need	O
+to	O
+rename	O
+Media\Archive	B-PATH_DIR
+
+I	O
+need	O
+to	O
+rename	O
+Archive	B-PATH_DIR
+
+I	O
+need	O
+to	O
+rename	O
+Archive\2025	B-PATH_DIR
+
+I	O
+need	O
+to	O
+rename	O
+Important	B-FOLDER
+to	O
+Shared	B-FOLDER
+
+I	O
+need	O
+to	O
+rename	O
+Public	B-FOLDER
+to	O
+Private	B-FOLDER
+
+I	O
+need	O
+to	O
+rename	O
+PersonalFiles	B-FOLDER
+to	O
+WorkFiles	B-FOLDER
+
+I	O
+need	O
+to	O
+rename	O
+CollegeFiles	B-FOLDER
+to	O
+StudyMaterial	B-FOLDER
+
+I	O
+need	O
+to	O
+rename	O
+Archive\2026	B-PATH_DIR
+to	O
+Archive\Projects	B-PATH_DIR
+
+I	O
+need	O
+to	O
+rename	O
+Archive\College	B-PATH_DIR
+to	O
+Archive\Reports	B-PATH_DIR
+
+I	O
+need	O
+to	O
+rename	O
+Archive\OldDocuments	B-PATH_DIR
+to	O
+Archive\Backups	B-PATH_DIR
+
+I	O
+need	O
+to	O
+rename	O
+Archive\CompletedProjects	B-PATH_DIR
+to	O
+Archive\TemporaryFiles	B-PATH_DIR
+
+I	O
+need	O
+to	O
+change	O
+StudyNotes	B-FOLDER
+to	O
+StudyProjects	B-FOLDER
+
+I	O
+need	O
+to	O
+change	O
+Semester5	B-FOLDER
+to	O
+Semester6	B-FOLDER
+
+I	O
+need	O
+to	O
+change	O
+Semester7	B-FOLDER
+to	O
+OS	B-FOLDER
+
+I	O
+need	O
+to	O
+change	O
+DBMS	B-FOLDER
+to	O
+AI	B-FOLDER
+
+I	O
+need	O
+to	O
+change	O
+Archive\PreviousVersions	B-PATH_DIR
+to	O
+ClientWork	B-PATH_DIR
+
+I	O
+need	O
+to	O
+change	O
+ClientWork\Website	B-PATH_DIR
+to	O
+ClientWork\Website\Source	B-PATH_DIR
+
+I	O
+need	O
+to	O
+change	O
+ClientWork\Website\Assets	B-PATH_DIR
+to	O
+ClientWork\Reports	B-PATH_DIR
+
+I	O
+need	O
+to	O
+change	O
+ClientWork\Documents	B-PATH_DIR
+to	O
+ClientWork\Invoices	B-PATH_DIR
+
+rename	O
+ML	B-FOLDER
+as	O
+CloudComputing	B-FOLDER
+
+rename	O
+ComputerNetworks	B-FOLDER
+as	O
+OperatingSystems	B-FOLDER
+
+rename	O
+SoftwareEngineering	B-FOLDER
+as	O
+Assignments2026	B-FOLDER
+
+rename	O
+LabWork	B-FOLDER
+as	O
+PracticalFiles	B-FOLDER
+
+rename	O
+Archive\Backups	B-PATH_DIR
+as	O
+Archive\CompletedProjects	B-PATH_DIR
+
+rename	O
+Archive\TemporaryFiles	B-PATH_DIR
+as	O
+Archive\PreviousVersions	B-PATH_DIR
+
+rename	O
+ClientWork	B-PATH_DIR
+as	O
+ClientWork\Website	B-PATH_DIR
+
+rename	O
+ClientWork\Website\Source	B-PATH_DIR
+as	O
+ClientWork\Website\Assets	B-PATH_DIR
+
+rename	O
+the	O
+QuestionPapers	B-FOLDER
+to	O
+the	O
+ExamPapers	B-FOLDER
+
+rename	O
+the	O
+Results	B-FOLDER
+to	O
+the	O
+Certificates	B-FOLDER
+
+rename	O
+the	O
+Reports2026	B-FOLDER
+to	O
+the	O
+MonthlyReports	B-FOLDER
+
+rename	O
+the	O
+AnnualReports	B-FOLDER
+to	O
+the	O
+FinancialReports	B-FOLDER
+
+rename	O
+the	O
+ClientWork\Reports	B-PATH_DIR
+to	O
+the	O
+ClientWork\Documents	B-PATH_DIR
+
+rename	O
+the	O
+ClientWork\Invoices	B-PATH_DIR
+to	O
+the	O
+ClientWork\Projects	B-PATH_DIR
+
+rename	O
+the	O
+ClientWork\Backups	B-PATH_DIR
+to	O
+the	O
+ProjectAlpha	B-PATH_DIR
+
+rename	O
+the	O
+ProjectAlpha\SourceCode	B-PATH_DIR
+to	O
+the	O
+ProjectAlpha\Documentation	B-PATH_DIR
+
+rename	O
+the	O
+ProjectReports	B-FOLDER
+as	O
+the	O
+ResearchReports	B-FOLDER
+
+rename	O
+the	O
+ClientReports	B-FOLDER
+as	O
+the	O
+TestData	B-FOLDER
+
+rename	O
+the	O
+InputData	B-FOLDER
+as	O
+the	O
+OutputData	B-FOLDER
+
+rename	O
+the	O
+ExpectedResults	B-FOLDER
+as	O
+the	O
+SampleData	B-FOLDER
+
+rename	O
+the	O
+ProjectAlpha\TestData	B-PATH_DIR
+as	O
+the	O
+ProjectAlpha\Releases	B-PATH_DIR
+
+rename	O
+the	O
+ProjectAlpha\Assets	B-PATH_DIR
+as	O
+the	O
+ProjectBeta	B-PATH_DIR
+
+rename	O
+the	O
+ProjectBeta\Source	B-PATH_DIR
+as	O
+the	O
+ProjectBeta\Database	B-PATH_DIR
+
+rename	O
+the	O
+ProjectBeta\Reports	B-PATH_DIR
+as	O
+the	O
+ProjectBeta\Documentation	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+from	O
+RawData	B-FOLDER
+to	O
+ProcessedData	B-FOLDER
+
+change	O
+the	O
+folder	O
+from	O
+ExportData	B-FOLDER
+to	O
+ImportData	B-FOLDER
+
+change	O
+the	O
+folder	O
+from	O
+SourceCode	B-FOLDER
+to	O
+DocumentationFiles	B-FOLDER
+
+change	O
+the	O
+folder	O
+from	O
+ReleaseFiles	B-FOLDER
+to	O
+TestFiles	B-FOLDER
+
+change	O
+the	O
+folder	O
+from	O
+Semester5\OS	B-PATH_DIR
+to	O
+Semester5\DBMS	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+from	O
+Semester5\Projects	B-PATH_DIR
+to	O
+Semester5\Notes	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+from	O
+Semester5\Assignments	B-PATH_DIR
+to	O
+MyFiles\Projects	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+from	O
+MyFiles\College	B-PATH_DIR
+to	O
+MyFiles\Personal	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+to	O
+ConfigFiles	B-FOLDER
+
+rename	O
+the	O
+folder	O
+to	O
+LogFiles	B-FOLDER
+
+rename	O
+the	O
+folder	O
+to	O
+SystemFiles	B-FOLDER
+
+rename	O
+the	O
+folder	O
+to	O
+UserFiles	B-FOLDER
+
+rename	O
+the	O
+folder	O
+to	O
+MyFiles\Work	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+to	O
+MyFiles\ImportantDocuments	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+to	O
+2026	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+to	O
+2026\January	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+as	O
+MyFiles	B-FOLDER
+
+rename	O
+the	O
+folder	O
+as	O
+ImportantDocuments	B-FOLDER
+
+rename	O
+the	O
+folder	O
+as	O
+PreviousVersions	B-FOLDER
+
+rename	O
+the	O
+folder	O
+as	O
+CompletedProjects	B-FOLDER
+
+rename	O
+the	O
+folder	O
+as	O
+2026\March	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+as	O
+2026\September	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+as	O
+2026\October	B-PATH_DIR
+
+rename	O
+the	O
+folder	O
+as	O
+2026\Projects	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+to	O
+TemporaryFiles	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+to	O
+Projects	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+to	O
+Source	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+to	O
+2026\Reports	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+to	O
+TestData\Input	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+to	O
+TestData\Output	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+to	O
+TestData\ExpectedResults	B-PATH_DIR
+
+give	O
+the	O
+folder	O
+the	O
+name	O
+Data	B-FOLDER
+
+give	O
+the	O
+folder	O
+the	O
+name	O
+Documentation	B-FOLDER
+
+give	O
+the	O
+folder	O
+the	O
+name	O
+Archives	B-FOLDER
+
+give	O
+the	O
+folder	O
+the	O
+name	O
+Backup	B-FOLDER
+
+give	O
+the	O
+folder	O
+the	O
+name	O
+.\Projects	B-PATH_DIR
+
+give	O
+the	O
+folder	O
+the	O
+name	O
+.\Projects\Source	B-PATH_DIR
+
+give	O
+the	O
+folder	O
+the	O
+name	O
+.\College\Notes	B-PATH_DIR
+
+give	O
+the	O
+folder	O
+the	O
+name	O
+.\Work\Reports	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+in	O
+College	B-FOLDER
+
+rename	O
+a	O
+folder	O
+in	O
+Assignments	B-FOLDER
+
+rename	O
+a	O
+folder	O
+in	O
+Notes	B-FOLDER
+
+rename	O
+a	O
+folder	O
+in	O
+Projects2026	B-FOLDER
+
+rename	O
+a	O
+folder	O
+in	O
+.\Data\Processed	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+in	O
+..\Projects	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+in	O
+..\Documents	B-PATH_DIR
+
+rename	O
+a	O
+folder	O
+in	O
+..\Backup	B-PATH_DIR
+
+rename	O
+Exams	B-FOLDER
+folder	O
+in	O
+Documents	B-FOLDER
+
+rename	O
+Work	B-FOLDER
+folder	O
+in	O
+Reports	B-FOLDER
+
+rename	O
+Meetings	B-FOLDER
+folder	O
+in	O
+Clients	B-FOLDER
+
+rename	O
+Invoices	B-FOLDER
+folder	O
+in	O
+Personal	B-FOLDER
+
+rename	O
+..\College\Assignments	B-PATH_DIR
+folder	O
+in	O
+..\Archive	B-PATH_DIR
+
+rename	O
+C:\Users\Ankit\Projects	B-PATH_DIR
+folder	O
+in	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+
+rename	O
+C:\Users\Ankit\Documents\College	B-PATH_DIR
+folder	O
+in	O
+C:\Users\Ankit\Documents\Projects	B-PATH_DIR
+
+rename	O
+C:\Users\Ankit\Pictures\ProjectImages	B-PATH_DIR
+folder	O
+in	O
+C:\Users\Ankit\OneDrive\Projects	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+in	O
+Photos	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+in	O
+Videos	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+in	O
+Finance	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+in	O
+Travel	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+in	O
+C:\Users\Public\Documents\SharedFiles	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+in	O
+D:\Projects	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+in	O
+D:\Projects\WinPilot	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+in	O
+D:\College\Semester5	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+in	O
+Research	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+in	O
+MachineLearning	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+in	O
+Datasets	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+in	O
+Models	B-FOLDER
+
+change	O
+the	O
+folder	O
+name	O
+in	O
+D:\Work\Reports	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+in	O
+D:\Backup\Projects	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+in	O
+E:\Research	B-PATH_DIR
+
+change	O
+the	O
+folder	O
+name	O
+in	O
+E:\Research\Datasets	B-PATH_DIR
+
+rename	O
+the	O
+Experiments	B-FOLDER
+folder	O
+
+rename	O
+the	O
+Papers	B-FOLDER
+folder	O
+
+rename	O
+the	O
+References	B-FOLDER
+folder	O
+
+rename	O
+the	O
+Development	B-FOLDER
+folder	O
+
+rename	O
+the	O
+E:\Media\Projects	B-PATH_DIR
+folder	O
+
+rename	O
+the	O
+E:\Archive\OldFiles	B-PATH_DIR
+folder	O
+
+rename	O
+the	O
+Projects\WinPilot	B-PATH_DIR
+folder	O
+
+rename	O
+the	O
+Projects\WinPilot\Source	B-PATH_DIR
+folder	O
+
+give	O
+Programming	B-FOLDER
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+Python	B-FOLDER
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+Cpp	B-FOLDER
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+Java	B-FOLDER
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+Projects\WinPilot\Data	B-PATH_DIR
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+Projects\WinPilot\Documentation	B-PATH_DIR
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+Projects\WebApplication	B-PATH_DIR
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+Projects\WebApplication\Source	B-PATH_DIR
+folder	O
+a	O
+new	O
+name	O
+
+please	O
+change	O
+the	O
+JavaScript	B-FOLDER
+folder	O
+name	O
+
+please	O
+change	O
+the	O
+Web	B-FOLDER
+folder	O
+name	O
+
+please	O
+change	O
+the	O
+Scripts	B-FOLDER
+folder	O
+name	O
+
+please	O
+change	O
+the	O
+Libraries	B-FOLDER
+folder	O
+name	O
+
+please	O
+change	O
+the	O
+Projects\WebApplication\Assets	B-PATH_DIR
+folder	O
+name	O
+
+please	O
+change	O
+the	O
+Projects\Backup	B-PATH_DIR
+folder	O
+name	O
+
+please	O
+change	O
+the	O
+Projects\Archives	B-PATH_DIR
+folder	O
+name	O
+
+please	O
+change	O
+the	O
+College\Assignments	B-PATH_DIR
+folder	O
+name	O
+
+can	O
+you	O
+change	O
+the	O
+Tests	B-FOLDER
+folder	O
+name	O
+
+can	O
+you	O
+change	O
+the	O
+Configuration	B-FOLDER
+folder	O
+name	O
+
+can	O
+you	O
+change	O
+the	O
+Media	B-FOLDER
+folder	O
+name	O
+
+can	O
+you	O
+change	O
+the	O
+WinPilot	B-FOLDER
+folder	O
+name	O
+
+can	O
+you	O
+change	O
+the	O
+College\Notes	B-PATH_DIR
+folder	O
+name	O
+
+can	O
+you	O
+change	O
+the	O
+College\Projects	B-PATH_DIR
+folder	O
+name	O
+
+can	O
+you	O
+change	O
+the	O
+College\Semester5	B-PATH_DIR
+folder	O
+name	O
+
+can	O
+you	O
+change	O
+the	O
+College\Semester5\OS	B-PATH_DIR
+folder	O
+name	O
+
+could	O
+you	O
+change	O
+the	O
+College\Semester5\DBMS	B-PATH_DIR
+folder	O
+name	O
+
+could	O
+you	O
+change	O
+the	O
+College\Semester5\Projects	B-PATH_DIR
+folder	O
+name	O
+
+could	O
+you	O
+change	O
+the	O
+College\Exams	B-PATH_DIR
+folder	O
+name	O
+
+could	O
+you	O
+change	O
+the	O
+College\Documents	B-PATH_DIR
+folder	O
+name	O
+
+could	O
+you	O
+change	O
+the	O
+Work\Projects	B-PATH_DIR
+folder	O
+name	O
+
+could	O
+you	O
+change	O
+the	O
+Work\Projects\Website	B-PATH_DIR
+folder	O
+name	O
+
+could	O
+you	O
+change	O
+the	O
+Work\Projects\Application	B-PATH_DIR
+folder	O
+name	O
+
+could	O
+you	O
+change	O
+the	O
+Work\Reports	B-PATH_DIR
+folder	O
+name	O
+
+rename	O
+a	O
+folder	O
+
+rename	O
+folder	O
+
+rename	O
+the	O
+folder	O
+
+rename	O
+a	O
+directory	O
+
+rename	O
+directory	O
+
+rename	O
+the	O
+directory	O
+
+change	O
+the	O
+name	O
+of	O
+a	O
+folder	O
+
+change	O
+the	O
+folder	O
+name	O
+
+change	O
+folder	O
+name	O
+
+change	O
+the	O
+name	O
+of	O
+a	O
+directory	O
+
+change	O
+the	O
+directory	O
+name	O
+
+give	O
+the	O
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+a	O
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+directory	O
+a	O
+new	O
+name	O
+
+please	O
+rename	O
+the	O
+folder	O
+
+please	O
+rename	O
+a	O
+folder	O
+
+please	O
+change	O
+the	O
+folder	O
+name	O
+
+please	O
+give	O
+the	O
+folder	O
+a	O
+new	O
+name	O
+
+can	O
+you	O
+rename	O
+the	O
+folder	O
+
+can	O
+you	O
+rename	O
+a	O
+folder	O
+
+can	O
+you	O
+change	O
+the	O
+folder	O
+name	O
+
+could	O
+you	O
+rename	O
+the	O
+folder	O
+
+could	O
+you	O
+rename	O
+a	O
+folder	O
+
+could	O
+you	O
+change	O
+the	O
+folder	O
+name	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+folder	O
+
+I	O
+want	O
+to	O
+rename	O
+a	O
+folder	O
+
+I	O
+want	O
+to	O
+change	O
+the	O
+folder	O
+name	O
+
+I	O
+need	O
+to	O
+rename	O
+the	O
+folder	O
+
+I	O
+need	O
+to	O
+rename	O
+a	O
+folder	O
+
+I	O
+need	O
+to	O
+change	O
+the	O
+folder	O
+name	O
+
+change	O
+the	O
+old	O
+folder	O
+name	O
+to	O
+the	O
+new	O
+folder	O
+name	O
+
+rename	O
+this	O
+folder	O
+
+rename	O
+that	O
+folder	O
+
+rename	O
+the	O
+current	O
+folder	O
+
+change	O
+the	O
+name	O
+of	O
+this	O
+folder	O
+
+change	O
+the	O
+name	O
+of	O
+that	O
+folder	O
+
+change	O
+the	O
+current	O
+folder	O
+name	O
+
+give	O
+this	O
+folder	O
+a	O
+new	O
+name	O
+
+give	O
+that	O
+folder	O
+a	O
+new	O
+name	O
+
+rename	O
+one	O
+folder	O
+
+rename	O
+a	O
+single	O
+folder	O
+
+rename	O
+one	O
+of	O
+my	O
+folders	O
+
+change	O
+the	O
+name	O
+of	O
+one	O
+folder	O
+
+give	O
+one	O
+folder	O
+a	O
+new	O
+name	O
+

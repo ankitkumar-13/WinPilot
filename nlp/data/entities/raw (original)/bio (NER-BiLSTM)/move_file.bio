@@ -1,0 +1,4022 @@
+move	O
+attendance	B-FILE
+record.xlsx	I-FILE
+
+move	O
+employee	B-FILE
+details.xlsx	I-FILE
+
+move	O
+project	B-FILE
+schedule.xlsx	I-FILE
+
+move	O
+expense	B-FILE
+report.xlsx	I-FILE
+
+move	O
+C:\Users\Ankit\OneDrive\Projects\project	B-PATH_FILE
+notes.txt	I-PATH_FILE
+
+move	O
+C:\Users\Public\Documents\shared	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+move	O
+D:\Projects\WinPilot\src\main.py	B-PATH_FILE
+
+move	O
+D:\College\Semester	B-PATH_FILE
+5\Notes\os	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+move	O
+file	O
+sales	B-FILE
+data.xlsx	I-FILE
+
+move	O
+file	O
+employee_data.csv	B-FILE
+
+move	O
+file	O
+student_data.csv	B-FILE
+
+move	O
+file	O
+contact_list.csv	B-FILE
+
+move	O
+file	O
+D:\Work\Reports\annual	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+move	O
+file	O
+D:\Backup\Database\database	B-PATH_FILE
+backup.sql	I-PATH_FILE
+
+move	O
+file	O
+E:\Research\Reports\research	B-PATH_FILE
+paper.pdf	I-PATH_FILE
+
+move	O
+file	O
+E:\Media\Videos\lecture	B-PATH_FILE
+recording.mp4	I-PATH_FILE
+
+move	O
+the	O
+file	O
+transaction_data.csv	B-FILE
+
+move	O
+the	O
+file	O
+attendance.csv	B-FILE
+
+move	O
+the	O
+file	O
+main.py	B-FILE
+
+move	O
+the	O
+file	O
+app.py	B-FILE
+
+move	O
+the	O
+file	O
+Projects\main.py	B-PATH_FILE
+
+move	O
+the	O
+file	O
+Projects\app.py	B-PATH_FILE
+
+move	O
+the	O
+file	O
+Projects\project	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+move	O
+the	O
+file	O
+Projects\README.md	B-PATH_FILE
+
+move	O
+server.py	B-FILE
+to	O
+Wallpapers	B-FOLDER
+
+move	O
+client.py	B-FILE
+to	O
+Downloads	B-FOLDER
+
+move	O
+automation.py	B-FILE
+to	O
+Storage	B-FOLDER
+
+move	O
+data	B-FILE
+processing.py	I-FILE
+to	O
+Database	B-FOLDER
+
+move	O
+Projects\data.csv	B-PATH_FILE
+to	O
+Databases	B-FOLDER
+
+move	O
+Projects\config.json	B-PATH_FILE
+to	O
+SQL	B-FOLDER
+
+move	O
+Projects\Source\main.cpp	B-PATH_FILE
+to	O
+MySQL	B-FOLDER
+
+move	O
+Projects\Source\helper.cpp	B-PATH_FILE
+to	O
+PostgreSQL	B-FOLDER
+
+move	O
+database.py	B-FILE
+to	O
+Oracle	B-FOLDER
+
+move	O
+configuration.py	B-FILE
+to	O
+Server	B-FOLDER
+
+move	O
+utility	B-FILE
+functions.py	I-FILE
+to	O
+Client	B-FOLDER
+
+move	O
+test.py	B-FILE
+to	O
+Network	B-FOLDER
+
+move	O
+main.cpp	B-FILE
+to	O
+Projects	B-PATH_DIR
+
+move	O
+program.cpp	B-FILE
+to	O
+Projects\WinPilot	B-PATH_DIR
+
+move	O
+source.cpp	B-FILE
+to	O
+Projects\WinPilot\Source	B-PATH_DIR
+
+move	O
+calculator.cpp	B-FILE
+to	O
+Projects\WinPilot\Data	B-PATH_DIR
+
+move	O
+file	O
+student	B-FILE
+management.cpp	I-FILE
+to	O
+Security	B-FOLDER
+
+move	O
+file	O
+file	B-FILE
+manager.cpp	I-FILE
+to	O
+Systems	B-FOLDER
+
+move	O
+file	O
+main.c	B-FILE
+to	O
+Applications	B-FOLDER
+
+move	O
+file	O
+helper.c	B-FILE
+to	O
+Software	B-FOLDER
+
+move	O
+file	O
+Projects\Docs\project	B-PATH_FILE
+guide.pdf	I-PATH_FILE
+to	O
+Tools	B-FOLDER
+
+move	O
+file	O
+Projects\Backup\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+to	O
+Utilities	B-FOLDER
+
+move	O
+file	O
+College\Assignments\os	B-PATH_FILE
+assignment.pdf	I-PATH_FILE
+to	O
+Resources	B-FOLDER
+
+move	O
+file	O
+College\Assignments\dbms	B-PATH_FILE
+assignment.docx	I-PATH_FILE
+to	O
+Projects2025	B-FOLDER
+
+move	O
+file	O
+header.h	B-FILE
+to	O
+Completed	B-FOLDER
+
+move	O
+file	O
+Main.java	B-FILE
+to	O
+Pending	B-FOLDER
+
+move	O
+file	O
+Student.java	B-FILE
+to	O
+Temporary	B-FOLDER
+
+move	O
+file	O
+DatabaseManager.java	B-FILE
+to	O
+OldFiles	B-FOLDER
+
+move	O
+file	O
+script.js	B-FILE
+to	O
+Projects\WinPilot\Documentation	B-PATH_DIR
+
+move	O
+file	O
+app.js	B-FILE
+to	O
+Projects\WebApplication	B-PATH_DIR
+
+move	O
+file	O
+index.html	B-FILE
+to	O
+Projects\WebApplication\Source	B-PATH_DIR
+
+move	O
+file	O
+login.html	B-FILE
+to	O
+Projects\WebApplication\Assets	B-PATH_DIR
+
+move	O
+the	O
+file	O
+dashboard.html	B-FILE
+to	O
+NewFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+style.css	B-FILE
+to	O
+Important	B-FOLDER
+
+move	O
+the	O
+file	O
+main.css	B-FILE
+to	O
+Shared	B-FOLDER
+
+move	O
+the	O
+file	O
+config.json	B-FILE
+to	O
+Public	B-FOLDER
+
+move	O
+the	O
+file	O
+College\Notes\operating	B-PATH_FILE
+systems.pdf	I-PATH_FILE
+to	O
+Private	B-FOLDER
+
+move	O
+the	O
+file	O
+College\Notes\machine	B-PATH_FILE
+learning	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+to	O
+PersonalFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+College\Projects\file	B-PATH_FILE
+manager.cpp	I-PATH_FILE
+to	O
+WorkFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+College\Projects\final	B-PATH_FILE
+report.docx	I-PATH_FILE
+to	O
+CollegeFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+package.json	B-FILE
+to	O
+StudyMaterial	B-FOLDER
+
+move	O
+the	O
+file	O
+user	B-FILE
+data.json	I-FILE
+to	O
+StudyNotes	B-FOLDER
+
+move	O
+the	O
+file	O
+application	B-FILE
+settings.json	I-FILE
+to	O
+StudyProjects	B-FOLDER
+
+move	O
+the	O
+file	O
+database	B-FILE
+backup.json	I-FILE
+to	O
+Semester5	B-FOLDER
+
+move	O
+the	O
+file	O
+data.xml	B-FILE
+to	O
+Projects\Backup	B-PATH_DIR
+
+move	O
+the	O
+file	O
+configuration.xml	B-FILE
+to	O
+Projects\Archives	B-PATH_DIR
+
+move	O
+the	O
+file	O
+settings.yaml	B-FILE
+to	O
+College\Assignments	B-PATH_DIR
+
+move	O
+the	O
+file	O
+docker-compose.yml	B-FILE
+to	O
+College\Notes	B-PATH_DIR
+
+move	O
+database.sql	B-FILE
+into	O
+Semester6	B-FOLDER
+
+move	O
+schema.sql	B-FILE
+into	O
+Semester7	B-FOLDER
+
+move	O
+create	B-FILE
+tables.sql	I-FILE
+into	O
+OS	B-FOLDER
+
+move	O
+backup	B-FILE
+database.sql	I-FILE
+into	O
+DBMS	B-FOLDER
+
+move	O
+College\Semester	B-PATH_FILE
+5\schedule.xlsx	I-PATH_FILE
+into	O
+AI	B-FOLDER
+
+move	O
+College\Semester	B-PATH_FILE
+5\syllabus.pdf	I-PATH_FILE
+into	O
+ML	B-FOLDER
+
+move	O
+Work\Reports\annual	B-PATH_FILE
+report.pdf	I-PATH_FILE
+into	O
+CloudComputing	B-FOLDER
+
+move	O
+Work\Reports\monthly	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+into	O
+ComputerNetworks	B-FOLDER
+
+move	O
+database.db	B-FILE
+into	O
+OperatingSystems	B-FOLDER
+
+move	O
+application.db	B-FILE
+into	O
+SoftwareEngineering	B-FOLDER
+
+move	O
+records.sqlite	B-FILE
+into	O
+Assignments2026	B-FOLDER
+
+move	O
+local	B-FILE
+database.sqlite	I-FILE
+into	O
+LabWork	B-FOLDER
+
+move	O
+backup.bak	B-FILE
+into	O
+College\Projects	B-PATH_DIR
+
+move	O
+archive.zip	B-FILE
+into	O
+College\Semester5	B-PATH_DIR
+
+move	O
+project	B-FILE
+backup.zip	I-FILE
+into	O
+College\Semester5\OS	B-PATH_DIR
+
+move	O
+documents	B-FILE
+archive.zip	I-FILE
+into	O
+College\Semester5\DBMS	B-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+PracticalFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+QuestionPapers	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+ExamPapers	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+Results	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+College\Semester5\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+College\Exams	B-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+College\Documents	B-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+Work\Projects	B-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+Certificates	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+Reports2026	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+MonthlyReports	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+AnnualReports	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+Work\Projects\Website	B-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+Work\Projects\Application	B-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+Work\Reports	B-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+Work\Reports\2026	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+FinancialReports	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+ProjectReports	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+ResearchReports	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+ClientReports	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+Work\Meetings	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+Work\Clients	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+Work\Invoices	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+Work\Archive	B-PATH_DIR
+
+put	O
+backup	B-FILE
+files.rar	I-FILE
+in	O
+TestData	B-FOLDER
+
+put	O
+project	B-FILE
+files.7z	I-FILE
+in	O
+InputData	B-FOLDER
+
+put	O
+photo.jpg	B-FILE
+in	O
+OutputData	B-FOLDER
+
+put	O
+profile	B-FILE
+photo.jpg	I-FILE
+in	O
+ExpectedResults	B-FOLDER
+
+put	O
+Work\Projects\website\index.html	B-PATH_FILE
+in	O
+SampleData	B-FOLDER
+
+put	O
+Work\Projects\website\style.css	B-PATH_FILE
+in	O
+RawData	B-FOLDER
+
+put	O
+Work\Projects\application\server.py	B-PATH_FILE
+in	O
+ProcessedData	B-FOLDER
+
+put	O
+Work\Projects\application\config.json	B-PATH_FILE
+in	O
+ExportData	B-FOLDER
+
+put	O
+family	B-FILE
+photo.jpg	I-FILE
+in	O
+ImportData	B-FOLDER
+
+put	O
+screenshot.png	B-FILE
+in	O
+SourceCode	B-FOLDER
+
+put	O
+project	B-FILE
+diagram.png	I-FILE
+in	O
+DocumentationFiles	B-FOLDER
+
+put	O
+company	B-FILE
+logo.svg	I-FILE
+in	O
+ReleaseFiles	B-FOLDER
+
+put	O
+scanned	B-FILE
+document.jpeg	I-FILE
+in	O
+Personal\Documents	B-PATH_DIR
+
+put	O
+presentation.pptx	B-FILE
+in	O
+Personal\Photos	B-PATH_DIR
+
+put	O
+project	B-FILE
+presentation.pptx	I-FILE
+in	O
+Personal\Videos	B-PATH_DIR
+
+put	O
+final	B-FILE
+presentation.pptx	I-FILE
+in	O
+Personal\Projects	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+TestFiles	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+ConfigFiles	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+LogFiles	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+SystemFiles	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+Personal\Backup	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+Personal\Finance	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+Personal\ImportantDocuments	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+Personal\OldFiles	B-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+UserFiles	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+MyFiles	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+ImportantDocuments	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+PreviousVersions	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+Personal\Travel	B-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+Personal\Archive	B-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+Research\MachineLearning	B-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+Research\MachineLearning\Data	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+CompletedProjects	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+TemporaryFiles	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+WinPilot	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+Source	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+Research\MachineLearning\Models	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+Research\MachineLearning\Experiments	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+Research\Reports	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+Research\Papers	B-PATH_DIR
+
+send	O
+seminar	B-FILE
+slides.ppt	I-FILE
+to	O
+Source	B-FOLDER
+
+send	O
+lecture	B-FILE
+recording.mp4	I-FILE
+to	O
+Data	B-FOLDER
+
+send	O
+tutorial	B-FILE
+video.mp4	I-FILE
+to	O
+Documentation	B-FOLDER
+
+send	O
+music	B-FILE
+collection.mp3	I-FILE
+to	O
+Archives	B-FOLDER
+
+send	O
+Personal\Photos\profile	B-PATH_FILE
+photo.jpg	I-PATH_FILE
+to	O
+Backup	B-FOLDER
+
+send	O
+Personal\Photos\family	B-PATH_FILE
+photo.jpg	I-PATH_FILE
+to	O
+College	B-FOLDER
+
+send	O
+Personal\Documents\resume.pdf	B-PATH_FILE
+to	O
+Assignments	B-FOLDER
+
+send	O
+Personal\Documents\cover	B-PATH_FILE
+letter.docx	I-PATH_FILE
+to	O
+Notes	B-FOLDER
+
+send	O
+voice	B-FILE
+recording.wav	I-FILE
+to	O
+Projects2026	B-FOLDER
+
+send	O
+project	B-FILE
+image.webp	I-FILE
+to	O
+Exams	B-FOLDER
+
+send	O
+Dockerfile	B-FILE
+to	O
+Documents	B-FOLDER
+
+send	O
+Makefile	B-FILE
+to	O
+Work	B-FOLDER
+
+send	O
+LICENSE	B-FILE
+to	O
+Research\Datasets	B-PATH_DIR
+
+send	O
+.gitignore	B-FILE
+to	O
+Research\Projects	B-PATH_DIR
+
+send	O
+.env	B-FILE
+to	O
+Research\References	B-PATH_DIR
+
+send	O
+configuration.ini	B-FILE
+to	O
+Data\Raw	B-PATH_DIR
+
+send	O
+the	O
+file	O
+to	O
+Reports	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+Meetings	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+Clients	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+Invoices	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+Data\Processed	B-PATH_DIR
+
+send	O
+the	O
+file	O
+to	O
+Data\Exports	B-PATH_DIR
+
+send	O
+the	O
+file	O
+to	O
+Data\Imports	B-PATH_DIR
+
+send	O
+the	O
+file	O
+to	O
+Data\Reports	B-PATH_DIR
+
+send	O
+this	O
+file	O
+to	O
+Personal	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+Photos	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+Videos	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+Finance	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+Data\Backup	B-PATH_DIR
+
+send	O
+this	O
+file	O
+to	O
+Data\2026	B-PATH_DIR
+
+send	O
+this	O
+file	O
+to	O
+Data\StudentRecords	B-PATH_DIR
+
+send	O
+this	O
+file	O
+to	O
+Data\ProjectData	B-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+Travel	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+Research	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+MachineLearning	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+Datasets	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+Source\Python	B-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+Source\Cpp	B-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+Source\Java	B-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+Source\JavaScript	B-PATH_DIR
+
+please	O
+move	O
+application.cfg	B-FILE
+
+please	O
+move	O
+startup.bat	B-FILE
+
+please	O
+move	O
+install	B-FILE
+script.ps1	I-FILE
+
+please	O
+move	O
+setup.exe	B-FILE
+
+please	O
+move	O
+Personal\Backup\personal	B-PATH_FILE
+files.zip	I-PATH_FILE
+
+please	O
+move	O
+Shared\Projects\source	B-PATH_FILE
+code.zip	I-PATH_FILE
+
+please	O
+move	O
+Shared\Projects\project	B-PATH_FILE
+data.xlsx	I-PATH_FILE
+
+please	O
+move	O
+Shared\Reports\team	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Models	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Experiments	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Papers	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+References	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Source\Web	B-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Source\Scripts	B-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Source\Libraries	B-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Source\Tests	B-PATH_DIR
+
+please	O
+move	O
+application	B-FILE
+installer.msi	I-FILE
+to	O
+Development	B-FOLDER
+
+please	O
+move	O
+library.dll	B-FILE
+to	O
+Programming	B-FOLDER
+
+please	O
+move	O
+system	B-FILE
+backup.img	I-FILE
+to	O
+Python	B-FOLDER
+
+please	O
+move	O
+virtual	B-FILE
+machine.iso	I-FILE
+to	O
+Cpp	B-FOLDER
+
+please	O
+move	O
+Data\Raw\student	B-PATH_FILE
+data.csv	I-PATH_FILE
+to	O
+Java	B-FOLDER
+
+please	O
+move	O
+Data\Processed\student	B-PATH_FILE
+results.csv	I-PATH_FILE
+to	O
+JavaScript	B-FOLDER
+
+please	O
+move	O
+Data\Reports\analysis	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+to	O
+Web	B-FOLDER
+
+please	O
+move	O
+Data\Reports\final	B-PATH_FILE
+analysis.pdf	I-PATH_FILE
+to	O
+Scripts	B-FOLDER
+
+please	O
+move	O
+notes.txt	B-FILE
+to	O
+Libraries	B-FOLDER
+
+please	O
+move	O
+todo.txt	B-FILE
+to	O
+Tests	B-FOLDER
+
+please	O
+move	O
+readme.txt	B-FILE
+to	O
+Configuration	B-FOLDER
+
+please	O
+move	O
+summary.txt	B-FILE
+to	O
+Media	B-FOLDER
+
+please	O
+move	O
+draft.txt	B-FILE
+to	O
+Source\Configuration	B-PATH_DIR
+
+please	O
+move	O
+final	B-FILE
+notes.txt	I-FILE
+to	O
+Media\Images	B-PATH_DIR
+
+please	O
+move	O
+project	B-FILE
+notes.txt	I-FILE
+to	O
+Media\Videos	B-PATH_DIR
+
+please	O
+move	O
+meeting	B-FILE
+notes.txt	I-FILE
+to	O
+Media\Audio	B-PATH_DIR
+
+please	O
+move	O
+college	B-FILE
+notes.txt	I-FILE
+into	O
+Images	B-FOLDER
+
+please	O
+move	O
+semester	B-FILE
+notes.txt	I-FILE
+into	O
+Audio	B-FOLDER
+
+please	O
+move	O
+personal	B-FILE
+notes.txt	I-FILE
+into	O
+Presentations	B-FOLDER
+
+please	O
+move	O
+work	B-FILE
+notes.txt	I-FILE
+into	O
+Screenshots	B-FOLDER
+
+please	O
+move	O
+Data\Exports\monthly	B-PATH_FILE
+results.csv	I-PATH_FILE
+into	O
+Recordings	B-FOLDER
+
+please	O
+move	O
+Archive\2025\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+into	O
+Wallpapers	B-FOLDER
+
+please	O
+move	O
+Archive\2026\final	B-PATH_FILE
+report.pdf	I-PATH_FILE
+into	O
+Downloads	B-FOLDER
+
+please	O
+move	O
+Backup\Projects\database	B-PATH_FILE
+backup.sql	I-PATH_FILE
+into	O
+Storage	B-FOLDER
+
+please	O
+move	O
+daily	B-FILE
+tasks.txt	I-FILE
+into	O
+Database	B-FOLDER
+
+please	O
+move	O
+important	B-FILE
+information.txt	I-FILE
+into	O
+Databases	B-FOLDER
+
+please	O
+move	O
+contact	B-FILE
+list.txt	I-FILE
+into	O
+SQL	B-FOLDER
+
+please	O
+move	O
+error.log	B-FILE
+into	O
+MySQL	B-FOLDER
+
+please	O
+move	O
+application	B-FILE
+log.log	I-FILE
+into	O
+Media\Projects	B-PATH_DIR
+
+please	O
+move	O
+debug	B-FILE
+log.log	I-FILE
+into	O
+Media\Presentations	B-PATH_DIR
+
+please	O
+move	O
+access	B-FILE
+log.log	I-FILE
+into	O
+Media\Screenshots	B-PATH_DIR
+
+please	O
+move	O
+system	B-FILE
+log.log	I-FILE
+into	O
+Media\Recordings	B-PATH_DIR
+
+please	O
+put	O
+changelog.md	B-FILE
+in	O
+PostgreSQL	B-FOLDER
+
+please	O
+put	O
+project	B-FILE
+documentation.md	I-FILE
+in	O
+Oracle	B-FOLDER
+
+please	O
+put	O
+README.md	B-FILE
+in	O
+Server	B-FOLDER
+
+please	O
+put	O
+getting	B-FILE
+started.md	I-FILE
+in	O
+Client	B-FOLDER
+
+please	O
+put	O
+Backup\Reports\old	B-PATH_FILE
+report.pdf	I-PATH_FILE
+in	O
+Network	B-FOLDER
+
+please	O
+put	O
+Media\Images\project	B-PATH_FILE
+diagram.png	I-PATH_FILE
+in	O
+Security	B-FOLDER
+
+please	O
+put	O
+Media\Images\company	B-PATH_FILE
+logo.svg	I-PATH_FILE
+in	O
+Systems	B-FOLDER
+
+please	O
+put	O
+Media\Videos\lecture	B-PATH_FILE
+recording.mp4	I-PATH_FILE
+in	O
+Applications	B-FOLDER
+
+please	O
+put	O
+project	B-FILE
+report.pdf	I-FILE
+in	O
+Software	B-FOLDER
+
+please	O
+put	O
+final	B-FILE
+project	I-FILE
+report.pdf	I-FILE
+in	O
+Tools	B-FOLDER
+
+please	O
+put	O
+college	B-FILE
+assignment.pdf	I-FILE
+in	O
+Utilities	B-FOLDER
+
+please	O
+put	O
+research	B-FILE
+paper.pdf	I-FILE
+in	O
+Resources	B-FOLDER
+
+please	O
+put	O
+annual	B-FILE
+report.pdf	I-FILE
+in	O
+Media\Wallpapers	B-PATH_DIR
+
+please	O
+put	O
+user	B-FILE
+manual.pdf	I-FILE
+in	O
+Media\Downloads	B-PATH_DIR
+
+please	O
+put	O
+software	B-FILE
+guide.pdf	I-FILE
+in	O
+Media\Archive	B-PATH_DIR
+
+please	O
+put	O
+project	B-FILE
+proposal.pdf	I-FILE
+in	O
+Archive	B-PATH_DIR
+
+can	O
+you	O
+move	O
+resume.pdf	B-FILE
+
+can	O
+you	O
+move	O
+updated	B-FILE
+resume.pdf	I-FILE
+
+can	O
+you	O
+move	O
+invoice.pdf	B-FILE
+
+can	O
+you	O
+move	O
+payment	B-FILE
+receipt.pdf	I-FILE
+
+can	O
+you	O
+move	O
+Media\Audio\voice	B-PATH_FILE
+recording.wav	I-PATH_FILE
+
+can	O
+you	O
+move	O
+Research\Machine	B-PATH_FILE
+Learning\research	I-PATH_FILE
+paper.pdf	I-PATH_FILE
+
+can	O
+you	O
+move	O
+Research\Machine	B-PATH_FILE
+Learning\training	I-PATH_FILE
+data.csv	I-PATH_FILE
+
+can	O
+you	O
+move	O
+Research\Reports\experiment	B-PATH_FILE
+results.xlsx	I-PATH_FILE
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Projects2025	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Completed	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Pending	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Temporary	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Archive\2025	B-PATH_DIR
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Archive\2026	B-PATH_DIR
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Archive\Projects	B-PATH_DIR
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Archive\College	B-PATH_DIR
+
+can	O
+you	O
+move	O
+certificate.pdf	B-FILE
+to	O
+OldFiles	B-FOLDER
+
+can	O
+you	O
+move	O
+course	B-FILE
+syllabus.pdf	I-FILE
+to	O
+NewFiles	B-FOLDER
+
+can	O
+you	O
+move	O
+question	B-FILE
+paper.pdf	I-FILE
+to	O
+Important	B-FOLDER
+
+can	O
+you	O
+move	O
+exam	B-FILE
+schedule.pdf	I-FILE
+to	O
+Shared	B-FOLDER
+
+can	O
+you	O
+move	O
+Research\Reports\final	B-PATH_FILE
+paper.docx	I-PATH_FILE
+to	O
+Public	B-FOLDER
+
+can	O
+you	O
+move	O
+Source\Python\automation.py	B-PATH_FILE
+to	O
+Private	B-FOLDER
+
+can	O
+you	O
+move	O
+Source\Python\configuration.py	B-PATH_FILE
+to	O
+PersonalFiles	B-FOLDER
+
+can	O
+you	O
+move	O
+Source\Cpp\file	B-PATH_FILE
+manager.cpp	I-PATH_FILE
+to	O
+WorkFiles	B-FOLDER
+
+can	O
+you	O
+move	O
+report.docx	B-FILE
+to	O
+CollegeFiles	B-FOLDER
+
+can	O
+you	O
+move	O
+project	B-FILE
+report.docx	I-FILE
+to	O
+StudyMaterial	B-FOLDER
+
+can	O
+you	O
+move	O
+final	B-FILE
+project	I-FILE
+report.docx	I-FILE
+to	O
+StudyNotes	B-FOLDER
+
+can	O
+you	O
+move	O
+college	B-FILE
+assignment.docx	I-FILE
+to	O
+StudyProjects	B-FOLDER
+
+can	O
+you	O
+move	O
+assignment	B-FILE
+submission.docx	I-FILE
+to	O
+Archive\Reports	B-PATH_DIR
+
+can	O
+you	O
+move	O
+meeting	B-FILE
+notes.docx	I-FILE
+to	O
+Archive\OldDocuments	B-PATH_DIR
+
+can	O
+you	O
+move	O
+project	B-FILE
+proposal.docx	I-FILE
+to	O
+Archive\Backups	B-PATH_DIR
+
+can	O
+you	O
+move	O
+application	B-FILE
+letter.docx	I-FILE
+to	O
+Archive\CompletedProjects	B-PATH_DIR
+
+can	O
+you	O
+put	O
+cover	B-FILE
+letter.docx	I-FILE
+in	O
+Semester5	B-FOLDER
+
+can	O
+you	O
+put	O
+resume.docx	B-FILE
+in	O
+Semester6	B-FOLDER
+
+can	O
+you	O
+put	O
+student	B-FILE
+details.docx	I-FILE
+in	O
+Semester7	B-FOLDER
+
+can	O
+you	O
+put	O
+budget.xlsx	B-FILE
+in	O
+OS	B-FOLDER
+
+can	O
+you	O
+put	O
+Source\Java\DatabaseManager.java	B-PATH_FILE
+in	O
+DBMS	B-FOLDER
+
+can	O
+you	O
+put	O
+Source\Web\index.html	B-PATH_FILE
+in	O
+AI	B-FOLDER
+
+can	O
+you	O
+put	O
+Source\Web\login.html	B-PATH_FILE
+in	O
+ML	B-FOLDER
+
+can	O
+you	O
+put	O
+Reports\2026\January\monthly	B-PATH_FILE
+report.pdf	I-PATH_FILE
+in	O
+CloudComputing	B-FOLDER
+
+can	O
+you	O
+put	O
+monthly	B-FILE
+budget.xlsx	I-FILE
+in	O
+ComputerNetworks	B-FOLDER
+
+can	O
+you	O
+put	O
+annual	B-FILE
+budget.xlsx	I-FILE
+in	O
+OperatingSystems	B-FOLDER
+
+can	O
+you	O
+put	O
+student	B-FILE
+marks.xlsx	I-FILE
+in	O
+SoftwareEngineering	B-FOLDER
+
+can	O
+you	O
+put	O
+attendance	B-FILE
+record.xlsx	I-FILE
+in	O
+Assignments2026	B-FOLDER
+
+can	O
+you	O
+put	O
+employee	B-FILE
+details.xlsx	I-FILE
+in	O
+Archive\TemporaryFiles	B-PATH_DIR
+
+can	O
+you	O
+put	O
+project	B-FILE
+schedule.xlsx	I-FILE
+in	O
+Archive\PreviousVersions	B-PATH_DIR
+
+can	O
+you	O
+put	O
+expense	B-FILE
+report.xlsx	I-FILE
+in	O
+ClientWork	B-PATH_DIR
+
+can	O
+you	O
+put	O
+sales	B-FILE
+data.xlsx	I-FILE
+in	O
+ClientWork\Website	B-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+LabWork	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+PracticalFiles	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+QuestionPapers	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+ExamPapers	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+ClientWork\Website\Source	B-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+ClientWork\Website\Assets	B-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+ClientWork\Reports	B-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+ClientWork\Documents	B-PATH_DIR
+
+could	O
+you	O
+move	O
+employee_data.csv	B-FILE
+
+could	O
+you	O
+move	O
+student_data.csv	B-FILE
+
+could	O
+you	O
+move	O
+contact_list.csv	B-FILE
+
+could	O
+you	O
+move	O
+transaction_data.csv	B-FILE
+
+could	O
+you	O
+move	O
+Reports\2026\March\expense	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+could	O
+you	O
+move	O
+Reports\2026\September\project	B-PATH_FILE
+summary.docx	I-PATH_FILE
+
+could	O
+you	O
+move	O
+Semester	B-PATH_FILE
+5\OS\unit	I-PATH_FILE
+1	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+could	O
+you	O
+move	O
+Semester	B-PATH_FILE
+5\DBMS\unit	I-PATH_FILE
+2	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Results	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Certificates	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Reports2026	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+MonthlyReports	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+ClientWork\Invoices	B-PATH_DIR
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+ClientWork\Projects	B-PATH_DIR
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+ClientWork\Backups	B-PATH_DIR
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+ProjectAlpha	B-PATH_DIR
+
+could	O
+you	O
+move	O
+attendance.csv	B-FILE
+to	O
+AnnualReports	B-FOLDER
+
+could	O
+you	O
+move	O
+main.py	B-FILE
+to	O
+FinancialReports	B-FOLDER
+
+could	O
+you	O
+move	O
+app.py	B-FILE
+to	O
+ProjectReports	B-FOLDER
+
+could	O
+you	O
+move	O
+server.py	B-FILE
+to	O
+ResearchReports	B-FOLDER
+
+could	O
+you	O
+move	O
+Semester	B-PATH_FILE
+5\Projects\database	I-PATH_FILE
+project.sql	I-PATH_FILE
+to	O
+ClientReports	B-FOLDER
+
+could	O
+you	O
+move	O
+Semester	B-PATH_FILE
+5\Projects\final	I-PATH_FILE
+presentation.pptx	I-PATH_FILE
+to	O
+TestData	B-FOLDER
+
+could	O
+you	O
+move	O
+My	B-PATH_FILE
+Files\Important	I-PATH_FILE
+Documents\passport	I-PATH_FILE
+copy.pdf	I-PATH_FILE
+to	O
+InputData	B-FOLDER
+
+could	O
+you	O
+move	O
+My	B-PATH_FILE
+Files\Projects\WinPilot\main.py	I-PATH_FILE
+to	O
+OutputData	B-FOLDER
+
+could	O
+you	O
+move	O
+client.py	B-FILE
+to	O
+ExpectedResults	B-FOLDER
+
+could	O
+you	O
+move	O
+automation.py	B-FILE
+to	O
+SampleData	B-FOLDER
+
+could	O
+you	O
+move	O
+data	B-FILE
+processing.py	I-FILE
+to	O
+RawData	B-FOLDER
+
+could	O
+you	O
+move	O
+database.py	B-FILE
+to	O
+ProcessedData	B-FOLDER
+
+could	O
+you	O
+move	O
+configuration.py	B-FILE
+to	O
+ProjectAlpha\SourceCode	B-PATH_DIR
+
+could	O
+you	O
+move	O
+utility	B-FILE
+functions.py	I-FILE
+to	O
+ProjectAlpha\Documentation	B-PATH_DIR
+
+could	O
+you	O
+move	O
+test.py	B-FILE
+to	O
+ProjectAlpha\TestData	B-PATH_DIR
+
+could	O
+you	O
+move	O
+main.cpp	B-FILE
+to	O
+ProjectAlpha\Releases	B-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+ExportData	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+ImportData	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+SourceCode	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+DocumentationFiles	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+ProjectAlpha\Assets	B-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+ProjectBeta	B-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+ProjectBeta\Source	B-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+ProjectBeta\Database	B-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+program.cpp	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+source.cpp	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+calculator.cpp	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+student	B-FILE
+management.cpp	I-FILE
+
+I	O
+want	O
+to	O
+move	O
+My	B-PATH_FILE
+Files\Projects\WinPilot\project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+My	B-PATH_FILE
+Files\College\Assignments\assignment	I-PATH_FILE
+submission.docx	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+Client	B-PATH_FILE
+Work\Website\src\index.html	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+Client	B-PATH_FILE
+Work\Website\assets\company	I-PATH_FILE
+logo.png	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+file	B-FILE
+manager.cpp	I-FILE
+to	O
+ReleaseFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+main.c	B-FILE
+to	O
+TestFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+helper.c	B-FILE
+to	O
+ConfigFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+header.h	B-FILE
+to	O
+LogFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+Client	B-PATH_FILE
+Work\Reports\client	I-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+SystemFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+Client	B-PATH_FILE
+Work\Invoices\payment	I-PATH_FILE
+receipt.pdf	I-PATH_FILE
+to	O
+UserFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+Project	B-PATH_FILE
+Alpha\Source	I-PATH_FILE
+Code\main.py	I-PATH_FILE
+to	O
+MyFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+Project	B-PATH_FILE
+Alpha\Documentation\user	I-PATH_FILE
+manual.pdf	I-PATH_FILE
+to	O
+ImportantDocuments	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+Main.java	B-FILE
+to	O
+PreviousVersions	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+Student.java	B-FILE
+to	O
+CompletedProjects	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+DatabaseManager.java	B-FILE
+to	O
+TemporaryFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+script.js	B-FILE
+to	O
+Projects	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+app.js	B-FILE
+to	O
+ProjectBeta\Reports	B-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+index.html	B-FILE
+to	O
+ProjectBeta\Documentation	B-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+login.html	B-FILE
+to	O
+Semester5\OS	B-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+dashboard.html	B-FILE
+to	O
+Semester5\DBMS	B-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+WinPilot	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Source	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Data	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Documentation	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Semester5\Projects	B-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Semester5\Notes	B-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Semester5\Assignments	B-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+MyFiles\Projects	B-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+style.css	B-FILE
+
+I	O
+need	O
+to	O
+move	O
+main.css	B-FILE
+
+I	O
+need	O
+to	O
+move	O
+config.json	B-FILE
+
+I	O
+need	O
+to	O
+move	O
+package.json	B-FILE
+
+I	O
+need	O
+to	O
+move	O
+Project	B-PATH_FILE
+Alpha\Test	I-PATH_FILE
+Data\sample	I-PATH_FILE
+data.csv	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+Project	B-PATH_FILE
+Alpha\Releases\application	I-PATH_FILE
+installer.zip	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+Project	B-PATH_FILE
+Beta\Reports\final	I-PATH_FILE
+report.docx	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+Project	B-PATH_FILE
+Beta\Database\schema.sql	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Archives	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Backup	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+College	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Assignments	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+MyFiles\College	B-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+MyFiles\Personal	B-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+MyFiles\Work	B-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+MyFiles\ImportantDocuments	B-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+user	B-FILE
+data.json	I-FILE
+to	O
+Notes	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+application	B-FILE
+settings.json	I-FILE
+to	O
+Projects2026	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+database	B-FILE
+backup.json	I-FILE
+to	O
+Exams	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+data.xml	B-FILE
+to	O
+Documents	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+Project	B-PATH_FILE
+Beta\Assets\project	I-PATH_FILE
+image.png	I-PATH_FILE
+to	O
+Work	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+Machine	B-PATH_FILE
+Learning\Models\trained	I-PATH_FILE
+model.pkl	I-PATH_FILE
+to	O
+Reports	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+Machine	B-PATH_FILE
+Learning\Data\training	I-PATH_FILE
+dataset.csv	I-PATH_FILE
+to	O
+Meetings	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+Machine	B-PATH_FILE
+Learning\Reports\model	I-PATH_FILE
+results.xlsx	I-PATH_FILE
+to	O
+Clients	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+configuration.xml	B-FILE
+to	O
+Invoices	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+settings.yaml	B-FILE
+to	O
+Personal	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+docker-compose.yml	B-FILE
+to	O
+Photos	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+database.sql	B-FILE
+to	O
+Videos	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+schema.sql	B-FILE
+to	O
+2026	B-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+create	B-FILE
+tables.sql	I-FILE
+to	O
+2026\January	B-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+backup	B-FILE
+database.sql	I-FILE
+to	O
+2026\March	B-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+database.db	B-FILE
+to	O
+2026\September	B-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+application.db	B-FILE
+to	O
+Finance	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+records.sqlite	B-FILE
+to	O
+Travel	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+local	B-FILE
+database.sqlite	I-FILE
+to	O
+Research	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+backup.bak	B-FILE
+to	O
+MachineLearning	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+Machine	B-PATH_FILE
+Learning\Documentation\project	I-PATH_FILE
+documentation.pdf	I-PATH_FILE
+to	O
+Datasets	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\app.py	I-PATH_FILE
+to	O
+Models	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\requirements.txt	I-PATH_FILE
+to	O
+Experiments	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\templates\index.html	I-PATH_FILE
+to	O
+Papers	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+archive.zip	B-FILE
+to	O
+References	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+project	B-FILE
+backup.zip	I-FILE
+to	O
+Development	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+documents	B-FILE
+archive.zip	I-FILE
+to	O
+Programming	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+backup	B-FILE
+files.rar	I-FILE
+to	O
+Python	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+project	B-FILE
+files.7z	I-FILE
+to	O
+2026\October	B-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+photo.jpg	B-FILE
+to	O
+2026\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+profile	B-FILE
+photo.jpg	I-FILE
+to	O
+2026\Reports	B-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+family	B-FILE
+photo.jpg	I-FILE
+to	O
+TestData\Input	B-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+screenshot.png	B-FILE
+to	O
+Cpp	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+project	B-FILE
+diagram.png	I-FILE
+to	O
+Java	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+company	B-FILE
+logo.svg	I-FILE
+to	O
+JavaScript	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+scanned	B-FILE
+document.jpeg	I-FILE
+to	O
+Web	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\static\style.css	I-PATH_FILE
+to	O
+Scripts	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+File	B-PATH_FILE
+Manager\Source\file_manager.cpp	I-PATH_FILE
+to	O
+Libraries	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+File	B-PATH_FILE
+Manager\Documentation\project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+Tests	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+File	B-PATH_FILE
+Manager\Test	I-PATH_FILE
+Files\sample	I-PATH_FILE
+document.txt	I-PATH_FILE
+to	O
+Configuration	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+presentation.pptx	B-FILE
+to	O
+Media	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+project	B-FILE
+presentation.pptx	I-FILE
+to	O
+Images	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+final	B-FILE
+presentation.pptx	I-FILE
+to	O
+Audio	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+seminar	B-FILE
+slides.ppt	I-FILE
+to	O
+Presentations	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+lecture	B-FILE
+recording.mp4	I-FILE
+to	O
+TestData\Output	B-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+tutorial	B-FILE
+video.mp4	I-FILE
+to	O
+TestData\ExpectedResults	B-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+music	B-FILE
+collection.mp3	I-FILE
+to	O
+.\Projects	B-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+voice	B-FILE
+recording.wav	I-FILE
+to	O
+.\Projects\Source	B-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+project	B-FILE
+image.webp	I-FILE
+to	O
+Screenshots	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+Dockerfile	B-FILE
+to	O
+Recordings	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+Makefile	B-FILE
+to	O
+Wallpapers	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+LICENSE	B-FILE
+to	O
+Downloads	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+Test	B-PATH_FILE
+Data\Input\input	I-PATH_FILE
+file.csv	I-PATH_FILE
+to	O
+Storage	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+Test	B-PATH_FILE
+Data\Output\expected	I-PATH_FILE
+results.csv	I-PATH_FILE
+to	O
+Database	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+Test	B-PATH_FILE
+Data\Reports\test	I-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+Databases	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+New	B-PATH_FILE
+Folder\project	I-PATH_FILE
+notes.txt	I-PATH_FILE
+to	O
+SQL	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+.gitignore	B-FILE
+to	O
+MySQL	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+.env	B-FILE
+to	O
+PostgreSQL	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+configuration.ini	B-FILE
+to	O
+Oracle	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+application.cfg	B-FILE
+to	O
+Server	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+startup.bat	B-FILE
+to	O
+.\College\Notes	B-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+install	B-FILE
+script.ps1	I-FILE
+to	O
+.\Work\Reports	B-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+setup.exe	B-FILE
+to	O
+.\Data\Processed	B-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+application	B-FILE
+installer.msi	I-FILE
+to	O
+..\Projects	B-PATH_DIR
+
+move	O
+library.dll	B-FILE
+from	O
+Client	B-FOLDER
+to	O
+Network	B-FOLDER
+
+move	O
+system	B-FILE
+backup.img	I-FILE
+from	O
+Security	B-FOLDER
+to	O
+Systems	B-FOLDER
+
+move	O
+virtual	B-FILE
+machine.iso	I-FILE
+from	O
+Applications	B-FOLDER
+to	O
+Software	B-FOLDER
+
+move	O
+notes.txt	B-FILE
+from	O
+Tools	B-FOLDER
+to	O
+Utilities	B-FOLDER
+
+move	O
+todo.txt	B-FILE
+from	O
+Resources	B-FOLDER
+to	O
+Projects2025	B-FOLDER
+
+move	O
+readme.txt	B-FILE
+from	O
+Completed	B-FOLDER
+to	O
+Pending	B-FOLDER
+
+move	O
+summary.txt	B-FILE
+from	O
+Temporary	B-FOLDER
+to	O
+OldFiles	B-FOLDER
+
+move	O
+draft.txt	B-FILE
+from	O
+NewFiles	B-FOLDER
+to	O
+Important	B-FOLDER
+
+move	O
+final	B-FILE
+notes.txt	I-FILE
+from	O
+..\Documents	B-PATH_DIR
+to	O
+..\Backup	B-PATH_DIR
+
+move	O
+project	B-FILE
+notes.txt	I-FILE
+from	O
+..\College\Assignments	B-PATH_DIR
+to	O
+..\Archive	B-PATH_DIR
+
+move	O
+meeting	B-FILE
+notes.txt	I-FILE
+from	O
+C:\Users\Ankit\Projects	B-PATH_DIR
+to	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+
+move	O
+college	B-FILE
+notes.txt	I-FILE
+from	O
+C:\Users\Ankit\Documents\College	B-PATH_DIR
+to	O
+C:\Users\Ankit\Documents\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+semester	B-FILE
+notes.txt	I-FILE
+from	O
+Shared	B-FOLDER
+to	O
+Public	B-FOLDER
+
+move	O
+the	O
+file	O
+personal	B-FILE
+notes.txt	I-FILE
+from	O
+Private	B-FOLDER
+to	O
+PersonalFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+work	B-FILE
+notes.txt	I-FILE
+from	O
+WorkFiles	B-FOLDER
+to	O
+CollegeFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+daily	B-FILE
+tasks.txt	I-FILE
+from	O
+StudyMaterial	B-FOLDER
+to	O
+StudyNotes	B-FOLDER
+
+move	O
+the	O
+file	O
+important	B-FILE
+information.txt	I-FILE
+from	O
+StudyProjects	B-FOLDER
+to	O
+Semester5	B-FOLDER
+
+move	O
+the	O
+file	O
+contact	B-FILE
+list.txt	I-FILE
+from	O
+Semester6	B-FOLDER
+to	O
+Semester7	B-FOLDER
+
+move	O
+the	O
+file	O
+error.log	B-FILE
+from	O
+OS	B-FOLDER
+to	O
+DBMS	B-FOLDER
+
+move	O
+the	O
+file	O
+application	B-FILE
+log.log	I-FILE
+from	O
+AI	B-FOLDER
+to	O
+ML	B-FOLDER
+
+move	O
+the	O
+file	O
+debug	B-FILE
+log.log	I-FILE
+from	O
+C:\Users\Ankit\Pictures\ProjectImages	B-PATH_DIR
+to	O
+C:\Users\Ankit\OneDrive\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+access	B-FILE
+log.log	I-FILE
+from	O
+C:\Users\Public\Documents\SharedFiles	B-PATH_DIR
+to	O
+D:\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+system	B-FILE
+log.log	I-FILE
+from	O
+D:\Projects\WinPilot	B-PATH_DIR
+to	O
+D:\College\Semester5	B-PATH_DIR
+
+move	O
+the	O
+file	O
+changelog.md	B-FILE
+from	O
+D:\Work\Reports	B-PATH_DIR
+to	O
+D:\Backup\Projects	B-PATH_DIR
+
+move	O
+project	B-FILE
+documentation.md	I-FILE
+here	O
+
+move	O
+README.md	B-FILE
+here	O
+
+move	O
+getting	B-FILE
+started.md	I-FILE
+here	O
+
+move	O
+project	B-FILE
+report.pdf	I-FILE
+here	O
+
+move	O
+New	B-PATH_FILE
+Folder\backup	I-PATH_FILE
+files.zip	I-PATH_FILE
+here	O
+
+move	O
+2026\Projects\annual	B-PATH_FILE
+project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+here	O
+
+move	O
+2026\College\semester	B-PATH_FILE
+results.xlsx	I-PATH_FILE
+here	O
+
+move	O
+2026\Personal\expense	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+here	O
+
+put	O
+final	B-FILE
+project	I-FILE
+report.pdf	I-FILE
+here	O
+
+put	O
+college	B-FILE
+assignment.pdf	I-FILE
+here	O
+
+put	O
+research	B-FILE
+paper.pdf	I-FILE
+here	O
+
+put	O
+annual	B-FILE
+report.pdf	I-FILE
+here	O
+
+put	O
+2026\Work\meeting	B-PATH_FILE
+notes.docx	I-PATH_FILE
+here	O
+
+put	O
+.\report.pdf	B-PATH_FILE
+here	O
+
+put	O
+.\project	B-PATH_FILE
+report.docx	I-PATH_FILE
+here	O
+
+put	O
+.\Projects\main.py	B-PATH_FILE
+here	O
+
+send	O
+user	B-FILE
+manual.pdf	I-FILE
+here	O
+
+send	O
+software	B-FILE
+guide.pdf	I-FILE
+here	O
+
+send	O
+project	B-FILE
+proposal.pdf	I-FILE
+here	O
+
+send	O
+resume.pdf	B-FILE
+here	O
+
+send	O
+.\Projects\data\results.csv	B-PATH_FILE
+here	O
+
+send	O
+.\College\Notes\exam	B-PATH_FILE
+notes.pdf	I-PATH_FILE
+here	O
+
+send	O
+..\report.pdf	B-PATH_FILE
+here	O
+
+send	O
+..\Documents\resume.pdf	B-PATH_FILE
+here	O
+
+move	O
+the	O
+file	O
+to	O
+my	O
+CloudComputing	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+ComputerNetworks	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+OperatingSystems	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+SoftwareEngineering	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+E:\Research	B-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+E:\Research\Datasets	B-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+E:\Media\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+E:\Archive\OldFiles	B-PATH_DIR
+
+move	O
+updated	B-FILE
+resume.pdf	I-FILE
+to	O
+my	O
+Assignments2026	B-FOLDER
+
+move	O
+invoice.pdf	B-FILE
+to	O
+my	O
+LabWork	B-FOLDER
+
+move	O
+payment	B-FILE
+receipt.pdf	I-FILE
+to	O
+my	O
+PracticalFiles	B-FOLDER
+
+move	O
+certificate.pdf	B-FILE
+to	O
+my	O
+QuestionPapers	B-FOLDER
+
+move	O
+..\Projects\main.py	B-PATH_FILE
+to	O
+my	O
+ExamPapers	B-FOLDER
+
+move	O
+..\Backup\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+to	O
+my	O
+Results	B-FOLDER
+
+move	O
+C:\Users\Ankit\Documents\report.pdf	B-PATH_FILE
+to	O
+my	O
+Certificates	B-FOLDER
+
+move	O
+C:\Users\Ankit\Projects\WinPilot\main.py	B-PATH_FILE
+to	O
+my	O
+Reports2026	B-FOLDER
+
+move	O
+course	B-FILE
+syllabus.pdf	I-FILE
+to	O
+my	O
+MonthlyReports	B-FOLDER
+
+move	O
+question	B-FILE
+paper.pdf	I-FILE
+to	O
+my	O
+AnnualReports	B-FOLDER
+
+move	O
+exam	B-FILE
+schedule.pdf	I-FILE
+to	O
+my	O
+FinancialReports	B-FOLDER
+
+move	O
+report.docx	B-FILE
+to	O
+my	O
+ProjectReports	B-FOLDER
+
+move	O
+project	B-FILE
+report.docx	I-FILE
+to	O
+my	O
+TestData\Input	B-PATH_DIR
+
+move	O
+final	B-FILE
+project	I-FILE
+report.docx	I-FILE
+to	O
+my	O
+TestData\Output	B-PATH_DIR
+
+move	O
+college	B-FILE
+assignment.docx	I-FILE
+to	O
+my	O
+TestData\ExpectedResults	B-PATH_DIR
+
+move	O
+assignment	B-FILE
+submission.docx	I-FILE
+to	O
+my	O
+.\Projects	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+ResearchReports	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+ClientReports	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+TestData	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+InputData	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+.\Projects\Source	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+.\College\Notes	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+.\Work\Reports	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+.\Data\Processed	B-PATH_DIR
+
+put	O
+meeting	B-FILE
+notes.docx	I-FILE
+in	O
+my	O
+OutputData	B-FOLDER
+
+put	O
+project	B-FILE
+proposal.docx	I-FILE
+in	O
+my	O
+ExpectedResults	B-FOLDER
+
+put	O
+application	B-FILE
+letter.docx	I-FILE
+in	O
+my	O
+SampleData	B-FOLDER
+
+put	O
+cover	B-FILE
+letter.docx	I-FILE
+in	O
+my	O
+RawData	B-FOLDER
+
+put	O
+C:\Users\Ankit\College\Assignments\dbms	B-PATH_FILE
+assignment.docx	I-PATH_FILE
+in	O
+my	O
+ProcessedData	B-FOLDER
+
+put	O
+C:\Users\Ankit\Pictures\project	B-PATH_FILE
+diagram.png	I-PATH_FILE
+in	O
+my	O
+ExportData	B-FOLDER
+
+put	O
+C:\Users\Ankit\Desktop\Projects\final	B-PATH_FILE
+report.pdf	I-PATH_FILE
+in	O
+my	O
+ImportData	B-FOLDER
+
+put	O
+C:\Users\Ankit\OneDrive\Projects\project	B-PATH_FILE
+notes.txt	I-PATH_FILE
+in	O
+my	O
+SourceCode	B-FOLDER
+
+put	O
+resume.docx	B-FILE
+in	O
+my	O
+DocumentationFiles	B-FOLDER
+
+put	O
+student	B-FILE
+details.docx	I-FILE
+in	O
+my	O
+ReleaseFiles	B-FOLDER
+
+put	O
+budget.xlsx	B-FILE
+in	O
+my	O
+TestFiles	B-FOLDER
+
+put	O
+monthly	B-FILE
+budget.xlsx	I-FILE
+in	O
+my	O
+ConfigFiles	B-FOLDER
+
+put	O
+annual	B-FILE
+budget.xlsx	I-FILE
+in	O
+my	O
+..\Projects	B-PATH_DIR
+
+put	O
+student	B-FILE
+marks.xlsx	I-FILE
+in	O
+my	O
+..\Documents	B-PATH_DIR
+
+put	O
+attendance	B-FILE
+record.xlsx	I-FILE
+in	O
+my	O
+..\Backup	B-PATH_DIR
+
+put	O
+employee	B-FILE
+details.xlsx	I-FILE
+in	O
+my	O
+..\College\Assignments	B-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+LogFiles	B-FOLDER
+to	O
+SystemFiles	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+UserFiles	B-FOLDER
+to	O
+MyFiles	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+ImportantDocuments	B-FOLDER
+to	O
+PreviousVersions	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+CompletedProjects	B-FOLDER
+to	O
+TemporaryFiles	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+..\Archive	B-PATH_DIR
+to	O
+C:\Users\Ankit\Projects	B-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+to	O
+C:\Users\Ankit\Documents\College	B-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+C:\Users\Ankit\Documents\Projects	B-PATH_DIR
+to	O
+C:\Users\Ankit\Pictures\ProjectImages	B-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+C:\Users\Ankit\OneDrive\Projects	B-PATH_DIR
+to	O
+C:\Users\Public\Documents\SharedFiles	B-PATH_DIR
+
+move	O
+a	O
+file	O
+
+move	O
+file	O
+
+move	O
+a	O
+new	O
+file	O
+
+move	O
+one	O
+file	O
+
+move	O
+the	O
+file	O
+
+move	O
+this	O
+file	O
+
+move	O
+that	O
+file	O
+
+please	O
+move	O
+the	O
+file	O
+
+can	O
+you	O
+move	O
+the	O
+file	O
+
+could	O
+you	O
+move	O
+the	O
+file	O
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+
+move	O
+the	O
+file	O
+here	O
+
+put	O
+the	O
+file	O
+here	O
+
+move	O
+a	O
+file	O
+from	O
+one	O
+folder	O
+to	O
+another	O
+
+move	O
+the	O
+file	O
+from	O
+one	O
+folder	O
+to	O
+another	O
+

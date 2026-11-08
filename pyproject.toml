@@ -13,5 +13,12 @@ dependencies = [
     "python-dotenv>=1.2.4",
 ]
 
+[project.optional-dependencies]
+nlp = [
+    "scikit-learn>=1.5",
+    "torch>=2.6",
+    "transformers>=4.50",
+]
+
 [tool.uv]
 package = false

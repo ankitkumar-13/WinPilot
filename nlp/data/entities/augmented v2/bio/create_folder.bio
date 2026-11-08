@@ -1,0 +1,7743 @@
+add	O
+a	O
+directory	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Clients	I-FOLDER
+
+add	O
+a	O
+directory	O
+called	O
+Project	B-FOLDER
+Students	I-FOLDER
+
+add	O
+a	O
+directory	O
+called	O
+Dashboards	B-FOLDER
+
+add	O
+a	O
+directory	O
+called	O
+University	B-FOLDER
+Responses	I-FOLDER
+
+add	O
+a	O
+directory	O
+called	O
+Team	B-FOLDER
+Exports	I-FOLDER
+
+add	O
+a	O
+directory	O
+called	O
+D:\Research\Audio	B-PATH_DIR
+Troubleshooting\HR\Semester	I-PATH_DIR
+4	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+called	O
+\\192.168.1.20\teamshare\client	B-PATH_DIR
+files\frontend\Bank	I-PATH_DIR
+Statements	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+called	O
+D:\WinPilot\Home	B-PATH_DIR
+Repairs\meeting	I-PATH_DIR
+notes\WinPilot	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+called	O
+D:\Data\generated\marketing\Year	B-PATH_DIR
+Contracts	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+called	O
+\\FileServer\Departments\generated\Travel	B-PATH_DIR
+Planning\Semester	I-PATH_DIR
+8	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+named	O
+Year	B-FOLDER
+Photos	I-FOLDER
+
+add	O
+a	O
+directory	O
+named	O
+Ambiguous	B-FOLDER
+Commands	I-FOLDER
+
+add	O
+a	O
+directory	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+Semester	I-FOLDER
+7	I-FOLDER
+
+add	O
+a	O
+directory	O
+named	O
+GEHU	B-FOLDER
+Forms	I-FOLDER
+
+add	O
+a	O
+directory	O
+named	O
+Team	B-FOLDER
+Drafts	I-FOLDER
+
+add	O
+a	O
+directory	O
+named	O
+C:\ProgramData\Lab	B-PATH_DIR
+Work\datasets\recordings	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Downloads\Client	B-PATH_DIR
+A\Lab	I-PATH_DIR
+Work\Year	I-PATH_DIR
+Scripts	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+named	O
+D:\Work\Release	B-PATH_DIR
+1.4	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+named	O
+E:\Personal\training	B-PATH_DIR
+data\Network	I-PATH_DIR
+Captures\Project	I-PATH_DIR
+Working	I-PATH_DIR
+
+add	O
+a	O
+directory	O
+named	O
+C:\Program	B-PATH_DIR
+Files	I-PATH_DIR
+(x86)\WinPilot\Lab	I-PATH_DIR
+Work\Department	I-PATH_DIR
+Metrics	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Policies	I-FOLDER
+
+add	O
+a	O
+folder	O
+called	O
+Text	B-FOLDER
+Normalisation	I-FOLDER
+
+add	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Responses	I-FOLDER
+
+add	O
+a	O
+folder	O
+called	O
+Identity	B-FOLDER
+Documents	I-FOLDER
+
+add	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Ready	I-FOLDER
+to	I-FOLDER
+Submit	I-FOLDER
+
+add	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Pictures\Assignments\meeting	B-PATH_DIR
+notes\Teacher	I-PATH_DIR
+Notes	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+called	O
+E:\Personal\Travel	B-PATH_DIR
+Planning\NER	I-PATH_DIR
+experiments\Duplicate	I-PATH_DIR
+Review	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+called	O
+E:\Incoming\invoices\Device	B-PATH_DIR
+Reports\Warranty	I-PATH_DIR
+Expiry	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads\Test	B-PATH_DIR
+Results	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+called	O
+D:\College\GEHU\backups\To	B-PATH_DIR
+Submit\Year	I-PATH_DIR
+Planning	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+named	O
+University	B-FOLDER
+Outputs	I-FOLDER
+
+add	O
+a	O
+folder	O
+named	O
+College	B-FOLDER
+Scripts	I-FOLDER
+
+add	O
+a	O
+folder	O
+named	O
+Help	B-FOLDER
+Centre	I-FOLDER
+Articles	I-FOLDER
+
+add	O
+a	O
+folder	O
+named	O
+Placement	B-FOLDER
+Preparation	I-FOLDER
+
+add	O
+a	O
+folder	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Builds	I-FOLDER
+
+add	O
+a	O
+folder	O
+named	O
+\\NAS01\Shared\website\validation	B-PATH_DIR
+data\Parser	I-PATH_DIR
+Tests	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+named	O
+C:\Dev\Datasets	B-PATH_DIR
+
+add	O
+a	O
+folder	O
+named	O
+D:\Data\Release	B-PATH_DIR
+1.4\finance\Comics	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+named	O
+D:\College\GEHU\Driver	B-PATH_DIR
+Backups\Shared	I-PATH_DIR
+Documents\Team	I-PATH_DIR
+Revisions	I-PATH_DIR
+
+add	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Downloads\Photos	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Reports	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+College	B-FOLDER
+Metrics	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+Client	B-FOLDER
+Private	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+System	B-FOLDER
+Recovery	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+College	B-FOLDER
+-	I-FOLDER
+Semester	I-FOLDER
+5	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+D:\Work\Travel	B-PATH_DIR
+Planning\presentations\Open	I-PATH_DIR
+Source	I-PATH_DIR
+Tools	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads\Projects	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+E:\Incoming\docs\photos\Project	B-PATH_DIR
+Archive	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Desktop\Videos	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\OneDrive\family	B-PATH_DIR
+photos\validation	I-PATH_DIR
+data\Personal	I-PATH_DIR
+Finance	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Final	I-FOLDER
+Versions	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+Week	I-FOLDER
+42	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Node	B-FOLDER
+Packages	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Outputs	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Application	B-FOLDER
+Config	I-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+E:\Archive\training	B-PATH_DIR
+data\test	I-PATH_DIR
+results\Operations	I-PATH_DIR
+Team	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+C:\Program	B-PATH_DIR
+Files\inventory\Exam	I-PATH_DIR
+Preparation\Client	I-PATH_DIR
+Private	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+D:\Research\Certificates\October	B-PATH_DIR
+2026\Project	I-PATH_DIR
+Reviewed	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+D:\WinPilot\Week	B-PATH_DIR
+42\campaigns\Department	I-PATH_DIR
+Assets	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+D:\Staging\client	B-PATH_DIR
+files\Audio	I-PATH_DIR
+Troubleshooting\Rollback	I-PATH_DIR
+Tests	I-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Deliverables	I-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Downloads	B-FOLDER
+To	I-FOLDER
+Keep	I-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+Code	I-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Working	I-FOLDER
+Files	I-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+College	B-FOLDER
+-	I-FOLDER
+Policies	I-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Research\campaigns\database\Department	B-PATH_DIR
+2025	I-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\ProgramData\Client	B-PATH_DIR
+A\archives\Junction	I-PATH_DIR
+Tests	I-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+\\backup-server\weekly\Payroll	B-PATH_DIR
+Manager\photos\Year	I-PATH_DIR
+Policies	I-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\OneDrive\travel\tests\Rental	B-PATH_DIR
+Records	I-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+E:\College\WinPilot3	B-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+November	I-FOLDER
+2026	I-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Household	B-FOLDER
+Admin	I-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Household	B-FOLDER
+Purchases	I-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Semester	B-FOLDER
+5	I-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Current	I-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+F:\USB	B-PATH_DIR
+Backup\docs\validation	I-PATH_DIR
+data\Department	I-PATH_DIR
+Operations	I-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Pictures\logs\test	B-PATH_DIR
+results\Department	I-PATH_DIR
+Schedules	I-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+C:\Dev\generated\design	B-PATH_DIR
+files\Project	I-PATH_DIR
+Releases	I-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+E:\Archive\test	B-PATH_DIR
+results\screenshots\Team	I-PATH_DIR
+Operations	I-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+C:\Temp\Sprint	B-PATH_DIR
+13\presentations\Finance	I-PATH_DIR
+Team	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+Team	B-FOLDER
+Version	I-FOLDER
+2	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+Stock	B-FOLDER
+Reports	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Drafts	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Backups	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Responses	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+D:\Research\training	B-PATH_DIR
+data\contracts\Department	I-PATH_DIR
+Cleaned	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+E:\Archive\screenshots\travel\Year	B-PATH_DIR
+Scripts	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\ankit.kumar\Documents\Screenshots	B-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+D:\Research\Recordings	B-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\Documents\Client	B-PATH_DIR
+A	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+Performance	B-FOLDER
+Regression	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+Department	B-FOLDER
+Code	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+Project	B-FOLDER
+Week	I-FOLDER
+43	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+Videos	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+Department	B-FOLDER
+Raw	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Pictures\Release	B-PATH_DIR
+1.4\Network	I-PATH_DIR
+Captures\Client	I-PATH_DIR
+Archive	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+F:\USB	B-PATH_DIR
+Backup\receipts\customer	I-PATH_DIR
+support\Orphaned	I-PATH_DIR
+Files	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+\\OfficePC\Public\website\Home	B-PATH_DIR
+Repairs\Repair	I-PATH_DIR
+Estimates	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+D:\Projects\logs\recordings\TLS	B-PATH_DIR
+Certificates	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+named	O
+F:\External	B-PATH_DIR
+Drive\invoices\Research	I-PATH_DIR
+Papers\Year	I-PATH_DIR
+Backups	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+Incoming	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Team	B-FOLDER
+Students	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+WinPilot	B-FOLDER
+Releases	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Screen	B-FOLDER
+Captures	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Risk	B-FOLDER
+Register	I-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads\SQL	B-PATH_DIR
+Scripts	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Public\Documents\validation	B-PATH_DIR
+data\meeting	I-PATH_DIR
+notes\Client	I-PATH_DIR
+Planning	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+\\OfficePC\Public\Windows	B-PATH_DIR
+Logs\src\Project	I-PATH_DIR
+Audio	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Pictures\database\Exam	B-PATH_DIR
+Preparation\Year	I-PATH_DIR
+Archive	I-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Desktop\config\tests\Phone	B-PATH_DIR
+Backup	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+Bookings	B-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+WinPilot	B-FOLDER
+Operations	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+Home	B-FOLDER
+Maintenance	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+Submitted	B-FOLDER
+for	I-FOLDER
+Correction	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+Intent	B-FOLDER
+Models	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+D:\Research\Source	B-PATH_DIR
+Code	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+D:\Shared\Datasets	B-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+\\OfficePC\Public\Home	B-PATH_DIR
+Repairs\NER	I-PATH_DIR
+experiments\Entity	I-PATH_DIR
+Labelling	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+C:\Temp\Client	B-PATH_DIR
+A\Release	I-PATH_DIR
+1.4\WinPilot	I-PATH_DIR
+Documentation	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+called	O
+D:\Source\config\To	B-PATH_DIR
+Review\Client	I-PATH_DIR
+Schedules	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+Invitations	B-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+GEHU	B-FOLDER
+Tests	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+Documents	B-FOLDER
+for	I-FOLDER
+Bank	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+2027	B-FOLDER
+University	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+Releases	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+\\FileServer\Departments\Week	B-PATH_DIR
+42\temp\Entity	I-PATH_DIR
+Pool	I-PATH_DIR
+Rejected	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+E:\Incoming\finance\campaigns\tokenizers	B-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+C:\Program	B-PATH_DIR
+Files\inventory\datasets\Year	I-PATH_DIR
+Working	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+D:\Work\docs\datasets\VPN	B-PATH_DIR
+Profiles	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+named	O
+D:\Data\College	B-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Backups	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+University	B-FOLDER
+Customers	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Client	B-FOLDER
+Packages	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Final	I-FOLDER
+Versions	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Build	B-FOLDER
+Artifacts	I-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Source\assets\Reports\Downloads	B-PATH_DIR
+To	I-PATH_DIR
+Delete	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Work\Travel	B-PATH_DIR
+Planning\docs\Tokenisation	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+\\NAS01\Shared\Projects\Travel	B-PATH_DIR
+Planning\Migrations	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+C:\Temp\WinPilot\Semester	B-PATH_DIR
+5\Node	I-PATH_DIR
+Packages	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+E:\College\Network	B-PATH_DIR
+Captures\assets\Version	I-PATH_DIR
+3	I-PATH_DIR
+
+create	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Results	I-FOLDER
+directory	O
+
+create	O
+WinPilot	B-FOLDER
+Documents	I-FOLDER
+directory	O
+
+create	O
+University	B-FOLDER
+For	I-FOLDER
+Review	I-FOLDER
+directory	O
+
+create	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Designs	I-FOLDER
+directory	O
+
+create	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Tickets	I-FOLDER
+directory	O
+
+create	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Research	I-FOLDER
+folder	O
+
+create	O
+Device	B-FOLDER
+Manager	I-FOLDER
+folder	O
+
+create	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+2026	I-FOLDER
+folder	O
+
+create	O
+SEO	B-FOLDER
+Reports	I-FOLDER
+folder	O
+
+create	O
+Analytics	B-FOLDER
+Models	I-FOLDER
+folder	O
+
+create	O
+C:\ProgramData\model	B-PATH_DIR
+outputs\To	I-PATH_DIR
+Submit\Wireframes	I-PATH_DIR
+directory	O
+
+create	O
+C:\Users\Ankit\Desktop\Archives	B-PATH_DIR
+directory	O
+
+create	O
+C:\Users\Ankit\Desktop\Finance	B-PATH_DIR
+Team	I-PATH_DIR
+directory	O
+
+create	O
+E:\Incoming\invoices\test	B-PATH_DIR
+results\Augmentation	I-PATH_DIR
+Runs	I-PATH_DIR
+directory	O
+
+create	O
+C:\Users\Ankit\Desktop\warehouse\archives\Documents	B-PATH_DIR
+directory	O
+
+create	O
+\\FileServer\Departments\family	B-PATH_DIR
+photos\Firewall	I-PATH_DIR
+Configs\Team	I-PATH_DIR
+Finance	I-PATH_DIR
+folder	O
+
+create	O
+D:\Backups\validation	B-PATH_DIR
+data\Personal	I-PATH_DIR
+Finance\Team	I-PATH_DIR
+Revisions	I-PATH_DIR
+folder	O
+
+create	O
+E:\Archive\Travel	B-PATH_DIR
+folder	O
+
+create	O
+E:\Personal\docs\To	B-PATH_DIR
+Review\Project	I-PATH_DIR
+Planning	I-PATH_DIR
+folder	O
+
+create	O
+E:\Incoming\To	B-PATH_DIR
+Review\config\Project	I-PATH_DIR
+Proposals	I-PATH_DIR
+folder	O
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+College	B-FOLDER
+Final	I-FOLDER
+Versions	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Support	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+WinPilot	B-FOLDER
+Customers	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Shared	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+GEHU	B-FOLDER
+Archived	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+\\backup-server\weekly\receipts\Projects\Case	B-PATH_DIR
+Collision	I-PATH_DIR
+Tests	I-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+C:\Users\Ankit\Documents\Network	B-PATH_DIR
+Captures\test	I-PATH_DIR
+results\Client	I-PATH_DIR
+Checkpoints	I-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads\docs\Personal	B-PATH_DIR
+Finance\ETL	I-PATH_DIR
+Jobs	I-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+E:\College\Semester	B-PATH_DIR
+7	I-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+called	O
+C:\Users\Ankit\Documents\GEHU	B-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+History	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+Leave	B-FOLDER
+Requests	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+Client	B-FOLDER
+To	I-FOLDER
+Submit	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Audio	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+Weekly	B-FOLDER
+Reports	I-FOLDER
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+\\backup-server\weekly\WinPilot\Week	B-PATH_DIR
+42\Product	I-PATH_DIR
+Roadmap	I-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+C:\Users\Ankit\Downloads\Projects\recordings\Incident	B-PATH_DIR
+Timeline	I-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+C:\Dev\Sprint	B-PATH_DIR
+13\Audio	I-PATH_DIR
+Troubleshooting\Duplicates	I-PATH_DIR
+for	I-PATH_DIR
+Review	I-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+D:\Work\diagnostics\Semester	B-PATH_DIR
+5\Certificates	I-PATH_DIR
+
+create	O
+a	O
+child	O
+folder	O
+named	O
+F:\USB	B-PATH_DIR
+Backup\Windows	I-PATH_DIR
+Logs\recordings\3D	I-PATH_DIR
+Models	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+Email	B-FOLDER
+Attachments	I-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+Client	B-FOLDER
+Raw	I-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+Department	B-FOLDER
+Screenshots	I-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Evaluation	I-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+Delete	B-FOLDER
+Tests	I-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+E:\Media\Certificates\Network	B-PATH_DIR
+Captures\Project	I-PATH_DIR
+Week	I-PATH_DIR
+42	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\Desktop\WinPilot	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+C:\Temp\operations\Shared	B-PATH_DIR
+Documents\Client	I-PATH_DIR
+Templates	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+C:\Temp\Assets	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+F:\USB	B-PATH_DIR
+Backup\Screenshots	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+Dataset	B-FOLDER
+QA	I-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Customers	I-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+Tests	I-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+Client	B-FOLDER
+Clients	I-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Schedules	I-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Desktop\engineering\Graphics	B-PATH_DIR
+Troubleshooting\Browser	I-PATH_DIR
+Session	I-PATH_DIR
+Backups	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Desktop\Assignments	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+C:\Temp\meeting	B-PATH_DIR
+notes\Device	I-PATH_DIR
+Reports\Team	I-PATH_DIR
+Forms	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+E:\College\travel\Network	B-PATH_DIR
+Captures\Year	I-PATH_DIR
+Cleaned	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+D:\Projects\Source	B-PATH_DIR
+Code\meeting	I-PATH_DIR
+notes\Release	I-PATH_DIR
+Notes	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+To	B-FOLDER
+Submit	I-FOLDER
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+Client	B-FOLDER
+2025	I-FOLDER
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+To	B-FOLDER
+Sort	I-FOLDER
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+College	B-FOLDER
+Releases	I-FOLDER
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+System	B-FOLDER
+Logs	I-FOLDER
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+C:\Users\Ankit\OneDrive\generated\config\Department	B-PATH_DIR
+Q3	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+C:\Users\Ankit\Documents\presentations\Supplier	B-PATH_DIR
+North\Client	I-PATH_DIR
+Checkpoints	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+E:\Media\Research	B-PATH_DIR
+Papers\Travel	I-PATH_DIR
+Planning\Business	I-PATH_DIR
+Continuity	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+E:\Media\Training	B-PATH_DIR
+Data	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+F:\USB	B-PATH_DIR
+Backup\warehouse\October	I-PATH_DIR
+2026\Year	I-PATH_DIR
+2025	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Imports	I-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Project	B-FOLDER
+Archive	I-FOLDER
+2026	I-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+To	B-FOLDER
+Print	I-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+Forms	I-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Quality	B-FOLDER
+Checks	I-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Documents\Graphics	B-PATH_DIR
+Troubleshooting\Personal	I-PATH_DIR
+Finance\Year	I-PATH_DIR
+Packages	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+E:\Archive\datasets\Sprint	B-PATH_DIR
+13\Department	I-PATH_DIR
+Processed	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\Reports	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads\College	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+D:\Staging\src\Release	B-PATH_DIR
+1.4\Project	I-PATH_DIR
+Requests	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Materials	I-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Client	B-FOLDER
+Audio	I-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Project	B-FOLDER
+Evidence	I-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Client	B-FOLDER
+Receipts	I-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Videos	I-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+D:\Projects\Assignments\config\Android	B-PATH_DIR
+Debugging	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+D:\Source\Final	B-PATH_DIR
+Versions\Source	I-PATH_DIR
+Code\Company	I-PATH_DIR
+Research	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+D:\Projects\Photos	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+G:\Shared\datasets\temp\Short	B-PATH_DIR
+Term	I-PATH_DIR
+Staging	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+C:\ProgramData\intent	B-PATH_DIR
+models\intent	I-PATH_DIR
+models\Labelled	I-PATH_DIR
+Examples	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Print	I-FOLDER
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+Browser	B-FOLDER
+Extensions	I-FOLDER
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+Department	B-FOLDER
+Approved	I-FOLDER
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+October	B-FOLDER
+2026	I-FOLDER
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+Personal	B-FOLDER
+Archive	I-FOLDER
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+C:\Users\Ankit\Documents\Music	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+C:\Program	B-PATH_DIR
+Files	I-PATH_DIR
+(x86)\docs\Projects\Refund	I-PATH_DIR
+Cases	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+E:\College\Archives	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+C:\Users\Ankit\Documents\Final	B-PATH_DIR
+Versions	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+D:\Data\Research	B-PATH_DIR
+Papers\migrations\Contracts	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+GEHU	B-FOLDER
+Notes	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+Team	B-FOLDER
+Week	I-FOLDER
+42	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Move	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+recordings	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+Supplier	B-FOLDER
+Shared	I-FOLDER
+Files	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+E:\College\validation	B-PATH_DIR
+data\screenshots\Sales	I-PATH_DIR
+Reports	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+\\FileServer\Departments\assets\Exam	B-PATH_DIR
+Preparation\Compliance	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+\\192.168.1.20\teamshare\travel\warehouse\Accounts	B-PATH_DIR
+Receivable	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+D:\Projects\Temporary	B-PATH_DIR
+Exports	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+E:\Media\frontend\config\Disk	B-PATH_DIR
+Health	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Q4	B-FOLDER
+2026	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Support	B-FOLDER
+Team	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Rename	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Exports	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Bug	B-FOLDER
+Reports	I-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+D:\Research\Research	B-PATH_DIR
+Papers\Course	I-PATH_DIR
+Material\Published	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+E:\College\release	B-PATH_DIR
+builds\Reports\VPN	I-PATH_DIR
+Profiles	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+E:\Media\Release	B-PATH_DIR
+1.4	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+C:\ProgramData\datasets\inventory\Container	B-PATH_DIR
+Registry	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+E:\Archive\Docs	B-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Contracts	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+Project	B-FOLDER
+Records	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+Project	B-FOLDER
+Clients	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+Local	B-FOLDER
+Backups	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+To	I-FOLDER
+Move	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+D:\Data\Invoices	B-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+C:\Temp\meeting	B-PATH_DIR
+notes\database\DNS	I-PATH_DIR
+Exports	I-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+G:\Shared\campaigns\Shared	B-PATH_DIR
+Documents\Refund	I-PATH_DIR
+Cases	I-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+C:\Dev\Client	B-PATH_DIR
+A\Research	I-PATH_DIR
+Papers\tmp	I-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+D:\Source\training	B-PATH_DIR
+data\exports\API	I-PATH_DIR
+Responses	I-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+GEHU	B-FOLDER
+Students	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+screenshots	B-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+Tax	B-FOLDER
+Returns	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+Department	B-FOLDER
+Archive	I-FOLDER
+2026	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Archived	I-FOLDER
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+C:\Users\Public\Documents\SQL	B-PATH_DIR
+Scripts	I-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+C:\Users\Ankit\Desktop\logs\Payroll	B-PATH_DIR
+Manager\Game	I-PATH_DIR
+Capture	I-PATH_DIR
+Clips	I-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+D:\Backups\Projects	B-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+C:\Users\Ankit\Desktop\backups\Research	B-PATH_DIR
+Papers\Client	I-PATH_DIR
+Drafts	I-PATH_DIR
+
+create	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+C:\Temp\Recordings	B-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+University	B-FOLDER
+Published	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+Exam	B-FOLDER
+Preparation	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Shared	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Support	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+Frontend	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Dev\photos\warehouse\Team	B-PATH_DIR
+Suppliers	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads\Projects\backend\notebooks	B-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Dev\receipts\Semester	B-PATH_DIR
+5\Year	I-PATH_DIR
+Private	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Pictures\tests\customer	B-PATH_DIR
+support\Insurance	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\OneDrive\Research	B-PATH_DIR
+Papers\Week	I-PATH_DIR
+42\Project	I-PATH_DIR
+Photos	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Reports	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+Browser	B-FOLDER
+Session	I-FOLDER
+Backups	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Policies	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+Team	B-FOLDER
+Assets	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+GEHU	B-FOLDER
+To	I-FOLDER
+Print	I-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\Desktop\Downloads	B-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+F:\External	B-PATH_DIR
+Drive\generated\warehouse\To	I-PATH_DIR
+Move	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+E:\Archive\frontend\validation	B-PATH_DIR
+data\Patch	I-PATH_DIR
+Files	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Program	B-PATH_DIR
+Files	I-PATH_DIR
+(x86)\engineering\To	I-PATH_DIR
+Submit\Permission	I-PATH_DIR
+Boundary	I-PATH_DIR
+Tests	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\Pictures\October	B-PATH_DIR
+2026\photos\Family	I-PATH_DIR
+Photos	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Drafts	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Evidence	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Resources	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Customers	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Scripts	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+D:\Research\SQL	B-PATH_DIR
+Scripts	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+C:\Users\Ankit\OneDrive\Final	B-PATH_DIR
+Versions\Sprint	I-PATH_DIR
+13\Accounts	I-PATH_DIR
+Receivable	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+E:\College\assets\finance\Year	B-PATH_DIR
+Invoices	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+C:\ProgramData\receipts\Research	B-PATH_DIR
+Papers\Department	I-PATH_DIR
+Designs	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+called	O
+C:\Users\Ankit\Downloads\frontend\model	B-PATH_DIR
+outputs\Audits	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+Path	B-FOLDER
+Length	I-FOLDER
+Tests	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+Hackathon	B-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Videos	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+University	B-FOLDER
+Archived	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+Client	B-FOLDER
+Checkpoints	I-FOLDER
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+C:\Program	B-PATH_DIR
+Files	I-PATH_DIR
+(x86)\Assignments\recordings\Client	I-PATH_DIR
+Operations	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+C:\Users\Ankit\Downloads\Certificates\exports\Department	B-PATH_DIR
+Checkpoints	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+D:\Source\generated\Device	B-PATH_DIR
+Reports\Safety	I-PATH_DIR
+Records	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+C:\Program	B-PATH_DIR
+Files	I-PATH_DIR
+(x86)\exports\HR\Documents	I-PATH_DIR
+for	I-PATH_DIR
+HR	I-PATH_DIR
+
+create	O
+a	O
+new	O
+subfolder	O
+named	O
+D:\Shared\Assets	B-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+called	O
+University	B-FOLDER
+Tickets	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Manifests	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+called	O
+WinPilot	B-FOLDER
+To	I-FOLDER
+Sort	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Records	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+called	O
+Department	B-FOLDER
+Outputs	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+called	O
+D:\Backups\Shared	B-PATH_DIR
+Drive	I-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+called	O
+C:\Users\Ankit\Pictures\invoices\Audio	B-PATH_DIR
+Troubleshooting\Weekly	I-PATH_DIR
+Reports	I-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+called	O
+F:\External	B-PATH_DIR
+Drive\WinPilot\temp\Status	I-PATH_DIR
+Updates	I-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+called	O
+C:\Users\Ankit\Desktop\database\Exam	B-PATH_DIR
+Preparation\TLS	I-PATH_DIR
+Certificates	I-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+called	O
+D:\WinPilot\inventory\Shared	B-PATH_DIR
+Documents\Pet	I-PATH_DIR
+Care	I-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+named	O
+Team	B-FOLDER
+Checkpoints	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+named	O
+GEHU	B-FOLDER
+Materials	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Data	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+named	O
+Annotation	B-FOLDER
+Guidelines	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+named	O
+Restore	B-FOLDER
+Points	I-FOLDER
+
+create	O
+a	O
+subfolder	O
+named	O
+D:\Staging\model	B-PATH_DIR
+outputs\To	I-PATH_DIR
+Review\Compliance	I-PATH_DIR
+Evidence	I-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+named	O
+C:\Program	B-PATH_DIR
+Files	I-PATH_DIR
+(x86)\engineering\contracts\Open	I-PATH_DIR
+Source	I-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+named	O
+C:\Users\Ankit\Desktop\Music	B-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+named	O
+C:\Users\Ankit\Videos\Semester	B-PATH_DIR
+7\generated\Department	I-PATH_DIR
+Scripts	I-PATH_DIR
+
+create	O
+a	O
+subfolder	O
+named	O
+C:\Users\Public\Documents\Assignments\Lab	B-PATH_DIR
+Work\Resumes	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Customer	B-FOLDER
+Research	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Trip	B-FOLDER
+Photos	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Project	B-FOLDER
+Contracts	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Brand	B-FOLDER
+Assets	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Engineering	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+\\FileServer\Departments\invoices\Reports\Data	B-PATH_DIR
+Retention	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+C:\Users\Public\Documents\Validation	B-PATH_DIR
+Data	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Research\database\To	B-PATH_DIR
+Review\Recovery	I-PATH_DIR
+Codes	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+E:\Incoming\Final	B-PATH_DIR
+Versions\Lab	I-PATH_DIR
+Work\Year	I-PATH_DIR
+Schedules	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Work\Week	B-PATH_DIR
+42	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+Meeting	B-FOLDER
+Notes	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+Failed	B-FOLDER
+Imports	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+Appliance	B-FOLDER
+Manuals	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+Client	B-FOLDER
+Team	I-FOLDER
+B	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+Inputs	I-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Program	B-PATH_DIR
+Files\recordings\contracts\Videos	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Backups\Source	B-PATH_DIR
+Code\website\CRM	I-PATH_DIR
+Exports	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Research\Entity	B-PATH_DIR
+Pools	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Users\Ankit\Downloads\Temporary	B-PATH_DIR
+Exports	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+F:\External	B-PATH_DIR
+Drive\receipts\backups\Birthdays	I-PATH_DIR
+
+create	O
+the	O
+GEHU	B-FOLDER
+Archives	I-FOLDER
+directory	O
+
+create	O
+the	O
+GEHU	B-FOLDER
+Documents	I-FOLDER
+directory	O
+
+create	O
+the	O
+Department	B-FOLDER
+Audits	I-FOLDER
+directory	O
+
+create	O
+the	O
+Team	B-FOLDER
+Planning	I-FOLDER
+directory	O
+
+create	O
+the	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Inventory	I-FOLDER
+directory	O
+
+create	O
+the	O
+Client	B-FOLDER
+Reviewed	I-FOLDER
+folder	O
+
+create	O
+the	O
+Automation	B-FOLDER
+Runs	I-FOLDER
+folder	O
+
+create	O
+the	O
+Project	B-FOLDER
+Revisions	I-FOLDER
+folder	O
+
+create	O
+the	O
+Year	B-FOLDER
+Final	I-FOLDER
+folder	O
+
+create	O
+the	O
+WinPilot	B-FOLDER
+Photos	I-FOLDER
+folder	O
+
+create	O
+the	O
+D:\Data\Logs	B-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\Projects\warehouse\Projects\WinPilot	B-PATH_DIR
+User	I-PATH_DIR
+Commands	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\Data\invoices\entity	B-PATH_DIR
+pools\Client	I-PATH_DIR
+Validation	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\College\GEHU\Driver	B-PATH_DIR
+Backups\frontend\Model	I-PATH_DIR
+Experiments	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+E:\Archive\contracts\meeting	B-PATH_DIR
+notes\Dehradun	I-PATH_DIR
+Trip	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+C:\Users\Ankit\AppData\Local\Temp	B-PATH_DIR
+folder	O
+
+create	O
+the	O
+D:\Staging\api	B-PATH_DIR
+tests\meeting	I-PATH_DIR
+notes\Windows	I-PATH_DIR
+Diagnostics	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+D:\Shared\Sprint	B-PATH_DIR
+13	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+D:\WinPilot\assets\To	B-PATH_DIR
+Submit\Training	I-PATH_DIR
+Materials	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+D:\Data\Python	B-PATH_DIR
+Projects	I-PATH_DIR
+folder	O
+
+generate	O
+a	O
+directory	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Exports	I-FOLDER
+
+generate	O
+a	O
+directory	O
+called	O
+Fitness	B-FOLDER
+Logs	I-FOLDER
+
+generate	O
+a	O
+directory	O
+called	O
+File	B-FOLDER
+Migration	I-FOLDER
+
+generate	O
+a	O
+directory	O
+called	O
+CAD	B-FOLDER
+Drawings	I-FOLDER
+
+generate	O
+a	O
+directory	O
+called	O
+Entity	B-FOLDER
+Pool	I-FOLDER
+Sources	I-FOLDER
+
+generate	O
+a	O
+directory	O
+called	O
+C:\ProgramData\Assignments\entity	B-PATH_DIR
+pools\Team	I-PATH_DIR
+Reviewed	I-PATH_DIR
+
+generate	O
+a	O
+directory	O
+called	O
+D:\Backups\Semester	B-PATH_DIR
+7	I-PATH_DIR
+
+generate	O
+a	O
+directory	O
+called	O
+C:\Program	B-PATH_DIR
+Files	I-PATH_DIR
+(x86)\entity	I-PATH_DIR
+pools\intent	I-PATH_DIR
+models\Project	I-PATH_DIR
+Gamma	I-PATH_DIR
+
+generate	O
+a	O
+directory	O
+called	O
+E:\Media\backups\backups\Final	B-PATH_DIR
+Versions	I-PATH_DIR
+
+generate	O
+a	O
+directory	O
+called	O
+C:\Windows\System32\winevt\Logs	B-PATH_DIR
+
+generate	O
+a	O
+directory	O
+named	O
+Internationalisation	B-FOLDER
+
+generate	O
+a	O
+directory	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+For	I-FOLDER
+Review	I-FOLDER
+
+generate	O
+a	O
+directory	O
+named	O
+Client	B-FOLDER
+Requests	I-FOLDER
+
+generate	O
+a	O
+directory	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Videos	I-FOLDER
+
+generate	O
+a	O
+directory	O
+named	O
+WinPilot	B-FOLDER
+Clean	I-FOLDER
+Data	I-FOLDER
+
+generate	O
+a	O
+directory	O
+named	O
+E:\Media\Research	B-PATH_DIR
+Papers\archives\PBL	I-PATH_DIR
+Phase	I-PATH_DIR
+1	I-PATH_DIR
+
+generate	O
+a	O
+directory	O
+named	O
+E:\Archive\Personal	B-PATH_DIR
+Finance\Driver	I-PATH_DIR
+Backups\Client	I-PATH_DIR
+Records	I-PATH_DIR
+
+generate	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Desktop\invoices\Home	B-PATH_DIR
+Repairs\Department	I-PATH_DIR
+Schedules	I-PATH_DIR
+
+generate	O
+a	O
+directory	O
+named	O
+C:\Users\ankit.kumar\Documents\Model	B-PATH_DIR
+Outputs	I-PATH_DIR
+
+generate	O
+a	O
+directory	O
+named	O
+E:\Incoming\Release	B-PATH_DIR
+1.4\NER	I-PATH_DIR
+experiments\Year	I-PATH_DIR
+Working	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Builds	I-FOLDER
+
+generate	O
+a	O
+folder	O
+called	O
+Application	B-FOLDER
+Profiles	I-FOLDER
+
+generate	O
+a	O
+folder	O
+called	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+Outputs	I-FOLDER
+
+generate	O
+a	O
+folder	O
+called	O
+GEHU	B-FOLDER
+Rejected	I-FOLDER
+
+generate	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Current	I-FOLDER
+
+generate	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Videos\October	B-PATH_DIR
+2026\October	I-PATH_DIR
+2026\Content	I-PATH_DIR
+Calendar	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+called	O
+C:\Dev\Device	B-PATH_DIR
+Reports\Reports\Team	I-PATH_DIR
+Team	I-PATH_DIR
+B	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+called	O
+D:\Source\config\model	B-PATH_DIR
+outputs\Command	I-PATH_DIR
+History	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+called	O
+D:\Data\Semester	B-PATH_DIR
+7	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+called	O
+C:\Temp\Engineering	B-PATH_DIR
+Team	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+named	O
+Gaming	B-FOLDER
+Backups	I-FOLDER
+
+generate	O
+a	O
+folder	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Scripts	I-FOLDER
+
+generate	O
+a	O
+folder	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Manifests	I-FOLDER
+
+generate	O
+a	O
+folder	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Code	I-FOLDER
+
+generate	O
+a	O
+folder	O
+named	O
+Rejected	B-FOLDER
+Files	I-FOLDER
+
+generate	O
+a	O
+folder	O
+named	O
+D:\Work\Projects	B-PATH_DIR
+
+generate	O
+a	O
+folder	O
+named	O
+C:\Users\ankit.kumar\Documents\Training	B-PATH_DIR
+Data	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+named	O
+C:\Dev\Supplier	B-PATH_DIR
+North\Device	I-PATH_DIR
+Reports\Year	I-PATH_DIR
+Support	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+named	O
+D:\Backups\Travel	B-PATH_DIR
+Planning\presentations\Client	I-PATH_DIR
+Working	I-PATH_DIR
+
+generate	O
+a	O
+folder	O
+named	O
+D:\Work\engineering\intent	B-PATH_DIR
+models\Year	I-PATH_DIR
+Research	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Templates	I-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+Merge	B-FOLDER
+Conflicts	I-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Schedules	I-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+Browser	B-FOLDER
+Profiles	I-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+WinPilot	B-FOLDER
+To	I-FOLDER
+Print	I-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+D:\Research\Reports\design	B-PATH_DIR
+files\Year	I-PATH_DIR
+Tracking	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+C:\Users\Public\Documents\marketing\Personal	B-PATH_DIR
+Finance\Phone	I-PATH_DIR
+Restore	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+C:\ProgramData\frontend\Release	B-PATH_DIR
+1.4\Folder	I-PATH_DIR
+Operations	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+F:\External	B-PATH_DIR
+Drive\release	I-PATH_DIR
+builds\PBL	I-PATH_DIR
+Phase	I-PATH_DIR
+2\Revisions	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+called	O
+C:\Temp\Sprint	B-PATH_DIR
+13\operations\Order	I-PATH_DIR
+Tracking	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+Workshop	B-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+Project	B-FOLDER
+Raw	I-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+Language	B-FOLDER
+Practice	I-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+On-call	B-FOLDER
+Handover	I-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+exports	B-FOLDER
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+D:\Shared\Game	B-PATH_DIR
+Saves	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+\\192.168.1.20\teamshare\Graphics	B-PATH_DIR
+Troubleshooting\operations\Practical	I-PATH_DIR
+Exam	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+D:\Backups\Windows	B-PATH_DIR
+Logs\inventory\Ready	I-PATH_DIR
+to	I-PATH_DIR
+Share	I-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+D:\Shared\WinPilot	B-PATH_DIR
+
+I	O
+need	O
+a	O
+directory	O
+named	O
+D:\WinPilot\Semester	B-PATH_DIR
+5\PBL	I-PATH_DIR
+Phase	I-PATH_DIR
+2\Department	I-PATH_DIR
+Inputs	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+Venue	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Reference	I-FOLDER
+Material	I-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Documentation	I-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Reference	I-FOLDER
+Material	I-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Print	I-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+E:\Archive\temp\Course	B-PATH_DIR
+Material\Browser	I-PATH_DIR
+Session	I-PATH_DIR
+Backups	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+D:\Backups\Final	B-PATH_DIR
+Versions	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+C:\Users\ankit.kumar\Documents\To	B-PATH_DIR
+Submit	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+\\FileServer\Departments\Semester	B-PATH_DIR
+5\api	I-PATH_DIR
+tests\Music	I-PATH_DIR
+Playlists	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+E:\Media\presentations\Sprint	B-PATH_DIR
+13\Book	I-PATH_DIR
+Summaries	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+Banking	B-FOLDER
+Records	I-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Packages	I-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+App	B-FOLDER
+Configurations	I-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+Policies	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+Payroll	B-FOLDER
+Processing	I-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+F:\USB	B-PATH_DIR
+Backup\Old	I-PATH_DIR
+Versions	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+D:\Projects\Engineering	B-PATH_DIR
+Team	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+D:\Research\WinPilot3	B-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+C:\Dev\exports\Certificates\Restore	B-PATH_DIR
+Tests	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+E:\Media\design	B-PATH_DIR
+files\To	I-PATH_DIR
+Submit\Weekly	I-PATH_DIR
+Review	I-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+College	B-FOLDER
+2027	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Shared	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+Documents	B-FOLDER
+for	I-FOLDER
+University	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Move	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+University	B-FOLDER
+Videos	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+D:\Work\client	B-PATH_DIR
+files\frontend\Client	I-PATH_DIR
+A	I-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+C:\Temp\Presentations	B-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+D:\Projects\Windows	B-PATH_DIR
+Logs\Supplier	I-PATH_DIR
+North\Docker	I-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Desktop\Docs	B-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+called	O
+\\backup-server\weekly\Assignments\api	B-PATH_DIR
+tests\Podcast	I-PATH_DIR
+Downloads	I-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Final	I-FOLDER
+Versions	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+Pending	B-FOLDER
+Approval	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+Department	B-FOLDER
+Materials	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+Department	B-FOLDER
+Imports	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Suppliers	I-FOLDER
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+\\NAS01\Shared\entity	B-PATH_DIR
+pools\receipts\Known	I-PATH_DIR
+Issues	I-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+D:\Data\HR\imports\Year	B-PATH_DIR
+Documents	I-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+D:\Data\Source	B-PATH_DIR
+Code\screenshots\Marketing	I-PATH_DIR
+Analytics	I-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+D:\Research\Course	B-PATH_DIR
+Material\backend\Department	I-PATH_DIR
+Metrics	I-PATH_DIR
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+named	O
+E:\Archive\validation	B-PATH_DIR
+data\recordings\Out-of-Vocabulary	I-PATH_DIR
+Cases	I-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Planning	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Archived	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Label	B-FOLDER
+Disagreements	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Final	I-FOLDER
+Submission	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Client	B-FOLDER
+Archive	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Desktop\Game	B-PATH_DIR
+Saves	I-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Desktop\datasets\Final	B-PATH_DIR
+Versions\Team	I-PATH_DIR
+Notes	I-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+\\192.168.1.20\teamshare\archives\backend\Analytics	B-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+D:\Backups\logs\Exam	B-PATH_DIR
+Preparation\Scanned	I-PATH_DIR
+Originals	I-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+D:\Backups\website\release	B-PATH_DIR
+builds\recordings	I-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+College	B-FOLDER
+To	I-FOLDER
+Print	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+entity	B-FOLDER
+pools	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+Container	B-FOLDER
+Registry	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+Project	B-FOLDER
+Forms	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+Game	B-FOLDER
+Saves	I-FOLDER
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Documents\Presentations	B-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Documents\config\assets\Client	B-PATH_DIR
+Suppliers	I-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+D:\Projects\Entity	B-PATH_DIR
+Pools	I-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Pictures\src\travel\Year	B-PATH_DIR
+Q4	I-PATH_DIR
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+C:\Temp\Assignments\Old	B-PATH_DIR
+Versions\Lecture	I-PATH_DIR
+Recordings	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+Restricted	B-FOLDER
+Documents	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+GEHU	B-FOLDER
+Approved	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+College	B-FOLDER
+Receipts	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Builds	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+Department	B-FOLDER
+Processed	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+G:\Shared\entity	B-PATH_DIR
+pools\Client	I-PATH_DIR
+A\release	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+E:\Media\Tests	B-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\OneDrive\frontend\Release	B-PATH_DIR
+1.4\Data	I-PATH_DIR
+Retention	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+E:\Media\Python	B-PATH_DIR
+Projects	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+F:\External	B-PATH_DIR
+Drive\Driver	I-PATH_DIR
+Backups\src\Project	I-PATH_DIR
+Week	I-PATH_DIR
+43	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Published	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Imports	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Sprint	I-FOLDER
+12	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Reference	B-FOLDER
+Material	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Evaluation	I-FOLDER
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+E:\Personal\Semester	B-PATH_DIR
+7\Supplier	I-PATH_DIR
+North\To	I-PATH_DIR
+Sort	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+\\NAS01\Shared\engineering\family	B-PATH_DIR
+photos\Department	I-PATH_DIR
+Inputs	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Backups\Sprint	B-PATH_DIR
+13\screenshots\Gaming	I-PATH_DIR
+Backups	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+E:\College\src\client	B-PATH_DIR
+files\Marketing	I-PATH_DIR
+Campaigns	I-PATH_DIR
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Backups\Windows	B-PATH_DIR
+Logs\config\Phone	I-PATH_DIR
+Restore	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+Accessibility	B-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+University	B-FOLDER
+Validation	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+Unicode	B-FOLDER
+Names	I-FOLDER
+Tests	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+Team	B-FOLDER
+To	I-FOLDER
+Submit	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+Service	B-FOLDER
+Appointments	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+E:\Archive\training	B-PATH_DIR
+data\meeting	I-PATH_DIR
+notes\Department	I-PATH_DIR
+Invoices	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+\\FileServer\Departments\intent	B-PATH_DIR
+models\Device	I-PATH_DIR
+Reports\USB	I-PATH_DIR
+Backups	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+\\192.168.1.20\teamshare\Windows	B-PATH_DIR
+Logs\client	I-PATH_DIR
+files\Department	I-PATH_DIR
+Templates	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\OneDrive\Graphics	B-PATH_DIR
+Troubleshooting\Old	I-PATH_DIR
+Versions\Long	I-PATH_DIR
+Path	I-PATH_DIR
+Tests	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+called	O
+D:\Backups\SQL	B-PATH_DIR
+Scripts	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+College	B-FOLDER
+Assets	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+Video	B-FOLDER
+Editing	I-FOLDER
+Projects	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+Raw	I-FOLDER
+Data	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+Shift	B-FOLDER
+Rosters	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Pending	I-FOLDER
+Review	I-FOLDER
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+D:\Shared\Music	B-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+\\FileServer\Departments\archives\Research	B-PATH_DIR
+Papers\Loan	I-PATH_DIR
+Documents	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+G:\Shared\Exam	B-PATH_DIR
+Preparation\Client	I-PATH_DIR
+A\Client	I-PATH_DIR
+Audits	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Downloads\engineering\To	B-PATH_DIR
+Submit\Department	I-PATH_DIR
+Metrics	I-PATH_DIR
+
+I	O
+want	O
+a	O
+directory	O
+named	O
+D:\Data\Config	B-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+Project	B-FOLDER
+Packages	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+Project	B-FOLDER
+Releases	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+College	B-FOLDER
+-	I-FOLDER
+Tickets	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+Support	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+Department	B-FOLDER
+Old	I-FOLDER
+Versions	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+D:\Projects\recordings\logs\Company	B-PATH_DIR
+Research	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Documents\Semester	B-PATH_DIR
+7\assets\Feature	I-PATH_DIR
+Requests	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+E:\Personal\diagnostics\migrations\WinPilot	B-PATH_DIR
+Voice	I-PATH_DIR
+Pipeline	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+D:\College\GEHU\config\release	B-PATH_DIR
+builds\Project	I-PATH_DIR
+Receipts	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+E:\College\Finance	B-PATH_DIR
+Team	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+3D	B-FOLDER
+Models	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Project	B-FOLDER
+Q4	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Client	B-FOLDER
+2026	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Approved	B-FOLDER
+Documents	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Semester	I-FOLDER
+5	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+D:\Backups\Docs	B-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Documents\inventory\Week	B-PATH_DIR
+42\Project	I-PATH_DIR
+History	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+E:\College\inventory\Semester	B-PATH_DIR
+7\config	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+E:\College\config\diagnostics\HR	B-PATH_DIR
+Documents	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Pictures\HR\presentations\Monthly	B-PATH_DIR
+Review	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+Shared	B-FOLDER
+Drive	I-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Copy	I-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+Attendees	B-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+scripts	B-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+Department	B-FOLDER
+Results	I-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+F:\USB	B-PATH_DIR
+Backup\NER	I-PATH_DIR
+experiments\PBL	I-PATH_DIR
+Phase	I-PATH_DIR
+2\Department	I-PATH_DIR
+Test	I-PATH_DIR
+Set	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+D:\Research\College	B-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+D:\Work\Client	B-PATH_DIR
+B	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+F:\External	B-PATH_DIR
+Drive\finance\release	I-PATH_DIR
+builds\Train	I-PATH_DIR
+Tickets	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+called	O
+F:\External	B-PATH_DIR
+Drive\client	I-PATH_DIR
+files\Client	I-PATH_DIR
+A\Customer	I-PATH_DIR
+Success	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+Department	B-FOLDER
+Inputs	I-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+Office	B-FOLDER
+Admin	I-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Archives	I-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+Holiday	B-FOLDER
+2026	I-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Tests	I-FOLDER
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\Desktop\Device	B-PATH_DIR
+Reports\Audio	I-PATH_DIR
+Troubleshooting\Property	I-PATH_DIR
+Documents	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\OneDrive\Exam	B-PATH_DIR
+Preparation\archives\Year	I-PATH_DIR
+Inventory	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+D:\Projects\exports\operations\Year	B-PATH_DIR
+Records	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+F:\USB	B-PATH_DIR
+Backup\Music	I-PATH_DIR
+
+I	O
+want	O
+a	O
+new	O
+folder	O
+named	O
+E:\College\test	B-PATH_DIR
+results\Travel	I-PATH_DIR
+Planning\Department	I-PATH_DIR
+Invoices	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Recovery	B-FOLDER
+Codes	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+College	B-FOLDER
+Data	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Documents	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Records	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+WinPilot	B-FOLDER
+Documentation	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+D:\Backups\finance\recordings\Migrations	B-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+F:\USB	B-PATH_DIR
+Backup\Videos	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+\\192.168.1.20\teamshare\Research	B-PATH_DIR
+Papers\Certificates\Year	I-PATH_DIR
+Shared	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+F:\External	B-PATH_DIR
+Drive\Course	I-PATH_DIR
+Material\Projects\Client	I-PATH_DIR
+Forms	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+D:\Staging\Home	B-PATH_DIR
+Repairs\docs\Audio	I-PATH_DIR
+Editing	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+Released	B-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Photos	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+Client	B-FOLDER
+Tracking	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+Project	B-FOLDER
+History	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+Unit	B-FOLDER
+2	I-FOLDER
+Notes	I-FOLDER
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+E:\Incoming\Home	B-PATH_DIR
+Repairs\test	I-PATH_DIR
+results\Intent	I-PATH_DIR
+Classification	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Downloads\migrations\operations\Family	B-PATH_DIR
+Celebrations	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Videos\website\Personal	B-PATH_DIR
+Finance\Team	I-PATH_DIR
+Records	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\OneDrive\PBL	B-PATH_DIR
+Phase	I-PATH_DIR
+2\frontend\Analytics	I-PATH_DIR
+Models	I-PATH_DIR
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+named	O
+C:\ProgramData\entity	B-PATH_DIR
+pools\inventory\Team	I-PATH_DIR
+Backups	I-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Validation	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Validation	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+checkpoints	B-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+College	B-FOLDER
+-	I-FOLDER
+Working	I-FOLDER
+Files	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+Invoices	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+D:\Data\Downloads	B-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+D:\Work\WinPilot3	B-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Documents\Release	B-PATH_DIR
+1.4\WinPilot\dist	I-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+D:\Projects\release	B-PATH_DIR
+builds\Source	I-PATH_DIR
+Code\Household	I-PATH_DIR
+Purchases	I-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+called	O
+E:\College\test	B-PATH_DIR
+results\WinPilot\Scheduled	I-PATH_DIR
+Tasks	I-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Final	B-FOLDER
+Submission	I-FOLDER
+Package	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Year	B-FOLDER
+Shared	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Current	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Engineering	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+GEHU	B-FOLDER
+To	I-FOLDER
+Copy	I-FOLDER
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+E:\Personal\website\campaigns\Security	B-PATH_DIR
+Alerts	I-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+\\192.168.1.20\teamshare\finance\inventory\Lead	B-PATH_DIR
+Management	I-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+C:\Dev\Windows	B-PATH_DIR
+Logs\Assignments\Client	I-PATH_DIR
+Receipts	I-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Pictures\Sprint	B-PATH_DIR
+13\presentations\checkpoints	I-PATH_DIR
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Research\contracts\operations\Phone	B-PATH_DIR
+Backup	I-PATH_DIR
+
+make	O
+Intent	B-FOLDER
+Training	I-FOLDER
+directory	O
+
+make	O
+Sprint	B-FOLDER
+12	I-FOLDER
+directory	O
+
+make	O
+WinPilot	B-FOLDER
+Deliverables	I-FOLDER
+directory	O
+
+make	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Pending	I-FOLDER
+Review	I-FOLDER
+directory	O
+
+make	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Incoming	I-FOLDER
+directory	O
+
+make	O
+Maintenance	B-FOLDER
+folder	O
+
+make	O
+Team	B-FOLDER
+Shared	I-FOLDER
+Files	I-FOLDER
+folder	O
+
+make	O
+Calendar	B-FOLDER
+Exports	I-FOLDER
+folder	O
+
+make	O
+University	B-FOLDER
+Ready	I-FOLDER
+to	I-FOLDER
+Submit	I-FOLDER
+folder	O
+
+make	O
+College	B-FOLDER
+-	I-FOLDER
+Planning	I-FOLDER
+folder	O
+
+make	O
+D:\Data\client	B-PATH_DIR
+files\invoices\Lab	I-PATH_DIR
+Work	I-PATH_DIR
+directory	O
+
+make	O
+D:\WinPilot\Research	B-PATH_DIR
+Papers\October	I-PATH_DIR
+2026\Year	I-PATH_DIR
+Research	I-PATH_DIR
+directory	O
+
+make	O
+D:\Shared\Travel	B-PATH_DIR
+directory	O
+
+make	O
+E:\College\PBL	B-PATH_DIR
+Phase	I-PATH_DIR
+2\frontend\Assignments	I-PATH_DIR
+directory	O
+
+make	O
+C:\Users\Public\Documents\WinPilot	B-PATH_DIR
+directory	O
+
+make	O
+\\NAS01\Shared\website\temp\Client	B-PATH_DIR
+Releases	I-PATH_DIR
+folder	O
+
+make	O
+C:\Users\Ankit\Desktop\Device	B-PATH_DIR
+Reports\Home	I-PATH_DIR
+Repairs\Project	I-PATH_DIR
+Research	I-PATH_DIR
+folder	O
+
+make	O
+C:\Users\Public\Documents\entity	B-PATH_DIR
+pools\Home	I-PATH_DIR
+Repairs\Team	I-PATH_DIR
+Notes	I-PATH_DIR
+folder	O
+
+make	O
+C:\Dev\generated\marketing\Bookings	B-PATH_DIR
+folder	O
+
+make	O
+C:\ProgramData\marketing\screenshots\Intent	B-PATH_DIR
+Validation	I-PATH_DIR
+folder	O
+
+make	O
+a	O
+directory	O
+called	O
+GEHU	B-FOLDER
+Engineering	I-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+For	I-FOLDER
+Approval	I-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Records	I-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+GEHU	B-FOLDER
+To	I-FOLDER
+Sort	I-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+Deliverables	I-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+D:\Work\Home	B-PATH_DIR
+Repairs\frontend\Public	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+C:\Temp\Network	B-PATH_DIR
+Captures\Home	I-PATH_DIR
+Repairs\Database	I-PATH_DIR
+Migrations	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+D:\Backups\src\test	B-PATH_DIR
+results\Team	I-PATH_DIR
+Working	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+D:\Data\test	B-PATH_DIR
+results\website\Windows	I-PATH_DIR
+Explorer	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+D:\Backups\backups\Shared	B-PATH_DIR
+Documents\Project	I-PATH_DIR
+Raw	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Requests	I-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+Evaluation	I-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+GEHU	B-FOLDER
+Receipts	I-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Invoices	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Task	B-FOLDER
+History	I-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+\\FileServer\Departments\family	B-PATH_DIR
+photos\Network	I-PATH_DIR
+Captures\Text	I-PATH_DIR
+Normalisation	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Documents\Semester	B-PATH_DIR
+7	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+D:\Work\database\invoices\Department	B-PATH_DIR
+Operations	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+C:\Temp\Semester	B-PATH_DIR
+5	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+C:\Dev\Home	B-PATH_DIR
+Repairs\recordings\presentations	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Raw	I-FOLDER
+Data	I-FOLDER
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+October	I-FOLDER
+2026	I-FOLDER
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+College	B-FOLDER
+References	I-FOLDER
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+Large	B-FOLDER
+Files	I-FOLDER
+Review	I-FOLDER
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+Inbox	B-FOLDER
+Zero	I-FOLDER
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+D:\College\GEHU\Lab	B-PATH_DIR
+Work\Reports\Client	I-PATH_DIR
+Tickets	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+\\FileServer\Departments\Assignments\finance\Supplier	B-PATH_DIR
+Quotes	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+E:\Personal\generated\Semester	B-PATH_DIR
+7\Feature	I-PATH_DIR
+Engineering	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+D:\Shared\Reports	B-PATH_DIR
+
+make	O
+a	O
+directory	O
+with	O
+the	O
+name	O
+G:\Shared\website\receipts\File	B-PATH_DIR
+Migration	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Shared	I-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+Working	I-FOLDER
+Files	I-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+Department	B-FOLDER
+Week	I-FOLDER
+43	I-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Rejected	I-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+Fitness	B-FOLDER
+Tracking	I-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+C:\Dev\Graphics	B-PATH_DIR
+Troubleshooting\marketing\Cloud	I-PATH_DIR
+Computing	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+C:\Users\Public\Documents\Client	B-PATH_DIR
+A	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+F:\External	B-PATH_DIR
+Drive\screenshots\Supplier	I-PATH_DIR
+North\Compatibility	I-PATH_DIR
+Matrix	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+C:\Dev\Videos	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+F:\USB	B-PATH_DIR
+Backup\contracts\src\Department	I-PATH_DIR
+Templates	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+Department	B-FOLDER
+Documents	I-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Project	B-FOLDER
+Finance	I-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Finance	I-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+Templates	I-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Case	B-FOLDER
+Collision	I-FOLDER
+Tests	I-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+C:\Dev\Semester	B-PATH_DIR
+5	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+\\OfficePC\Public\engineering\NER	B-PATH_DIR
+experiments\Merged	I-PATH_DIR
+Pull	I-PATH_DIR
+Requests	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+D:\Source\Personal	B-PATH_DIR
+Finance\Shared	I-PATH_DIR
+Documents\Work	I-PATH_DIR
+Documents	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+C:\Program	B-PATH_DIR
+Files\Certificates\Certificates\Semester	I-PATH_DIR
+3	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+\\OfficePC\Public\To	B-PATH_DIR
+Submit\Reports\Weekly	I-PATH_DIR
+Review	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+Investment	B-FOLDER
+Records	I-FOLDER
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+Cloud	B-FOLDER
+Computing	I-FOLDER
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+University	B-FOLDER
+Engineering	I-FOLDER
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Published	I-FOLDER
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+GEHU	B-FOLDER
+Pending	I-FOLDER
+Review	I-FOLDER
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+D:\Backups\logs\Shared	B-PATH_DIR
+Documents\Year	I-PATH_DIR
+October	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+D:\Work\Windows	B-PATH_DIR
+Logs\Course	I-PATH_DIR
+Material\Client	I-PATH_DIR
+Audio	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+D:\WinPilot\Driver	B-PATH_DIR
+Backups\Source	I-PATH_DIR
+Code\Generated	I-PATH_DIR
+Records	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+E:\Personal\meeting	B-PATH_DIR
+notes\Assignments\Bills	I-PATH_DIR
+
+make	O
+a	O
+folder	O
+with	O
+the	O
+name	O
+C:\Users\Ankit\OneDrive\Client	B-PATH_DIR
+A\Audio	I-PATH_DIR
+Troubleshooting\Accounts	I-PATH_DIR
+Receivable	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+Production	B-FOLDER
+Incidents	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+Exports	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+Router	B-FOLDER
+Configs	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Exports	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Previous	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+C:\Program	B-PATH_DIR
+Files\travel\docs\Team	I-PATH_DIR
+Week	I-PATH_DIR
+42	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+C:\Program	B-PATH_DIR
+Files\training	I-PATH_DIR
+data\Semester	I-PATH_DIR
+7\Project	I-PATH_DIR
+Reports	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+C:\Users\Ankit\Downloads\Shared	B-PATH_DIR
+Documents\config\Event	I-PATH_DIR
+Viewer	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+D:\Projects\Projects\datasets\Year	B-PATH_DIR
+Scripts	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+E:\Media\WinPilot\exports\Salary	B-PATH_DIR
+Records	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Forms	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+WinPilot	B-FOLDER
+Temporary	I-FOLDER
+Files	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+Online	B-FOLDER
+Shopping	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Current	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+University	B-FOLDER
+To	I-FOLDER
+Rename	I-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+C:\Users\Ankit\Documents\Sprint	B-PATH_DIR
+13	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+\\NAS01\Shared\model	B-PATH_DIR
+outputs\campaigns\Department	I-PATH_DIR
+Files	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+E:\Incoming\Certificates\Week	B-PATH_DIR
+42\Department	I-PATH_DIR
+Invoices	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+C:\Temp\Travel	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+D:\Work\Shared	B-PATH_DIR
+Drive	I-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Rename	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+University	B-FOLDER
+Contracts	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+Department	B-FOLDER
+Designs	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+Photo	B-FOLDER
+Library	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+College	B-FOLDER
+Reports	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+\\backup-server\weekly\diagnostics\presentations\Branches	B-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+\\FileServer\Departments\receipts\backend\Hidden	B-PATH_DIR
+File	I-PATH_DIR
+Tests	I-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+F:\External	B-PATH_DIR
+Drive\campaigns\archives\Move	I-PATH_DIR
+Tests	I-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+C:\Users\Ankit\OneDrive\Driver	B-PATH_DIR
+Backups\Old	I-PATH_DIR
+Versions\Team	I-PATH_DIR
+Code	I-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+called	O
+E:\Media\Projects	B-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+Operating	B-FOLDER
+Systems	I-FOLDER
+-	I-FOLDER
+Audio	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+College	B-FOLDER
+Clean	I-FOLDER
+Data	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+Music	B-FOLDER
+Playlists	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+Client	B-FOLDER
+Data	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+Team	B-FOLDER
+Releases	I-FOLDER
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+C:\Temp\Training	B-PATH_DIR
+Data	I-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+C:\Users\Public\Documents\HR\assets\Emulator	B-PATH_DIR
+Configuration	I-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+E:\Personal\operations\database\Project	B-PATH_DIR
+Tracking	I-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+D:\WinPilot\photos\Exam	B-PATH_DIR
+Preparation\Department	I-PATH_DIR
+Private	I-PATH_DIR
+
+make	O
+a	O
+new	O
+empty	O
+folder	O
+named	O
+\\NAS01\Shared\migrations\receipts\Year	B-PATH_DIR
+Validation	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Department	B-FOLDER
+Tickets	I-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Hindi	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Rename	I-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+College	B-FOLDER
+-	I-FOLDER
+Reference	I-FOLDER
+Material	I-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Personal	B-FOLDER
+Learning	I-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+D:\Backups\Client	B-PATH_DIR
+B	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+E:\Personal\PBL	B-PATH_DIR
+Phase	I-PATH_DIR
+2\Source	I-PATH_DIR
+Code\Client	I-PATH_DIR
+Builds	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+E:\Personal\Graphics	B-PATH_DIR
+Troubleshooting\Course	I-PATH_DIR
+Material\Application	I-PATH_DIR
+Profiles	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+F:\USB	B-PATH_DIR
+Backup\SQL	I-PATH_DIR
+Scripts	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+E:\College\generated\client	B-PATH_DIR
+files\Automation	I-PATH_DIR
+Runs	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+GEHU	B-FOLDER
+-	I-FOLDER
+Semester	I-FOLDER
+7	I-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+Incoming	B-FOLDER
+Files	I-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Builds	I-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+Certificates	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+Deliverables	I-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\Desktop\intent	B-PATH_DIR
+models\Lab	I-PATH_DIR
+Work\Temporary	I-PATH_DIR
+Working	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\Documents\client	B-PATH_DIR
+files\test	I-PATH_DIR
+results\Benchmark	I-PATH_DIR
+Datasets	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\OneDrive\marketing\inventory\Marketing	B-PATH_DIR
+Analytics	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+F:\USB	B-PATH_DIR
+Backup\Temporary	I-PATH_DIR
+Exports	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+C:\Temp\Client	B-PATH_DIR
+B	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+called	O
+College	B-FOLDER
+
+make	O
+a	O
+subfolder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+To	I-FOLDER
+Sort	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+called	O
+GEHU	B-FOLDER
+-	I-FOLDER
+November	I-FOLDER
+2026	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+called	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Week	I-FOLDER
+42	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+called	O
+Team	B-FOLDER
+Videos	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+called	O
+C:\Temp\Test	B-PATH_DIR
+Results	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+called	O
+C:\Users\Public\Documents\Shared	B-PATH_DIR
+Drive	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+called	O
+D:\Work\Client	B-PATH_DIR
+A	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+called	O
+D:\Data\intent	B-PATH_DIR
+models\frontend\Department	I-PATH_DIR
+Responses	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+called	O
+\\backup-server\weekly\Audio	B-PATH_DIR
+Troubleshooting\Payroll	I-PATH_DIR
+Manager\Android	I-PATH_DIR
+Logs	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+named	O
+Phone	B-FOLDER
+Transfer	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+named	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Scripts	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Approved	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Team	I-FOLDER
+Shared	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+named	O
+Project	B-FOLDER
+Alpha	I-FOLDER
+
+make	O
+a	O
+subfolder	O
+named	O
+E:\Archive\design	B-PATH_DIR
+files\model	I-PATH_DIR
+outputs\Version	I-PATH_DIR
+2	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+named	O
+C:\Temp\Photos	B-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+named	O
+\\NAS01\Shared\Graphics	B-PATH_DIR
+Troubleshooting\Final	I-PATH_DIR
+Versions\Client	I-PATH_DIR
+Team	I-PATH_DIR
+A	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+named	O
+C:\Users\Ankit\OneDrive\Home	B-PATH_DIR
+Repairs\Sprint	I-PATH_DIR
+13\Client	I-PATH_DIR
+Shared	I-PATH_DIR
+
+make	O
+a	O
+subfolder	O
+named	O
+F:\USB	B-PATH_DIR
+Backup\NER	I-PATH_DIR
+experiments\docs\scripts	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Department	B-FOLDER
+Inventory	I-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Package	B-FOLDER
+Locks	I-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+-	I-FOLDER
+Releases	I-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+WinPilot	B-FOLDER
+Audio	I-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+NDAs	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+C:\ProgramData\finance\engineering\Accounts	B-PATH_DIR
+Payable	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+E:\College\Assets	B-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Work\To	B-PATH_DIR
+Review\assets\Pet	I-PATH_DIR
+Records	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+C:\Users\Ankit\Pictures\migrations\PBL	B-PATH_DIR
+Phase	I-PATH_DIR
+2\Department	I-PATH_DIR
+Checkpoints	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Data\screenshots\docs\Department	B-PATH_DIR
+Imports	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+College	B-FOLDER
+Tickets	I-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+Conference	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+University	B-FOLDER
+Designs	I-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+University	B-FOLDER
+-	I-FOLDER
+To	I-FOLDER
+Copy	I-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+Building	B-FOLDER
+Maintenance	I-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Users\Ankit\Documents\presentations\training	B-PATH_DIR
+data\Purchase	I-PATH_DIR
+Approvals	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+E:\Personal\design	B-PATH_DIR
+files\docs\Department	I-PATH_DIR
+Evidence	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Users\Ankit\Videos\Course	B-PATH_DIR
+Material\Device	I-PATH_DIR
+Reports\Subtitles	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Staging\design	B-PATH_DIR
+files\finance\Previous	I-PATH_DIR
+Year	I-PATH_DIR
+Questions	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+F:\External	B-PATH_DIR
+Drive\Client	I-PATH_DIR
+A\Old	I-PATH_DIR
+Versions\Quarantine	I-PATH_DIR
+
+make	O
+the	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Shared	I-FOLDER
+directory	O
+
+make	O
+the	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Operations	I-FOLDER
+directory	O
+
+make	O
+the	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Evaluation	I-FOLDER
+directory	O
+
+make	O
+the	O
+Pokemon	B-FOLDER
+Saves	I-FOLDER
+directory	O
+
+make	O
+the	O
+Project	B-FOLDER
+Plans	I-FOLDER
+directory	O
+
+make	O
+the	O
+Client	B-FOLDER
+Invoices	I-FOLDER
+folder	O
+
+make	O
+the	O
+Community	B-FOLDER
+folder	O
+
+make	O
+the	O
+WinPilot	B-FOLDER
+Rejected	I-FOLDER
+folder	O
+
+make	O
+the	O
+GEHU	B-FOLDER
+Photos	I-FOLDER
+folder	O
+
+make	O
+the	O
+Team	B-FOLDER
+Results	I-FOLDER
+folder	O
+
+make	O
+the	O
+\\NAS01\Shared\Semester	B-PATH_DIR
+7\exports\Payroll	I-PATH_DIR
+Reports	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+D:\Work\intent	B-PATH_DIR
+models\Course	I-PATH_DIR
+Material\Client	I-PATH_DIR
+Records	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+C:\Users\Ankit\Desktop\Semester	B-PATH_DIR
+5	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+C:\ProgramData\imports\temp\Accounts	B-PATH_DIR
+Payable	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+E:\Incoming\datasets\Payroll	B-PATH_DIR
+Manager\Read	I-PATH_DIR
+Only	I-PATH_DIR
+Tests	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+C:\Users\Ankit\Desktop\To	B-PATH_DIR
+Review	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+D:\Backups\Game	B-PATH_DIR
+Saves	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+C:\ProgramData\Personal	B-PATH_DIR
+Finance\Certificates\Department	I-PATH_DIR
+Screenshots	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+D:\Data\campaigns\design	B-PATH_DIR
+files\Semester	I-PATH_DIR
+3	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+C:\Temp\datasets\imports\Portfolio	B-PATH_DIR
+folder	O
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+University	B-FOLDER
+Training	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+Windows	B-FOLDER
+Update	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Private	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+Annotation	B-FOLDER
+Review	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+College	B-FOLDER
+-	I-FOLDER
+Previous	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+\\backup-server\weekly\Research	B-PATH_DIR
+Papers\Course	I-PATH_DIR
+Material\Documents	I-PATH_DIR
+for	I-PATH_DIR
+Travel	I-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+\\OfficePC\Public\presentations\Sprint	B-PATH_DIR
+13\Client	I-PATH_DIR
+Working	I-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\Documents\contracts\Driver	B-PATH_DIR
+Backups\Previous	I-PATH_DIR
+Semester	I-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+\\NAS01\Shared\Course	B-PATH_DIR
+Material\To	I-PATH_DIR
+Submit\Rental	I-PATH_DIR
+Records	I-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+called	O
+\\192.168.1.20\teamshare\Old	B-PATH_DIR
+Versions\docs\Game	I-PATH_DIR
+Assets	I-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+Bug	B-FOLDER
+Triage	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+WinPilot	B-FOLDER
+-	I-FOLDER
+Outputs	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+Team	B-FOLDER
+Q3	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Old	I-FOLDER
+Versions	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+Intent	B-FOLDER
+Classification	I-FOLDER
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Downloads\Research	B-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+C:\Users\ankit.kumar\Documents\Old	B-PATH_DIR
+Versions	I-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+E:\Archive\Certificates\meeting	B-PATH_DIR
+notes\Warehouse	I-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Downloads\training	B-PATH_DIR
+data\Final	I-PATH_DIR
+Versions\Maintenance	I-PATH_DIR
+
+please	O
+create	O
+a	O
+directory	O
+named	O
+D:\Work\Sprint	B-PATH_DIR
+13	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Notes	I-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+Localization	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+Notes	I-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+GEHU	B-FOLDER
+2027	I-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+USB	B-FOLDER
+Transfer	I-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads\Client	B-PATH_DIR
+B	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+D:\Data\temp\meeting	B-PATH_DIR
+notes\Failed	I-PATH_DIR
+Imports	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads\src\imports\imports	B-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Documents\Photos	B-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+E:\Media\To	B-PATH_DIR
+Submit	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+Inventory	I-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+Quarantine	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+GEHU	B-FOLDER
+Tickets	I-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+University	B-FOLDER
+Audits	I-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+Project	B-FOLDER
+Tracking	I-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+\\backup-server\weekly\Week	B-PATH_DIR
+42\invoices\Team	I-PATH_DIR
+Revisions	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+D:\Shared\Presentations	B-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Videos\client	B-PATH_DIR
+files\Semester	I-PATH_DIR
+7\Calendar	I-PATH_DIR
+Exports	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Public\Documents\inventory\HR\Team	B-PATH_DIR
+October	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+D:\Staging\customer	B-PATH_DIR
+support\Windows	I-PATH_DIR
+Logs\Empty	I-PATH_DIR
+Folders	I-PATH_DIR
+Review	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+Command	B-FOLDER
+Templates	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+Portable	B-FOLDER
+Utilities	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Responses	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+Cloud	B-FOLDER
+Operations	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Clients	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+F:\USB	B-PATH_DIR
+Backup\inventory\Old	I-PATH_DIR
+Versions\Client	I-PATH_DIR
+Audio	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+E:\Archive\PBL	B-PATH_DIR
+Phase	I-PATH_DIR
+2\presentations\Tax	I-PATH_DIR
+Documents	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+E:\Personal\Device	B-PATH_DIR
+Reports\Release	I-PATH_DIR
+1.4\Restricted	I-PATH_DIR
+Documents	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+E:\College\Sprint	B-PATH_DIR
+13\entity	I-PATH_DIR
+pools\Year	I-PATH_DIR
+Raw	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+called	O
+C:\ProgramData\Reports\generated\Resumes	B-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+University	B-FOLDER
+Reports	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+Department	B-FOLDER
+Q4	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+College	B-FOLDER
+-	I-FOLDER
+Assets	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Approved	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+DBMS	B-FOLDER
+Project	I-FOLDER
+-	I-FOLDER
+Incoming	I-FOLDER
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+F:\USB	B-PATH_DIR
+Backup\To	I-PATH_DIR
+Submit\Driver	I-PATH_DIR
+Backups\Year	I-PATH_DIR
+Processed	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+C:\Users\Ankit\Desktop\Windows	B-PATH_DIR
+Logs\meeting	I-PATH_DIR
+notes\Year	I-PATH_DIR
+Working	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+D:\WinPilot\database\Source	B-PATH_DIR
+Code\Department	I-PATH_DIR
+November	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+E:\Archive\Semester	B-PATH_DIR
+7\Supplier	I-PATH_DIR
+North\Sprint	I-PATH_DIR
+13	I-PATH_DIR
+
+please	O
+make	O
+a	O
+directory	O
+named	O
+D:\Shared\Semester	B-PATH_DIR
+7	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+Team	B-FOLDER
+Notes	I-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+University	B-FOLDER
+-	I-FOLDER
+Clean	I-FOLDER
+Data	I-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Processed	I-FOLDER
+Data	I-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+GEHU	B-FOLDER
+Private	I-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+presentations	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+F:\USB	B-PATH_DIR
+Backup\Certificates\October	I-PATH_DIR
+2026\Project	I-PATH_DIR
+Manifests	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+D:\Data\Test	B-PATH_DIR
+Results	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+\\NAS01\Shared\config\database\Project	B-PATH_DIR
+Imports	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+\\OfficePC\Public\screenshots\NER	B-PATH_DIR
+experiments\Signed	I-PATH_DIR
+Documents	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+C:\Users\Public\Documents\Home	B-PATH_DIR
+Repairs\Travel	I-PATH_DIR
+Planning\Utility	I-PATH_DIR
+Payments	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+Semester	B-FOLDER
+1	I-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+resources	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+Augmentation	B-FOLDER
+Output	I-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+Portfolio	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+Payroll	B-FOLDER
+Manager	I-FOLDER
+Backups	I-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\archives\archives\Semester	B-PATH_DIR
+3	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\To	B-PATH_DIR
+Review	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+\\OfficePC\Public\Course	B-PATH_DIR
+Material\test	I-PATH_DIR
+results\Year	I-PATH_DIR
+Drafts	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+E:\Incoming\operations\To	B-PATH_DIR
+Submit\Team	I-PATH_DIR
+Videos	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+C:\Program	B-PATH_DIR
+Files\To	I-PATH_DIR
+Submit\database\Team	I-PATH_DIR
+Tickets	I-PATH_DIR
+

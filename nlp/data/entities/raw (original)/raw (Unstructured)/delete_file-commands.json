@@ -1,0 +1,321 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "can you delete a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "can you delete the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "can you get rid of the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "can you remove a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "can you remove the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "could you delete a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "could you delete the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "could you get rid of the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "could you remove a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "could you remove the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete a new file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete an old file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete my document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete my file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete one file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete that document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete that file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete the file from here"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete the old file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete the selected document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete the selected file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete the temporary file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete the unwanted file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete this document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "delete this file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "get rid of that document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "get rid of that file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "get rid of this document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "get rid of this file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "I need the file removed"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "I need to delete a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "I need to get rid of the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "I need to remove a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "I want the file deleted"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "I want to delete a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "I want to get rid of the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "I want to remove a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "please delete a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "please delete one file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "please delete the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "please get rid of the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "please remove a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "please remove one file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "please remove the file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove a file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove a new file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove an old file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove my document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove my file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove one file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove that document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove that file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove the file from here"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove the old file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove the selected document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove the selected file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove the temporary file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove the unwanted file"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove this document"
+    },
+    {
+      "dataset": "delete_file",
+      "intent": "delete_file",
+      "text": "remove this file"
+    }
+  ]
+}

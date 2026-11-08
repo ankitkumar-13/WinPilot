@@ -1,0 +1,900 @@
+bring the TestDisk app up
+bring the SumatraPDF app up
+bring the Notepad app up
+bring the Kubernetes Dashboard app up
+bring the Windows Security app up
+bring the Resilio Sync program up
+bring the Windows Fax and Scan program up
+bring the Kate program up
+bring the Zenmap program up
+bring the AIDA64 Extreme program up
+bring up Xbox
+bring up Rclone
+bring up MemTest86
+bring up RustDesk
+bring up Dell Display Manager
+bring up the Hasleo Backup Suite application
+bring up the Beekeeper Studio application
+bring up the PDFsam Basic application
+bring up the Construct 3 application
+bring up the Windows Assessment Toolkit application
+can you bring up Altair GraphQL Client
+can you bring up Macro Recorder
+can you bring up Tailscale
+can you bring up Moonlight
+can you bring up Local Security Policy
+can you execute Strings
+can you execute pgAdmin
+can you execute Microsoft Lists
+can you execute Google Cloud Code
+can you execute ThrottleStop
+can you get Microsoft Power Automate Desktop running
+can you get AIDA64 Engineer running
+can you get Clock running
+can you get IntelliJ IDEA running
+can you get Apache Tomcat running
+can you get Windows Default Apps to open
+can you get UNetbootin to open
+can you get On-Screen Keyboard to open
+can you get USBDeview to open
+can you get SeaTools to open
+can you launch Snipping Tool
+can you launch Windows On-Screen Keyboard
+can you launch ERwin Data Modeler
+can you launch Crow Translate
+can you launch Windows Optimise Drives
+can you launch the application called Intel Graphics Software
+can you launch the application called Logseq
+can you launch the application called Flyway
+can you launch the application called Emacs
+can you launch the application called Beeftext
+can you load Resource Monitor
+can you load Rancher Desktop
+can you load Intel Driver & Support Assistant
+can you load Foxit PDF Reader
+can you load Disk Cleanup
+can you open TablePlus
+can you open Yuzu
+can you open draw.io
+can you open AMD Software
+can you open EarTrumpet
+can you open Microsoft Teams classic for me
+can you open Simplewall for me
+can you open Tiled Map Editor for me
+can you open Fiddler Classic for me
+can you open Malwarebytes Premium for me
+can you open the application called Adobe Media Encoder
+can you open the application called Performance Monitor
+can you open the application called Windows Internet Options
+can you open the application called Blender
+can you open the application called Everything Search
+can you open up Craft
+can you open up llama.cpp
+can you open up OneCommander
+can you open up Bulk Rename Utility
+can you open up Cisco Packet Tracer
+can you run ESET NOD32 Antivirus for me
+can you run DuckDuckGo Browser for me
+can you run Windows System Information for me
+can you run Azahar Emulator for me
+can you run Zipkin for me
+can you run the Dexpot application
+can you run the Windows Computer Management application
+can you run the Windows File History application
+can you run the Dolphin Emulator Qt application
+can you run the Airtable application
+can you run the application called SketchUp
+can you run the application called Weka
+can you run the application called IIS Manager
+can you run the application called Windows Problem Steps Recorder
+can you run the application called ArcGIS Pro
+can you start Windows Firewall with Advanced Security
+can you start Snort
+can you start Ren'Py Launcher
+can you start MPC-HC
+can you start Action!
+can you start Windows Calculator for me
+can you start Windows Driver Kit for me
+can you start TagUI for me
+can you start Driver Store Explorer for me
+can you start FreeFileSync for me
+can you start the application called ZeroTier One
+can you start the application called Robo 3T
+can you start the application called Elasticvue
+can you start the application called VirtuaWin
+can you start the application called Windows SDK
+could you execute Mail
+could you execute QTranslate
+could you execute PyCharm Professional
+could you execute Google Cloud CLI
+could you execute Plane
+could you get the Macrium Reflect app running
+could you get the Apple Devices app running
+could you get the Sticky Notes app running
+could you get the Monday.com app running
+could you get the Couchbase Server app running
+could you launch Geek Uninstaller
+could you launch OpenSSH
+could you launch OpenSSL
+could you launch CurseForge
+could you launch Dell Command Update
+could you launch the Settings app
+could you launch the Automation Anywhere app
+could you launch the Windows App SDK app
+could you launch the ComfyUI app
+could you launch the Windows Performance Analyzer app
+could you open PresentMon
+could you open Atom
+could you open IObit Uninstaller
+could you open mGBA Qt
+could you open Arduino IDE
+could you open the Twine app
+could you open the Tor Browser app
+could you open the Darktable app
+could you open the Windows Photos app
+could you open the MeshLab app
+could you open the program Kaspersky Standard
+could you open the program Libre Hardware Monitor
+could you open the program Windows App Installer
+could you open the program GameMaker
+could you open the program Greenshot
+could you run Modrinth App
+could you run OpenVAS
+could you run OCCT
+could you run Laragon
+could you run SoundSwitch
+could you start Disk2vhd
+could you start MSI Center
+could you start UrBackup
+could you start Tableau Prep Builder
+could you start Focalboard
+could you start Cloudflare One Agent for me
+could you start Thonny for me
+could you start Redis CLI for me
+could you start Windows Sandbox for me
+could you start XnView MP for me
+could you start up UniGetUI
+could you start up Neovim
+could you start up Etcher
+could you start up Disk Management
+could you start up Excalidraw
+execute Termius
+execute ProtonUp-Qt
+execute EA app
+execute TCPView
+execute Lightshot
+fire up Microsoft Access
+fire up Character Map
+fire up Burp Suite Community
+fire up Axure RP
+fire up DuckStation
+get pCloud running
+get Camtasia running
+get Google Cloud Storage Browser running
+get Jitbit Macro Recorder running
+get Windows Reliability Monitor running
+get the Fooocus app running
+get the ADB AppControl app running
+get the TreeSize Free app running
+get the AutoCAD app running
+get the Citrix Workspace app running
+get the TinyTask application open
+get the Vortex Mod Manager application open
+get the Windows Mail application open
+get the Acer Care Center application open
+get the SmartGit application open
+get the FortiClient program running
+get the Google Cloud SDK Shell program running
+get the Windows Character Map program running
+get the Lychee Slicer program running
+get the WinRAR program running
+get the Equalizer APO software running
+get the Signal software running
+get the Camo Studio software running
+get the Podman Desktop software running
+get the Autoruns for Windows software running
+have Sync.com open
+have Speccy open
+have DisplayFusion open
+have WD Dashboard open
+have ProjectLibre open
+i need ClickUp launched
+i need Samsung DeX launched
+i need NewFileTime launched
+i need Standard Notes launched
+i need Windows App launched
+i need Restic opened
+i need Unigine Heaven opened
+i need FreeCommander opened
+i need Azure Functions Core Tools opened
+i need Calendar opened
+i need to launch GPT4All
+i need to launch NetBalancer
+i need to launch Q-Dir
+i need to launch PsExec
+i need to launch Process Lasso
+i need to open Figma
+i need to open Thunderstore Mod Manager
+i need to open Plex HTPC
+i need to open DMDE
+i need to open Lutris
+i need to run MobaXterm
+i need to run Keil uVision
+i need to run Avidemux
+i need to run Microsoft Teams
+i need to run Windows Group Policy Editor
+i need to start Handle
+i need to start PowerShell ISE
+i need to start PlatformIO
+i need to start StartAllBack
+i need to start InvokeAI
+i need you to execute Voicemeeter Banana
+i need you to execute Windows Certificate Manager
+i need you to execute Samsung Magician
+i need you to execute Burp Suite Community Edition
+i need you to execute PuTTYgen
+i need you to launch Whereby
+i need you to launch Component Services
+i need you to launch Armoury Crate
+i need you to launch Anaconda Navigator
+i need you to launch FurMark
+i need you to open DB Browser for SQLite
+i need you to open Odin3
+i need you to open Notepad++
+i need you to open Aegisub
+i need you to open GlazeWM
+i need you to run Unreal Editor
+i need you to run Bruno
+i need you to run PassMark PerformanceTest
+i need you to run SQL Server Configuration Manager
+i need you to run Mailspring
+i need you to start Navicat Premium
+i need you to start Mu Editor
+i need you to start Open-Shell Menu
+i need you to start Windows Performance Monitor
+i need you to start SQL Server Profiler
+i want Notion opened
+i want LazyGit opened
+i want Zoom opened
+i want SourceTree opened
+i want NVCleanstall opened
+i want to launch Miro
+i want to launch Yaak
+i want to launch Microsoft Edge Beta
+i want to launch Azure Data Studio
+i want to launch GNU PSPP
+i want to open Tailscale Funnel
+i want to open Malwarebytes AdwCleaner
+i want to open Sigcheck
+i want to open RetroArch
+i want to open Azahar
+i want to run LocalAI
+i want to run Kopia
+i want to run Vysor
+i want to run Planner
+i want to run Evernote
+i want to start Norton 360
+i want to start Windscribe
+i want to start AMD Ryzen Master
+i want to start RPCS3 Configuration
+i want to start Calculator
+i'd like to launch MuMu Player
+i'd like to launch DbGate
+i'd like to launch DataGrip
+i'd like to launch BatteryInfoView
+i'd like to launch Microsoft To Do
+i'd like to open KDiff3
+i'd like to open Windows Quick Assist
+i'd like to open Xshell
+i'd like to open Paint.NET
+i'd like to open Lenovo Legion Toolkit
+i'd like to run PsShutdown
+i'd like to run SameBoy
+i'd like to run PsTools
+i'd like to run AcerSense
+i'd like to run SAS
+i'd like to start iCloud for Windows
+i'd like to start Miniconda Prompt
+i'd like to start Geany
+i'd like to start IntelliJ IDEA Ultimate
+i'd like to start Razer Synapse
+launch Apache OpenOffice
+launch Mailbird
+launch Affinity Photo
+launch PsInfo
+launch RStudio
+launch Google Earth Pro application
+launch Microsoft Planner application
+launch Brackets application
+launch IrfanView application
+launch VSeeFace application
+launch Solar2D for me
+launch UltraVNC Viewer for me
+launch Dropbox Desktop for me
+launch Spyder for me
+launch Django for me
+launch Navicat now
+launch ClamWin Antivirus now
+launch Suricata now
+launch Cloudflare WARP now
+launch Wireshark now
+launch Heroic Games Launcher on my computer
+launch Novabench on my computer
+launch Windows Tips on my computer
+launch Windows Clock on my computer
+launch Nahimic on my computer
+launch NVIDIA Control Panel please
+launch Windows PC Health Check please
+launch DeepL please
+launch VMware Player please
+launch PPSSPP please
+launch application Fiddler
+launch application Launchy
+launch application Cryptomator
+launch application WirelessKeyView
+launch application OnlyOffice Desktop Editors
+launch the Nahimic
+launch the NVIDIA Control Panel
+launch the Windows PC Health Check
+launch the DeepL
+launch the VMware Player
+launch the PPSSPP app
+launch the Fiddler app
+launch the Launchy app
+launch the Cryptomator app
+launch the WirelessKeyView app
+launch the OnlyOffice Desktop Editors application
+launch the AOMEI Backupper application
+launch the Floorp application
+launch the Peace Equalizer application
+launch the ON1 Photo RAW application
+launch the Snagit application for me
+launch the MEGA application for me
+launch the GeForce Experience application for me
+launch the Pulumi application for me
+launch the Jitsi Meet application for me
+launch the MusicBee program for me
+launch the DebugView++ program for me
+launch the Microsoft Publisher program for me
+launch the Adobe Photoshop program for me
+launch the Dell SupportAssist program for me
+launch the app called Windows Terminal Canary
+launch the app called Xftp
+launch the app called Unigine Superposition
+launch the app called Windows Speech Recognition
+launch the app called PSPP
+launch the app named Code::Blocks
+launch the app named Power Automate Desktop
+launch the app named Intel Unison
+launch the app named Oracle VM VirtualBox Manager
+launch the app named Microsoft Store Installer
+launch the application named yq
+launch the application named Thorium Browser
+launch the application named Narrator
+launch the application named Meld
+launch the application named VeraCrypt
+launch the application named Brave Browser Beta for me
+launch the application named Pulover's Macro Creator for me
+launch the application named Poe for me
+launch the application named Lenovo Vantage for me
+launch the application named RubyMine for me
+launch the program Couchbase Shell
+launch the program Microsoft Outlook
+launch the program GraphiQL
+launch the program Tower
+launch the program Azure CLI
+launch the program called Windows PowerShell
+launch the program called Anki
+launch the program called Betterbird
+launch the program called LibreOffice Calc
+launch the program called TouchDesigner
+launch the software Windows Local Security Policy
+launch the software Winamp
+launch the software Firefox Developer Edition
+launch the software Windows Subsystem for Linux
+launch the software Unity Hub
+load Diffinity
+load StarUML
+load GIMP
+load JASP
+load Windows ADK
+load the PassMark BurnInTest app
+load the WebStorm app
+load the Advanced IP Scanner app
+load the Windows Notepad app
+load the Google Chrome app
+load the NVIDIA Broadcast program
+load the Buzz program
+load the Windows Print Management program
+load the Double Commander program
+load the Amazon Music program
+make Apple Music start
+make Task Scheduler start
+make GitUI start
+make SoapUI start
+make PowerShell 7 start
+open Jira
+open FreeOffice
+open Zotero
+open BlueStacks
+open VB-CABLE Control Panel
+open PDF-XChange Editor application
+open Paperless-ngx application
+open Sophos Endpoint application
+open Synology Drive Client application
+open NetworkMiner application
+open JabRef for me
+open LibreOffice Base for me
+open TortoiseSVN for me
+open Xbox Accessories for me
+open BleachBit for me
+open Bitvise SSH Client now
+open Windows Optional Features now
+open SoftMaker Office now
+open OpenRGB now
+open AutoIt now
+open Microsoft Word on my computer
+open Visual Studio Professional on my computer
+open GOG Galaxy on my computer
+open Gradle on my computer
+open Sweet Home 3D on my computer
+open UltraEdit please
+open Studio 3T please
+open NoxPlayer please
+open Rider please
+open k9s please
+open and run CapFrameX
+open and run Gpg4win
+open and run EmulationStation Desktop Edition
+open and run Ventoy
+open and run WampServer
+open application Realtek Audio Console
+open application Windows Color Management
+open application Webex
+open application Kleopatra
+open application WinGet
+open the SuperMemo
+open the KeePassXC
+open the MakeMKV
+open the Ant Renamer
+open the SQL Server Management Studio
+open the VMware Workstation app
+open the Intel Connectivity Performance Suite app
+open the DbSchema app
+open the Element app
+open the Gigabyte Control Center app
+open the WezTerm application for me
+open the Mod Organizer 2 application for me
+open the Cyberduck application for me
+open the Memurai application for me
+open the Windows Features on or off application for me
+open the GoodSync program for me
+open the Windows Security Centre program for me
+open the AWS Session Manager Plugin program for me
+open the Krita program for me
+open the Parsec program for me
+open the app called SQL Server Integration Services
+open the app called PowerShell 7 Preview
+open the app called MuseScore
+open the app called Xbox Game Bar
+open the app called Subtitle Edit
+open the app named Windows People
+open the app named PuTTY
+open the app named SQL Server Reporting Services
+open the app named Cinebench
+open the app named Proton VPN
+open the application Iriun Webcam
+open the application Phone Link
+open the application STM32CubeIDE
+open the application ASUS AI Suite
+open the application OBS Studio
+open the application called Azure Data Studio Insiders
+open the application called Windows Performance Recorder
+open the application called RemNote
+open the application called Trello
+open the application called PhpStorm
+open the application named Windows Magnifier
+open the application named Dev-C++
+open the application named Quick Assist
+open the application named Waterfox
+open the application named File Explorer
+open the application named Samsung Flow for me
+open the application named Fiddler Everywhere for me
+open the application named Vivaldi Snapshot for me
+open the application named Samsung Smart Switch for me
+open the application named Filmora for me
+open the program QGIS
+open the program MEGAsync
+open the program Pageant
+open the program AccessChk
+open the program Prism Live Studio
+open the program named Orange Data Mining
+open the program named Tableau Desktop
+open the program named WingetUI
+open the program named Windows Backup and Restore
+open the program named Notepad2
+open the software Pencil Project
+open the software Linear
+open the software OpenMW
+open the software Mendeley Reference Manager
+open the software Microsoft Forms
+open up Snip & Sketch
+open up Inkscape
+open up LDtk
+open up Ansible
+open up Windows Maps
+open up the Logi Options+ app
+open up the Microsoft 365 app
+open up the AWS VPN Client app
+open up the GNU nano app
+open up the Node.js app
+open up the app named Grammarly
+open up the app named PortableApps.com Platform
+open up the app named NVIDIA App
+open up the app named SQLyog
+open up the app named MPC-BE
+open up the application called Affinity Publisher
+open up the application called GoTo Meeting
+open up the application called Adobe InDesign
+open up the application called Windows Resource Monitor
+open up the application called Pure Data
+open up the program Box Drive
+open up the program DOSBox Staging
+open up the program Nessus Essentials
+open up the program VSCodium
+open up the program Photos
+please bring up Defold
+please bring up Cloudflare Tunnel
+please bring up Command Prompt
+please bring up Bambu Studio
+please bring up Roblox Studio
+please execute OpenTofu
+please execute Docker Desktop
+please execute Krita AI Diffusion
+please execute Visual Studio Community
+please execute Ditto Clipboard
+please get PowerToys Run running
+please get HWiNFO running
+please get VTube Studio running
+please get Paint 3D running
+please get Capture One running
+please get the Windows Admin Center app open
+please get the MPV app open
+please get the Processing app open
+please get the Vim app open
+please get the Microsoft Safety Scanner app open
+please get the QLab application running
+please get the AWS CloudFormation Designer application running
+please get the PeaZip application running
+please get the ShareX application running
+please get the R-Studio application running
+please get the LM Studio program open
+please get the VRoid Studio program open
+please get the Batocera program open
+please get the File Juggler program open
+please get the Rclone Browser program open
+please launch Visual Studio Code
+please launch FileZilla
+please launch SentinelOne Agent
+please launch Microsoft Defender for Endpoint
+please launch Attribute Changer
+please launch GDevelop for me
+please launch Tableau for me
+please launch NAPS2 for me
+please launch EndNote for me
+please launch Autorun Organizer for me
+please launch the LaunchBox app
+please launch the PPSSPP Windows app
+please launch the curl app
+please launch the Dopamine app
+please launch the DBeaver Community app
+please launch the application named Flow Launcher
+please launch the application named Streamlabs Desktop
+please launch the application named OpenLens
+please launch the application named PCSX2 Qt
+please launch the application named Windows Proxy Settings
+please load PotPlayer
+please load Kind
+please load Ungoogled Chromium
+please load FileZilla Client
+please load Wondershare Filmora
+please open Windows Component Services
+please open VLC media player
+please open VisualBoyAdvance-M
+please open ClamWin
+please open MongoDB Compass
+please open Open Hardware Monitor for me
+please open Windows File Explorer Options for me
+please open Optimize Drives for me
+please open Jubler for me
+please open FinalShell for me
+please open the Ollama app
+please open the Azure Storage Explorer app
+please open the Shotcut app
+please open the SteelSeries GG app
+please open the Wox app
+please open the application named Firefox ESR
+please open the application named Fotor
+please open the application named SlickRun
+please open the application named XMedia Recode
+please open the application named wget
+please open the program MySQL Workbench
+please open the program RPCS3
+please open the program Portmaster
+please open the program Steam
+please open the program Cursor
+please open up FxSound
+please open up Age
+please open up Quizlet
+please open up Dolphin Emulator
+please open up Mozilla Firefox
+please run EditPlus
+please run npm
+please run Windows Scan
+please run GParted
+please run Computer Management
+please run the application named WindTerm
+please run the application named FBNeo
+please run the application named Logitech G HUB
+please run the application named Vagrant
+please run the application named diagrams.net
+please start PDF24 Creator
+please start Windows Media Player
+please start Redis Insight
+please start Power BI Report Builder
+please start Windows Defender Firewall
+please start ArangoDB for me
+please start LICEcap for me
+please start Rio Terminal for me
+please start 7-Zip for me
+please start Microsoft Sway for me
+please start the Shutter Encoder application
+please start the DOSBox-X application
+please start the Azure PowerShell application
+please start the MemTest64 application
+please start the MadMapper application
+please start the application named Coda
+please start the application named GanttProject
+please start the application named Fleet
+please start the application named Liquibase
+please start the application named Remote Desktop Manager
+please start up ASUS Armoury Crate
+please start up RAMMap
+please start up Google Chrome Beta
+please start up ACDSee Photo Studio
+please start up Windows Defender Firewall Control Panel
+run Dropbox
+run pnpm
+run ASUS GPU Tweak III
+run LibreOffice Draw
+run Recuva
+run Brim application
+run NoMachine application
+run ChatGPT application
+run Oracle Linux application
+run GlobalProtect application
+run SQL Developer now
+run WinMerge now
+run Microsoft Visio now
+run Devolutions Workspace now
+run Max/MSP now
+run Zeek on my computer
+run Eclipse IDE on my computer
+run Kodi on my computer
+run HandBrake on my computer
+run DeepL Write on my computer
+run Rescuezilla please
+run PsLoggedOn please
+run Microsoft SQL Server Configuration Manager please
+run Jamovi please
+run PsList please
+run application Tilt
+run application Looker Studio
+run application Kingston SSD Manager
+run application IDLE
+run application Packer
+run the Joplin app
+run the Hard Disk Sentinel app
+run the FreeCAD app
+run the LocalSend app
+run the ScummVM app
+run the Windows Adapter Settings application for me
+run the LibreOffice Math application for me
+run the DbgView application for me
+run the Qt Designer application for me
+run the Ultimaker Cura application for me
+run the Beyond Compare program for me
+run the Blender Launcher program for me
+run the Services program for me
+run the Brave program for me
+run the Microsoft Store program for me
+run the app called Bitwarden
+run the app called Strawberry Music Player
+run the app called Oracle SQLcl
+run the app called OpenVPN GUI
+run the app called Microsoft Access Runtime
+run the app named OpenVPN Connect
+run the app named RapidAPI
+run the app named GIMP Portable
+run the app named UiPath Studio
+run the app named Microsoft Excel
+run the application GitHub Desktop
+run the application TightVNC Viewer
+run the application Taiga
+run the application XYplorer
+run the application Stremio
+run the program Balsamiq Wireframes
+run the program RivaTuner Statistics Server
+run the program ASRock Polychrome RGB
+run the program Corsair iCUE
+run the program Bulk Crap Uninstaller
+run the program called Dolby Access
+run the program called Prometheus
+run the program called BlueJ
+run the program called Microsoft 365 Apps
+run the program called Kibana
+run the software Prime95
+run the software Audacity
+run the software Windows Recovery Drive
+run the software WinDbg Preview
+run the software SpaceSniffer
+start Amazon WorkSpaces
+start RPG Maker MV
+start ownCloud Desktop
+start Mixxx
+start Mnemosyne
+start RawTherapee application
+start Bottles application
+start Apple Mobile Device Support application
+start Flask application
+start Windows Remote Assistance application
+start Adobe Acrobat Reader for me
+start Charles Proxy for me
+start Hyper Terminal for me
+start Upscayl for me
+start Windows Snipping Tool for me
+start VMware vCenter Converter now
+start Claude now
+start ESET Endpoint Security now
+start Mattermost now
+start HP Support Assistant now
+start Sophos Scan & Clean on my pc
+start Citavi on my pc
+start Eclipse Temurin on my pc
+start Google Chrome Canary on my pc
+start Nextcloud Desktop on my pc
+start Veeam Agent for Microsoft Windows please
+start AnythingLLM please
+start Windows Defender Application Control please
+start MediaMonkey please
+start HitmanPro please
+start the Seagate SeaTools
+start the Windows Installer
+start the Microsoft Access Database Engine
+start the Files
+start the AMD Cleanup Utility
+start the MKVToolNix GUI app
+start the Everything app
+start the Alarms & Clock app
+start the Neo4j Browser app
+start the Thonny IDE app
+start the OpenSCAD application for me
+start the Windows Calendar application for me
+start the PlantUML application for me
+start the Google Translate application for me
+start the ConEmu application for me
+start the LibreOffice Impress program for me
+start the Task Manager program for me
+start the Helm program for me
+start the Chromium Embedded Framework program for me
+start the VirtualDJ program for me
+start the app called VentoyPlugson
+start the app called Mendeley
+start the app called Ueli Launcher
+start the app called CapCut
+start the app called WinObj
+start the app named Rufus
+start the app named WizTree
+start the app named HD Tune
+start the app named Whisper Desktop
+start the app named Oracle VirtualBox
+start the application Microsoft Project Online
+start the application Hyper-V Manager
+start the application WinDbg
+start the application Capacities
+start the application NetLimiter
+start the application called AdwCleaner
+start the application called HP Smart
+start the application called PicPick
+start the application called AIMP
+start the application called Android Studio
+start the application named Chocolatey GUI
+start the application named Pixlr
+start the application named Microsoft 365 Copilot
+start the application named Npcap
+start the application named ASUS GPU Tweak
+start the application named PrusaSlicer for me
+start the application named Krisp for me
+start the application named GlassWire for me
+start the application named Check Point Endpoint Security for me
+start the application named iCloud for me
+start the program LibreOffice
+start the program Greenbone Security Assistant
+start the program Prio
+start the program YUMI
+start the program Bitdefender
+start the program called Arc
+start the program called ESET Online Scanner
+start the program called MEmu Play
+start the program called Git Bash
+start the program called Voice Recorder
+start the program named Mullvad VPN
+start the program named Find and Run Robot
+start the program named GitHub CLI
+start the program named Visual Studio Enterprise
+start the program named NetSetMan
+start the software Magnifier
+start the software Royal TS
+start the software Alacritty
+start the software Fing
+start the software LibreWolf
+start up iTunes
+start up ODBC Data Sources
+start up Microsoft Edge Dev
+start up Prism Launcher
+start up Windows Voice Access
+start up the Perfect Automation app
+start up the Microsoft Project app
+start up the Zscaler Client Connector app
+start up the Corel PHOTO-PAINT app
+start up the PhotoRec app
+would you launch Windows Script Host
+would you launch Windows Remote Desktop
+would you launch Windows Indexing Options
+would you launch File History
+would you launch Discord
+would you open Chef Workstation
+would you open Wise Disk Cleaner
+would you open Pulse Secure
+would you open Godot Editor
+would you open Windows Disk Cleanup
+would you please launch Revo Uninstaller
+would you please launch Unreal Engine
+would you please launch Windows Get Help
+would you please launch Get Help
+would you please launch Workspacer
+would you please open DropIt
+would you please open Windows Camera
+would you please open Opera
+would you please open Puppet Bolt
+would you please open Avast One
+would you please run Windows Management Instrumentation Tester
+would you please run Chrome Remote Desktop
+would you please run RKill
+would you please run Geekbench
+would you please run SAS Studio
+would you please start Adobe After Effects
+would you please start Git Extensions
+would you please start pCloud Drive
+would you please start Perplexity
+would you please start GitLab CLI
+would you run IntelliJ IDEA Community
+would you run Google Meet
+would you run TextPad
+would you run Surfshark
+would you run WordPad
+would you run the Anytype application
+would you run the RingCentral application
+would you run the Paw application
+would you run the Microsoft ODBC Data Source Administrator application
+would you run the Remote Desktop Connection application
+would you start WhatsApp
+would you start Mercurial
+would you start Xenia
+would you start KWrite
+would you start XAMPP Control Panel
+would you start up Minecraft Launcher
+would you start up Waves MaxxAudio Pro
+would you start up MongoDB Shell
+would you start up Meshmixer
+would you start up NVIDIA Profile Inspector

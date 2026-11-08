@@ -1,0 +1,221 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "close"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "close the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "close the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "close this application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "close this program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "could you close the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "could you terminate the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "end"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "end the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "end the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "exit"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "exit this application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "exit this program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "I need to exit"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "I need to quit"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "I need to terminate the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "I want to exit"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "I want to quit"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "please close the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "please end the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "please exit"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "please quit"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "please stop the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "please terminate the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "quit"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "quit the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "quit the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "quit this application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "quit this program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "shut down"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "shut down the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "shut down the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "shutdown"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "stop"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "stop the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "stop the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "stop this application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "stop this program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "terminate"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "terminate the application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "terminate the program"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "terminate this application"
+    },
+    {
+      "dataset": "exit",
+      "intent": "exit",
+      "text": "terminate this program"
+    }
+  ]
+}

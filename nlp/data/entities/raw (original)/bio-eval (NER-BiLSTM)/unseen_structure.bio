@@ -1,0 +1,588 @@
+open	O
+the	B-APP
+Chrome	I-APP
+
+launch	O
+my	B-APP
+Firefox	I-APP
+
+start	O
+the	B-APP
+VS	I-APP
+Code	I-APP
+
+please	O
+open	O
+my	B-APP
+Notepad	I-APP
+
+can	O
+you	O
+launch	O
+the	B-APP
+Calculator	I-APP
+
+open	O
+up	O
+my	B-APP
+Discord	I-APP
+
+start	O
+the	O
+the	B-APP
+Spotify	I-APP
+
+run	O
+my	B-APP
+Paint	I-APP
+
+bring	O
+up	O
+the	B-APP
+Word	I-APP
+
+load	O
+my	B-APP
+Excel	I-APP
+
+open	O
+the	B-APP
+Chrome	I-APP
+
+launch	O
+my	B-APP
+Firefox	I-APP
+
+start	O
+the	B-APP
+VS	I-APP
+Code	I-APP
+
+please	O
+open	O
+my	B-APP
+Notepad	I-APP
+
+can	O
+you	O
+launch	O
+the	B-APP
+Calculator	I-APP
+
+open	O
+up	O
+my	B-APP
+Discord	I-APP
+
+start	O
+the	O
+the	B-APP
+Spotify	I-APP
+
+run	O
+my	B-APP
+Paint	I-APP
+
+bring	O
+up	O
+the	B-APP
+Word	I-APP
+
+load	O
+my	B-APP
+Excel	I-APP
+
+create	O
+a	O
+file	O
+called	O
+notes.txt	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+report.pdf	B-FILE
+
+prepare	O
+the	O
+file	O
+todo.txt	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+data.csv	B-FILE
+
+create	O
+the	O
+document	O
+photo.jpg	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+draft.docx	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+notes.txt	B-FILE
+
+prepare	O
+the	O
+file	O
+report.pdf	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+todo.txt	B-FILE
+
+create	O
+the	O
+document	O
+data.csv	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+photo.jpg	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+draft.docx	B-FILE
+
+prepare	O
+the	O
+file	O
+notes.txt	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+report.pdf	B-FILE
+
+create	O
+the	O
+document	O
+todo.txt	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+data.csv	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+photo.jpg	B-FILE
+
+prepare	O
+the	O
+file	O
+draft.docx	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+notes.txt	B-FILE
+
+create	O
+the	O
+document	O
+report.pdf	B-FILE
+
+create	O
+a	O
+folder	O
+called	O
+Projects	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Downloads	B-FOLDER
+
+prepare	O
+the	O
+folder	O
+Documents	B-FOLDER
+
+create	O
+the	O
+directory	O
+Pictures	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+Work	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Backup	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Projects	B-FOLDER
+
+prepare	O
+the	O
+folder	O
+Downloads	B-FOLDER
+
+create	O
+the	O
+directory	O
+Documents	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+Pictures	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Work	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Backup	B-FOLDER
+
+prepare	O
+the	O
+folder	O
+Projects	B-FOLDER
+
+create	O
+the	O
+directory	O
+Downloads	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+Documents	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Pictures	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Work	B-FOLDER
+
+prepare	O
+the	O
+folder	O
+Backup	B-FOLDER
+
+create	O
+the	O
+directory	O
+Projects	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+Downloads	B-FOLDER
+
+remove	O
+the	O
+file	O
+notes.txt	B-FILE
+
+get	O
+rid	O
+of	O
+report.pdf	B-FILE
+
+erase	O
+todo.txt	B-FILE
+
+discard	O
+the	O
+document	O
+data.csv	B-FILE
+
+delete	O
+photo.jpg	B-FILE
+
+remove	O
+the	O
+file	O
+draft.docx	B-FILE
+
+get	O
+rid	O
+of	O
+notes.txt	B-FILE
+
+erase	O
+report.pdf	B-FILE
+
+discard	O
+the	O
+document	O
+todo.txt	B-FILE
+
+delete	O
+data.csv	B-FILE
+
+remove	O
+the	O
+folder	O
+Projects	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+Downloads	B-FOLDER
+
+erase	O
+the	O
+folder	O
+Documents	B-FOLDER
+
+discard	O
+Pictures	B-FOLDER
+
+delete	O
+the	O
+directory	O
+Work	B-FOLDER
+
+remove	O
+the	O
+folder	O
+Backup	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+Projects	B-FOLDER
+
+erase	O
+the	O
+folder	O
+Downloads	B-FOLDER
+
+discard	O
+Documents	B-FOLDER
+
+delete	O
+the	O
+directory	O
+Pictures	B-FOLDER
+
+send	O
+notes.txt	B-FILE
+into	O
+Downloads	B-PATH_DIR
+
+send	O
+report.pdf	B-FILE
+into	O
+Documents	B-PATH_DIR
+
+send	O
+todo.txt	B-FILE
+into	O
+Pictures	B-PATH_DIR
+
+send	O
+data.csv	B-FILE
+into	O
+Work	B-PATH_DIR
+
+send	O
+photo.jpg	B-FILE
+into	O
+Backup	B-PATH_DIR
+
+move	O
+Projects	B-FOLDER
+inside	O
+Documents	B-PATH_DIR
+
+move	O
+Downloads	B-FOLDER
+inside	O
+Pictures	B-PATH_DIR
+
+move	O
+Documents	B-FOLDER
+inside	O
+Work	B-PATH_DIR
+
+move	O
+Pictures	B-FOLDER
+inside	O
+Backup	B-PATH_DIR
+
+move	O
+Work	B-FOLDER
+inside	O
+Projects	B-PATH_DIR
+
+rename	O
+notes.txt	B-FILE
+as	O
+todo.txt	B-FILE
+
+rename	O
+report.pdf	B-FILE
+as	O
+data.csv	B-FILE
+
+rename	O
+todo.txt	B-FILE
+as	O
+photo.jpg	B-FILE
+
+rename	O
+data.csv	B-FILE
+as	O
+draft.docx	B-FILE
+
+rename	O
+photo.jpg	B-FILE
+as	O
+notes.txt	B-FILE
+
+rename	O
+Projects	B-FOLDER
+to	O
+Documents	B-FOLDER
+
+rename	O
+Downloads	B-FOLDER
+to	O
+Pictures	B-FOLDER
+
+rename	O
+Documents	B-FOLDER
+to	O
+Work	B-FOLDER
+
+rename	O
+Pictures	B-FOLDER
+to	O
+Backup	B-FOLDER
+
+rename	O
+Work	B-FOLDER
+to	O
+Projects	B-FOLDER
+
+quit	O
+now	O
+
+stop	O
+the	O
+program	O
+
+close	O
+WinPilot	O
+
+terminate	O
+the	O
+session	O
+
+end	O
+this	O
+task	O
+
+shut	O
+down	O
+the	O
+assistant	O
+
+leave	O
+the	O
+application	O
+
+finish	O
+now	O
+
+close	O
+everything	O
+
+end	O
+the	O
+program	O
+
+quit	O
+now	O
+
+stop	O
+the	O
+program	O
+
+close	O
+WinPilot	O
+
+terminate	O
+the	O
+session	O
+
+end	O
+this	O
+task	O
+
+shut	O
+down	O
+the	O
+assistant	O
+
+leave	O
+the	O
+application	O
+
+finish	O
+now	O
+
+close	O
+everything	O
+
+end	O
+the	O
+program	O
+

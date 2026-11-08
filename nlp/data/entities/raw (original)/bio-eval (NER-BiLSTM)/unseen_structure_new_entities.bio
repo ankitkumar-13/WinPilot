@@ -1,0 +1,586 @@
+open	O
+the	B-APP
+Brave	I-APP
+
+launch	O
+my	B-APP
+Obsidian	I-APP
+
+start	O
+the	B-APP
+Postman	I-APP
+
+please	O
+open	O
+my	B-APP
+Notion	I-APP
+
+can	O
+you	O
+launch	O
+the	B-APP
+Figma	I-APP
+
+open	O
+up	O
+my	B-APP
+VLC	I-APP
+
+start	O
+the	O
+the	B-APP
+Audacity	I-APP
+
+run	O
+my	B-APP
+WinSCP	I-APP
+
+bring	O
+up	O
+the	B-APP
+FileZilla	I-APP
+
+load	O
+my	B-APP
+KeePass	I-APP
+
+open	O
+the	B-APP
+Brave	I-APP
+
+launch	O
+my	B-APP
+Obsidian	I-APP
+
+start	O
+the	B-APP
+Postman	I-APP
+
+please	O
+open	O
+my	B-APP
+Notion	I-APP
+
+can	O
+you	O
+launch	O
+the	B-APP
+Figma	I-APP
+
+open	O
+up	O
+my	B-APP
+VLC	I-APP
+
+start	O
+the	O
+the	B-APP
+Audacity	I-APP
+
+run	O
+my	B-APP
+WinSCP	I-APP
+
+bring	O
+up	O
+the	B-APP
+FileZilla	I-APP
+
+load	O
+my	B-APP
+KeePass	I-APP
+
+create	O
+a	O
+file	O
+called	O
+ledger.odt	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+meeting.m4a	B-FILE
+
+prepare	O
+the	O
+file	O
+diagram.svg	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+archive.tar	B-FILE
+
+create	O
+the	O
+document	O
+budget.ods	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+voice.flac	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+ledger.odt	B-FILE
+
+prepare	O
+the	O
+file	O
+meeting.m4a	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+diagram.svg	B-FILE
+
+create	O
+the	O
+document	O
+archive.tar	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+budget.ods	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+voice.flac	B-FILE
+
+prepare	O
+the	O
+file	O
+ledger.odt	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+meeting.m4a	B-FILE
+
+create	O
+the	O
+document	O
+diagram.svg	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+archive.tar	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+budget.ods	B-FILE
+
+prepare	O
+the	O
+file	O
+voice.flac	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+ledger.odt	B-FILE
+
+create	O
+the	O
+document	O
+meeting.m4a	B-FILE
+
+create	O
+a	O
+folder	O
+called	O
+ResearchVault	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+SemesterArchive	B-FOLDER
+
+prepare	O
+the	O
+folder	O
+ClientDrop	B-FOLDER
+
+create	O
+the	O
+directory	O
+BuildCache	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+MediaShelf	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+TempWorkspace	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+ResearchVault	B-FOLDER
+
+prepare	O
+the	O
+folder	O
+SemesterArchive	B-FOLDER
+
+create	O
+the	O
+directory	O
+ClientDrop	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+BuildCache	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+MediaShelf	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+TempWorkspace	B-FOLDER
+
+prepare	O
+the	O
+folder	O
+ResearchVault	B-FOLDER
+
+create	O
+the	O
+directory	O
+SemesterArchive	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+ClientDrop	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+BuildCache	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+MediaShelf	B-FOLDER
+
+prepare	O
+the	O
+folder	O
+TempWorkspace	B-FOLDER
+
+create	O
+the	O
+directory	O
+ResearchVault	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+SemesterArchive	B-FOLDER
+
+remove	O
+the	O
+file	O
+ledger.odt	B-FILE
+
+get	O
+rid	O
+of	O
+meeting.m4a	B-FILE
+
+erase	O
+diagram.svg	B-FILE
+
+discard	O
+the	O
+document	O
+archive.tar	B-FILE
+
+delete	O
+budget.ods	B-FILE
+
+remove	O
+the	O
+file	O
+voice.flac	B-FILE
+
+get	O
+rid	O
+of	O
+ledger.odt	B-FILE
+
+erase	O
+meeting.m4a	B-FILE
+
+discard	O
+the	O
+document	O
+diagram.svg	B-FILE
+
+delete	O
+archive.tar	B-FILE
+
+remove	O
+the	O
+folder	O
+ResearchVault	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+SemesterArchive	B-FOLDER
+
+erase	O
+the	O
+folder	O
+ClientDrop	B-FOLDER
+
+discard	O
+BuildCache	B-FOLDER
+
+delete	O
+the	O
+directory	O
+MediaShelf	B-FOLDER
+
+remove	O
+the	O
+folder	O
+TempWorkspace	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+ResearchVault	B-FOLDER
+
+erase	O
+the	O
+folder	O
+SemesterArchive	B-FOLDER
+
+discard	O
+ClientDrop	B-FOLDER
+
+delete	O
+the	O
+directory	O
+BuildCache	B-FOLDER
+
+send	O
+ledger.odt	B-FILE
+into	O
+SemesterArchive	B-PATH_DIR
+
+send	O
+meeting.m4a	B-FILE
+into	O
+ClientDrop	B-PATH_DIR
+
+send	O
+diagram.svg	B-FILE
+into	O
+BuildCache	B-PATH_DIR
+
+send	O
+archive.tar	B-FILE
+into	O
+MediaShelf	B-PATH_DIR
+
+send	O
+budget.ods	B-FILE
+into	O
+TempWorkspace	B-PATH_DIR
+
+move	O
+ResearchVault	B-FOLDER
+inside	O
+ClientDrop	B-PATH_DIR
+
+move	O
+SemesterArchive	B-FOLDER
+inside	O
+BuildCache	B-PATH_DIR
+
+move	O
+ClientDrop	B-FOLDER
+inside	O
+MediaShelf	B-PATH_DIR
+
+move	O
+BuildCache	B-FOLDER
+inside	O
+TempWorkspace	B-PATH_DIR
+
+move	O
+MediaShelf	B-FOLDER
+inside	O
+ResearchVault	B-PATH_DIR
+
+rename	O
+ledger.odt	B-FILE
+as	O
+diagram.svg	B-FILE
+
+rename	O
+meeting.m4a	B-FILE
+as	O
+archive.tar	B-FILE
+
+rename	O
+diagram.svg	B-FILE
+as	O
+budget.ods	B-FILE
+
+rename	O
+archive.tar	B-FILE
+as	O
+voice.flac	B-FILE
+
+rename	O
+budget.ods	B-FILE
+as	O
+ledger.odt	B-FILE
+
+rename	O
+ResearchVault	B-FOLDER
+to	O
+ClientDrop	B-FOLDER
+
+rename	O
+SemesterArchive	B-FOLDER
+to	O
+BuildCache	B-FOLDER
+
+rename	O
+ClientDrop	B-FOLDER
+to	O
+MediaShelf	B-FOLDER
+
+rename	O
+BuildCache	B-FOLDER
+to	O
+TempWorkspace	B-FOLDER
+
+rename	O
+MediaShelf	B-FOLDER
+to	O
+ResearchVault	B-FOLDER
+
+quit	O
+now	O
+
+stop	O
+the	O
+program	O
+
+close	O
+WinPilot	O
+
+terminate	O
+the	O
+session	O
+
+end	O
+this	O
+task	O
+
+shut	O
+down	O
+the	O
+assistant	O
+
+leave	O
+the	O
+application	O
+
+finish	O
+now	O
+
+close	O
+everything	O
+
+end	O
+the	O
+program	O
+
+quit	O
+now	O
+
+stop	O
+the	O
+program	O
+
+close	O
+WinPilot	O
+
+terminate	O
+the	O
+session	O
+
+end	O
+this	O
+task	O
+
+shut	O
+down	O
+the	O
+assistant	O
+
+leave	O
+the	O
+application	O
+
+finish	O
+now	O
+
+close	O
+everything	O
+
+end	O
+the	O
+program	O
+

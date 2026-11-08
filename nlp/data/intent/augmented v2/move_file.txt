@@ -1,0 +1,1800 @@
+can you move query_results_v3.model to Client Working
+can you move audit_evidence_index.xlsx to Volunteering
+can you move library_borrowing_history.csv to WinPilot Shared
+can you move maintenance_log_backup.ttf to Old Laptop
+can you move demo_account_list.csv to Payroll Manager - Private
+can you move printer_test_page.pdf to WinPilot - Finance
+can you move equipment_register_v3.psd to Data Engineering
+can you move files_to_review.txt to WinPilot - Raw Data
+can you move expense_claim.wav to GEHU - Private
+can you move coding_round_results.xlsx to Payroll Manager - References
+can you move translation_review_reviewed.sav to D:\Data\Engineering Team
+can you move email_newsletter_performance.csv to E:\Media\Network Captures\Release 1.4\Production Incidents
+can you move security_findings.out to D:\Shared\To Review
+can you move hackathon_team_roster.xlsx to C:\Users\Ankit\OneDrive\config\Release 1.4\scripts
+can you move Procfile to C:\Users\Ankit\OneDrive\archives\Old Versions\Department Private
+can you move signed_delivery_receipt.pdf to D:\Staging\model outputs\Release 1.4\TLS Certificates
+can you move unreal_crash_context.txt to E:\Incoming\test results\docs\dist
+can you move warehouse_stock_approved.etl to C:\Users\Ankit\Downloads\WinPilot\Travel Planning\Music Playlists
+can you move subtitle_track.srt to C:\Users\Ankit\Videos\Audio Troubleshooting\api tests\Viva Preparation
+can you move hotel_loyalty_statement.pdf to C:\Program Files (x86)\Lab Work\finance\Department Code
+can you move \\backup-server\weekly\Exam Preparation\Audio Troubleshooting\game_mod_load_order.txt to Payroll Manager Audits
+can you move D:\Staging\archives\presentations\feature_flag_rollout.md to WinPilot Support
+can you move D:\Research\inventory\contracts\move_rollback_cases.csv to Client Audits
+can you move D:\Backups\recordings\exports\repair_receipt_20261018.pdf to Deployment Rollbacks
+can you move E:\Incoming\client files\To Review\video_subtitle_alignment.csv to DBMS Project Inputs
+can you move D:\Data\receipts\meeting notes\merge_conflict_notes.txt to WinPilot - Tracking
+can you move C:\Users\Ankit\OneDrive\Research\property_photos.zip to 2024 WinPilot
+can you move E:\Personal\inventory\travel\monthly_payroll_summary.xlsx to External SSD Backup
+can you move E:\College\WinPilot\label_distribution_report.csv to College Backups
+can you move D:\College\GEHU\Client A\Shared Documents\mobile_app_logs.zip to Customer One
+can you put attendance_sheet.ipynb in Year Records
+can you put refund_approval_8831.pdf in College - Published
+can you put contractor_payment_tracker.xlsx in College Published
+can you put status_report_draft.feather in Payroll Manager - Audio
+can you put rollback_plan_v3.pickle in University - To Print
+can you put social_media_plan.pdf in GEHU Records
+can you put delete_recovery_test.log in License Inventory
+can you put database_erd.png in Department Suppliers
+can you put compliance_review_final.php in Onboarding
+can you put shipment_tracking_revised.cer in Year Notes
+can you put reparse_point_report.txt in E:\Media\Invoices
+can you put project_plan_v3.ipa in C:\Temp\Videos
+can you put data_retention_schedule.xlsx in D:\Research\intent models\Course Material\Team Tickets
+can you put annual_report.gpx in G:\Shared\test results\database\Entity Recognition
+can you put website_redirect_map.csv in E:\College\Week 42
+can you put draft_database.svg in D:\Staging\Source Code\travel\Attendees
+can you put diagram_network.drawio in E:\Personal\Projects\imports\VMware
+can you put delivery_note.pdf in C:\Users\Ankit\Documents\Python Projects
+can you put maintenance_log.bak in C:\Temp\Validation Data
+can you put compost_schedule.txt in E:\College\config\receipts\Year Tests
+can you put \\192.168.1.20\teamshare\Research Papers\campaigns\restore_drill_results.xlsx in Audio Troubleshooting
+can you put C:\Dev\Archive\db_dump_2026_10_20.sql in GEHU Reference Material
+can you put D:\Research\Semester 5\webinar_registration_confirmation.pdf in 2024 College
+can you put D:\Data\Exam Preparation\Sprint 13\hackathon_pitch.pptx in Payroll Manager - Tracking
+can you put D:\Source\config\To Review\music_practice_schedule.pdf in DBMS Project Resources
+can you put E:\College\src\Semester 5\create_folder_examples.jsonl in University Planning
+can you put C:\Program Files\customer support\Shared Documents\draft_customers.html in WinPilot - Current
+can you put C:\Dev\Assignments\semester_timetable.pdf in Team Documents
+can you put G:\Shared\model outputs\Lab Work\container_vulnerability_report.html in production
+can you put C:\ProgramData\archives\migrations\project_guide_comments.docx in Payroll Manager Metrics
+can you send firewall_audit_revised.gif to 2025 DBMS Project
+can you send student_feedback_form.docx to Shortcuts
+can you send untitled_spreadsheet.xlsx to Payroll Manager Notes
+can you send parking_permit_scan.pdf to Command History
+can you send risk_register_final.docx to Firmware Packages
+can you send unc_share_migration_plan.docx to DBMS Project Templates
+can you send screen_reader_test_notes.md to 2026 Payroll Manager
+can you send school_timetable_october.pdf to Automated Test Reports
+can you send office_supply_order.xlsx to Project Scripts
+can you send bluetooth_diagnostics.txt to Project Exports
+can you send foreground_window_history.csv to E:\College\diagnostics\To Review\Department Raw
+can you send api_test_results.crt to G:\Shared\Firewall Configs\api tests\Year October
+can you send income_tax_computation_2026.xlsx to E:\Personal\HR\design files\Project Forms
+can you send purchase_approval_log.csv to E:\Archive\training data\Week 42\Archived Branches
+can you send monthly_summary_2026_10.gif to D:\Projects\Docs
+can you send unit_test_report_reviewed.bak to E:\Incoming\Travel Planning\diagnostics\Recovery Codes
+can you send benefits_enrolment_form.pdf to D:\Work\validation data\Graphics Troubleshooting\Year Week 43
+can you send accessibility_audit.pdf to D:\Work\Temporary Exports
+can you send generated_records_batch_01.jsonl to E:\Personal\Audio Troubleshooting\Shared Documents\SSH Configs
+can you send localisation_strings_reviewed.fig to F:\USB Backup\Sprint 13
+could you move student_project_rubric.pdf from Recruitment to Project Audits
+could you move fee_payment_confirmation.pdf from Year Backups to Year Processed
+could you move battery_cycle_report.csv from Phone Troubleshooting to Payroll Manager - Revisions
+could you move stock_reconciliation.pom from Online Orders to Payroll Manager - Clients
+could you move draft_maintenance.pptx from Data Governance to WinPilot - Schedules
+could you move delivery_manifest.tar.gz from Department To Submit to Laptop Maintenance
+could you move uptime_summary.err from Warranties to College - Processed Data
+could you move terraform_state_backup.tfstate from Speech Recognition to Audio Transcripts
+could you move travel_reimbursement_batch.xlsx from Migration Rollback to Project Suppliers
+could you move meeting_agenda.docx from GEHU - Designs to DBMS Project Research
+could you move portfolio_case_study.pdf from \\192.168.1.20\teamshare\client files\photos\Support Bundle to D:\Work\Entity Pools
+could you move draft_meeting.pptx from \\192.168.1.20\teamshare\PBL Phase 2\Payroll Manager\Team Templates to C:\Users\Public\Documents\October 2026\src\Migration Rollback
+could you move slow_query_analysis_v2.mkv from D:\Source\family photos\screenshots\Team Videos to D:\Projects\tests\client files\staging
+could you move postmortem_v3.cfg from D:\Work\Final Versions to D:\Source\Final Versions\Old Versions\Project Archive
+could you move alembic.ini from C:\Program Files (x86)\model outputs\customer support\Oracle Database to D:\Source\training data\travel\Webinar
+could you move insurance_policy.pdf from C:\Users\Ankit\OneDrive\HR\presentations\Parser Tests to C:\Users\Ankit\Desktop\warehouse\Assignments\Client Validation
+could you move usability_test_notes.docx from E:\Archive\Sprint 13 to D:\WinPilot\Certificates\Sprint 13\Performance Tests
+could you move supplier_quote_v3.webm from D:\Projects\diagnostics\Lab Work\Client Students to D:\Source\api tests\Network Captures\PBL Phase 1
+could you move customer_survey.hpp from E:\Archive\Semester 7 to C:\Users\Public\Documents\Recordings
+could you move privacy_notice.docx from C:\Dev\diagnostics\photos\Data Engineering to C:\Dev\receipts\To Review\Department Archive 2026
+could you move salary_statement_approved.go into Year Private
+could you move family_photo.jpg into Department Archive
+could you move ansible_inventory.ini into BIOS Notes
+could you move container_inventory_revised.img into College Current
+could you move contract_draft.msix into GEHU - Final Submission
+could you move scheduled_tasks_inventory.csv into Open Source Tools
+could you move hidden_files_inventory.csv into Webinar
+could you move hosting_invoice_october.pdf into Medical Reimbursements
+could you move analytics_dashboard.ts into Department Research
+could you move website_audit.tsx into Semester 4
+could you move latency_benchmark.sys into E:\Media\SQL Scripts
+could you move build_manifest_draft.exe into E:\College\Lab Work\database\Year To Review
+could you move tox.ini into D:\Work\Config
+could you move conference_submission.docx into \\NAS01\Shared\release builds\Research Papers\WinPilot Tests
+could you move dependency_update_plan.md into E:\Personal\test results\HR\Subtitles
+could you move file_search_benchmark.csv into G:\Shared\customer support\Semester 5\Year Data
+could you move expense_claim_2026_10.m4a into F:\External Drive\Client A\family photos\Resumes
+could you move accessibility_audit.out into C:\Users\Ankit\Documents\marketing\Driver Backups\Client Notes
+could you move disk_partition_map.png into E:\Archive\Reports\photos\WinPilot Application Plugins
+could you move train_validation_split_manifest.json into D:\Shared\Finance Team
+could you move data_cleanup_actions.md to DBMS Project Support
+could you move feature_requests.csv to WinPilot - Policies
+could you move attendance_sheet_2026_10.hcl to Team Tests
+could you move payment_confirmation_20261019.pdf to University - Designs
+could you move screen_recording_trimmed.mp4 to Payroll Manager References
+could you move draft_orders.txt to GEHU - Results
+could you move contract_signed_backup.rs to Payroll Manager - Tests
+could you move project_archive_inventory.xlsx to University - Rejected
+could you move customer_success_plan.docx to Decision Records
+could you move tax_computation.jsx to Team Invoices
+could you move firefox_bookmarks_backup.html to C:\Users\Public\Documents\Backups
+could you move building_access_card_log.csv to D:\Data\Home Repairs\engineering\Intent Evaluation
+could you move data_migration_mapping.xlsx to D:\Work\Driver Backups\test results\Project Evidence
+could you move website_audit.url to D:\College\GEHU\invoices\Projects\Supplier North
+could you move security_findings.pt to E:\Archive\docs\inventory\Branches
+could you move upi_transaction_receipt.pdf to D:\Data\Generated Records
+could you move wsl_setup_checklist.md to E:\Media\archives\assets\Department November
+could you move disaster_recovery.webm to E:\Media\Semester 7
+could you move disaster_recovery.lnk to E:\Archive\October 2026
+could you move load_test_report.mov to C:\Users\Ankit\Videos\Payroll Manager\recordings\Project Documents
+could you move E:\Media\Reports\Graphics Troubleshooting\source_archive.tar.gz from D:\Source\operations\Device Reports\Obsolete to C:\ProgramData\invoices\meeting notes\Gaming Backups
+could you move C:\Users\Ankit\Videos\Documents\stock_reconciliation.xlsx from C:\Users\Ankit\Videos\Home Repairs\family photos\Department Old Versions to C:\Users\Ankit\Documents\Week 42\campaigns\Client 2026
+could you move C:\Users\ankit.kumar\Documents\Photos\wedding_invitation_sample.png from C:\Users\Ankit\Videos\family photos\imports\screenshots to \\backup-server\weekly\Driver Backups\PBL Phase 2\Team Scripts
+could you move C:\Users\Ankit\Pictures\Backups\maintenance_request_0092.docx from D:\Backups\Client A to E:\Personal\To Submit\assets\October 2026
+could you move \\FileServer\Departments\Lab Work\Semester 5\camera_raw_20261018.cr3 from D:\WinPilot\warehouse\Network Captures\Education Certificates to D:\Source\assets\Week 42\Contracts
+could you move D:\Source\src\Semester 7\driving_lesson_schedule.ics from D:\Source\travel\Certificates\Department History to \\OfficePC\Public\api tests\Shared Documents\Data Quality
+could you move C:\Users\Ankit\Desktop\Photos\swim_training_log.xlsx from E:\College\Logs to D:\Backups\Invoices
+could you move D:\Projects\Research\passport_renewal_checklist.docx from \\NAS01\Shared\presentations\Reports\Project Week 42 to E:\Incoming\Semester 5\test results\Team Validation
+could you move E:\Incoming\presentations\inventory\candidate_scores.xlsx from \\backup-server\weekly\Device Reports\temp\Empty Folders Review to C:\Users\Ankit\Pictures\meeting notes\Windows Logs\Telemetry
+could you move C:\Users\Ankit\Pictures\WinPilot\meal_plan.docx from C:\Temp\Driver Backups\engineering\Disk Cleanup Review to C:\Users\Ankit\OneDrive\database\Sprint 13\Travel Receipts
+could you move C:\Users\Ankit\Downloads\tests\HR\temporary_export.tmp into NER datasets
+could you move E:\Media\frontend\config\license_inventory.csv into Support Bundle
+could you move \\backup-server\weekly\Windows Logs\Semester 7\donation_receipt_october.pdf into Year Inputs
+could you move C:\Users\Ankit\Desktop\Documents\concert_booking_confirmation.pdf into DBMS Project - Templates
+could you move D:\Staging\Exam Preparation\training data\water_meter_readings.xlsx into Department Planning
+could you move D:\College\GEHU\exports\engineering\subscription_cancellation_receipt.pdf into Payroll Manager Support
+could you move C:\ProgramData\Firewall Configs\family photos\generated_records_batch_02.jsonl into Action Items
+could you move C:\Users\Ankit\Desktop\HR\imports\shopping_comparison_october.xlsx into Games
+could you move D:\Shared\PBL Phase 2\research_collaboration_agreement.pdf into GEHU Finance
+could you move E:\Media\Downloads\task_run_history.jsonl into GEHU Planning
+could you move C:\Users\Ankit\Pictures\Reports\presentations\home_appliance_inventory.xlsx into G:\Shared\Audio Troubleshooting\client files\recordings
+could you move C:\Users\Ankit\Downloads\PBL Phase 2\merge_conflict_notes.txt into C:\Users\Public\Documents\Driver Backups\Driver Backups\Phone Restore
+could you move D:\Research\Source\delivery_tracking_export.csv into E:\Media\Game Saves
+could you move D:\Staging\Source Code\travel\company_research_notes.md into E:\Incoming\finance\Projects\Installer Files
+could you move D:\Source\intent models\test results\delivery_photos.zip into D:\College\GEHU\Certificates\Driver Backups\Webcam Recordings
+could you move D:\WinPilot\customer support\Exam Preparation\permission_denied_examples.jsonl into D:\Backups\Tests
+could you move D:\Staging\receipts\Research Papers\weekly_menu.xlsx into D:\College\GEHU\family photos\backend\Client Sprint 12
+could you move E:\Archive\Reports\sports_facility_booking.ics into C:\Temp\SQL Scripts
+could you move C:\Users\Ankit\Videos\Semester 7\generated\venue_floor_plan.pdf into D:\Staging\Projects\release builds\Software
+could you move D:\Staging\Shared Documents\presentations\certification_exam_booking.pdf into E:\Personal\docs\Travel Planning\Identity Documents
+could you move C:\Users\Ankit\Videos\Firewall Configs\backups\test_auth.py to Marketing Campaigns
+could you move C:\Users\Ankit\Desktop\docs\finance\setup_installer.exe to Known Issues
+could you move C:\Projects\Downloads\authentication_failure_log.csv to University Assets
+could you move E:\Archive\Travel Planning\Release 1.4\scholarship_application.docx to Controller Profiles
+could you move E:\Incoming\datasets\Payroll Manager\shipment_customs_documents.zip to Year Metrics
+could you move D:\WinPilot\Backups\orphaned_files_scan.csv to Client Videos
+could you move C:\Dev\docs\travel\printer_scan_20261020.pdf to GEHU Videos
+could you move D:\Backups\archives\marketing\draft_budget.svg to College - Research
+could you move D:\WinPilot\Projects\docs\release_checklist.xlsx to AWS Training
+could you move C:\Temp\meeting notes\HR\slm_ensemble_votes.csv to DBMS Project - Requests
+could you put hostel_fee_receipt.pdf in WinPilot - Pending Review
+could you put press_contact_list.csv in DBMS Project Ready to Submit
+could you put vaccination_record.pdf in Augmentation Reports
+could you put status_report_v3.ost in WinPilot - Previous
+could you put sample_chain_of_custody.pdf in WinPilot - Published
+could you put path_normalization_cases.csv in DBMS Project - Metrics
+could you put bank_reconciliation.jar in DBMS Project Validation
+could you put medical_reimbursement_claim.pdf in Payroll Manager - Suppliers
+could you put employee_leave_balance.csv in College - Forms
+could you put visitor_pass_register.xlsx in Year Validation
+could you put linux_service_status.txt in C:\Users\Ankit\Desktop\To Review\Course Material\CRM Exports
+could you put supplier_quotes.xlsx in D:\Projects\To Submit
+could you put ethernet_test_results.csv in F:\External Drive\archives\assets\Client Week 43
+could you put road_tax_receipt.pdf in \\NAS01\Shared\Exam Preparation\assets\DNS Exports
+could you put event_viewer_errors.evtx in D:\WinPilot\photos\release builds\Year 2026
+could you put vpn_configuration_draft.tar.gz in E:\Personal\engineering\operations\Payroll Manager Project
+could you put customer_survey_draft.css in C:\Users\Ankit\Downloads\datasets\inventory\Department Reports
+could you put disaster_recovery_test.docx in D:\Data\Week 42\imports\Year Old Versions
+could you put refund_request_8831.pdf in D:\Staging\invoices\photos\Graphic Design
+could you put python_314_environment.txt in F:\USB Backup\Client A
+I need to move cms_content_export.xml from Intent Evaluation to College - Operations
+I need to move transcription_review.xlsx from GEHU - Tests to models
+I need to move appliance_manual_washer.pdf from Lecture Recordings to DBMS Project - Students
+I need to move plant_care_schedule.csv from Year Documents to Project Inputs
+I need to move inspection_checklist_final.bat from Payroll Manager Students to Project Screenshots
+I need to move project_plan_v2.ear from temp to DBMS Project Policies
+I need to move contact_list_final.cer from University Backups to Firewall Configs
+I need to move compliance_review_v3.env from Payroll Manager Customers to Project Gamma
+I need to move cash_flow_revised.xlsm from GEHU Published to Payroll Manager - Designs
+I need to move quarterly_review.ttf from Weekend Plans to HR Team
+I need to move workplace_safety_observation.csv from \\FileServer\Departments\Old Versions\Audio Troubleshooting\Year Contracts to \\FileServer\Departments\contracts\validation data\Team Cleaned
+I need to move traceroute_results.txt from C:\ProgramData\Travel Planning\tests\Bookings to D:\WinPilot\customer support\Exam Preparation\Project Audio
+I need to move attendance_sheet_approved.cer from D:\Work\Test Results to \\backup-server\weekly\config\backups\Department Releases
+I need to move air_quality_sensor_export.json from D:\Research\Semester 7\design files\Project To Submit to C:\Users\Ankit\Pictures\Reports\To Submit\Videos
+I need to move appliance_warranty_claim.docx from \\FileServer\Departments\backend\migrations\Branches to F:\External Drive\archives\Final Versions\Travel Planning
+I need to move monthly_summary_reviewed.out from C:\Users\Ankit\Documents\Entity Pools to \\OfficePC\Public\config\Release 1.4\Team Reports
+I need to move folder_permission_audit.csv from D:\Research\Presentations to D:\Backups\customer support\migrations\Team Packages
+I need to move fieldwork_audio_index.csv from C:\Users\Ankit\Documents\Exam Preparation\Certificates\Archive 2026 to C:\Users\Ankit\OneDrive\archives\archives\Client Backups
+I need to move load_test_report.cpp from E:\Media\Assignments to F:\USB Backup\Week 42
+I need to move compliance_checklist.pdf from D:\Research\Supplier North\Release 1.4\Data Engineering to E:\Media\Logs
+I need to move model_evaluation_holdout.csv into ETL Jobs
+I need to move placement_company_list.xlsx into HR Documents
+I need to move project_charter.cmd into Travel Bookings
+I need to move driver_rollback_plan.docx into Content Calendar
+I need to move security_findings_draft.pt into WinPilot Application Plugins
+I need to move service_health_2026_10.rar into DBMS Project Results
+I need to move confusion_matrix.png into Team Designs
+I need to move release_notes_revised.cfg into WinPilot Scripts
+I need to move warehouse_stock.model into GEHU Audio
+I need to move app_crash_trace.txt into Year Invoices
+I need to move attendance_sheet.pcapng into C:\Users\Public\Documents\To Submit\diagnostics\Department Q3
+I need to move tutorial_recording_week7.mp4 into F:\External Drive\contracts\contracts\Gym
+I need to move firewall_change_request.docx into D:\Work\Client A\migrations\WinPilot Voice Pipeline
+I need to move postmortem_final.obj into D:\Research\WinPilot
+I need to move club_membership.pdf into E:\Archive\Receipts
+I need to move kubernetes_pod_logs.txt into C:\Users\Public\Documents\October 2026
+I need to move translation_review_draft.cpp into D:\WinPilot\backend\Final Versions\Warranties
+I need to move weekly_update_revised.jpg into C:\Users\Public\Documents\Downloads
+I need to move meeting_agenda.htm into \\192.168.1.20\teamshare\release builds\entity pools\Department Final
+I need to move cover_letter.pdf into C:\Program Files (x86)\website\exports\On-call Handover
+I need to move draft_assignment.sql to Security Patches
+I need to move offsite_backup_receipt.pdf to DBMS Project Finance
+I need to move incident_postmortem.docx to Product Images
+I need to move dependency_audit.ps1 to WinPilot Data
+I need to move production_snapshot_redacted.sql to Incident Response
+I need to move endpoint_alert_export.json to Unsolved Question Papers
+I need to move hosts_backup.txt to Department Cleaned
+I need to move training_deck.pptx to College - Responses
+I need to move luggage_inventory.xlsx to Developer Guide
+I need to move release_tag_manifest.json to College Inputs
+I need to move create_folder_examples.jsonl to C:\Temp\meeting notes\backups\Project Plans
+I need to move shopping_return_label.pdf to \\NAS01\Shared\backend\inventory\Project Proposals
+I need to move meeting_audio.wav to D:\Projects\Backups
+I need to move model_quantisation_notes.md to C:\Users\Ankit\Pictures\presentations\validation data\Department Data
+I need to move 3d_model.blend to D:\Work\Presentations
+I need to move quarterly_review_v3.example to D:\Source\Shared Documents\exports\API Responses
+I need to move recruitment_interview_scorecard.xlsx to D:\Work\warehouse\Travel Planning\Shipping
+I need to move translation_review_v3.img to C:\Users\Ankit\Documents\Downloads
+I need to move restore_test_approved.cab to F:\USB Backup\Assets
+I need to move api_specification_v3.svg to C:\ProgramData\exports\generated\Department Deliverables
+I need to move \\192.168.1.20\teamshare\travel\warehouse\rent_receipt_october.pdf from D:\Work\Lab Work to D:\WinPilot\Firewall Configs\website\Mobile Videos
+I need to move C:\Users\Ankit\Downloads\recordings\PBL Phase 2\equipment_loan_register.xlsx from D:\Work\exports\Device Reports\Department To Review to D:\Staging\invoices\presentations\Pull Requests
+I need to move E:\Incoming\Driver Backups\datasets\readme_updated.md from \\NAS01\Shared\Course Material\Old Versions\SSH Configs to C:\Users\Ankit\Downloads\presentations\Reports\Project Test Set
+I need to move C:\Users\Ankit\Desktop\Model Outputs\handover_notes.docx from D:\Staging\NER experiments\presentations\Department Logs to C:\Dev\Travel
+I need to move D:\Shared\Invoices\vehicle_fleet_register.xlsx from F:\USB Backup\Test Results to \\FileServer\Departments\presentations\marketing\Speech Recognition
+I need to move D:\Research\Documents\neighbourhood_event_flyer.jpg from \\192.168.1.20\teamshare\entity pools\Firewall Configs\Scheduled Tasks to C:\Users\Ankit\Desktop\Assignments\screenshots\ETL Jobs
+I need to move \\FileServer\Departments\generated\HR\data_subject_access_response.pdf from G:\Shared\Home Repairs\screenshots\Year Approved to C:\Users\Ankit\Videos\Home Repairs\generated\Client Evidence
+I need to move C:\Users\ankit.kumar\Documents\WinPilot\records_retention_audit.pdf from D:\Backups\Test Results to D:\Backups\generated\Final Versions\Music Playlists
+I need to move D:\Backups\Meeting Notes\warehouse_map.png from C:\Users\ankit.kumar\Documents\Presentations to D:\Shared\Test Results
+I need to move D:\Projects\Personal Finance\To Review\explorer_window_snapshot.json from D:\WinPilot\HR\src\Study Material to C:\Users\Ankit\Documents\Receipts
+I need to move E:\Archive\Source Code\Payroll Manager\git_credentials_audit.txt into Team Imports
+I need to move D:\Research\campaigns\warehouse\desktop_shortcut_inventory.csv into WinPilot - Records
+I need to move D:\Data\Source\incident_postmortem.docx into Licensed Software
+I need to move E:\College\Data\insurance_claim_photos.zip into Model Monitoring
+I need to move E:\Media\Lab Work\Projects\internet_bill.pdf into Year Videos
+I need to move C:\Users\Ankit\Videos\Semester 7\receipts\delete_recovery_test.log into Mobile Videos
+I need to move E:\Archive\Meeting Notes\battery_health_export.html into Backend
+I need to move E:\Personal\api tests\backups\switch_port_inventory.xlsx into College - Requests
+I need to move C:\Users\Ankit\Desktop\Training Data\wifi_password_handover.txt into University For Approval
+I need to move F:\USB Backup\warehouse\October 2026\preprocess_data.py into Projects
+I need to move C:\Users\Ankit\OneDrive\Payroll Manager\Supplier North\download_triage_rules.json into D:\Source\Network Captures\Client A\Trip Photos
+I need to move D:\WinPilot\datasets\evaluation\heldout_examples.jsonl into C:\ProgramData\tests\design files\API Documentation
+I need to move C:\Projects\Photos\release_candidate_1.4.0.zip into D:\Work\database\docs\Department 2026
+I need to move E:\Archive\Reports\cultural_fest_poster.png into C:\Users\Ankit\Pictures\Certificates\Semester 7\Project Audio
+I need to move D:\Projects\logs\recordings\hotel_booking.pdf into C:\Temp\Assignments
+I need to move D:\Research\Sprint 13\Audio Troubleshooting\draft_deployment.jsonl into \\OfficePC\Public\Research Papers\database\LeetCode
+I need to move D:\Backups\diagnostics\Driver Backups\blender_render_queue.csv into C:\Users\Ankit\Videos\backend\generated\Documents
+I need to move E:\College\assets\marketing\refund_request_8831.pdf into D:\Data\receipts\backend\Year Contracts
+I need to move C:\Temp\Data\performance_regression_report.xlsx into D:\Projects\Shared Drive
+I need to move \\NAS01\Shared\operations\Audio Troubleshooting\database_erd.png into D:\Work\Finance Team
+I need to move \\NAS01\Shared\recordings\backups\cat_adoption_documents.pdf to GEHU - Backups
+I need to move C:\Program Files\PBL Phase 2\Exam Preparation\service_uptime_report.csv to College - Backups
+I need to move D:\Research\Model Outputs\social_media_calendar.xlsx to GEHU Evidence
+I need to move \\192.168.1.20\teamshare\Research Papers\campaigns\survey_skip_logic_test.json to College - Evidence
+I need to move \\192.168.1.20\teamshare\entity pools\Firewall Configs\quality_control_photos.zip to WinPilot - Engineering
+I need to move C:\Users\Ankit\OneDrive\invoices\generated\train_ticket.pdf to University - Results
+I need to move \\NAS01\Shared\Client A\validation data\translation_review_hi.xlsx to Expense Claims
+I need to move C:\Program Files\Certificates\generated\purchase_fraud_review.csv to Payroll Manager - Resources
+I need to move \\OfficePC\Public\Travel Planning\warehouse\secret_scan_report.json to Project Audio
+I need to move C:\Users\Ankit\Documents\client files\test results\risk_register.xlsx to University Resources
+I want to move support_bundle_20261020.zip from DBMS Project - Deliverables to DBMS Project - Tickets
+I want to move disaster_recovery.ipynb from experiments to University Pending Review
+I want to move contact_list_2026_10.heapsnapshot from WinPilot Notes to Storage Reports
+I want to move certificate_chain.pem from GEHU - Old Versions to GEHU - Code
+I want to move load_test_report_backup.pickle from Database to Operating Systems - Notes
+I want to move risk_register_2026_10.hcl from Payroll Manager - Assets to Payroll Manager - Engineering
+I want to move contact_list_reviewed.tsx from Pet Records to Cycling
+I want to move community_noticeboard_poster.png from Entity Pool Rejected to Reserved Names Tests
+I want to move alternate_data_stream_audit.txt from College - Manifests to Project Week 42
+I want to move weekly_update_approved.3mf from Personal to College Outgoing
+I want to move download_history.csv from D:\Work\Old Versions to D:\Data\Assets
+I want to move biodiversity_observation_log.xlsx from D:\Projects\backups\engineering\Disaster Recovery to E:\Archive\Archived 2024
+I want to move family_calendar_export.ics from C:\Users\Ankit\Downloads\Firewall Configs\Firewall Configs\Brand Assets to C:\Users\Ankit\Documents\Semester 7\Firewall Configs\Year Receipts
+I want to move app_permissions_audit.csv from C:\Users\Ankit\Desktop\Datasets to \\backup-server\weekly\Semester 5\Projects\Windows Settings
+I want to move incident_report_revised.sql from D:\Research\archives\docs\Decision Records to F:\USB Backup\intent models\Certificates\Department Week 42
+I want to move old_family_video.avi from \\FileServer\Departments\training data\engineering\Documents for Insurance to C:\Users\Ankit\Desktop\HR\datasets\Team Evidence
+I want to move research_data_dictionary.md from C:\Users\Ankit\Pictures\Course Material\Reports\Work to F:\External Drive\PBL Phase 2\generated\Team Suppliers
+I want to move rename_file_edge_cases.jsonl from D:\Staging\contracts\invoices\Mobile Backup to C:\Users\Ankit\OneDrive\Graphics Troubleshooting\customer support\Year Documentation
+I want to move photo_album_cover.jpg from D:\Data\Client A\campaigns\Business Continuity to \\NAS01\Shared\frontend\validation data\Intent Validation
+I want to move Thumbs.db from D:\Data\Client A\warehouse\Property Documents to D:\Work\College
+I want to move audit_evidence_approved.go into Year Archive
+I want to move price_comparison.jpeg into University Tracking
+I want to move token_alignment_debug.txt into Structure Library Imports
+I want to move payment_receipt_2026_10.xml into Payroll Manager - Scripts
+I want to move font_collection.zip into WinPilot Planning
+I want to move uptime_summary_backup.otf into GEHU References
+I want to move purchase_order_backup.conf into Payroll Manager - Inputs
+I want to move symlink_test_matrix.xlsx into WinPilot For Review
+I want to move stakeholder_feedback.docx into Order Tracking
+I want to move meal_plan.docx into Locked File Tests
+I want to move accessibility_audit_v2.tsv into D:\Backups\Downloads
+I want to move legal_review_comments.docx into D:\Work\Screenshots
+I want to move project_charter.old into C:\Users\Ankit\Pictures\Payroll Manager\api tests\Department Shared Files
+I want to move postmortem.arrow into D:\WinPilot\api tests\Travel Planning\Personal Certificates
+I want to move inspection_checklist_draft.out into D:\WinPilot\datasets\design files\Leave and Attendance
+I want to move purchase_order_draft.sqlite into D:\WinPilot\marketing\screenshots\Voice Activity Detection
+I want to move ethics_amendment_request.pdf into \\FileServer\Departments\website\archives\Team Designs
+I want to move vulnerability_report_revised.pdf into \\backup-server\weekly\To Submit\Semester 7\Department Finance
+I want to move security_exception_request.docx into D:\Projects\src\release builds\Team Sprint 12
+I want to move rate_limit_test.py into \\192.168.1.20\teamshare\Client A\intent models\Department Schedules
+I want to move model_metrics_2026.json to GEHU - Approved
+I want to move dependency_audit_backup.jar to DBMS Project - Notes
+I want to move birthday_video_2026.mp4 to Failed Exports
+I want to move candidate_resume_24.pdf to Team Test Set
+I want to move attendance_sheet.dat to Insurance
+I want to move models.py to Monthly Reports
+I want to move expense_split_october.xlsx to Payroll Manager - Contracts
+I want to move documents_archive.zip to DBMS Project References
+I want to move permission_denied_examples.jsonl to Donations
+I want to move build_manifest.cab to Business Continuity
+I want to move printer_queue_errors.csv to E:\Media\design files\Payroll Manager\Project References
+I want to move customer_export_revised.pyw to E:\College\engineering\Sprint 13\Project Packages
+I want to move meeting_minutes.odp to C:\Program Files (x86)\Lab Work\PBL Phase 2\Team Invoices
+I want to move os_assignment_3.pdf to D:\Staging\imports\validation data\Investment Records
+I want to move system_info.txt to C:\Users\ankit.kumar\Documents\Downloads
+I want to move draft_household.zip to E:\Personal\Graphics Troubleshooting\October 2026\Project Processed
+I want to move social_media_plan_revised.odp to C:\Temp\Lab Work\contracts\Project Plans
+I want to move postmortem.onnx to \\OfficePC\Public\Source Code\generated\Outgoing Files
+I want to move dependency_audit.hcl to D:\Data\Research
+I want to move supplier_quote_reviewed.iso to \\backup-server\weekly\Reports\release builds\Client Working
+I want to move C:\Users\Ankit\Videos\October 2026\October 2026\crash_report.dmp from C:\Temp\Projects\datasets\Fonts to C:\Users\Ankit\Pictures\api tests\WinPilot\Project Manifests
+I want to move C:\Program Files (x86)\To Review\Network Captures\road_tax_receipt.pdf from C:\Users\Ankit\Videos\presentations\Audio Troubleshooting\Client Suppliers to E:\Personal\Source Code\NER experiments\Project Scripts
+I want to move D:\Projects\Semester 5\event_pass_2026.png from D:\Work\Training Data to \\192.168.1.20\teamshare\Windows Logs\docs\Project Invoices
+I want to move F:\External Drive\tests\Lab Work\campaign_creatives.zip from D:\Work\validation data\config\Translations to E:\College\marketing\Source Code\Kubernetes
+I want to move C:\Users\Ankit\Pictures\migrations\Semester 5\microscope_capture_004.tif from C:\Dev\Course Material\api tests\Dataset Snapshots to D:\College\GEHU\October 2026\Windows Logs\Team Manifests
+I want to move C:\Users\Ankit\Videos\backend\generated\windows_defender_history.csv from D:\WinPilot\Semester 5\Final Versions\Meal Planning to C:\Users\Public\Documents\Travel Planning\logs\Year Drafts
+I want to move F:\External Drive\client files\finance\manufacturing_work_order.pdf from C:\Temp\recordings\Exam Preparation\Team Customers to \\backup-server\weekly\Windows Logs\Semester 7\Department Final
+I want to move D:\Data\family photos\Reports\delivery_proof_5832.jpg from C:\Users\Ankit\Videos\Client A\inventory\Reference Material to D:\Research\family photos\screenshots\Structure Library Imports
+I want to move E:\Archive\Research\draft_returns.docx from E:\Personal\training data\family photos\Support Bundle to C:\Users\Ankit\Documents\Research
+I want to move F:\USB Backup\Shared Documents\frontend\frontend_error_boundary.log from C:\Users\Ankit\Videos\validation data\Week 42\Community to D:\Data\Personal Finance\test results\Planning
+I want to move \\FileServer\Departments\Week 42\temp\oauth_redirect_uri_list.txt into GEHU Tracking
+I want to move C:\Users\Public\Documents\Archive\courier_invoice.pdf into Cloud Backups
+I want to move D:\Backups\Downloads\graphics_settings.ini into Project Team B
+I want to move D:\Shared\Backups\graphql_schema.graphql into Team Team A
+I want to move C:\Temp\Archive\monthly_payroll_summary.xlsx into University Records
+I want to move D:\Projects\Screenshots\ssd_smart_report.txt into Payroll Manager Builds
+I want to move C:\Users\Ankit\Documents\October 2026\Firewall Configs\IMG_20261018_174233.jpg into Department Shared Files
+I want to move \\NAS01\Shared\receipts\finance\voice_note.m4a into DBMS Project - Forms
+I want to move D:\Projects\WinPilot\Home Repairs\unity_package_manifest.json into WinPilot Finance
+I want to move D:\Work\temp\receipts\api_latency_report.xlsx into College - Temporary Files
+I want to move D:\Backups\family photos\Firewall Configs\conference_badge_qr.png into E:\College\Photos
+I want to move \\backup-server\weekly\meeting notes\Exam Preparation\contract_test_results.xml into E:\College\Screenshots
+I want to move D:\WinPilot\Graphics Troubleshooting\tests\researcher_orcid_export.xml into \\FileServer\Departments\Semester 7\Shared Documents\Year Working
+I want to move E:\Archive\family photos\Semester 5\quotation_template.docx into D:\Data\Old Versions
+I want to move \\FileServer\Departments\Audio Troubleshooting\warehouse\readme_updated.md into \\192.168.1.20\teamshare\Semester 5\Release 1.4\Project Processed
+I want to move \\FileServer\Departments\website\archives\ebook_sample.epub into D:\Backups\GEHU
+I want to move D:\Projects\contracts\website\jwt_validation_cases.jsonl into C:\Dev\NER experiments\config\Downloaded Installers
+I want to move C:\Users\Ankit\Desktop\design files\docs\bank_transfer_receipt.pdf into C:\Program Files\datasets\photos\Visitor Management
+I want to move C:\Users\Ankit\Videos\family photos\imports\water_sample_results.csv into D:\Backups\Assignments
+I want to move C:\Users\Ankit\Pictures\Personal Finance\Firewall Configs\vaccination_record.pdf into E:\College\Presentations
+I want to move E:\Personal\Device Reports\Release 1.4\onedrive_sync_errors.csv to Team History
+I want to move C:\Temp\operations\Network Captures\task_failure_reproduction.docx to DBMS Project - For Approval
+I want to move \\FileServer\Departments\entity pools\Audio Troubleshooting\nas_backup_status.xlsx to Cover Letters
+I want to move D:\Research\test results\imports\oauth_redirect_uri_list.txt to Year Engineering
+I want to move C:\Dev\receipts\database\podcast_episode_queue.opml to WinPilot - Sprint 12
+I want to move D:\Data\src\release builds\receipt_fuel.jpg to Year Requests
+I want to move D:\College\GEHU\Sprint 13\To Submit\notes_from_call_with_supplier.docx to Midsem Preparation
+I want to move G:\Shared\finance\Exam Preparation\copy_integrity_checks.xlsx to GEHU - Revisions
+I want to move D:\Backups\Receipts\property_photos.zip to Department Reports
+I want to move D:\Shared\Data\personal_development_plan.md to Payroll Manager - To Print
+move charity_receipt_2026.pdf from GEHU - Published into University Builds
+move floor_plan.dwg from Return Requests into Payroll Manager Raw Data
+move draft_research.yaml from WinPilot - Research into Diagnostics
+move dependency_audit_draft.url from Train Tickets into Team Old Versions
+move logistic_regression_model.pkl from Year Q3 into Year Screenshots
+move payment_receipt_backup.hpp from Recovery Files into Payroll Manager Validation
+move domain_renewal_receipt.pdf from College - Resources into Security Reviews
+move contact_list.rar from GEHU Training into University - Code
+move cafeteria_vendor_invoice.pdf from Project Photos into Client Engineering
+move shift_schedule_2026_10.rtf from GEHU Clients into DBMS Project - Temporary Files
+move IMG_20261018_174233.jpg from DBMS Project - Audits to Operating Systems - Invoices
+move backup_manifest.feather from 2024 Payroll Manager to WinPilot Evidence
+move typescript_typecheck_report.txt from College - Materials to WinPilot References
+move workflow_map.svg from Pull Requests to DBMS Project - Team Shared
+move tax_computation_draft.json from Do Not Delete to Payroll Manager Final Versions
+move voice_activity_test.wav from GEHU - For Review to DBMS Project Deliverables
+move Audio Recording 7.m4a from Team Revisions to Payroll Manager Planning
+move certification_exam_booking.pdf from Gym to College - Week 42
+move database_vacuum_report.txt from Payroll Manager - Sprint 12 to Client Templates
+move logo_final.svg from DBMS Project Evidence to 2025 Records
+move unit_test_report_v3.jsx from \\192.168.1.20\teamshare\config\src\Scheduled Tasks into C:\Dev\Shared Drive
+move rollback_plan.pem from D:\Research\Lab Work\invoices\Python Environments into D:\College\GEHU\api tests\model outputs\Team Customers
+move cloud_cost_report_backup.parquet from D:\Projects\Recordings into G:\Shared\Travel Planning\docs\File Migration
+move contract_signed.tmp from C:\Users\Ankit\Desktop\Week 42 into D:\Source\api tests\backend\Project Documents
+move deployment_checklist_final.lnk from D:\Shared\Database into C:\ProgramData\campaigns\marketing\Production Incidents
+move support_case_approved.feather from D:\Work\Old Versions\PBL Phase 2\Storage Reports into C:\ProgramData\Week 42\validation data\Entity Boundary Cases
+move dns_zone_export.txt from D:\Source\generated\photos\Semester 7 into \\192.168.1.20\teamshare\Release 1.4\Windows Logs\Open Pull Requests
+move quality_report_2026_10.zip from E:\Media\Datasets into C:\Users\Ankit\Desktop\Graphics Troubleshooting\WinPilot\Department Materials
+move ssd_smart_report.txt from \\backup-server\weekly\src\Release 1.4\Portable Apps into C:\ProgramData\recordings\Network Captures\Cloud Computing
+move disk_usage_by_folder.xlsx from E:\College\Source Code into E:\Incoming\entity pools\imports\Documents
+move warehouse_stock_revised.htm from D:\Backups\finance\Audio Troubleshooting\Travel Documents to D:\Research\tests\Device Reports\Team Tests
+move rejected_records_import.csv from C:\Users\Ankit\Videos\design files\customer support\Department Scripts to C:\Users\Ankit\Videos\Semester 5\Personal Finance\Music
+move security_findings_final.m4a from \\backup-server\weekly\Personal Finance\docs\Year Reports to \\OfficePC\Public\frontend\WinPilot\Dashboards
+move placement_offer_letter.pdf from C:\Users\Ankit\Videos\warehouse\design files\Year Packages to E:\Personal\campaigns\To Review\Analytics Models
+move home_energy_audit.xlsx from D:\Backups\Finance Team to C:\Users\Ankit\Desktop\family photos\Course Material\Department Students
+move branch_cleanup_list.csv from F:\USB Backup\entity pools\finance\Obsolete to C:\Dev\src\src\NPTEL Material
+move migration_results.ttf from D:\Work\operations\engineering\Security Operations to C:\Users\Ankit\Downloads\Windows Logs\client files\Fitness Tracking
+move python_environment_freeze.txt from C:\Users\Ankit\Downloads\Model Outputs to D:\Projects\Release 1.4\Source Code\WinPilot Intent Detection
+move risk_register_draft.mp3 from C:\Dev\To Submit\tests\Identity Documents to D:\College\GEHU\Source Code\campaigns\Bookings
+move lab_sample_label_template.docx from D:\College\GEHU\Final Versions\campaigns\Project Assets to F:\External Drive\finance\screenshots\Build Artifacts
+move gift_ideas_october.md into Data Quality
+move tax_computation_reviewed.iso into PBL Phase 2
+move incident_report_approved.ts into Operating Systems Inputs
+move analytics_dashboard_v3.jpg into Project Reports
+move license_key.txt into WinPilot Pending Review
+move payment_receipt_v3.vcf into DBMS Project - Materials
+move Scan 004.pdf into WinPilot - Planning
+move rent_agreement_renewal.docx into Department Schedules
+move symlink_policy_notes.md into WinPilot - Approved
+move database_schema.jsx into DBMS Project Metrics
+move cloud_cost_report_approved.jar into D:\WinPilot\Home Repairs\Course Material\Department Results
+move support_case_2026_10.weights into D:\Research\Client A
+move price_comparison.go into C:\Dev\travel\contracts\Team Materials
+move customer_survey_backup.etl into D:\Backups\exports\Certificates\Department Notes
+move cloud_cost_report.xlsx into E:\Media\Client A\Exam Preparation\WinPilot Intent Detection
+move practical_record_signed.pdf into E:\Personal\api tests\frontend\Team Tickets
+move regression_suite.mp3 into D:\Source\release builds\WinPilot\Department Scripts
+move interview_questions.docx into E:\Media\Lab Work\Projects\Driver Installers
+move stock_reconciliation.dwg into C:\Temp\Assignments\Reports\Mobile Videos
+move volunteer_shift_plan.xlsx into C:\ProgramData\Source Code\October 2026\Team Validation
+move video_encode_presets.json into the folder at D:\Backups\Semester 5
+move product_batch_traceability.csv into the folder at E:\Incoming\Supplier North\To Submit\CI Reports
+move media_transcode_queue.csv into the folder at C:\Users\Ankit\Downloads\Screenshots
+move annual_report_backup.dll into the folder at E:\College\Tests
+move meeting_agenda_reviewed.iso into the folder at C:\Temp\Datasets
+move api_test_results_revised.xlsx into the folder at E:\Media\receipts\presentations\Startup Apps
+move personal_website_backup.zip into the folder at D:\Data\imports\temp\Birthdays
+move repository_security_alerts.csv into the folder at C:\Temp\diagnostics\recordings\Project Results
+move cover_letter_internship.docx into the folder at F:\USB Backup\Entity Pools
+move parking_slot_agreement.pdf into the folder at D:\Work\To Submit\invoices\Backend
+move expense_approval_workflow.drawio into the folder named Scanned Documents
+move scholarship_application.docx into the folder named Staff Training
+move database_snapshot.cs into the folder named Department Team B
+move service_health.sys into the folder named Previous Year Questions
+move delivery_manifest_v3.json into the folder named University Templates
+move meeting_minutes.yml into the folder named College - Contracts
+move diagnostic_capture.etl into the folder named College Requests
+move library_due_notice.pdf into the folder named Payroll Manager Archives
+move shipment_tracking_approved.bz2 into the folder named GEHU - Requests
+move regression_suite_approved.blend into the folder named VPN Profiles
+move leave_request_approved.tmp to WinPilot - Responses
+move untitled_document_7.docx to WinPilot For Approval
+move terraform_plan.txt to Client Suppliers
+move stock_reconciliation_v2.xml to Contracts
+move annual_report_revised.csv to WinPilot Research
+move project_scope.hpp to DBMS Project Tracking
+move data_collection_schedule.ics to GEHU Results
+move cash_flow_v2.tsv to Department October
+move factory_shift_handover.docx to University - Tickets
+move license_register_backup.properties to DBMS Project - Old Versions
+move quality_control_photos.zip to C:\Dev\Presentations
+move leave_request_revised.sys to C:\Temp\Screenshots
+move expense_policy.pdf to C:\Program Files\logs\To Review\Department Finance
+move contact_list.gif to C:\Dev\Invoices
+move sales_forecast_model.pkl to C:\Users\Ankit\Desktop\Client A
+move product_release_checklist.docx to \\backup-server\weekly\entity pools\validation data\Sports
+move refund_request_v3.jpeg to D:\Backups\warehouse\Semester 7\Department Videos
+move internet_bill.pdf to F:\USB Backup\Source Code\backend\Vehicle Documents
+move query_plan.txt to C:\Temp\client files\marketing\Video Editing
+move audit_evidence_revised.pcap to C:\Users\Ankit\Pictures\Reports\Supplier North\Year Invoices
+move sample_payload.json to my Test Fixtures
+move office_it_asset_handover.xlsx to my University Evaluation
+move draft_campaign.png to my DBMS Project - Code
+move website_audit.tmp to my DBMS Project - Inventory
+move quality_report_reviewed.tiff to my GEHU Previous
+move warranty_claim_reference.txt to my Dehradun Trip
+move interview_transcripts_anonymised.zip to my Team Records
+move payment_receipt.model to my College - To Sort
+move household_inventory.xlsx to my DBMS Project Training
+move api_specification_final.ipa to my WinPilot Published
+move dependency_audit_v2.lnk to my C:\Users\Ankit\Desktop\Client A\Network Captures\Processed Files
+move compliance_review.pickle to my C:\Users\Ankit\Desktop\Sprint 13
+move tax_computation_revised.fbx to my G:\Shared\engineering\docs\Client Requests
+move controller_profile.ini to my F:\USB Backup\marketing\recordings\Sports
+move backup_2026_10_19.zip to my E:\Incoming\intent models\Exam Preparation\CI Artifacts
+move vendor_contract_2026.pdf to my D:\College\GEHU\Week 42\migrations\Desktop
+move air_purifier_filter_record.pdf to my G:\Shared\customer support\Final Versions\Windows Explorer
+move draft_attendance.docx to my \\backup-server\weekly\WinPilot\config\Project Metrics
+move chemical_safety_data_index.xlsx to my C:\Dev\Receipts
+move migration_results_final.fbx to my F:\USB Backup\Projects
+move shipment_customs_documents.zip to the directory at D:\Projects\family photos\Reports\App Plugins
+move meeting_agenda_final.pfx to the directory at D:\Research\October 2026\HR\Large Files
+move query_results_final.woff2 to the directory at F:\USB Backup\WinPilot3
+move build_manifest_reviewed.css to the directory at C:\Users\Public\Documents\assets\customer support\Attendees
+move research_sources.bib to the directory at E:\Media\Archives
+move project_plan_final.3mf to the directory at C:\Temp\test results\Network Captures\Awaiting Feedback
+move browser_matrix.dat to the directory at C:\Dev\Graphics Troubleshooting\temp\Intent Training
+move supplier_quote_backup.sqlite to the directory at D:\Projects\Assignments\October 2026\Evaluation Corpora
+move delivery_manifest.pow to the directory at E:\College\Assignments
+move deployment_checklist_v2.pdf to the directory at C:\Temp\src\logs\Team Old Versions
+move risk_assessment_v3.aab to the directory named DBMS Project - Videos
+move shift_schedule.gz to the directory named University Final Versions
+move annual_report_v2.srt to the directory named DBMS Project Clean Data
+move draft_inventory.html to the directory named Java Projects
+move compliance_review.sav to the directory named Payroll Manager - Temporary Files
+move neighbourhood_event_flyer.jpg to the directory named reports
+move cloud_cost_report.pickle to the directory named GEHU - Responses
+move container_inventory.out to the directory named University Reference Material
+move ci_pipeline_results.json to the directory named Cloud Computing Course
+move cross_browser_screenshots.zip to the directory named DBMS Project - Policies
+move incident_response_playbook.pdf to the folder at E:\College\Certificates\contracts\diagrams
+move regression_suite_v2.jpg to the folder at C:\Program Files\PBL Phase 2\Exam Preparation\Intent Models
+move webinar_notes.docx to the folder at E:\College\api tests\Certificates\NER Training
+move invoice_register_backup.zip to the folder at C:\Users\Ankit\Documents\Shared Drive
+move slm_ensemble_votes.csv to the folder at C:\Users\Ankit\OneDrive\family photos\website\Building Maintenance
+move support_sla_breach_report.xlsx to the folder at \\backup-server\weekly\archives\Firewall Configs\Year Results
+move database_snapshot_2026_10.cs to the folder at \\FileServer\Departments\Old Versions\Network Captures\Year Deliverables
+move lab_submission_07.zip to the folder at C:\Users\Ankit\Documents\frontend\release builds\Client Videos
+move payroll_register.exe to the folder at D:\Data\Home Repairs\Lab Work\Department 2026
+move restaurant_booking_confirmation.pdf to the folder at \\backup-server\weekly\exports\Sprint 13\Leave Requests
+move pip_freeze_winpilot.txt to the folder named Department Customers
+move contract_draft.fbx to the folder named GEHU - Drafts
+move checkout_abandonment_report.xlsx to the folder named Payroll Manager History
+move feature_importance.png to the folder named Project Pending
+move shipment_tracking_v3.model to the folder named College - Raw Data
+move performance_goals_2026.xlsx to the folder named WinPilot - Shared
+move rollback_plan.dmp to the folder named WinPilot - Videos
+move vite.config.js to the folder named Client Approved
+move restore_test_v3.vmdk to the folder named Payroll Manager Inputs
+move wallpaper_4k.jpg to the folder named Empty Folders Review
+move C:\Dev\invoices\Travel Planning\ubuntu_setup_notes.md from E:\College\Docs into F:\USB Backup\Engineering Team
+move \\192.168.1.20\teamshare\Payroll Manager\Windows Logs\iam_policy_review.json from F:\External Drive\inventory\Lab Work\Audio Troubleshooting into C:\Users\Ankit\OneDrive\HR\entity pools\Team Reports
+move D:\Data\Receipts\cycling_maintenance_log.xlsx from D:\WinPilot\generated\Research Papers\DBMS Project into C:\Users\Ankit\Documents\Test Results
+move F:\USB Backup\NER experiments\PBL Phase 2\building_permit_application.pdf from D:\Research\Game Saves into D:\Work\Exam Preparation\Personal Finance\WinPilot Imports
+move D:\College\GEHU\Source Code\campaigns\README.md from D:\Backups\imports\invoices\Webcam Recordings into D:\WinPilot\Sprint 13\Course Material\Training Data
+move C:\Users\Ankit\Desktop\Semester 7\contracts\translation_vendor_quote.pdf from C:\Users\Public\Documents\GEHU into \\backup-server\weekly\migrations\customer support\To Submit
+move D:\Projects\recordings\logs\learning_path_tracker.xlsx from D:\Research\Research into \\OfficePC\Public\datasets\Shared Documents\Project Pending
+move C:\Projects\Documents\vehicle_registration_scan.pdf from C:\Users\Ankit\Desktop\Shared Drive into C:\Dev\October 2026\Old Versions\Client Tracking
+move C:\Program Files (x86)\operations\NER experiments\cron_migration_notes.md from C:\Users\Ankit\Documents\invoices\diagnostics\Project Reviewed into \\FileServer\Departments\October 2026\Windows Logs\Year References
+move D:\Backups\Semester 5\emulator_notes.md from \\backup-server\weekly\warehouse\release builds\English into C:\Program Files\Microsoft Office\root\Office16
+move C:\Users\Ankit\Videos\tests\Lab Work\portfolio_homepage_mockup.fig from C:\Users\Ankit\Videos\Semester 7\Reports\Client Logs to C:\Temp\campaigns\generated\Annotation Guidelines
+move E:\Incoming\Sprint 13\diagnostics\gas_bill_receipt.pdf from F:\USB Backup\inventory\Travel Planning\Feature Requests to \\backup-server\weekly\generated\warehouse\Team Processed
+move C:\Dev\Photos\fundraiser_budget.xlsx from F:\USB Backup\Datasets to E:\Media\Backups
+move C:\Users\Ankit\Downloads\docs\Personal Finance\press_release.docx from E:\Incoming\Sprint 13\diagnostics\Client Documents to D:\Projects\October 2026
+move D:\Backups\marketing\Network Captures\unit_test_junit_report.xml from D:\Backups\docs\Device Reports\WinPilot Intent Detection to C:\Dev\Model Outputs
+move C:\Users\Ankit\Downloads\Research Papers\temp\node_modules_audit.json from C:\Users\Ankit\Documents\Network Captures\intent models\Hindi Translation to E:\Media\Assets
+move D:\Research\tests\Device Reports\final_revised.docx from C:\Users\Public\Documents\engineering\archives\Bug Reports to \\backup-server\weekly\imports\WinPilot\Client Q3
+move C:\Users\Ankit\OneDrive\Source\car_inspection_report.pdf from C:\Program Files\Course Material\recordings\Software to C:\Users\Public\Documents\website\design files\Sprint 12
+move F:\USB Backup\Training Data\lab_equipment_inventory.xlsx from C:\Users\Ankit\Videos\campaigns\Week 42\Team Responses to C:\Users\Ankit\Pictures\Release 1.4\Semester 7\Client Current
+move E:\Archive\Backups\error.log from \\OfficePC\Public\intent models\design files\WinPilot Tests to E:\Archive\Client B
+move C:\Users\Public\Documents\Invoices\api_response_401.json into Confidential Archive
+move C:\Users\Ankit\OneDrive\NER experiments\model outputs\draft_performance.md into University - Audio
+move C:\Dev\Sprint 13\Audio Troubleshooting\checksum_manifest.sha256 into Project Test Set
+move D:\Source\src\receipts\update_channel_config.yaml into Desktop Cleanup
+move \\192.168.1.20\teamshare\Semester 5\temp\course_materials_week7.zip into Emulator Setup
+move C:\Users\Ankit\Downloads\migrations\operations\research_collaboration_agreement.pdf into Department Deliverables
+move C:\Users\Ankit\Downloads\Model Outputs\invoice_dispute_1048.docx into DBMS Project - Drafts
+move C:\Temp\Research\air_conditioner_service_record.pdf into Security Operations
+move C:\Users\Public\Documents\Training Data\balcony_garden_photos.zip into tmp
+move D:\Backups\Invoices\cultural_fest_poster.png into University Suppliers
+move E:\Media\Reports\visa_appointment_letter.pdf into the folder at D:\Backups\To Submit
+move D:\Projects\Source\technical_interview_bank.docx into the folder at D:\Research\Downloads
+move D:\Work\WinPilot\phone_photos_2024.zip into the folder at D:\Shared\Generated Records
+move C:\Users\ankit.kumar\Documents\Training Data\research_sources.bib into the folder at E:\Media\Sprint 13
+move C:\Users\Ankit\Videos\engineering\logs\bitlocker_recovery_instructions.pdf into the folder at D:\College\GEHU\exports\engineering\Python Projects
+move C:\Temp\WinPilot\seed_data.sql into the folder at D:\Shared\GEHU
+move C:\Users\Ankit\Downloads\Exam Preparation\Sprint 13\large_files_review.txt into the folder at E:\Incoming\Firewall Configs\src\Sales Operations
+move C:\Program Files\Semester 7\Shared Documents\structure_template_audit.json into the folder at D:\Source\HR\customer support\Client Responses
+move C:\Program Files (x86)\Reports\Network Captures\draft_support.zip into the folder at \\FileServer\Departments\assets\Payroll Manager\Application Profiles
+move D:\Data\Data\dependency_audit.json into the folder at \\OfficePC\Public\warehouse\Sprint 13\Tax Returns
+move C:\Program Files\Semester 5\Client A\product_release_checklist.docx into the folder named College - November 2026
+move C:\Users\Ankit\Videos\Payroll Manager\recordings\packet_capture_dns_issue.pcapng into the folder named GEHU - To Copy
+move D:\Source\Driver Backups\contracts\LICENSE into the folder named WinPilot Release Builds
+move C:\Program Files\inventory\warehouse\teaching_assistant_roster.csv into the folder named University - To Move
+move E:\Archive\photos\Personal Finance\leetcode_progress.xlsx into the folder named Client Sprint 13
+move \\FileServer\Departments\Home Repairs\training data\coding_assessment_results.csv into the folder named App Diagnostics
+move F:\USB Backup\Receipts\contractor_payment_tracker.xlsx into the folder named WinPilot To Move
+move C:\Users\Ankit\Documents\Receipts\project_presentation_feedback.docx into the folder named Year To Submit
+move C:\Users\Ankit\Videos\receipts\Graphics Troubleshooting\etl_run_summary.json into the folder named Meal Planning
+move D:\Backups\Windows Logs\config\electricity_bill.pdf into the folder named Data Retention
+move D:\Work\travel\backups\migration_004.sql to Department Finance
+move \\OfficePC\Public\finance\PBL Phase 2\save_slot_03.sav to GEHU Backups
+move D:\Backups\Windows Logs\Personal Finance\bike_service_receipt.pdf to College Videos
+move E:\College\Reports\photo_album_cover.jpg to DBMS Project - Contracts
+move C:\Dev\Meeting Notes\styles.css to GEHU - Semester 5
+move C:\Users\Ankit\Videos\client files\Exam Preparation\feature_flag_export.json to Duplicate Review
+move D:\WinPilot\backend\diagnostics\scheduled_backup.ps1 to System Restore Backups
+move C:\Program Files\inventory\Exam Preparation\floor_plan.dwg to Year Pending
+move E:\Archive\Downloads\transcription_review.xlsx to DBMS Project - Q3 2026
+move C:\ProgramData\Shared Documents\photos\family_calendar_export.ics to Family Records
+move D:\Projects\Certificates\Old Versions\plant_watering_log.csv to my Year 2026
+move G:\Shared\assets\Certificates\vpn_connection_history.csv to my build
+move C:\Users\Public\Documents\Reports\warehouse\pytest.ini to my Access Control
+move D:\Source\To Review\test results\least_used_entity_values.csv to my Department Current
+move C:\Users\Ankit\Pictures\diagnostics\Sprint 13\internal_assessment_marks.xlsx to my DBMS Project Reports
+move D:\Work\migrations\database\chemical_inventory.csv to my GEHU - Archived
+move E:\Media\api tests\Client A\browser_downloads_october.csv to my Load Tests
+move F:\USB Backup\Shared Documents\campaigns\family_calendar_october.ics to my November 2026
+move E:\College\Home Repairs\diagnostics\download_triage_rules.json to my DBMS Project - Support
+move C:\Users\Ankit\Downloads\WinPilot\Travel Planning\CHANGELOG.md to my Project Reviewed
+move C:\Dev\imports\travel\library_clearance_form.pdf to the directory at C:\Users\Public\Documents\Home Repairs\imports\Client Audio
+move C:\Users\Ankit\Downloads\Client A\Lab Work\offsite_backup_receipt.pdf to the directory at D:\Data\Final Versions
+move D:\Data\Model Outputs\metrics_summary.json to the directory at D:\WinPilot\Driver Backups\photos\Team Week 43
+move D:\Projects\Payroll Manager\assets\query_practice.sql to the directory at D:\WinPilot\Graphics Troubleshooting\tests\Help Centre Articles
+move D:\Source\temp\Sprint 13\lecture_capture_week8.mkv to the directory at D:\College\GEHU\backups\intent models\Project Sprint 13
+move C:\Users\Ankit\Pictures\logs\test results\running_route_export.gpx to the directory at C:\Users\ankit.kumar\Documents\Photos
+move C:\ProgramData\campaigns\marketing\purchase_fraud_review.csv to the directory at F:\External Drive\generated\backups\Project Week 42
+move C:\Users\Ankit\Documents\test results\finance\recording_2026-10-19.wav to the directory at C:\Users\Ankit\Documents\finance\Travel Planning\University Exports
+move C:\Program Files (x86)\backups\Semester 7\accessibility_fixes.md to the directory at C:\Temp\Source Code
+move F:\USB Backup\docs\validation data\data_warehouse_refresh.log to the directory at D:\Staging\exports\release builds\Client November
+move \\FileServer\Departments\validation data\Network Captures\student_club_minutes.docx to the directory named Project Responses
+move \\FileServer\Departments\engineering\docs\image_alt_text_audit.xlsx to the directory named Source Code
+move F:\USB Backup\invoices\Windows Logs\interview_coding_scheme.xlsx to the directory named Documents for HR
+move C:\Temp\campaigns\generated\ping_latency_week42.csv to the directory named DBMS Project Outgoing
+move C:\Dev\Travel\incident_evidence.zip to the directory named Client October
+move C:\Program Files\Assignments\Network Captures\scheduled_backup.ps1 to the directory named Bookmarks
+move E:\Archive\client files\contracts\scheduled_tasks_inventory.csv to the directory named Translations
+move F:\USB Backup\Backups\open_source_contributions.csv to the directory named GEHU - Week 43
+move E:\Media\Semester 5\architecture_overview.vsdx to the directory named WinPilot Code
+move D:\Projects\presentations\migrations\training_data.csv to the directory named Payroll Manager Scripts
+move \\FileServer\Departments\receipts\backend\data_cleanup_actions.md to the folder at C:\Users\Ankit\Videos\Network Captures\finance\Version 2
+move C:\Temp\diagnostics\photos\pii_redaction_test_results.csv to the folder at D:\Research\Test Results
+move E:\College\receipts\tests\photos_backup.zip to the folder at D:\Backups\Videos
+move D:\Projects\Source\hotel_loyalty_statement.pdf to the folder at C:\Users\Ankit\Videos\client files\Exam Preparation\Year Metrics
+move E:\Archive\contracts\meeting notes\bluetooth_pairing_log.txt to the folder at D:\WinPilot\Research Papers\To Review\Course Recordings
+move D:\Backups\Meeting Notes\sports_facility_booking.ics to the folder at \\192.168.1.20\teamshare\Course Material\Course Material\Returns
+move C:\Dev\contracts\customer support\uptime_sla_calculation.xlsx to the folder at D:\Research\invoices\Shared Documents\Design Files
+move D:\Work\Driver Backups\test results\thumbnail_preview.webp to the folder at \\OfficePC\Public\test results\Reports\Browser Compatibility
+move D:\Work\docs\config\ecommerce_product_feed.csv to the folder at G:\Shared\website\family photos\Submitted for Correction
+move E:\Personal\Payroll Manager\Shared Documents\volunteer_shift_plan.xlsx to the folder at C:\ProgramData\Research Papers\backups\Unsorted
+move D:\Data\imports\temp\ssh_known_hosts_review.txt to the folder named WinPilot Tests
+move F:\External Drive\backend\diagnostics\windows_terminal_profile.json to the folder named Final Versions
+move C:\Dev\invoices\campaigns\sample_chain_of_custody.pdf to the folder named University - Pending Review
+move \\backup-server\weekly\website\warehouse\security_policy.md to the folder named Client Records
+move C:\Temp\Sprint 13\test results\pytest_coverage.xml to the folder named College - Tracking
+move E:\Personal\NER experiments\Final Versions\profile_picture.jpg to the folder named To Copy
+move D:\Work\Travel Planning\docs\ansible_inventory.ini to the folder named WinPilot Tracking
+move E:\Media\Sprint 13\model outputs\handoff_package_manifest.json to the folder named Q3 2026
+move G:\Shared\Home Repairs\finance\project_proposal.docx to the folder named Payroll Manager 2027
+move D:\Work\meeting notes\family photos\risk_register.xlsx to the folder named Payroll Manager - Rejected
+move a file called risk_register_v3.ods to College - Invoices
+move a file called refund_policy_exception.docx to Year Policies
+move a file called service_feedback_summary.docx to Project Builds
+move a file called vulnerability_report.dwg to Payroll Manager - Team Shared
+move a file called boot_log_20261020.txt to GEHU Manifests
+move a file called website_traffic_export.json to Offline Videos
+move a file called press_release.docx to University - Clients
+move a file called balcony_garden_photos.zip to WinPilot To Rename
+move a file called api_specification.crt to Utility Payments
+move a file called price_list.xlsx to Project Policies
+move a file called contract_signed.ipynb to D:\Projects\Datasets
+move a file called project_evaluation_rubric.pdf to C:\Users\Ankit\OneDrive\database\travel\Templates
+move a file called job_scheduler_metrics.csv to \\192.168.1.20\teamshare\diagnostics\Device Reports\Year Students
+move a file called unit_test_report_v2.yaml to \\backup-server\weekly\Firewall Configs\Personal Finance\Project Documentation
+move a file called slow_query_analysis_draft.h to C:\Users\Public\Documents\Exam Preparation\October 2026\Model Monitoring
+move a file called deployment_checklist_approved.odp to C:\Users\Ankit\Downloads\October 2026
+move a file called supplier_corrective_action.docx to \\192.168.1.20\teamshare\Final Versions\Personal Finance\Virtual Machines
+move a file called monthly_summary_final.rs to F:\USB Backup\To Submit
+move a file called uptime_summary_reviewed.rb to C:\Users\Ankit\Downloads\website\release builds\Department Receipts
+move a file called invoice_register.ai to C:\Program Files (x86)\Network Captures\customer support\To Submit
+move a file called E:\Archive\training data\test results\deadlock_reproduction.py to WinPilot To Copy
+move a file called C:\Users\Ankit\Downloads\Lab Work\Windows Logs\weekend_plan.docx to Team Week 43
+move a file called C:\Users\ankit.kumar\Documents\Training Data\household_insurance_schedule.pdf to GEHU - Training
+move a file called E:\Archive\api tests\entity pools\luggage_inventory.xlsx to WinPilot - Processed Data
+move a file called D:\Data\Old Versions\Shared Documents\client_call_followup.docx to Birthdays
+move a file called C:\Temp\Assignments\Reports\asset_depreciation_schedule.xlsx to Marketing Analytics
+move a file called F:\USB Backup\migrations\Projects\offer_letter_template.docx to Symlink Tests
+move a file called \\FileServer\Departments\presentations\marketing\audio_device_test.wav to Payroll Manager - Archived
+move a file called C:\Users\Ankit\Downloads\src\imports\assignment_submission_final.pdf to DBMS Project Packages
+move a file called E:\College\Meeting Notes\project_proposal.docx to University - Sprint 12
+move a file named shift_schedule.go to Merged Pull Requests
+move a file named customer_nps_responses.csv to Family Events
+move a file named postgres_query_plan.sql to Client Backups
+move a file named supplier_quote.tf to University To Sort
+move a file named literature_review.docx to Driver Rollback Packages
+move a file named refund_request_2026_10.pem to Department Private
+move a file named contract_signed_approved.appx to Client Schedules
+move a file named compliance_review_2026_10.gradle to College - To Print
+move a file named returns_register.xlsx to Year Research
+move a file named network_topology.example to OneDrive Sync
+move a file named marketing_lead_import.csv to C:\Users\ankit.kumar\Documents\October 2026
+move a file named service_health_approved.gradle to E:\Archive\travel\NER experiments\Recovery Files
+move a file named pytest.ini to C:\Users\Ankit\Downloads\finance\October 2026\Disk Cleanup Review
+move a file named long_path_test_cases.jsonl to E:\Archive\Reports
+move a file named asset_inventory_revised.pst to \\FileServer\Departments\Final Versions\entity pools\Year Approved
+move a file named shipment_tracking.tiff to E:\College\SQL Scripts
+move a file named building_permit_application.pdf to D:\Research\Lab Work
+move a file named research_instrument_manual.pdf to E:\Incoming\intent models\archives\Meal Planning
+move a file named requirements-dev.txt to \\backup-server\weekly\training data\api tests\Windows Settings
+move a file named presentation_recording.webm to F:\USB Backup\family photos\Research Papers\Year Documents
+move a file named C:\Temp\Invoices\delivery_tracking_export.csv to Project Outputs
+move a file named E:\Media\Final Versions\family photos\checkout_abandonment_report.xlsx to Payroll Manager Templates
+move a file named E:\Archive\customer support\imports\department_timetable_revision.pdf to Payroll Manager - Drafts
+move a file named C:\Users\Ankit\Desktop\engineering\NER experiments\external_ssd_inventory.csv to GEHU Policies
+move a file named D:\College\GEHU\Driver Backups\Shared Documents\research_data_dictionary.md to Client Final
+move a file named D:\Work\Semester 5\database_restore_test.log to GEHU - Receipts
+move a file named E:\Incoming\Payroll Manager\marketing\diagnostic_capture.etl to GEHU - October 2026
+move a file named D:\WinPilot\Research Papers\contracts\supplier_delivery_score.xlsx to Project Data
+move a file named \\192.168.1.20\teamshare\invoices\Assignments\requirements.txt to Long Term Archive
+move a file named D:\Shared\Assignments\monthly_payroll_summary.xlsx to Team Responses
+move file budget_2026.xlsx to Branches
+move file analytics_dashboard_approved.crt to GEHU Metrics
+move file soil_moisture_log.xlsx to Year Finance
+move file accounts_receivable_ageing.xlsx to Temporary Working
+move file firewall_audit_reviewed.pth to Feature Requests
+move file filesystem_test_matrix.xlsx to Client Support
+move file proxy_pac_backup.js to College - History
+move file integration_test_2026_10.aab to Payroll Manager Drafts
+move file survey_questionnaire_v3.docx to Department Resources
+move file checksum_manifest.sha256 to Year Audio
+move file anki_deck_backup.apkg to \\FileServer\Departments\HR\Employee Records
+move file shift_schedule_draft.pcapng to D:\Backups\datasets\temp\Data Quality
+move file unsorted_downloads.zip to E:\Archive\intent models\WinPilot\Source Code
+move file social_media_plan_v2.onnx to \\192.168.1.20\teamshare\backups\logs\Meeting Follow-ups
+move file integration_test_trace.log to \\192.168.1.20\teamshare\WinPilot\WinPilot\Training Corpora
+move file localisation_strings_v2.bz2 to C:\Program Files (x86)\backups\Semester 7\Data Quality
+move file vpn_configuration_reviewed.pow to C:\Users\Ankit\Downloads\warehouse\Firewall Configs\Department Research
+move file investment_portfolio_snapshot.xlsx to D:\Backups\Assignments\Graphics Troubleshooting\Hotel Reservations
+move file dns_records.rs to \\192.168.1.20\teamshare\travel\Device Reports\Path Tests
+move file stocktake_variance_report.xlsx to D:\College\GEHU\imports\src\Client 2025
+move file E:\College\Semester 5\old_family_video.avi to Payroll Manager Materials
+move file C:\Users\Ankit\Desktop\Travel\test_fixture.json to WinPilot Evaluation
+move file C:\Users\Ankit\Pictures\Release 1.4\Network Captures\references_zotero.rdf to Documents for Landlord
+move file E:\Media\database\tests\customer_support_macros.csv to 2027 WinPilot
+move file D:\Staging\screenshots\backend\device_enrolment_report.xlsx to Model Outputs
+move file C:\Dev\Client A\recordings\tour_operator_quote.pdf to DBMS Project - Validation
+move file C:\Users\Ankit\Downloads\Source\venue_floor_plan.pdf to Dataset Snapshots
+move file C:\Users\Ankit\OneDrive\PBL Phase 2\hotel_checkin_instructions.pdf to GEHU Builds
+move file D:\Work\Meeting Notes\battery_health_export.html to Desktop
+move file \\backup-server\weekly\generated\backups\donation_receipt_october.pdf to Client Builds
+move the file venue_floor_plan.pdf from Bills to Department Receipts
+move the file electricity_meter_photo.jpg from docs to University - Customers
+move the file receipt_cafe.png from Project Engineering to DBMS Project - Results
+move the file insurance_claim_photos.zip from College - Templates to Year Inventory
+move the file semester_planner_2026.xlsx from Team Scripts to Personal Certificates
+move the file dns_cache_flush_notes.md from GEHU Final Submission to Department Reviewed
+move the file audit_evidence_draft.jar from Payroll Manager - For Approval to VMware
+move the file concert_booking_confirmation.pdf from Rollback Tests to Payroll Manager To Sort
+move the file leave_request.xz from Deployment Packages to Teacher Notes
+move the file purchase_order.gif from University Metrics to Project Receipts
+move the file load_test_report_final.safetensors from C:\Users\Ankit\Documents\validation data\WinPilot\Marketing Analytics to C:\Users\Ankit\Pictures\campaigns\client files\Licensed Software
+move the file authentication_failure_log.csv from C:\Users\Ankit\OneDrive\screenshots\contracts\Migration Validation to C:\Users\Ankit\Documents\api tests\Old Versions\Client Materials
+move the file backup_manifest_draft.yml from D:\Data\Week 42\Certificates\Architecture Decision Records to C:\Users\Ankit\OneDrive\Graphics Troubleshooting\Graphics Troubleshooting\Support Team
+move the file integration_test.tar.gz from C:\Dev\Final Versions to C:\Users\Ankit\OneDrive\tests\client files\DNS Exports
+move the file risk_assessment_draft.odp from C:\Dev\Game Saves to F:\External Drive\Source Code\engineering\Project Data
+move the file expense_claim.gz from E:\College\Test Results to C:\Temp\Old Versions
+move the file slow_query_log.txt from C:\Users\Ankit\Downloads\Backups to C:\ProgramData\test results\WinPilot\CRM Exports
+move the file social_media_plan.exe from E:\Media\Receipts to C:\Users\Ankit\Documents\backend\src\Client Records
+move the file experiment_assignments.csv from C:\Program Files (x86)\Reports\Firewall Configs\Comics to C:\Users\ankit.kumar\Documents\Archives
+move the file supplier_quote.xml from F:\USB Backup\Logs to D:\Work\Assignments
+move the file playwright_trace.zip into College Documentation
+move the file presentation_final.pptx into Export Queue
+move the file portfolio_assets.zip into logs
+move the file cab_receipt_20261019.pdf into Payroll Manager - Manifests
+move the file semester_5_notes_unit_3.docx into Department Sprint 12
+move the file WhatsApp Image 2026-10-18 at 17.42.33.jpeg into WinPilot - Results
+move the file accessibility_audit_final.h into Gift Receipts
+move the file slow_query_analysis_backup.lock into Reimbursements
+move the file seo_report.bz2 into WinPilot - Semester 7
+move the file support_case.msix into DBMS Project Forms
+move the file nas_snapshot_report.pdf into D:\Projects\Old Versions
+move the file asset_inventory.mp4 into C:\Users\Ankit\Documents\Travel
+move the file database_schema_v3.tfstate into C:\Dev\Finance Team
+move the file exam_revaluation_request.docx into D:\Shared\October 2026
+move the file attendance_sheet_backup.xlsx into C:\Temp\WinPilot3
+move the file locust_load_test.py into C:\Users\ankit.kumar\Documents\Release 1.4
+move the file lab_equipment_inventory.xlsx into C:\Users\Ankit\Videos\test results\Network Captures\Business Continuity
+move the file api_test_results_2026_10.ai into \\192.168.1.20\teamshare\Device Reports\imports\Year Inventory
+move the file audit_evidence_reviewed.wav into D:\Data\Datasets
+move the file client_feedback.csv into F:\USB Backup\tests\assets\WinPilot Exports
+move the file open_source_pr_review.patch to CI Artifacts
+move the file laptop_allocation_form.pdf to College - Records
+move the file salary_statement_v3.heapsnapshot to Android Debugging
+move the file firewall_audit.tif to Team Forms
+move the file employee_pf_statement.pdf to Patch Files
+move the file warehouse_stock.inf to WinPilot - Tests
+move the file road_trip_route.gpx to GEHU Resources
+move the file contact_list_approved.webm to Department November
+move the file contractor_nda_signed.pdf to ERP Data
+move the file seo_report_final.yaml to DBMS Project - Q4 2026
+move the file salary_statement.tf to D:\College\GEHU\Sprint 13\To Submit\Year Code
+move the file personal_finance_dashboard.xlsx to D:\Research\Database
+move the file sales_summary.xlsx to D:\Work\travel\backups\Accessibility Review
+move the file refund_request.vmdk to E:\Media\Config
+move the file draft_suppliers.xlsx to D:\Source\src\Semester 7\Travel Planning
+move the file firewall_audit.pcapng to F:\External Drive\Assignments\recordings\Team Records
+move the file machine_service_log.xlsx to C:\Users\Ankit\Desktop\api tests\Research Papers\Production Incidents
+move the file installed_apps_export.csv to C:\Users\Ankit\Documents\Model Outputs
+move the file system_restore_points.txt to C:\Temp\Invoices
+move the file lab_results_export.csv to D:\Data\client files\HR\Year Audits
+move the file \\FileServer\Departments\training data\assets\website_content_audit.csv into College - Sprint 13
+move the file \\backup-server\weekly\HR\Release 1.4\focus_group_transcript_anon.docx into Git Repositories
+move the file E:\College\api tests\Certificates\certificate_chain.pem into Payroll Manager For Review
+move the file D:\WinPilot\Sprint 13\Course Material\asset_depreciation_schedule.xlsx into Department Videos
+move the file \\FileServer\Departments\family photos\Firewall Configs\customer_invoice_2026_091.pdf into DBMS Project - To Rename
+move the file C:\Users\Ankit\Downloads\intent models\Release 1.4\privileged_account_review.docx into Client Research
+move the file D:\College\GEHU\backups\Network Captures\batch_cleanup_script.bat into College Materials
+move the file D:\Research\invoices\Week 42\thread_dump_20261020.txt into WinPilot Audits
+move the file D:\Research\database\To Review\image_alt_text_audit.xlsx into General Ledger
+move the file E:\College\tests\Semester 5\office_it_asset_handover.xlsx into GEHU - Outgoing
+move the file C:\Users\Ankit\Desktop\Source\service_level_report.xlsx into \\FileServer\Departments\screenshots\generated\Comics
+move the file C:\Users\Ankit\Documents\Backups\assignment_brief.pdf into D:\Data\family photos\operations\Project Templates
+move the file C:\Users\Ankit\Desktop\Device Reports\Audio Troubleshooting\react_component_storybook.zip into F:\USB Backup\Final Versions\Personal Finance\3D Assets
+move the file C:\Users\Ankit\OneDrive\temp\Windows Logs\dns_zone_export.txt into D:\Research\Source Code\imports\Old Versions
+move the file C:\Projects\Research\node_modules_audit.json into E:\Media\Generated Records
+move the file E:\Media\inventory\Semester 5\local_map_export.pdf into C:\Users\Ankit\Documents\Reports
+move the file F:\USB Backup\Archive\blog_draft.md into C:\Users\Ankit\OneDrive\config\migrations\Client Reviewed
+move the file D:\Projects\exports\photos\online_order_history.csv into D:\Work\Reports
+move the file E:\Media\Source Code\Firewall Configs\sales_forecast_model.pkl into \\OfficePC\Public\Home Repairs\finance\Client Designs
+move the file C:\Temp\model outputs\Exam Preparation\game_save_backup_slot_04.zip into C:\Program Files\Semester 5\backend\Client Q3
+move the file \\NAS01\Shared\contracts\Semester 7\attendee_badge_export.csv to College - Support
+move the file C:\Projects\PBL Phase 2\warehouse_temperature_log.csv to Department Templates
+move the file G:\Shared\photos\test results\unsorted_downloads.zip to Team Archive 2026
+move the file F:\External Drive\assets\receipts\analytics_export.json to DBMS Project - Planning
+move the file D:\Data\design files\assets\vocab.txt to Operations Team
+move the file C:\Users\Ankit\Desktop\Personal Finance\Shared Documents\extensions_inventory.csv to GEHU - Records
+move the file E:\College\backend\Windows Logs\windows_terminal_profile.json to University - Research
+move the file D:\Data\presentations\Sprint 13\storage_quota_report.xlsx to Project Planning
+move the file D:\WinPilot\WinPilot\ideas_inbox.md to WinPilot - Semester 5
+move the file C:\Users\Ankit\Documents\warehouse\receipts\laptop_allocation_form.pdf to GEHU - Assets
+move the file called emergency_plan_home.pdf to Client Results
+move the file called contract_draft_v3.db to WinPilot - Packages
+move the file called wake_word_false_positives.csv to College - Reports
+move the file called equipment_register.vmdk to GEHU Templates
+move the file called contact_list_draft.yml to University To Copy
+move the file called conference_badge_print.pdf to GEHU - Schedules
+move the file called api_test_results_final.srt to Team Data
+move the file called tax_computation_final.htm to Entity Recognition
+move the file called equipment_calibration_certificate.pdf to College - Validation
+move the file called contract_draft.bat to Research
+move the file called junction_inventory.csv to \\backup-server\weekly\October 2026\warehouse\Browser Bookmarks
+move the file called delivery_manifest.etl to E:\College\exports\contracts\Department Approved
+move the file called attendee_badge_export.csv to C:\Program Files (x86)\operations\NER experiments\Music Playlists
+move the file called migration_results_reviewed.feather to D:\Staging\To Submit\api tests\Vehicle Documents
+move the file called memory_test_results.html to D:\Projects\Semester 7\imports\Project Evidence
+move the file called feature_flag_export.json to C:\Temp\Config
+move the file called research_consent_tracker.xlsx to E:\Media\Release 1.4\photos\Department Shared Files
+move the file called privacy_assessment_2026_10.py to F:\External Drive\Audio Troubleshooting\tests\Approved Documents
+move the file called contract_redlines_v5.docx to E:\Archive\finance\travel\Home Renovation
+move the file called edge_profile_export.zip to C:\ProgramData\client files\imports\Department Imports
+move the file called E:\Archive\PBL Phase 2\presentations\alumni_contact_export.csv to DBMS Project - Approved
+move the file called C:\ProgramData\Sprint 13\campaigns\shipping_labels.pdf to University - Notes
+move the file called C:\Users\Ankit\Documents\PBL Phase 2\campaigns\skill_gap_assessment.docx to Project To Submit
+move the file called C:\Users\Public\Documents\screenshots\receipts\client_logo.svg to GEHU For Approval
+move the file called \\NAS01\Shared\Supplier North\Payroll Manager\entity_tagger.py to Warehouse
+move the file called C:\Program Files\Google\Chrome\Application\chrome.exe to WinPilot Outgoing
+move the file called \\FileServer\Departments\HR\exports\router_config_backup.cfg to Archived Branches
+move the file called E:\Media\Photos\render_preview.png to University Photos
+move the file called D:\Research\diagnostics\intent models\service_feedback_summary.docx to Project Documentation
+move the file called F:\USB Backup\Research\sports_club_membership.pdf to Collision Tests
+move the file named project_charter_reviewed.appx to Temporary Exports
+move the file named internship_application_tracker.xlsx to Driver Backups
+move the file named subscription_churn_cohort.csv to Payroll Manager - Semester 7
+move the file named purchase_order_final.example to Operating Systems Imports
+move the file named service_health_v3.pst to College - Revisions
+move the file named service_health_revised.json to To Rename
+move the file named expense_claim_v3.sql to WinPilot Assets
+move the file named architect_revision_07.dwg to Network Troubleshooting
+move the file named audit_evidence_final.stl to Year Contracts
+move the file named seed_inventory.xlsx to College Invoices
+move the file named deployment_checklist_backup.stl to C:\Temp\Semester 5\Audio Troubleshooting\Deployment Rollbacks
+move the file named failed_login_summary.csv to E:\Incoming\Exam Preparation\src\Textures
+move the file named inspection_checklist.odt to E:\College\Shared Drive
+move the file named database_snapshot_v2.png to \\OfficePC\Public\finance\PBL Phase 2\Research Papers
+move the file named course_invoice_2026.pdf to D:\Projects\Assignments
+move the file named delivery_manifest.js to D:\Staging\Course Material\backend\Driver Installers
+move the file named payroll_register.ini to E:\College\Game Saves
+move the file named software_bill_of_materials.json to \\OfficePC\Public\Home Repairs\api tests\Team Imports
+move the file named cash_flow_forecast.xlsx to C:\Users\Ankit\Videos\receipts\Graphics Troubleshooting\Submitted for Correction
+move the file named meeting_recording_20261020.mp4 to D:\Projects\Tests
+move the file named C:\Users\Public\Documents\Backups\flight_confirmation.pdf to Payroll Manager - Final Versions
+move the file named \\NAS01\Shared\backups\logs\3d_print_slicer_profile.ini to GEHU Research
+move the file named C:\Program Files\To Submit\database\webinar_notes.docx to Payroll Manager For Approval
+move the file named G:\Shared\test results\campaigns\portfolio_homepage_mockup.fig to DBMS Project - Clean Data
+move the file named F:\External Drive\WinPilot\temp\api_response_401.json to WinPilot Previous
+move the file named C:\Users\Ankit\OneDrive\database\travel\seed_inventory.xlsx to University - Tests
+move the file named C:\Users\Ankit\Pictures\WinPilot\teaching_assistant_roster.csv to Project Notes
+move the file named E:\Media\engineering\warehouse\draft_contract.sql to University - Temporary Files
+move the file named C:\Users\Ankit\Documents\Receipts\handover_certificate.pdf to Research Papers
+move the file named F:\External Drive\finance\release builds\flight_itinerary_return.pdf to Open Source
+place cache_hit_ratio.xlsx in Department Tests
+place migration_plan_draft.sh in College - Documentation
+place translation_review.sqlite in GEHU - To Print
+place compliance_review.java in Payroll Manager - Approved
+place release_notes.pom in College - Audits
+place analytics_dashboard_final.img in DBMS Project - Private
+place campaign_calendar.xlsx in University - Archived
+place student_attendance_october.xlsx in Quarterly Reviews
+place setup_installer.exe in WinPilot - Rejected
+place load_test_report_draft.sqlite in University To Move
+place learning_path_tracker.xlsx in \\FileServer\Departments\assets\Driver Backups\Hindi Translation
+place order_confirmation_5832.pdf in \\backup-server\weekly\temp\intent models\Department Designs
+place seo_report_backup.yaml in C:\Users\Ankit\Desktop\Source Code
+place dependency_audit.json in D:\Shared\Entity Pools
+place training_data_audit.pdf in C:\Users\Public\Documents\operations\family photos\Documents for Accountant
+place bookmark_backup.html in C:\Users\Ankit\Desktop\contracts\Device Reports\Department Raw
+place payment_receipt.odp in E:\Archive\Payroll Manager\contracts\Installer Files
+place habit_tracker.xlsx in D:\Projects\warehouse\Payroll Manager\Team Finance
+place quarterly_review.xlsm in C:\Users\Ankit\Desktop\design files\docs\Project Contracts
+place container_inventory_backup.dmp in C:\Temp\Finance Team
+place E:\Personal\campaigns\To Review\candidate_resume_24.pdf in Purchase Orders
+place C:\Temp\Receipts\minutes_2026_10_20.docx in Encrypted Archives
+place D:\Research\Screenshots\sports_facility_booking.ics in Client Operations
+place C:\Users\Ankit\OneDrive\Training Data\home_appliance_inventory.xlsx in GEHU - References
+place C:\Users\Ankit\Videos\Backups\index.html in GEHU - History
+place E:\Archive\inventory\config\data_dictionary_customer.xlsx in Department Responses
+place C:\Users\Public\Documents\Final Versions\entity pools\medical_reimbursement_claim.pdf in Mobile Backup
+place C:\Users\Ankit\Videos\October 2026\receipts\mobile_recharge_history.csv in College - Week 43
+place D:\Data\Client A\warehouse\git_credentials_audit.txt in backups
+place D:\WinPilot\marketing\screenshots\gpu_benchmark_results.csv in Department Operations
+place D:\Backups\Data\technical_interview_bank.docx in E:\Media\Week 42
+place C:\Users\Ankit\Pictures\Archive\personal_finance_dashboard.xlsx in C:\Users\Ankit\Desktop\release builds\config\Privacy
+place D:\Staging\Firewall Configs\marketing\grocery_list.txt in C:\Users\ankit.kumar\Documents\Backups
+place C:\Users\Ankit\Downloads\Driver Backups\Audio Troubleshooting\workshop_attendance.csv in D:\Work\Assignments\Network Captures\Brand Guidelines
+place C:\Users\Ankit\Downloads\Invoices\documents_archive.zip in C:\Users\Ankit\Downloads\Database
+place E:\College\finance\assets\tax_documents_2025.pdf in C:\Users\Public\Documents\Engineering Team
+place D:\College\GEHU\website\screenshots\salary_breakup_comparison.xlsx in C:\Users\Ankit\OneDrive\Payroll Manager\Supplier North\BIOS Notes
+place C:\Users\Ankit\Desktop\generated\migrations\ssd_smart_report.txt in D:\Data\exports\Assignments\Project Scripts
+place C:\Users\ankit.kumar\Documents\Semester 5\windows_update_history.html in D:\Projects\imports\invoices\Year Reviewed
+place C:\Program Files\Certificates\Certificates\repair_quote_2026_119.xlsx in \\OfficePC\Public\meeting notes\frontend\Year Assets
+please move leave_request_v2.sqlite from Payroll Manager Outputs to WinPilot Archives
+please move website_audit_final.old from Payroll Manager - Week 43 to University Evidence
+please move project_scope_v2.fbx from Ubuntu to Payroll Manager - Operations
+please move project_assets.7z from Product Analytics to Rename Tests
+please move last_mile_delivery_metrics.xlsx from Final Report Attachments to WinPilot - Manifests
+please move cloud_cost_estimate.xlsx from Awaiting Approval to Client Files
+please move project_charter.vmdk from Payroll Manager - Incoming to Operating Systems Videos
+please move purchase_order_reviewed.url from Project Proposals to College Documents
+please move goods_received_note_221.pdf from Department Q3 to University - References
+please move project_plan_backup.tar.gz from Team Tickets to Performance Appraisals
+please move social_media_plan.arrow from C:\Users\Ankit\Pictures\invoices\src\Personal Learning to D:\Research\Old Versions\tests\Team Invoices
+please move release_notes_backup.pth from \\FileServer\Departments\generated\Semester 7\Release Notes to C:\Users\Ankit\Pictures\recordings\docs\Year Data
+please move youtube_thumbnail_source.psd from D:\College\GEHU\imports\Windows Logs\Department Contracts to C:\Users\Ankit\Downloads\Research Papers\backups\Reference Material
+please move campaign_calendar_reviewed.h from E:\Personal\family photos\Sprint 13\DBMS Project to D:\Work\WinPilot\Home Repairs\Year Outputs
+please move legal_case_summary.docx from \\NAS01\Shared\Final Versions\Personal Finance\Team Q4 to D:\Work\family photos\database\Browser Session Backups
+please move label_distribution_report.csv from D:\Projects\website\invoices\Client Assets to C:\Program Files\training data\Graphics Troubleshooting\Invitations
+please move migration_notes.md from \\backup-server\weekly\generated\Network Captures\Year Week 43 to F:\USB Backup\Presentations
+please move duplicate_scan_results.csv from D:\Work\Semester 5\archives\Customer Research to D:\Research\engineering\Supplier North\Year Cleaned
+please move slow_query_analysis_v3.trace from C:\Users\Public\Documents\assets\customer support\Dataset QA to D:\Source\warehouse\Assignments\Code Reviews
+please move publication_permission_form.docx from C:\Dev\Source Code to G:\Shared\backups\WinPilot\Knowledge Base
+please move bike_route_notes.md in WinPilot - Old Versions
+please move draft_transcription.json in Year To Review
+please move seed_data.sql in GEHU - Archives
+please move backup_retention_policy.pdf in Payroll Manager Private
+please move seo_report_v3.otf in Team Documentation
+please move api_rate_limit_test_results.csv in WinPilot Students
+please move status_report_2026_10.sav in GEHU - To Move
+please move deployment_checklist_2026_10.yml in University Forms
+please move school_transfer_certificate.pdf in WinPilot Archived
+please move migration_results_backup.mkv in Version 3
+please move audit_evidence.key in C:\Users\Ankit\Downloads\Semester 7
+please move network_topology.pth in C:\Program Files (x86)\finance\Projects\Contract Archive
+please move contract_draft.safetensors in C:\Users\Ankit\Documents\release builds\model outputs\Team Reviewed
+please move invoice_register.py in C:\Program Files (x86)\engineering\To Review\Book Notes
+please move CHANGELOG.md in C:\Dev\Assignments\release builds\PostgreSQL
+please move office_seating_plan.png in D:\Work\temp\Certificates\Product Roadmap
+please move equipment_register_final.pst in C:\ProgramData\To Review\Shared Documents\Mobile Backup
+please move unit_test_report_backup.crt in E:\Archive\training data\Sprint 13\Customer Feedback
+please move analytics_dashboard_2026_10.sql in C:\Users\Ankit\Downloads\test results\PBL Phase 2\Team Files
+please move nas_backup_status.xlsx in \\192.168.1.20\teamshare\Windows Logs\client files\Solved Question Papers
+please move demo_recording.mp4 into Customer Success
+please move sales_fact_table_sample.csv into Graphic Design
+please move migration_plan.sql into University - Builds
+please move integration_test.bat into Product Roadmap
+please move contact_list.parquet into GEHU - Rejected
+please move call_centre_shift_roster.xlsx into WinPilot - Working Files
+please move cooking_gas_booking.pdf into WinPilot Old Versions
+please move subscription_renewal_list.csv into Client Archive 2026
+please move warehouse_stock_draft.blend into Crash Dumps
+please move folder_migration_plan.docx into Year Data
+please move migration_results.cer into C:\Users\Ankit\Downloads\Sprint 13
+please move conference_paper_camera_ready.docx into \\FileServer\Departments\To Review\operations\Bills
+please move bibliography_dedup_report.csv into D:\Work\Week 42\intent models\Engineering Team
+please move download_triage_rules.json into C:\Users\Public\Documents\Windows Logs\invoices\WinPilot Imports
+please move equipment_register_backup.m4a into D:\WinPilot\customer support\imports\Client Tickets
+please move accessibility_audit.7z into D:\Data\Database
+please move pull_request_review.md into D:\Research\exports\config\Supplier Invoices
+please move disaster_recovery.conf into D:\Research\Archives
+please move render_preview.png into C:\Users\Ankit\Desktop\Device Reports\PBL Phase 2\Year Cleaned
+please move tax_return_acknowledgement.pdf into D:\Data\backups\meeting notes\Project Week 42
+please move code_review_checklist.md to Client Processed
+please move purchase_order_revised.ost to University - For Approval
+please move object_storage_inventory.csv to DBMS Project 2024
+please move solar_panel_generation.csv to Flight Tickets
+please move uptime_summary_v2.ini to Team References
+please move cloud_cost_report_revised.7z to Comics
+please move customer_export_v2.old to University 2024
+please move powershell_history_redacted.txt to Dependency Updates
+please move external_drive_inventory.csv to Build Logs
+please move cultural_fest_poster.png to Payroll Manager - Reference Material
+please move construction_progress_photos.zip to C:\Dev\Personal Finance\Client A\Client Engineering
+please move documents_to_print.pdf to C:\Dev\Music
+please move browser_matrix_revised.feather to D:\WinPilot\database\Semester 5\Failed Imports
+please move vulnerability_report_final.dll to E:\Media\PBL Phase 2\Firewall Configs\Client November
+please move draft_budget.svg to C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+please move budget_forecast_v2.etl to D:\Shared\Projects
+please move reading_queue.json to C:\Dev\operations\WinPilot\Client Logs
+please move driver_install_notes.md to D:\Work\Docs
+please move price_comparison_approved.odt to E:\Archive\Shared Drive
+please move music_library.m3u to E:\Incoming\intent models\Windows Logs\Warranties
+please move D:\Data\generated\marketing\api_openapi_spec.yaml from E:\College\family photos\generated\Project Pending to C:\Users\Public\Documents\Receipts
+please move D:\Research\Travel\operations_weekly_report.pdf from C:\Temp\PBL Phase 2\Projects\Contract Archive to C:\Program Files (x86)\meeting notes\logs\Team November
+please move \\backup-server\weekly\Research Papers\Course Material\audit_evidence_index.xlsx from F:\USB Backup\Phone Transfer to F:\External Drive\Week 42\client files\Team Logs
+please move D:\Source\Payroll Manager\Audio Troubleshooting\password_reset_codes.txt from E:\College\assets\meeting notes\Client Scripts to C:\Users\Public\Documents\Graphics Troubleshooting\Research Papers\Year Private
+please move C:\Users\Ankit\Documents\Reports\save_backup_2026_10_18.zip from E:\Personal\travel\WinPilot\Volunteering to D:\WinPilot\Final Versions\validation data\Finance Team
+please move C:\Users\Ankit\Desktop\Semester 5\HR\warranty_card.pdf from C:\Temp\release builds\Shared Documents\Client Outputs to C:\Users\Ankit\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+please move C:\Users\Ankit\OneDrive\travel\api tests\training_data.csv from \\FileServer\Departments\screenshots\Exam Preparation\Client Evidence to \\192.168.1.20\teamshare\Projects\Driver Backups\Client Templates
+please move E:\Media\campaigns\WinPilot\passport_scan.jpg from E:\Incoming\Device Reports\Shared Documents\Installer Files to D:\Backups\Validation Data
+please move F:\External Drive\NER experiments\Exam Preparation\usability_test_notes.docx from C:\Users\Ankit\Downloads\tests\HR\tmp to C:\Users\Ankit\Downloads\Release 1.4
+please move D:\College\GEHU\Projects\Audio Troubleshooting\parking_slot_agreement.pdf from D:\Projects\Driver Backups\warehouse\Fitness Logs to F:\External Drive\To Submit\customer support\WinPilot User Commands
+please move E:\Incoming\Firewall Configs\operations\vendor_tax_details.xlsx in Project Research
+please move \\192.168.1.20\teamshare\operations\validation data\warehouse_map.png in WinPilot
+please move C:\Users\Ankit\Downloads\training data\meeting notes\capstone_source_bundle.zip in Copy Tests
+please move C:\Users\Ankit\OneDrive\Graphics Troubleshooting\Old Versions\fitness_plan_week42.pdf in University Receipts
+please move D:\Work\Screenshots\bank_transfer_receipt.pdf in Team Receipts
+please move \\backup-server\weekly\Week 42\invoices\assignment_feedback_sem5.pdf in University - Resources
+please move C:\Users\Ankit\Desktop\HR\datasets\battery_cycle_report.csv in DBMS Project - Documents
+please move C:\Users\Ankit\Pictures\Reports\Supplier North\timesheet_week42.xlsx in Test Results
+please move C:\Users\Public\Documents\logs\contracts\ruff.toml in PBL Phase 1
+please move C:\Users\Ankit\Documents\HR\Firewall Configs\api_response_401.json in Travel Planning
+please move D:\WinPilot\inventory\Shared Documents\internship_offer.pdf in D:\Data\family photos\Reports\Client B
+please move D:\Projects\PBL Phase 2\api_client.ts in D:\Source\inventory\Travel Planning\Team Resources
+please move C:\Users\Ankit\Pictures\Research\equipment_hire_agreement.pdf in C:\Users\ankit.kumar\Documents\Assets
+please move \\192.168.1.20\teamshare\config\src\cooking_gas_booking.pdf in D:\Source\archives\Old Versions\Browser Backups
+please move D:\Data\Downloads\internship_offer.pdf in C:\Users\Ankit\Documents\training data\model outputs\Team November
+please move C:\ProgramData\Assignments\contracts\oauth_client_config.example.json in \\NAS01\Shared\Audio Troubleshooting\Reports\Department Suppliers
+please move C:\Users\Ankit\Documents\operations\Old Versions\translation_memory.tmx in \\FileServer\Departments\validation data\Network Captures\End-to-End Tests
+please move C:\Users\Ankit\OneDrive\Semester 5\company_research_notes.md in \\192.168.1.20\teamshare\frontend\receipts\Maintenance
+please move C:\Users\Ankit\OneDrive\Backups\visa_appointment_letter.pdf in F:\External Drive\Firewall Configs\Payroll Manager\Permission Tests
+please move E:\Archive\Training Data\readme_old.md in \\NAS01\Shared\invoices\Supplier North\Deployment Rollbacks
+please move C:\Users\Ankit\Videos\Backups\VID_20261017_201501.mp4 into Team Packages
+please move G:\Shared\campaigns\Shared Documents\archive_for_accountant.zip into Department Builds
+please move C:\Dev\receipts\To Review\queue_retry_analysis.ipynb into tests
+please move F:\USB Backup\PBL Phase 2\expenses_q3.xlsx into College Finance
+please move C:\Users\Ankit\Pictures\Assignments\appliance_manual_washer.pdf into Client Contracts
+please move \\OfficePC\Public\Meeting Notes\minutes_2026_10_20.docx into GEHU - Deliverables
+please move E:\Media\validation data\contracts\family_trip_itinerary.docx into Disk Cleanup Review
+please move D:\Projects\src\customer support\keyboard_navigation_audit.docx into College - Semester 7
+please move E:\Media\Data\update_channel_config.yaml into Year Assets
+please move E:\Incoming\entity pools\imports\renewal_forecast.xlsx into NER Training
+please move C:\Projects\Invoices\access_review_2026.xlsx into D:\Research\design files\Reports\Study Material
+please move D:\Projects\tests\client files\internship_application_tracker.xlsx into C:\Users\Ankit\Downloads\Driver Backups\tests\Client Sprint 13
+please move E:\Incoming\website\generated\minutes_2026_10_20.docx into D:\Projects\Source Code\Semester 7\Team Reports
+please move D:\Data\Client A\Projects\commit_signatures_report.txt into D:\Backups\imports\screenshots\Windows Update
+please move C:\Users\Ankit\Documents\Semester 5\staff_schedule_week43.xlsx into C:\Users\Public\Documents\engineering\Payroll Manager\Project Version 2
+please move C:\ProgramData\docs\campaigns\marketplace_listing_feed.csv into C:\Temp\To Submit
+please move \\backup-server\weekly\Supplier North\Home Repairs\pet_vet_receipt.pdf into \\192.168.1.20\teamshare\Shared Documents\Reports\Year History
+please move E:\Media\frontend\imports\bibliography_dedup_report.csv into D:\Source\inventory\contracts\Client Week 43
+please move E:\Archive\validation data\engineering\git_credentials_audit.txt into C:\Users\Ankit\Pictures\website\release builds\Team October
+please move D:\College\GEHU\Assignments\weekend_plan.docx into D:\Backups\finance\Exam Preparation\Department Shared Files
+please move \\192.168.1.20\teamshare\Shared Documents\warehouse\web_hosting_renewal.pdf to Frontend Components
+please move C:\Users\Ankit\OneDrive\Travel Planning\Home Repairs\default_programs_export.xml to Payroll Manager Revisions
+please move F:\USB Backup\validation data\docs\thumbnail_preview.webp to DBMS Project Tests
+please move C:\Users\Ankit\Downloads\marketing\Device Reports\building_maintenance_schedule.xlsx to Bug Reproduction Kits
+please move E:\College\test results\Travel Planning\mypy.ini to Payroll Manager - Outgoing
+please move E:\Media\Training Data\emergency_plan_home.pdf to Client Notes
+please move D:\Projects\Invoices\ab_test_results.xlsx to University - Planning
+please move D:\College\GEHU\family photos\backend\medical_claim_form.pdf to Employment Records
+please move C:\Users\Ankit\OneDrive\generated\meeting notes\lab_submission_07.zip to WinPilot - Students
+please move C:\Temp\Research\air_quality_sensor_export.json to FY2026-27
+please move C:\Users\Ankit\Documents\Assignments\memory_test_results.html to G:\Shared\HR\recordings\Client Clients
+please move C:\Program Files (x86)\receipts\Certificates\usb_device_history.csv to D:\Backups\Temporary Exports
+please move D:\Work\Documents\compost_schedule.txt to C:\Users\Ankit\Downloads\config\Payroll Manager\Cycling
+please move D:\Staging\photos\meeting notes\gym_progress_photos.zip to C:\Users\Ankit\Downloads\presentations\Supplier North\CAD Drawings
+please move D:\Staging\src\contracts\hotel_rooming_list.xlsx to \\OfficePC\Public\frontend\Research Papers\Large Files Review
+please move F:\USB Backup\Meeting Notes\smart_home_devices.csv to \\NAS01\Shared\backups\datasets\Application Profiles
+please move D:\Source\config\Release 1.4\lab_booking_calendar.ics to C:\Users\Ankit\Desktop\Personal Finance\Shared Documents\Accounts Receivable
+please move \\OfficePC\Public\logs\Course Material\property_photos.zip to C:\Dev\Screenshots
+please move C:\Users\Ankit\Pictures\Photos\purchase_receipt_2026.pdf to \\OfficePC\Public\PBL Phase 2\Assignments\Access Control
+please move C:\Users\Ankit\Documents\Week 42\contracts\mysql_slow_query_log.txt to D:\Research\config\archives\Year Audio
+please place open_source_contributions.csv in Project Handover
+please place deployment_checklist.out in DBMS Project Contracts
+please place translation_review_revised.prof in WinPilot - Builds
+please place passport_renewal_checklist.docx in DBMS Project - Exports
+please place website_audit_2026_10.obj in Payroll Manager - Processed Data
+please place api_latency_report.xlsx in WinPilot - Documents
+please place product_catalog.pth in Purchase Approvals
+please place rollback_plan_v2.tiff in College Working Files
+please place supplier_payment_advice.pdf in Payroll Manager Temporary Files
+please place delivery_manifest_final.msix in DBMS Project - Processed Data
+please place research_collaboration_agreement.pdf in C:\Users\Ankit\Downloads\Tests
+please place emergency_contact_sheet.xlsx in D:\Projects\Assets
+please place graphql_schema.graphql in C:\ProgramData\config\operations\Team Tickets
+please place conference_badge_qr.png in \\NAS01\Shared\validation data\migrations\Year Cleaned
+please place project_charter_v3.html in F:\USB Backup\Database
+please place campaign_calendar.old in C:\Dev\Engineering Team
+please place personal_development_plan.md in C:\Dev\Entity Pools
+please place application_icon.ico in D:\Data\tests\assets\WinPilot Models
+please place visitor_badge_template.pptx in D:\Staging\archives\presentations\Stable Release
+please place intent_classifier.py in D:\Data\Photos
+please place disaster_recovery_v3.gz into DBMS Project Assets
+please place lab_computer_fault_log.csv into Year Resources
+please place wifi_password_handover.txt into Entity Pool Generated
+please place contract_signed.csv into GEHU - Scripts
+please place gdpr_request_log.csv into Safety Records
+please place salary_statement_2026_10.java into University Packages
+please place oauth_client_config.example.json into DBMS Project Imports
+please place vpc_network_diagram.drawio into Event Viewer
+please place exam_seating_plan.pdf into Bank Statements
+please place switch_port_inventory.xlsx into diagrams
+please place windows_update_error_codes.csv into D:\Work\assets\Payroll Manager\WinPilot3
+please place Desktop.ini into F:\USB Backup\To Review\PBL Phase 2\PostgreSQL
+please place meeting_minutes.sys into C:\ProgramData\website\api tests\Client Operations
+please place network_topology_reviewed.ttf into F:\USB Backup\datasets\inventory\Team Current
+please place shipment_tracking_2026_10.weights into E:\Archive\College
+please place latency_benchmark_final.7z into C:\Users\Ankit\Documents\WinPilot
+please place system_file_check_results.txt into E:\Archive\Release 1.4
+please place temporary_export.tmp into G:\Shared\src\Semester 7\Team Test Set
+please place price_comparison_revised.cpp into D:\Staging\Research Papers\tests\Structure Libraries
+please place courier_invoice.pdf into C:\ProgramData\Old Versions\Home Repairs\WinPilot User Commands
+please place database_snapshot_draft.h to Team Screenshots
+please place weather_station_log.csv to Wi-Fi Diagnostics
+please place dns_records.cpp to College Raw Data
+please place database_backup.sql to University Documents
+please place certificate_cloud_practitioner.png to Team Audio
+please place inspection_checklist_approved.ics to Payroll Manager Data
+please place cat_adoption_documents.pdf to Year Files
+please place incident_report.inf to Department Documentation
+please place presentation_for_monday.pptx to Windows Settings
+please place inventory_tracker.xlsx to Semester 6
+please place load_test_report.pth to G:\Shared\To Review\screenshots\WinPilot Intent Detection
+please place mutual_fund_statement_october.pdf to C:\Users\Ankit\Desktop\contracts\finance\Client Tracking
+please place invoice_register_approved.mp4 to D:\College\GEHU\Audio Troubleshooting\api tests\External Drives
+please place dispatch_schedule.xlsx to D:\Projects\Client B
+please place water_filter_change_log.xlsx to E:\Media\Exam Preparation\design files\Portable Apps
+please place petty_cash_voucher_104.pdf to C:\Users\Ankit\Desktop\archives\api tests\intent datasets
+please place citation_export.bib to C:\Users\Ankit\Videos\model outputs\backups\Visitor Management
+please place resume_version_october.docx to E:\Archive\Projects
+please place campaign_calendar_approved.rar to D:\Shared\Training Data
+please place license_register_approved.jar to E:\College\Research Papers\docs\Year Files
+please place C:\Users\Ankit\Videos\src\October 2026\home_appliance_inventory.xlsx in GEHU Outgoing
+please place C:\Program Files\Semester 5\Firewall Configs\feature_importance.png in GEHU Assets
+please place F:\USB Backup\inventory\Old Versions\capacity_planning_model.xlsx in GEHU Suppliers
+please place D:\Work\validation data\Graphics Troubleshooting\PO-2026-00481.pdf in University - For Review
+please place D:\Source\marketing\screenshots\travel_allowance_claim.xlsx in English
+please place G:\Shared\Sprint 13\client files\training_attendance.xlsx in Year November
+please place C:\Users\Ankit\Documents\Graphics Troubleshooting\Personal Finance\personal_development_plan.md in Team Tracking
+please place C:\Users\Public\Documents\PBL Phase 2\portfolio_assets.zip in Travel Documents
+please place E:\Incoming\Final Versions\Lab Work\project_final_really_final.zip in Client Code
+please place E:\Personal\archives\Shared Documents\translation_vendor_quote.pdf in GEHU - Tickets
+please place C:\Users\Public\Documents\entity pools\Home Repairs\quality_inspection_form.xlsx in D:\Research\contracts\website\Q4 2026
+please place C:\Users\Ankit\Desktop\Course Material\frontend\app_icon.png in C:\ProgramData\contracts\photos\Contracts
+please place D:\Projects\entity pools\logs\warehouse_picklist.pdf in D:\Research\Python Projects
+please place D:\WinPilot\Firewall Configs\website\docker-compose.yml in D:\Shared\Validation Data
+please place D:\WinPilot\Travel\incident_postmortem.docx in E:\Incoming\Home Repairs\presentations\External SSD Backup
+please place D:\Source\Home Repairs\Audio Troubleshooting\music_library.m3u in \\NAS01\Shared\Sprint 13\Windows Logs\Legacy Migration
+please place C:\Users\Ankit\OneDrive\PBL Phase 2\frontend\temporary_export.tmp in E:\College\Old Versions
+please place \\192.168.1.20\teamshare\Windows Logs\client files\game_screenshots.zip in E:\Archive\Supplier North\Source Code\Year Planning
+please place \\FileServer\Departments\archives\Research Papers\entity_pool_usage_stats.xlsx in D:\Research\Travel
+please place C:\Program Files\contracts\validation data\replication_status.csv in E:\Personal\Semester 5\training data\Project Documents
+please place C:\ProgramData\Supplier North\campaigns\file_manifest.txt into University - Operations
+please place D:\Backups\finance\Exam Preparation\investment_tax_report.pdf into DBMS Project Planning
+please place D:\Research\Client A\Payroll Manager\Dockerfile into Operating Systems Backups
+please place \\FileServer\Departments\src\Course Material\augmentation_job_history.csv into DBMS Project - Invoices
+please place D:\Shared\Meeting Notes\delete_recovery_test.log into GEHU - Reference Material
+please place D:\WinPilot\entity_pools\PATH_FILE.txt into Project Checkpoints
+please place E:\Incoming\Home Repairs\Network Captures\meeting_followup_actions.md into Year Planning
+please place E:\Personal\Research Papers\migrations\venue_floor_plan.pdf into WinPilot Outputs
+please place E:\Media\tests\logs\requirements.txt into Project Assets
+please place F:\USB Backup\Data\field_site_photos.zip into University Scripts
+please place C:\Users\Ankit\Documents\PBL Phase 2\etl_pipeline.py into E:\Archive\Archives
+please place C:\Dev\Source\mock_test_scores.csv into C:\Users\Public\Documents\Temporary Exports
+please place G:\Shared\Release 1.4\To Review\product_batch_traceability.csv into C:\Program Files\engineering\Driver Backups\Product Roadmap
+please place E:\Personal\contracts\Projects\project_final_v3.zip into C:\Temp\Generated Records
+please place C:\Dev\Training Data\Audio Recording 7.m4a into E:\Incoming\finance\photos\Team Revisions
+please place C:\Users\Ankit\Documents\Assignments\draft_orders.txt into C:\Program Files (x86)\To Review\Network Captures\Support Tickets
+please place \\backup-server\weekly\Final Versions\family photos\operations_weekly_report.pdf into C:\Users\Public\Documents\Game Saves
+please place E:\Incoming\Home Repairs\presentations\scheduled_tasks_inventory.csv into F:\USB Backup\Old Versions\Final Versions\Database Migrations
+please place C:\Users\Ankit\Downloads\Projects\recordings\transcript_meeting.txt into E:\College\Client B
+please place D:\College\GEHU\imports\Windows Logs\hotel_cancellation_receipt.pdf into E:\Archive\training data\test results\Pictures
+please place C:\Program Files (x86)\Exam Preparation\Device Reports\db_dump_2026_10_20.sql to DBMS Project - Records
+please place C:\Users\Ankit\OneDrive\Screenshots\references_zotero.rdf to University - Photos
+please place C:\Users\Public\Documents\Home Repairs\HR\firewall_block_events.csv to WinPilot - Deliverables
+please place C:\Users\Ankit\Desktop\PBL Phase 2\latency_baseline.xlsx to Ben 10 Games
+please place C:\Users\Ankit\Downloads\Personal Finance\Semester 7\library_renewal_notice.pdf to University Team Shared
+please place D:\Research\Lab Work\invoices\payroll_june.xlsx to Team Deliverables
+please place C:\Users\Ankit\Desktop\Receipts\router_firmware_notes.md to Reference Books
+please place \\NAS01\Shared\Source Code\test results\gpu_benchmark_results.csv to C++ Practice
+please place E:\Personal\Source Code\NER experiments\totp_backup_codes_encrypted.txt to GEHU - Raw Data
+please place E:\Archive\entity pools\intent models\checksum_validation.log to Payroll Manager - Q3 2026
+please place \\FileServer\Departments\HR\Employee Records\salary_slip_october.pdf to C:\ProgramData\engineering\imports\API Contracts
+please place E:\College\diagnostics\To Review\quality_control_photos.zip to D:\Shared\Logs
+please place D:\Source\training data\Client A\ransomware_response_checklist.pdf to C:\Users\Ankit\Documents\Datasets
+please place C:\Dev\October 2026\Old Versions\last_mile_delivery_metrics.xlsx to \\backup-server\weekly\WinPilot\Source Code\Project Cleaned
+please place C:\Users\ankit.kumar\Documents\Screenshots\tour_booking_invoice.pdf to D:\Staging\exports\Lab Work\Year Assets
+please place \\OfficePC\Public\release builds\backend\meeting_agenda.docx to C:\Users\Ankit\Desktop\datasets\Graphics Troubleshooting\Department Cleaned
+please place F:\USB Backup\Photos\file_manifest.txt to E:\Media\Certificates\Payroll Manager\Project Finance
+please place C:\Temp\marketing\marketing\vehicle_registration_scan.pdf to D:\Research\To Review\archives\Team Inputs
+please place D:\Backups\generated\Final Versions\controller_profile.ini to D:\Research\Photos
+please place E:\Incoming\invoices\test results\renewal_forecast.xlsx to D:\Projects\Certificates\Old Versions\Real User Examples
+please put water_meter_readings.xlsx in Operating Systems - Photos
+please put archive_catalog_2026.csv in Team Files
+please put default_apps_snapshot.json in WinPilot Working Files
+please put invoice_register_draft.cab in Vehicle Records
+please put project_plan_draft.yaml in Videos
+please put volunteer_roster.xlsx in Payroll Manager Research
+please put api_client.ts in WinPilot - Validation
+please put database_schema_v2.mkv in Benchmark Datasets
+please put rom_library_catalog.csv in DBMS Project Scripts
+please put deployment_checklist_revised.sys in Team Working
+please put journal_submission_receipt.pdf in C:\Users\Ankit\Desktop\SQL Scripts
+please put api_contract_versioning.md in D:\Work\docs\config\Production Incidents
+please put purchase_order_approved.jpg in F:\USB Backup\Config
+please put sequence_diagram.puml in C:\Users\Ankit\Videos\Week 42\Driver Backups\Webinar
+please put open_source_notice_bundle.zip in E:\Archive\Device Reports\Course Material\Archived Branches
+please put attendance_sheet_draft.png in C:\Users\Ankit\Documents\Semester 5
+please put bike_service_receipt.pdf in \\FileServer\Departments\Payroll Manager\Firewall Configs\Marketing Analytics
+please put tax_computation.prof in D:\Shared\Source Code
+please put quality_report.py in C:\Users\Ankit\Pictures\diagnostics\Sprint 13\Rejected Records
+please put delivery_manifest_draft.wav in D:\Work\exports\Semester 7\Team Reviewed
+please put invoice_register_v3.dxf into College - To Rename
+please put customer_survey.mp4 into Team Metrics
+please put garden_irrigation_plan.pdf into Project Archive
+please put totp_backup_codes_encrypted.txt into GEHU Temporary Files
+please put service_dependency_map.drawio into External Drives
+please put pet_care_calendar.ics into Game Mods
+please put offline_files_status.csv into Project Approved
+please put leave_request.dxf into Vendor Management
+please put customer_survey_v2.bat into Department Week 42
+please put car_inspection_report.pdf into Startup Apps
+please put accessibility_audit.pickle into F:\USB Backup\presentations\tests\Photo Library
+please put cash_flow.etl into C:\Users\ankit.kumar\Documents\Semester 5
+please put save_slot_03.sav into G:\Shared\Supplier North\exports\Project Research
+please put calendar_export.ics into D:\Projects\WinPilot
+please put vendor_payment_batch.txt into C:\Users\Ankit\Desktop\Source Code\Sprint 13\Team Policies
+please put risk_assessment_final.zip into E:\Personal\Travel Planning\Course Material\Project Plans
+please put long_filename_cases.csv into C:\Users\Ankit\Downloads\Lab Work
+please put travel_photo_selection.zip into C:\Users\Ankit\Documents\Validation Data
+please put contact_list.apk into D:\Research\src\travel\FY2025-26
+please put LICENSE into D:\Projects\WinPilot3
+please put backup_restore_matrix.xlsx to University References
+please put company_shortlist_october.xlsx to College Planning
+please put fitness_plan_week42.pdf to Client Q4
+please put vpn_configuration.arrow to Client Forms
+please put social_media_plan_approved.img to Team Backups
+please put handover_notes.docx to Language Learning
+please put cors_policy_matrix.xlsx to Project Videos
+please put status_report_approved.prof to API Contracts
+please put build_manifest.dat to Migration Validation
+please put accessibility_audit_approved.txt to GEHU - Evidence
+please put monthly_summary_draft.heapsnapshot to E:\Personal\screenshots\assets\Client Photos
+please put bank_reconciliation_revised.jar to \\FileServer\Departments\docs\WinPilot\Production Incidents
+please put machine_downtime_register.xlsx to D:\College\GEHU\Certificates\Network Captures\Year Week 43
+please put dependency_audit_2026_10.bz2 to D:\Data\Videos
+please put shift_roster.xlsx to E:\Archive\Tests
+please put load_test_report_v3.cs to E:\Personal\Final Versions\Certificates\Practical Files
+please put model_quantization_benchmark.xlsx to C:\Users\Ankit\Documents\release builds\Travel Planning\VPN Profiles
+please put assignment_brief.pdf to C:\Users\Ankit\Downloads\Projects\To Review\Real User Examples
+please put vulnerability_report_v3.md to D:\Staging\screenshots\backend\Year Deliverables
+please put annual_report_v3.etl to E:\Incoming\release builds\To Review\WinPilot Imports
+please put C:\Program Files (x86)\datasets\presentations\cold_chain_temperature_excursion.csv in WinPilot - Tickets
+please put C:\Dev\Research\medical_reimbursement_claim.pdf in WinPilot Invoices
+please put C:\Users\Public\Documents\assets\customer support\support_call_recording_21.mp3 in Endsem Preparation
+please put G:\Shared\HR\recordings\container_vulnerability_report.html in Payroll Manager Resources
+please put E:\Archive\Source\automation_run_history.jsonl in Team Reports
+please put C:\Program Files\Semester 5\backend\cloud_practitioner_badge.png in WinPilot Incoming
+please put C:\Program Files\logs\To Review\office_it_asset_handover.xlsx in University Documentation
+please put D:\Staging\Sprint 13\Client A\WhatsApp Image 2026-10-18 at 17.42.33.jpeg in Team Templates
+please put C:\Users\Ankit\Pictures\finance\test results\calibration_due_list.csv in GEHU - Builds
+please put D:\College\GEHU\To Submit\diagnostics\file_lock_contention.log in Privacy Requests
+please put C:\Program Files (x86)\receipts\Semester 7\purchase_return_note.pdf in D:\Work\entity pools\meeting notes\Benchmark Datasets
+please put D:\Work\PBL Phase 2\creative_review_comments.docx in C:\Program Files (x86)\invoices\Driver Backups\Model Error Cases
+please put C:\Dev\HR\test results\mock_test_scores.csv in D:\Backups\Week 42\Travel Planning\Department Cleaned
+please put C:\Temp\Backups\external_drive_inventory.csv in E:\College\photos\finance\Project Engineering
+please put E:\Personal\meeting notes\docs\cms_content_export.xml in D:\Data\Client A\Projects\Meeting Recordings
+please put D:\Data\src\diagnostics\virtualenv_rebuild_steps.md in C:\Dev\Assets
+please put D:\Data\recordings\NER experiments\course_progress_export.csv in F:\USB Backup\frontend\Network Captures\Research Papers
+please put D:\Work\Research\Desktop.ini in D:\Data\src\diagnostics\Team References
+please put E:\College\Source\office_supply_order.xlsx in C:\Users\Ankit\Documents\inventory\datasets\presentations
+please put D:\Work\exports\Device Reports\student_project_rubric.pdf in \\OfficePC\Public\meeting notes\Supplier North\Project References
+please put D:\Staging\backups\finance\long_path_test_cases.jsonl into Leadership
+please put D:\Projects\Assignments\subscription_cancellation_receipt.pdf into Error Analysis
+please put C:\Dev\Screenshots\vite.config.js into College Training
+please put C:\Users\Ankit\Documents\temp\family photos\draft_orders.txt into Shaders
+please put F:\USB Backup\Semester 7\Graphics Troubleshooting\package_install_history.csv into 2027 College
+please put \\NAS01\Shared\warehouse\presentations\evaluate_model.py into Vulnerability Scans
+please put E:\Personal\Audio Troubleshooting\Shared Documents\permission_denied_examples.jsonl into Voice Activity Detection
+please put C:\Users\ankit.kumar\Documents\Model Outputs\main.py into Payroll Manager Tests
+please put C:\Users\Ankit\Documents\Week 42\Semester 7\event_run_of_show.docx into Department Files
+please put C:\Users\Ankit\Documents\imports\HR\sbom_cyclonedx.json into Year Week 43
+please put C:\Users\Ankit\Documents\Semester 7\assets\edge_profile_export.zip into D:\Staging\release builds\exports\October 2026
+please put D:\Research\Backups\learning_path_tracker.xlsx into E:\Media\Sprint 13\Course Material\USB Transfer
+please put \\backup-server\weekly\src\Release 1.4\temporary_file_retention.csv into C:\Windows\System32\drivers\etc
+please put C:\Users\Public\Documents\Windows Logs\logs\backend_healthcheck.json into C:\Dev\Generated Records
+please put F:\USB Backup\engineering\entity pools\transport_pickup_plan.xlsx into E:\College\Model Outputs
+please put D:\Backups\Semester 7\Firewall Configs\pyinstaller_build.spec into E:\Archive\To Submit\Source Code\Car Maintenance
+please put \\NAS01\Shared\Network Captures\HR\accessibility_fixes.md into E:\Incoming\PBL Phase 2\Week 42\Fitness Logs
+please put D:\Data\Backups\large_files_review.txt into F:\External Drive\client files\Travel Planning\Year Drafts
+please put D:\Work\Assignments\water_quality_report.xlsx into C:\Users\ankit.kumar\Documents\Docs
+please put C:\Program Files\Driver Backups\training data\production_batch_traceability.csv into D:\Work\Backups
+please put C:\Users\Ankit\OneDrive\intent models\WinPilot\ssd_smart_report.txt to University Outgoing
+please put C:\Temp\Shared Documents\receipts\keyboard_shortcut_map.json to Year Archive 2026
+please put D:\Source\Final Versions\Old Versions\scholarship_disbursement_status.xlsx to Property Documents
+please put D:\WinPilot\warehouse\Network Captures\container_image_list.csv to Support Escalations
+please put C:\Projects\Semester 5\website_release_checklist.xlsx to Project Version 1
+please put \\backup-server\weekly\To Submit\tests\kubernetes_manifest.yaml to University - Data
+please put C:\ProgramData\family photos\inventory\employee_leave_balance.csv to DBMS Project Audits
+please put C:\Projects\Model Outputs\error.log to College Research
+please put E:\Incoming\receipts\meeting notes\visa_appointment_letter.pdf to College Schedules
+please put C:\Users\Ankit\Desktop\Research\draft_v1.docx to Client Assets
+please put D:\College\GEHU\Invoices\hotel_rooming_list.xlsx to D:\Backups\imports\Projects\Shipping
+please put E:\Media\Receipts\household_inventory.xlsx to D:\Backups\Datasets
+please put C:\Users\Ankit\OneDrive\assets\release builds\placement_drive_notice.pdf to C:\Users\Ankit\Desktop\Semester 7\contracts\Documents for Placement
+please put E:\Archive\To Submit\Source Code\product_returns_2026.csv to D:\Source\model outputs\Certificates\Cover Letters
+please put E:\Archive\Training Data\old_family_video.avi to C:\Users\Ankit\Documents\Archives
+please put E:\Media\marketing\config\translation_strings_hi.json to C:\Users\Ankit\Documents\Finance Team
+please put C:\ProgramData\PBL Phase 2\generated\creative_review_comments.docx to \\OfficePC\Public\HR\entity pools\Desktop Cleanup
+please put C:\Users\Ankit\Downloads\Reports\customer_list.xlsx to D:\Work\operations\To Submit\Voice Recordings
+please put \\192.168.1.20\teamshare\Device Reports\imports\alembic_revision_map.txt to \\FileServer\Departments\Certificates\Audio Troubleshooting\Department Results
+please put D:\Backups\Data\supplier_delivery_score.xlsx to D:\WinPilot\website\Payroll Manager\Solved Question Papers
+please transfer demo_slides.pptx into WinPilot - Evaluation
+please transfer firewall_audit_backup.model into Project Customers
+please transfer rollback_plan.cmd into Client Week 43
+please transfer cash_flow.arrow into GEHU - Week 42
+please transfer api_test_results.hpp into GEHU - Clean Data
+please transfer android_app_inventory.csv into WinPilot - References
+please transfer disaster_recovery_reviewed.iso into 2027 GEHU
+please transfer supplier_quote.mkv into Coding Practice
+please transfer cloud_sync_conflict_report.xlsx into DBMS Project To Move
+please transfer product_catalog_approved.html into University - Documents
+please transfer lab_inventory_reorder.xlsx into E:\Personal\datasets\imports\Invitations
+please transfer background_job_failures.csv into C:\Program Files (x86)\campaigns\screenshots\Project Audio
+please transfer meeting_minutes_v2.bz2 into E:\Media\Travel Planning\To Review\Feature Requests
+please transfer migration_results.3mf into E:\College\Reports
+please transfer service_health.fbx into C:\Program Files (x86)\PBL Phase 2\migrations\Year Templates
+please transfer two_wheeler_insurance.pdf into C:\Users\Ankit\Documents\archives\docs\Password Vault Backups
+please transfer vite_dev_server.log into C:\Users\Public\Documents\Reports
+please transfer parcel_tracking_20261018.pdf into D:\Backups\entity pools\customer support\Project October
+please transfer weather_observations_week42.csv into C:\Program Files (x86)\meeting notes\travel\Meal Prep
+please transfer audio_normalisation_log.txt into F:\External Drive\backups\meeting notes\Client Approved
+please transfer release_notes_v2.pfx to CRM Exports
+please transfer bluetooth_pairing_log.txt to College Suppliers
+please transfer entity_tagger.py to Payroll Manager Operations
+please transfer license_register_2026_10.pow to Customer Onboarding
+please transfer extensions_inventory.csv to Team Resources
+please transfer payment_receipt_revised.appx to Operating Systems Photos
+please transfer security_findings_v2.png to Payroll Manager Invoices
+please transfer microscope_capture_004.tif to Downloads
+please transfer usb_device_driver_log.txt to DBMS Project - Archived
+please transfer gym_membership_receipt.pdf to Year Reviewed
+please transfer stock_reconciliation_revised.ini to D:\WinPilot\migrations\Lab Work\Project Approved
+please transfer .gitignore to E:\Media\Docs
+please transfer expense_claim_final.tif to D:\Research\Sprint 13\engineering\temp
+please transfer database_snapshot_approved.msg to D:\Source\intent models\test results\Architecture Decision Records
+please transfer audit_evidence.xz to C:\Users\Ankit\Documents\Release 1.4
+please transfer conference_feedback_forms.zip to E:\Media\Projects\Reports\Client Tickets
+please transfer privacy_impact_assessment.docx to C:\Program Files (x86)\datasets\presentations\On-call Handover
+please transfer draft_semester.jsonl to C:\Users\Ankit\Desktop\engineering\NER experiments\Department Receipts
+please transfer annual_report.7z to D:\WinPilot\Research Papers\contracts\Client 2026
+please transfer flooring_material_estimate.xlsx to E:\Archive\To Review
+put mock_interview_notes.docx in University Current
+put consent_form_template.docx in WinPilot - Archives
+put shell_context_menu_audit.csv in Travel Receipts
+put cashbook_october.xlsx in English Copy
+put risk_register_reviewed.ai in Open Pull Requests
+put equipment_register.old in Potential Duplicates
+put unit_test_report_revised.ipa in Year Tickets
+put network_topology_approved.example in Postmortems
+put pyproject.toml in University Requests
+put product_catalog_final.ttf in College History
+put security_guard_roster.xlsx in C:\Users\Public\Documents\Travel
+put deployment_checklist.dwg in \\backup-server\weekly\logs\Exam Preparation\dist
+put quality_report.safetensors in C:\Users\Public\Documents\Device Reports\contracts\Year Q3
+put running_route_export.gpx in D:\Staging\warehouse\migrations\To Move
+put vpn_configuration.js in C:\Dev\College
+put equipment_register_draft.iso in D:\Shared\Downloads
+put campaign_calendar_backup.iso in E:\Personal\Assignments\Home Repairs\Project Documentation
+put project_scope.c in D:\Source\backups\test results\entity pools
+put integration_test.html in C:\Users\Ankit\Downloads\Certificates\test results\Telemetry
+put tax_computation_2026_10.mp3 in D:\Source\Semester 7\contracts\Branches
+put contact_list_v2.war in my Client Evidence
+put purchase_return_note.pdf in my Team Final
+put notification_sound.wav in my DBMS Project - Schedules
+put network_topology.cer in my Project Version 2
+put asset_depreciation_schedule.xlsx in my GEHU Audits
+put supplier_quote_v2.conf in my Needs Sorting
+put attendance_sheet.appx in my Department Training
+put maintenance_log_approved.bak in my Payroll Manager - Inventory
+put eslint_output.txt in my College Pending Review
+put query_results_approved.cab in my Client November
+put localisation_strings_draft.docx in my E:\Personal\docs\assets\Game Capture Clips
+put New Microsoft Word Document.docx in my F:\USB Backup\invoices\Windows Logs\Project Pending
+put vocab.txt in my D:\Source\WinPilot\recordings\Project Deliverables
+put browser_profile_backup.zip in my C:\Temp\Windows Logs\To Review\Year Records
+put tuition_receipt.pdf in my D:\Work\Semester 5
+put intent_model_checkpoint.pkl in my E:\Personal\migrations\recordings\Semester 7
+put website_release_checklist.xlsx in my \\FileServer\Departments\entity pools\Audio Troubleshooting\Screen Captures
+put analytics_dashboard.mp3 in my C:\Users\Ankit\Pictures\training data\travel\WinPilot Documentation
+put customer_survey_final.model in my C:\Users\Ankit\Documents\Temporary Exports
+put meeting_room_av_equipment.csv in my C:\Users\ankit.kumar\Documents\GEHU
+put budget_forecast.dwg inside University - Approved
+put tax_deduction_proofs.zip inside WinPilot - Inputs
+put api_test_results.3mf inside GEHU - Q3 2026
+put api_specification.ts inside Payroll Manager Manifests
+put project_charter_revised.safetensors inside Project Requests
+put container_inventory_reviewed.webp inside College Photos
+put internship_offer.pdf inside Vendor Contracts
+put tax_computation.vhdx inside Event Planning
+put refund_request_draft.tif inside Team Research
+put incident_report.pem inside WinPilot Engineering
+put soil_ph_readings.csv inside C:\Users\Ankit\Downloads\screenshots\Supplier North\To Sort
+put orphan_record_report.xlsx inside D:\Work\SQL Scripts
+put pull_request_482_review.md inside D:\Source\test results\migrations\Department Photos
+put migration_results_draft.bin inside D:\Work\Audio Troubleshooting\Week 42\Desktop
+put project_charter_final.dmp inside C:\Users\Ankit\Pictures\warehouse\Sprint 13\Public Resources
+put meeting_action_items.xlsx inside C:\Users\Public\Documents\Client A\model outputs\Database Migrations
+put sprint_backlog.csv inside C:\Users\Ankit\Pictures\Exam Preparation\To Review\Project Customers
+put security_training_completion.xlsx inside C:\Users\Ankit\Desktop\Sprint 13\generated\USB Backups
+put privileged_account_review.docx inside F:\USB Backup\Finance Team
+put meeting_room_booking.ics inside C:\Users\Ankit\Desktop\customer support\Travel Planning\Property Documents
+put risk_assessment.sql into the folder at C:\Users\Ankit\Downloads\Engineering Team
+put incident_report.bz2 into the folder at D:\Backups\Python Projects
+put website_content_audit.csv into the folder at C:\Program Files (x86)\exports\database\Department Exports
+put license_register.ics into the folder at C:\Users\ankit.kumar\Documents\Receipts
+put expense_claim_revised.dxf into the folder at D:\Shared\Release 1.4
+put book_notes.md into the folder at F:\USB Backup\To Review
+put translation_review.cpp into the folder at C:\Users\Ankit\Downloads\Reports\src\Project Sprint 12
+put joining_date_confirmation.docx into the folder at D:\Backups\Database
+put loan_statement_october.pdf into the folder at D:\WinPilot\tests\tests\Order Tracking
+put service_level_report.xlsx into the folder at D:\Backups\Engineering Team
+put service_health.go into the folder named Payroll Manager - Pending Review
+put grant_budget_v2.xlsx into the folder named WinPilot Team Shared
+put holiday_photo_index.csv into the folder named Warranty Expiry
+put price_comparison_backup.m4a into the folder named College Evaluation
+put event_poster.png into the folder named Documents Pending Signature
+put load_test_report.toml into the folder named Week 43
+put ruff.toml into the folder named Payroll Manager Project
+put postmortem_backup.pcap into the folder named Awaiting Feedback
+put student_attendance_exception.csv into the folder named University - Tracking
+put weekly_update_v3.ear into the folder named Project Resources
+put draft_course.json to GEHU Designs
+put status_report_reviewed.ai to Misclassified Commands
+put risk_assessment_revised.bak to WinPilot Ready to Submit
+put project_charter_v2.ass to DBMS Project Working Files
+put thumbnail_preview.webp to University - Sprint 13
+put rollback_plan_revised.tsx to WinPilot Approved
+put release_candidate_1.4.0.zip to Release Changelog
+put article_outline.docx to WinPilot - Q4 2026
+put on_call_handover.docx to University Revisions
+put license_inventory.csv to WinPilot - Receipts
+put D:\Shared\WinPilot\file_operation_timings.csv in Department Manifests
+put C:\Users\Ankit\Documents\Model Outputs\queue_retry_analysis.ipynb in Pets
+put C:\Program Files (x86)\Exam Preparation\Travel Planning\image_alt_text_audit.xlsx in GEHU - Imports
+put C:\Users\Ankit\Videos\Travel\semester_result_archive.zip in Employee Onboarding
+put C:\Users\Ankit\Pictures\Research Papers\Release 1.4\household_receipt_bundle.zip in Year Tests
+put C:\Dev\Assignments\release builds\marketplace_listing_feed.csv in Work Documents
+put D:\Staging\api tests\Semester 5\skill_gap_assessment.docx in Team Manifests
+put \\FileServer\Departments\PBL Phase 2\recordings\road_trip_route.gpx in College Evidence
+put \\backup-server\weekly\customer support\presentations\legacy_import_errors.csv in Payroll Manager Code
+put C:\Temp\WinPilot\temporary_export.tmp in Network Shares
+put D:\WinPilot\Archive\draft_interview.xlsx in my Year Responses
+put E:\Incoming\generated\Assignments\save_backup_2026_10_18.zip in my Browser Compatibility
+put D:\Research\diagnostics\invoices\service_feedback_summary.docx in my WinPilot - Resources
+put D:\College\GEHU\Payroll Manager\src\vehicle_puc_certificate.pdf in my dist
+put C:\Temp\Model Outputs\wifi_roaming_diagnostics.csv in my Payroll Manager - Audits
+put E:\College\PBL Phase 2\frontend\cycling_maintenance_log.xlsx in my DBMS Project - Assets
+put E:\College\Client A\October 2026\company_shortlist_october.xlsx in my WinPilot Tickets
+put \\192.168.1.20\teamshare\tests\campaigns\product_return_reason_codes.json in my Office Facilities
+put D:\Work\Semester 5\archives\recipe_notes_week42.md in my Client Students
+put \\OfficePC\Public\assets\Semester 5\travel_expenses_2026.xlsx in my Operating Systems - Outputs
+put C:\Projects\Source\train_model.py inside Pet Care
+put \\backup-server\weekly\invoices\Source Code\external_drive_inventory.csv inside Team Approved
+put D:\Work\test results\Lab Work\exam_admit_card.pdf inside WinPilot - Training
+put C:\ProgramData\To Submit\release builds\investment_tax_report.pdf inside Virtual Machines
+put C:\Dev\Photos\emergency_travel_contacts.vcf inside Payroll Manager Audio
+put G:\Shared\entity pools\Client A\assignment_feedback_sem5.pdf inside Mobile Photos
+put \\backup-server\weekly\warehouse\client files\project_proposal.docx inside Department Data
+put D:\Work\Sprint 13\Old Versions\returns_register.xlsx inside Brand Guidelines
+put \\192.168.1.20\teamshare\Shared Documents\Windows Logs\building_access_card_log.csv inside DBMS Project Approved
+put E:\Personal\Exam Preparation\assets\draft_course.json inside DBMS Project - Engineering
+put F:\USB Backup\invoices\To Submit\git_credentials_audit.txt inside C:\Temp\frontend\design files\Assignments
+put D:\Projects\Photos\delivery_tracking_export.csv inside E:\Incoming\Lab Work\Semester 5\Project Outputs
+put C:\Temp\engineering\Windows Logs\open_source_contributions.csv inside C:\Program Files\client files\Driver Backups\Semester 6
+put C:\Users\Ankit\Downloads\Documents\employee_handbook.pdf inside C:\Users\ankit.kumar\Documents\Lab Work
+put C:\Users\Public\Documents\To Review\HR\model_quantization_benchmark.xlsx inside C:\Users\Ankit\Videos\To Review\Source Code\Team Private
+put D:\Data\Reports\October 2026\scholarship_application.docx inside C:\Users\Ankit\Documents\marketing\To Submit\Department Test Set
+put D:\Backups\HR\Firewall Configs\packing_checklist.docx inside \\OfficePC\Public\Exam Preparation\Semester 5\Source Code
+put C:\ProgramData\recordings\Network Captures\exit_interview_notes.docx inside C:\Users\Ankit\OneDrive\campaigns\Projects\Project Deliverables
+put D:\Shared\Screenshots\uptime_sla_calculation.xlsx inside C:\Users\Ankit\Documents\October 2026
+put C:\Users\Public\Documents\WinPilot\family photos\water_sample_results.csv inside C:\Users\Ankit\Pictures\recordings\Release 1.4\Department Reports
+put D:\Backups\finance\recordings\wedding_guest_tracker.xlsx into the folder at C:\Dev\docs\Home Repairs\Licensed Software
+put E:\Media\release builds\Windows Logs\ebook_sample.epub into the folder at E:\College\Config
+put C:\Temp\Photos\reading_queue.json into the folder at D:\Work\Network Captures\Research Papers\Department 2025
+put C:\Users\Ankit\Pictures\PBL Phase 2\timesheet_week42.xlsx into the folder at C:\Users\Ankit\Videos\travel\Windows Logs\Music Collection
+put D:\Projects\Archive\tax_deduction_proofs.zip into the folder at C:\Users\Ankit\Videos\src\October 2026\Accessibility Review
+put C:\Dev\Home Repairs\recordings\luggage_inventory.xlsx into the folder at D:\Shared\WinPilot3
+put C:\Users\Ankit\Pictures\Release 1.4\Semester 7\container_scan_summary.html into the folder at \\FileServer\Departments\Home Repairs\training data\Team Engineering
+put F:\USB Backup\Phone Transfer\phone_transfer_manifest.json into the folder at \\192.168.1.20\teamshare\PBL Phase 2\test results\Department Current
+put E:\Media\backups\To Submit\ransomware_response_checklist.pdf into the folder at D:\Data\Finance Team
+put D:\Shared\Invoices\draft_attendance.docx into the folder at D:\Work\backend\client files\API Tests
+put C:\Program Files (x86)\engineering\To Submit\k6_latency_summary.json into the folder named Team Processed
+put C:\Users\Public\Documents\generated\Projects\energy_consumption_october.csv into the folder named Book Notes
+put C:\Program Files (x86)\Windows Logs\Course Material\pbl_phase2_report.docx into the folder named Import Queue
+put C:\Users\Ankit\Downloads\Photos\crash_dump_index.csv into the folder named Department References
+put C:\Users\Ankit\Desktop\api tests\Research Papers\driver_install_notes.md into the folder named GEHU Invoices
+put D:\Work\intent models\Course Material\disk_health_report.html into the folder named Year Imports
+put D:\Research\campaigns\assets\alternate_data_stream_audit.txt into the folder named Payroll Manager Forms
+put D:\Research\Course Material\backend\incident_evidence.zip into the folder named College - Metrics
+put C:\Program Files (x86)\design files\Old Versions\passport_renewal_checklist.docx into the folder named Client Tickets
+put F:\USB Backup\To Submit\release builds\sbom_cyclonedx.json into the folder named University - Exports
+put D:\Data\release builds\logs\mock_interview_feedback.docx to Planning
+put D:\Staging\src\Release 1.4\service_feedback_summary.docx to GEHU To Move
+put C:\Users\Public\Documents\Old Versions\engineering\thesis_submission_receipt.pdf to Team Sprint 12
+put E:\College\Assignments\predictions_output.csv to College Tests
+put \\FileServer\Departments\Supplier North\Payroll Manager\dog_training_notes.md to Operating Systems - Deliverables
+put C:\ProgramData\entity pools\inventory\draft_interview.xlsx to 2024 University
+put D:\College\GEHU\HR\recordings\refund_request_8831.pdf to Salary Records
+put C:\Users\Public\Documents\October 2026\src\coding_contest_submissions.zip to Status Updates
+put D:\Backups\Assignments\Graphics Troubleshooting\Video_2026-10-16_22-41-08.mp4 to Client Releases
+put C:\Users\Ankit\Videos\Source\petty_cash_log.csv to Contact Exports
+relocate android_bugreport.zip to College - Students
+relocate playlist_backup.json to Operating Systems - Inputs
+relocate postmortem_revised.json to Team November
+relocate password_reset_codes.txt to Project Templates
+relocate meeting_minutes_v3.cs to Unit 1 Notes
+relocate copy_of_invoice_1048.pdf to GEHU 2026
+relocate experiment_results.csv to Project Backups
+relocate skeleton_generation_report.html to University - Evidence
+relocate quality_report_draft.sql to Weekly Review
+relocate project_plan.jsonl to Client Exports
+relocate sports_day_schedule.pdf to D:\College\GEHU\design files\meeting notes\Accessibility
+relocate analytics_dashboard.pdf to C:\Temp\model outputs\Exam Preparation\Department Forms
+relocate backup_manifest_v2.pyw to D:\Projects\Release 1.4
+relocate payment_receipt.odt to C:\Temp\Device Reports\HR\Project October
+relocate project_final_really_final.zip to D:\Shared\Final Versions
+relocate marksheet_semester_5.pdf to C:\Users\Ankit\Downloads\Config
+relocate firewall_audit.3mf to F:\USB Backup\screenshots\src\Shipping
+relocate license_compliance_audit.xlsx to E:\Archive\Shared Documents\Client A\Client Pending
+relocate localisation_strings_v3.key to E:\Media\WinPilot3
+relocate subtitle_en.srt to D:\Backups\Receipts
+relocate C:\ProgramData\Research Papers\backups\readme_updated.md to Team Materials
+relocate C:\Program Files\Reports\tests\old_family_video.avi to Documents for Insurance
+relocate C:\Users\Ankit\Pictures\PBL Phase 2\safety_incident_report.docx to Payroll Manager Engineering
+relocate C:\Users\Ankit\Videos\travel\Windows Logs\keyboard_navigation_audit.docx to src
+relocate C:\Users\Ankit\OneDrive\Supplier North\warehouse\font_license_inventory.csv to Operating Systems - Receipts
+relocate D:\Projects\test results\Assignments\cash_flow_forecast.xlsx to GEHU Validation
+relocate C:\Users\Ankit\Pictures\Invoices\proforma_invoice_2026.pdf to Ebooks
+relocate E:\College\Travel\network_capture.pcapng to Audio
+relocate \\OfficePC\Public\temp\imports\lab_viva_schedule.pdf to Textures
+relocate C:\Users\Ankit\Downloads\Travel\volunteer_roster.xlsx to Semester 7
+relocate E:\Incoming\Release 1.4\NER experiments\telemetry_schema.json to E:\Media\engineering\warehouse\Performance Appraisals
+relocate D:\Work\tests\Assignments\work_order_00817.pdf to \\backup-server\weekly\invoices\presentations\Year To Review
+relocate E:\Personal\generated\Semester 7\intent_classifier.py to D:\Staging\To Submit\design files\Client Evidence
+relocate C:\Projects\Model Outputs\newsletter_template.html to E:\Media\campaigns\WinPilot\Phone Transfer
+relocate C:\Users\Ankit\Videos\Shared Documents\Source Code\setup_installer.exe to D:\Research\Assignments
+relocate D:\Backups\Projects\Home Repairs\switch_port_inventory.xlsx to C:\Users\Ankit\Documents\campaigns\Semester 5\Team Deliverables
+relocate \\NAS01\Shared\presentations\Reports\voice_note.m4a to C:\Users\Ankit\OneDrive\validation data\website\Final Report Attachments
+relocate C:\Program Files (x86)\backend\Week 42\research_presentation_october.pptx to C:\Dev\logs\Graphics Troubleshooting\Family Events
+relocate \\192.168.1.20\teamshare\Client A\intent models\delivery_note.pdf to E:\Archive\Release 1.4\receipts\Team Photos
+relocate E:\Media\imports\Windows Logs\podcast_intro.mp3 to D:\Data\October 2026\operations\Department November
+send warehouse_bin_location_map.xlsx into Operating Systems - Designs
+send realtek_audio_setup.exe into Payroll Manager - Final Submission
+send latency_benchmark.exe into Client Imports
+send budget_forecast.gz into WinPilot - Metrics
+send refund_request_approved.img into University Previous
+send product_roadmap.pptx into Client History
+send project_charter_draft.ipa into Operating Systems Reports
+send bank_reconciliation_2026_10.svg into Operating Systems Code
+send invoice_register.ipynb into GEHU - Inventory
+send database_snapshot_v3.tf into Club Activities
+send status_report.tar.gz into E:\College\Videos
+send expense_claim_draft.srt into G:\Shared\Firewall Configs\imports\Team Students
+send translation_review.ps1 into D:\Data\Source Code
+send download_sorting_rules.json into E:\College\Shared Documents\backups\Year Week 43
+send customer_export_backup.inf into C:\Users\Ankit\Pictures\photos\validation data\Git Repositories
+send analytics_dashboard_reviewed.fig into D:\Data\HR\To Review\Personal Archive
+send digital_receipts_2026.zip into D:\Research\inventory\contracts\3D Assets
+send rent_receipt_october.pdf into F:\External Drive\PBL Phase 2\entity pools\Test Results
+send status_report.fbx into C:\Users\ankit.kumar\Documents\Reports
+send delivery_slot_confirmation.pdf into \\192.168.1.20\teamshare\src\src\Device Reports
+send expense_claim_approved.java over to Network Captures
+send dependency_audit_approved.prof over to Department Backups
+send passport_photo_new.jpg over to Payroll Manager - Reports
+send compliance_review.pt over to WinPilot - Evidence
+send incident_timeline.xlsx over to University Private
+send bank_reconciliation.png over to DBMS Project Invoices
+send asset_inventory_backup.iso over to Garden Plans
+send grocery_list.txt over to College Deliverables
+send mobile_backup_manifest.json over to 2026 GEHU
+send shader_test.frag over to Retired
+send refund_request_final.vmdk over to E:\Incoming\Firewall Configs\operations\Year Old Versions
+send contract_signed_revised.ics over to D:\Work\GEHU
+send local_admin_membership.csv over to C:\Users\Ankit\Downloads\WinPilot3
+send salary_statement_reviewed.rb over to E:\Incoming\website\operations\Stock Reports
+send emergency_evacuation_drill.xlsx over to C:\Users\Ankit\Documents\Home Repairs\travel\Project Gamma
+send postmortem_approved.json over to D:\Backups\Reports
+send hotfix_2026_10_20.patch over to C:\Program Files\Reports\Old Versions\Merge Conflicts
+send minimized_window_state_tests.csv over to D:\Research\campaigns\warehouse\Client October
+send refund_request_v2.ost over to C:\ProgramData\backend\config\Project Requests
+send data_pipeline_alerts.csv over to E:\College\presentations\Semester 7\Project Current
+send query_regression_results.xlsx to Unit 5 Notes
+send firewall_block_events.csv to Project November
+send professional_certification_plan.xlsx to Payroll Manager Imports
+send uptime_summary.env to WinPilot - Clean Data
+send grant_application_draft.docx to Internship Applications
+send visa_application.pdf to Client Current
+send inference_latency_profile.csv to College - Clients
+send release_notes.pcapng to Year Templates
+send readme_updated.md to DBMS Project Previous
+send oracle_listener_status.txt to Year Schedules
+send water_quality_report.xlsx to D:\Work\October 2026\Lab Work\Team Current
+send local_llm_response_cache.jsonl to C:\Users\Public\Documents\Generated Records
+send invoice_register_final.pickle to C:\Users\Public\Documents\Windows Logs\Driver Backups\Junction Tests
+send query_results_reviewed.rb to C:\Users\Public\Documents\Docs
+send quality_report_v2.ps1 to \\NAS01\Shared\presentations\Windows Logs\TLS Certificates
+send product_manual_vacuum.pdf to \\192.168.1.20\teamshare\Lab Work\Old Versions\Cloud Computing
+send annual_report_approved.reg to \\OfficePC\Public\finance\HR\UX Research
+send customer_export.css to F:\USB Backup\Driver Backups\model outputs\Hindi
+send security_findings_backup.dxf to D:\Data\Shared Drive
+send git_diff_review.txt to D:\Work\marketing\validation data\Browser Session Backups
+send E:\Incoming\family photos\migrations\feature_flag_export.json into DBMS Project - Resources
+send D:\Backups\test results\client files\intent_confidence_histogram.png into Payroll Manager Published
+send C:\Temp\PBL Phase 2\records_classification.xlsx into College - Imports
+send C:\Temp\Semester 5\commit_history_export.txt into Processed Files
+send G:\Shared\customer support\Final Versions\inference_latency_profile.csv into Documents for Accountant
+send F:\External Drive\Sprint 13\screenshots\media_library_index.m3u into DBMS Project - Evidence
+send E:\Personal\meeting notes\backend\membership_renewals.xlsx into College Revisions
+send D:\Data\Source Code\screenshots\department_notice_october.pdf into Operating Systems - Resources
+send C:\Users\Ankit\Videos\presentations\Audio Troubleshooting\model_quantization_benchmark.xlsx into Operating Systems Records
+send E:\Personal\PBL Phase 2\Source Code\compost_schedule.txt into Team Support
+send \\OfficePC\Public\Reports\exports\Video_2026-10-16_22-41-08.mp4 into E:\Media\inventory\Semester 5\Reading Notes
+send C:\Users\Ankit\OneDrive\Travel\feature_flag_export.json into C:\Users\Ankit\OneDrive\Sprint 13\Semester 7\Client Test Set
+send C:\Users\Ankit\Documents\October 2026\imports\cycle_count_results.xlsx into E:\Personal\contracts\Projects\Client Reviewed
+send E:\Archive\training data\meeting notes\newsletter_header.png into E:\College\Downloads
+send E:\College\Sprint 13\NER experiments\handoff_package_manifest.json into G:\Shared\Client A\HR\Team Archive
+send D:\Backups\Reports\records_classification.xlsx into D:\Work\Downloads
+send D:\WinPilot\Photos\project_final_v3.zip into C:\Users\Ankit\Videos\Research Papers\Final Versions\Patch Files
+send C:\Dev\photos\warehouse\blender_render_queue.csv into C:\Program Files (x86)\engineering\logs\Project Alpha
+send D:\Data\Receipts\.gitignore into D:\Shared\Research
+send C:\Users\ankit.kumar\Documents\Meeting Notes\gym_membership_receipt.pdf into C:\Users\Ankit\Documents\imports\HR\Database Systems Course
+send E:\College\Shared Documents\backups\press_release.docx over to WinPilot Current
+send C:\Temp\Old Versions\tests\meeting_followup_actions.md over to Project Sprint 12
+send C:\Temp\datasets\imports\api_latency_report.xlsx over to GEHU Exports
+send \\FileServer\Departments\Device Reports\archives\unit_test_junit_report.xml over to Path Tests
+send E:\Personal\recordings\Travel Planning\pyproject.toml over to Data Catalog
+send E:\College\assets\finance\shopping_return_label.pdf over to University Research
+send C:\Users\Ankit\Downloads\PBL Phase 2\birthday_video_2026.mp4 over to Templates
+send \\FileServer\Departments\To Review\operations\placement_offer_comparison.xlsx over to College - Deliverables
+send D:\WinPilot\Downloads\accuracy_history.csv over to Team Training
+send C:\Temp\Assignments\Old Versions\recruitment_interview_scorecard.xlsx over to Department Version 2
+send \\backup-server\weekly\archives\archives\handoff_package_manifest.json over to D:\Source\Travel Planning\Assignments\Music Playlists
+send C:\Users\Ankit\Downloads\config\Payroll Manager\payment_gateway_reconciliation.xlsx over to C:\Dev\recordings\PBL Phase 2\Department Scripts
+send C:\Users\Public\Documents\PBL Phase 2\Old Versions\PO-2026-00481.pdf over to D:\WinPilot\Certificates\training data\Team Training
+send \\192.168.1.20\teamshare\diagnostics\Device Reports\research_poster_final.pdf over to C:\ProgramData\To Review\Exam Preparation\Bug Triage
+send G:\Shared\Audio Troubleshooting\client files\presentation_recording.webm over to D:\WinPilot\migrations\Home Repairs\Work Documents
+send F:\External Drive\temp\Research Papers\new_folder_notes.txt over to D:\College\GEHU\Exam Preparation\October 2026\Important Documents
+send D:\Backups\Photos\student_feedback_form.docx over to C:\Users\Ankit\Documents\diagnostics\Firewall Configs\App Diagnostics
+send D:\WinPilot\api tests\Travel Planning\lighthouse_audit.json over to G:\Shared\finance\Exam Preparation\Textures
+send G:\Shared\Audio Troubleshooting\diagnostics\nas_backup_status.xlsx over to C:\Users\Ankit\Documents\Game Saves
+send E:\Archive\warehouse\logs\subscription_churn_cohort.csv over to C:\ProgramData\test results\Course Material\Performance Reviews
+send C:\ProgramData\backend\config\offer_negotiation_notes.md to University - Metrics
+send D:\Work\api tests\Driver Backups\backend_healthcheck.json to WinPilot Backups
+send G:\Shared\Source Code\intent models\new_folder_notes.txt to GEHU - Forms
+send C:\Users\Ankit\Downloads\datasets\Reports\api_gateway_access.log to GEHU Code
+send D:\Research\design files\inventory\entity_label_guidelines.pdf to Client Tests
+send \\NAS01\Shared\presentations\Windows Logs\calibration_due_list.csv to GEHU - Planning
+send C:\Users\Ankit\Documents\inventory\Week 42\hdd_smart_attributes.csv to Sprint 13
+send C:\Users\Ankit\Videos\Receipts\hotel_checkin_instructions.pdf to Forms
+send D:\Projects\tests\Old Versions\internship_daily_log.xlsx to Telemetry
+send D:\Data\Assignments\building_maintenance_schedule.xlsx to Department Engineering
+transfer service_health.xlsx to Payroll Manager Contracts
+transfer rental_agreement.pdf to Personal Finance
+transfer gift_purchase_receipt.pdf to Payroll Manager - Exports
+transfer hotel_checkin_instructions.pdf to Action Item Tracking
+transfer tls_certificate_expiry.csv to Validation Data
+transfer scheduled_backup.ps1 to GEHU Inventory
+transfer integration_test_backup.sql to Meeting Recordings
+transfer container_inventory_v3.parquet to Team October
+transfer budget_forecast.vhdx to NPTEL Material
+transfer garden_pest_observation.csv to Payroll Manager To Rename
+transfer contact_list_revised.ear to F:\USB Backup\Release 1.4
+transfer queue_depth_metrics.csv to E:\Media\Source Code\Firewall Configs\Client Forms
+transfer privacy_assessment_backup.h to D:\Projects\Week 42\logs\Tokenisation
+transfer rename_collision_tests.jsonl to C:\Dev\Graphics Troubleshooting\migrations\Client Old Versions
+transfer holiday_budget_2026.xlsx to D:\Projects\Week 42
+transfer status_page_update.md to E:\Personal\Semester 5\config\Client Documentation
+transfer warehouse_stock_reviewed.xlsm to C:\Users\Ankit\Pictures\migrations\Semester 5\Year Data
+transfer project_presentation_feedback.docx to D:\Data\Travel
+transfer stock_reconciliation_final.txt to C:\Users\Ankit\OneDrive\meeting notes\Certificates\Mockups
+transfer archive_integrity_check.txt to D:\Projects\Downloads
+transfer C:\Dev\Documents\home_renovation_estimate.xlsx to Python Environments
+transfer D:\Shared\Assignments\electricity_meter_photo.jpg to sandbox
+transfer D:\WinPilot\PBL Phase 2\charity_receipt_2026.pdf to Audio Editing
+transfer F:\USB Backup\Documents\project_demo_capture.mp4 to Operating Systems - Data
+transfer C:\ProgramData\Week 42\validation data\label_distribution_report.csv to GEHU Inputs
+transfer F:\USB Backup\PBL Phase 2\generated\explorer_window_state.csv to Year Raw
+transfer E:\Archive\Windows Logs\meeting notes\offline_files_status.csv to Team Share
+transfer D:\Staging\invoices\presentations\filesystem_test_matrix.xlsx to DBMS Project Customers
+transfer F:\USB Backup\Client A\test results\placement_statistics_2026.xlsx to License Reports
+transfer D:\Research\October 2026\HR\cloud_cost_estimate.xlsx to WinPilot History
+transfer D:\Work\Photos\cultural_fest_poster.png to D:\Work\docs\Course Material\Team Shared
+transfer C:\Program Files\campaigns\To Review\campaign_utm_inventory.xlsx to D:\College\GEHU\Projects\Week 42\Phone Backup
+transfer C:\Dev\entity pools\Old Versions\reimbursement_form.docx to C:\Users\Ankit\Documents\To Review
+transfer C:\Users\Ankit\Downloads\Archive\conference_travel_claim.xlsx to C:\Users\Ankit\Pictures\Old Versions\migrations\Year Working
+transfer C:\Projects\Assignments\load_test_results.jtl to C:\Dev\Travel Planning\To Review\Client Inputs
+transfer C:\Users\Ankit\Downloads\Shared Documents\config\frontend_error_boundary.log to C:\Users\Ankit\Documents\Lab Work\backend\Storage Migration
+transfer C:\Users\Ankit\Desktop\Semester 5\holiday_budget_2026.xlsx to C:\ProgramData\datasets\temp\Department History
+transfer C:\Program Files\Reports\Old Versions\clinical_study_site_log.csv to C:\Program Files\Semester 5\Firewall Configs\Team Receipts
+transfer F:\USB Backup\entity pools\Exam Preparation\hyperv_switch_config.json to D:\Projects\Network Captures\Week 42\Subtitles
+transfer C:\Users\Ankit\Documents\receipts\presentations\annual_review_2025.docx to C:\Users\Ankit\Downloads\Assignments
+would you move accuracy_history.csv from Support Tickets to Legal Review
+would you move degree_provisional_certificate.pdf from DBMS Project - Archives to Payroll Manager - Records
+would you move security_findings.gz from Department Drafts to GEHU Schedules
+would you move phone_photos_2024.zip from Vehicle Documents to College For Approval
+would you move recycle_bin_restore_test.csv from University - Q3 2026 to Public Resources
+would you move browser_cache_cleanup.log from College - Inputs to Project Drafts
+would you move internal_assessment_marks.xlsx from DBMS Project Students to Week 42
+would you move stock_reconciliation.msg from 2027 DBMS Project to Department Contracts
+would you move maintenance_log.woff2 from Windows Explorer to Orphaned Files
+would you move recovery_key_instructions.pdf from Department Notes to Year Evidence
+would you move language_flashcards.apkg from D:\Source\Home Repairs\Audio Troubleshooting\Returns to D:\College\GEHU\frontend\family photos\Insurance Policies
+would you move postmortem_draft.conf from D:\Projects\tests\Graphics Troubleshooting\docs to \\backup-server\weekly\Assignments\database\Database Systems Course
+would you move onedrive_conflict_list.csv from F:\USB Backup\database\October 2026\Team Videos to E:\Incoming\Driver Backups\datasets\Project 2026
+would you move maintenance_log_2026_10.yaml from E:\Archive\Source Code to E:\Archive\Temporary Exports
+would you move command_parser_edge_cases.jsonl from E:\College\Datasets to \\192.168.1.20\teamshare\inventory\customer support\Action Items
+would you move supplier_quote.tmp from C:\Users\Ankit\Downloads\Archives to D:\Work\Research
+would you move vehicle_registration_scan.pdf from C:\Dev\Semester 7 to C:\Dev\database\Source Code\Unit 4 Notes
+would you move customer_export_v3.psd from C:\Dev\Client A to F:\External Drive\datasets\marketing\Project Research
+would you move folder_redirection_policy.docx from D:\Projects\screenshots\receipts\Project Audits to C:\Users\Ankit\Documents\Assets
+would you move latency_benchmark.tiff from D:\Source\invoices\invoices\Team Audio to C:\Users\Ankit\Downloads\Week 42
+would you move translation_review.bat into Client Inputs
+would you move memory_dump.bin into College - Outputs
+would you move survey_skip_logic_test.json into GEHU - Temporary Files
+would you move migration_plan.odp into DBMS Project - Backups
+would you move keyboard_navigation_audit.docx into Windows Diagnostics
+would you move product_catalog.pdf into Client References
+would you move monthly_expense_summary.xlsx into College Audits
+would you move visitor_register.xlsx into DBMS Project - Rejected
+would you move payroll_register_v3.ear into Experimental Branches
+would you move backup_manifest_backup.cs into Kubernetes
+would you move contract_signed_draft.bak into D:\Projects\Sprint 13
+would you move risk_assessment.ics into C:\Users\ankit.kumar\Documents\Entity Pools
+would you move router_speed_test.png into F:\USB Backup\Assignments
+would you move interview_clip.mp3 into G:\Shared\website\Audio Troubleshooting\Client Processed
+would you move redis_memory_report.txt into C:\Users\Ankit\Desktop\marketing\Network Captures\Bank Statements
+would you move secret_scan_report.json into D:\Research\Driver Backups\imports\reports
+would you move landing_page_copy.md into D:\Data\October 2026
+would you move alumni_contact_export.csv into E:\Incoming\Lab Work\Driver Backups\Reading Notes
+would you move event_pass_2026.png into E:\College\GEHU
+would you move bank_reconciliation.jsonl into \\192.168.1.20\teamshare\Certificates\imports\Bank Reconciliation
+would you move D:\WinPilot\Meeting Notes\refund_request_8831.pdf from C:\Users\Ankit\Videos\Audio Troubleshooting\database\Department Builds to C:\Users\Ankit\Desktop\HR\imports\Node Packages
+would you move C:\Program Files (x86)\Reports\diagnostics\reading_list.xlsx from E:\Media\Finance Team to D:\Staging\October 2026\Graphics Troubleshooting\C++ Practice
+would you move C:\ProgramData\To Review\engineering\degree_provisional_certificate.pdf from D:\Backups\Projects\Supplier North\Localization to C:\Users\Ankit\OneDrive\travel\api tests\Bills
+would you move C:\Temp\migrations\Source Code\restaurant_booking_confirmation.pdf from D:\Data\GEHU to C:\Users\Ankit\Videos\imports\Certificates\Team Research
+would you move D:\College\GEHU\Research\trip_photos_manali.zip from D:\Projects\WinPilot\Home Repairs\Project Deliverables to D:\Backups\Lab Work
+would you move D:\Staging\logs\screenshots\browser_downloads_october.csv from C:\Users\ankit.kumar\Documents\Research to C:\Users\Public\Documents\Exam Preparation\training data\Project Alpha
+would you move D:\WinPilot\Data\privacy_impact_assessment.docx from C:\Users\Public\Documents\generated\Projects\Project Private to E:\College\invoices\Semester 5\Department Responses
+would you move D:\Backups\Semester 5\coding_practice_log.csv from D:\Projects\Screenshots to E:\College\operations\Semester 5\Scanned Documents
+would you move \\192.168.1.20\teamshare\Network Captures\entity pools\confusion_matrix.png from G:\Shared\design files\datasets\Team Records to C:\Program Files (x86)\docs\HR\Quarantine
+would you move C:\Program Files (x86)\Course Material\Course Material\home_loan_interest_certificate.pdf from E:\Media\Model Outputs to C:\Program Files\PBL Phase 2\design files\Client Shared
+would you move E:\Media\Research Papers\archives\dependency_audit.json into University Final Submission
+would you move C:\Users\Ankit\Desktop\Backups\profile_picture.jpg into Operating Systems - Results
+would you move F:\External Drive\database\Graphics Troubleshooting\hotel_loyalty_statement.pdf into Operating Systems Resources
+would you move C:\Projects\Semester 5\delivery_route_plan.gpx into WinPilot Videos
+would you move G:\Shared\photos\validation data\gpu_benchmark_results.csv into University Operations
+would you move E:\Archive\Invoices\renewal_forecast.xlsx into 2024 GEHU
+would you move D:\WinPilot\Documents\trip_photos_manali.zip into Department Support
+would you move \\FileServer\Departments\invoices\Reports\rename_conflict_samples.jsonl into College Processed Data
+would you move D:\Shared\Research\event_poster.png into GEHU - Finance
+would you move C:\Users\Ankit\Desktop\Reports\pre-commit-config.yaml into Client Week 42
+would you move C:\Program Files (x86)\website\exports\CHANGELOG.md into D:\Research\campaigns\assets\Accounts Receivable
+would you move D:\Projects\HR\release builds\customer_invoice_2026_091.pdf into C:\Program Files (x86)\October 2026\assets\2025 Records
+would you move D:\Backups\docs\Device Reports\leetcode_progress.xlsx into F:\USB Backup\validation data\docs\Q3 2026
+would you move D:\Work\engineering\intent models\draft_lab.xlsx into C:\Users\Ankit\OneDrive\frontend\model outputs\Team Schedules
+would you move C:\Dev\To Review\WinPilot\feature_importance.png into C:\Dev\PBL Phase 2\migrations\Project Cleaned
+would you move C:\Users\Ankit\Documents\Meeting Notes\tuition_receipt.pdf into C:\Users\Ankit\Desktop\tests\entity pools\Year October
+would you move D:\WinPilot\Photos\hidden_files_inventory.csv into E:\Media\Driver Backups\Source Code\Year Packages
+would you move E:\Archive\Payroll Manager\contracts\policy_exception_log.csv into D:\Projects\Assignments\Week 42\Year Tests
+would you move D:\College\GEHU\Course Material\Projects\transcription_review.xlsx into G:\Shared\Research Papers\meeting notes\Structure Library Exports
+would you move E:\Archive\Travel\site_materials_inventory.csv into \\backup-server\weekly\config\presentations\Docker
