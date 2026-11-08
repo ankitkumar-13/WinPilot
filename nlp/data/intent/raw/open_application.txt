@@ -1,0 +1,172 @@
+open Control Panel
+launch File Explorer
+launch Windows Explorer
+start Explorer
+start windows file explorer
+please open Command Prompt
+please open cmd
+please open CMD
+please open powershell
+please launch PowerShell
+please launch windows powershell
+please launch Windows PowerShell
+please launch terminal
+please start Terminal
+please start windows terminal
+please start Windows Terminal
+please start task manager
+can you open Task Manager
+can you open registry editor
+can you open Registry Editor
+can you open regedit
+can you launch Regedit
+can you launch device manager
+can you launch Device Manager
+can you launch disk management
+could you open Disk Management
+could you open task scheduler
+could you open Task Scheduler
+could you open event viewer
+open the Event Viewer
+open the services
+open the Services
+open the resource monitor
+launch the Resource Monitor
+launch the remote desktop
+launch the Remote Desktop
+launch the quick assist
+start the Quick Assist
+start the git
+start the Git
+start the git bash
+open the Git Bash app
+open the github desktop app
+open the GitHub Desktop app
+open the docker app
+launch the Docker app
+launch the docker desktop app
+launch the Docker Desktop app
+launch the postman app
+start the Postman app
+start the insomnia app
+start the Insomnia app
+start the mysql workbench app
+open MySQL Workbench for me
+open pgadmin for me
+open pgAdmin for me
+open dbeaver for me
+launch DBeaver for me
+launch mongodb compass for me
+launch MongoDB Compass for me
+launch python for me
+start python launcher for me
+start Python Launcher for me
+start anaconda for me
+start Anaconda for me
+please open jupyter for me
+please open Jupyter for me
+please open jupyter notebook for me
+please open Jupyter Notebook for me
+please launch spyder for me
+please launch Spyder for me
+please launch node for me
+please launch Node for me
+please start nodejs for me
+please start NodeJS for me
+please start winrar for me
+please start WinRAR for me
+I want to open 7zip
+I want to open 7-Zip
+I want to open peazip
+I want to open PeaZip
+I want to launch filezilla
+I want to launch FileZilla
+I want to launch winscp
+I want to launch WinSCP
+I want to start everything
+I want to start Everything
+I want to start powertoys
+I want to start PowerToys
+I need to open sharex
+I need to open ShareX
+I need to open adobe reader
+I need to open Adobe Reader
+I need to launch acrobat reader
+I need to launch Acrobat Reader
+I need to launch photoshop
+I need to launch Photoshop
+I need to start adobe photoshop
+I need to start Adobe Photoshop
+I need to start illustrator
+I need to start Illustrator
+can you open canva for me
+can you open Canva for me
+can you open figma for me
+can you open Figma for me
+can you start blender
+can you start Blender
+can you start virtualbox
+can you start VirtualBox
+could you launch vmware
+could you launch VMware
+could you launch vmware workstation
+could you launch VMware Workstation
+could you start windows settings
+could you start control panel
+could you start file explorer
+could you start windows explorer
+open the application explorer
+open the application command prompt
+open the application named chrome
+open the application named Chrome
+open the application named google chrome
+open the application named Google Chrome
+launch the application named firefox
+launch the application named Firefox
+launch the application named mozilla firefox
+launch the application named Mozilla Firefox
+open an application
+open the app
+launch an application
+launch the app
+start an application
+start the app
+open program
+launch program
+start program
+open the program
+launch the program
+start the program
+please open an app
+please launch an app
+please start an app
+please open the app
+please launch the app
+please start the app
+can you open an app
+can you launch an app
+can you start an app
+could you open an application
+could you launch an application
+could you start an application
+I want to open an app
+I want to launch an app
+I want to start an app
+I need to open an application
+I need to launch an application
+I need to start an application
+open my browser
+launch my browser
+start my browser
+open the browser
+launch the browser
+start the browser
+open the browser application
+launch the browser application
+start the browser application
+open my code editor
+launch my code editor
+start my code editor
+open the code editor
+launch the code editor
+start the code editor

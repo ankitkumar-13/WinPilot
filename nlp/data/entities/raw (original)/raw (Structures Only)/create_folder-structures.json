@@ -1,0 +1,510 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "create_folder",
+      "pattern": "can you create a folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "can you create a folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "can you make a folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "can you make a folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "could you create a folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "could you create a folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "could you make a folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "could you make a folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create {FOLDER} directory",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create {FOLDER} folder",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create {PATH_DIR} directory",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create {PATH_DIR} folder",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a directory called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a directory called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a directory named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a directory named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a new directory called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a new directory called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a new directory named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a new directory named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a new folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a new folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a new folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create a new folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create the {FOLDER} directory",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create the {FOLDER} folder",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create the {PATH_DIR} directory",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "create the {PATH_DIR} folder",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "I need a folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "I need a folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "I need a folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "I need a folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "I want a folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "I want a folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "I want a folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "I want a folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make {FOLDER} directory",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make {FOLDER} folder",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make {PATH_DIR} directory",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make {PATH_DIR} folder",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a directory called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a directory called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a directory named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a directory named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a new directory called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a new directory called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a new directory named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a new directory named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a new folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a new folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a new folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make a new folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make the {FOLDER} directory",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make the {FOLDER} folder",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make the {PATH_DIR} directory",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "make the {PATH_DIR} folder",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "please create a folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "please create a folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "please create a folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "please create a folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "please make a folder called {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "please make a folder called {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "please make a folder named {FOLDER}",
+      "intents": [
+        "create_folder"
+      ]
+    },
+    {
+      "dataset": "create_folder",
+      "pattern": "please make a folder named {PATH_DIR}",
+      "intents": [
+        "create_folder"
+      ]
+    }
+  ]
+}

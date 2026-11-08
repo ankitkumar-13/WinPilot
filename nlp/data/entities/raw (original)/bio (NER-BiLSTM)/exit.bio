@@ -1,0 +1,893 @@
+close	O
+chrome	B-APP
+
+close	O
+Chrome	B-APP
+
+close	O
+google	B-APP
+chrome	I-APP
+
+close	O
+Google	B-APP
+Chrome	I-APP
+
+stop	O
+firefox	B-APP
+
+stop	O
+Firefox	B-APP
+
+stop	O
+mozilla	B-APP
+firefox	I-APP
+
+stop	O
+Mozilla	B-APP
+Firefox	I-APP
+
+terminate	O
+edge	B-APP
+
+terminate	O
+Edge	B-APP
+
+terminate	O
+microsoft	B-APP
+edge	I-APP
+
+terminate	O
+Microsoft	B-APP
+Edge	I-APP
+
+exit	O
+ms	B-APP
+edge	I-APP
+
+exit	O
+brave	B-APP
+
+exit	O
+Brave	B-APP
+
+exit	O
+opera	B-APP
+
+quit	O
+Opera	B-APP
+
+quit	O
+opera	B-APP
+browser	I-APP
+
+quit	O
+Vivaldi	B-APP
+
+quit	O
+tor	B-APP
+browser	I-APP
+
+shut	O
+down	O
+VSCode	B-APP
+
+shut	O
+down	O
+vscode	B-APP
+
+shut	O
+down	O
+VS	B-APP
+Code	I-APP
+
+shut	O
+down	O
+vs	B-APP
+code	I-APP
+
+shutdown	O
+visual	B-APP
+studio	I-APP
+code	I-APP
+
+shutdown	O
+Visual	B-APP
+Studio	I-APP
+Code	I-APP
+
+shutdown	O
+code	B-APP
+
+shutdown	O
+VSCode	B-APP
+Insiders	I-APP
+
+end	O
+visual	B-APP
+studio	I-APP
+
+end	O
+Visual	B-APP
+Studio	I-APP
+
+end	O
+VS	B-APP
+
+end	O
+visual	B-APP
+studio	I-APP
+community	I-APP
+
+stop	O
+Visual	B-APP
+Studio	I-APP
+Community	I-APP
+now	O
+
+stop	O
+visual	B-APP
+studio	I-APP
+professional	I-APP
+now	O
+
+stop	O
+Visual	B-APP
+Studio	I-APP
+Professional	I-APP
+now	O
+
+stop	O
+pycharm	B-APP
+now	O
+
+exit	O
+PyCharm	B-APP
+now	O
+
+exit	O
+pycharm	B-APP
+community	I-APP
+now	O
+
+exit	O
+PyCharm	B-APP
+Community	I-APP
+now	O
+
+exit	O
+pycharm	B-APP
+professional	I-APP
+now	O
+
+quit	O
+PyCharm	B-APP
+Professional	I-APP
+now	O
+
+quit	O
+intellij	B-APP
+now	O
+
+quit	O
+IntelliJ	B-APP
+now	O
+
+quit	O
+intellij	B-APP
+idea	I-APP
+now	O
+
+please	O
+close	O
+IntelliJ	B-APP
+IDEA	I-APP
+
+please	O
+close	O
+eclipse	B-APP
+
+please	O
+close	O
+Eclipse	B-APP
+
+please	O
+close	O
+android	B-APP
+studio	I-APP
+
+please	O
+stop	O
+Android	B-APP
+Studio	I-APP
+
+please	O
+stop	O
+netbeans	B-APP
+
+please	O
+stop	O
+NetBeans	B-APP
+
+please	O
+stop	O
+sublime	B-APP
+text	I-APP
+
+please	O
+terminate	O
+Sublime	B-APP
+Text	I-APP
+
+please	O
+terminate	O
+sublime	B-APP
+
+please	O
+terminate	O
+Sublime	B-APP
+
+please	O
+terminate	O
+notepad	B-APP
+
+please	O
+end	O
+Notepad	B-APP
+
+please	O
+end	O
+windows	B-APP
+notepad	I-APP
+
+please	O
+end	O
+Notepad++	B-APP
+
+please	O
+end	O
+notepad++	B-APP
+
+please	O
+shut	O
+down	O
+notepad	B-APP
+plus	I-APP
+plus	I-APP
+
+please	O
+shut	O
+down	O
+Notepad	B-APP
+Plus	I-APP
+Plus	I-APP
+
+please	O
+shut	O
+down	O
+word	B-APP
+
+please	O
+shut	O
+down	O
+Word	B-APP
+
+can	O
+you	O
+close	O
+microsoft	B-APP
+word	I-APP
+
+can	O
+you	O
+close	O
+Microsoft	B-APP
+Word	I-APP
+
+can	O
+you	O
+close	O
+ms	B-APP
+word	I-APP
+
+can	O
+you	O
+close	O
+excel	B-APP
+
+can	O
+you	O
+stop	O
+Excel	B-APP
+
+can	O
+you	O
+stop	O
+microsoft	B-APP
+excel	I-APP
+
+can	O
+you	O
+stop	O
+Microsoft	B-APP
+Excel	I-APP
+
+can	O
+you	O
+stop	O
+ms	B-APP
+excel	I-APP
+
+can	O
+you	O
+exit	O
+powerpoint	B-APP
+
+can	O
+you	O
+exit	O
+PowerPoint	B-APP
+
+can	O
+you	O
+exit	O
+microsoft	B-APP
+powerpoint	I-APP
+
+can	O
+you	O
+exit	O
+Microsoft	B-APP
+PowerPoint	I-APP
+
+can	O
+you	O
+quit	O
+ms	B-APP
+powerpoint	I-APP
+
+can	O
+you	O
+quit	O
+outlook	B-APP
+
+can	O
+you	O
+quit	O
+Outlook	B-APP
+
+can	O
+you	O
+quit	O
+microsoft	B-APP
+outlook	I-APP
+
+can	O
+you	O
+terminate	O
+Microsoft	B-APP
+Outlook	I-APP
+
+can	O
+you	O
+terminate	O
+onenote	B-APP
+
+can	O
+you	O
+terminate	O
+OneNote	B-APP
+
+can	O
+you	O
+terminate	O
+microsoft	B-APP
+onenote	I-APP
+
+can	O
+you	O
+shut	O
+down	O
+Microsoft	B-APP
+OneNote	I-APP
+
+can	O
+you	O
+shut	O
+down	O
+teams	B-APP
+
+can	O
+you	O
+shut	O
+down	O
+Teams	B-APP
+
+can	O
+you	O
+shut	O
+down	O
+microsoft	B-APP
+teams	I-APP
+
+could	O
+you	O
+close	O
+Microsoft	B-APP
+Teams	I-APP
+
+could	O
+you	O
+close	O
+ms	B-APP
+teams	I-APP
+
+could	O
+you	O
+close	O
+onedrive	B-APP
+
+could	O
+you	O
+close	O
+OneDrive	B-APP
+
+could	O
+you	O
+stop	O
+microsoft	B-APP
+onedrive	I-APP
+
+could	O
+you	O
+stop	O
+Microsoft	B-APP
+OneDrive	I-APP
+
+could	O
+you	O
+stop	O
+sharepoint	B-APP
+
+could	O
+you	O
+stop	O
+SharePoint	B-APP
+
+could	O
+you	O
+exit	O
+skype	B-APP
+
+could	O
+you	O
+exit	O
+Skype	B-APP
+
+could	O
+you	O
+exit	O
+discord	B-APP
+
+could	O
+you	O
+exit	O
+Discord	B-APP
+
+could	O
+you	O
+quit	O
+slack	B-APP
+
+could	O
+you	O
+quit	O
+Slack	B-APP
+
+could	O
+you	O
+quit	O
+zoom	B-APP
+
+could	O
+you	O
+quit	O
+Zoom	B-APP
+
+I	O
+want	O
+to	O
+close	O
+whatsapp	B-APP
+
+I	O
+want	O
+to	O
+close	O
+WhatsApp	B-APP
+
+I	O
+want	O
+to	O
+close	O
+telegram	B-APP
+
+I	O
+want	O
+to	O
+close	O
+Telegram	B-APP
+
+I	O
+want	O
+to	O
+stop	O
+spotify	B-APP
+
+I	O
+want	O
+to	O
+stop	O
+Spotify	B-APP
+
+I	O
+want	O
+to	O
+stop	O
+vlc	B-APP
+
+I	O
+want	O
+to	O
+stop	O
+VLC	B-APP
+
+I	O
+want	O
+to	O
+terminate	O
+vlc	B-APP
+player	I-APP
+
+I	O
+want	O
+to	O
+terminate	O
+VLC	B-APP
+Player	I-APP
+
+I	O
+want	O
+to	O
+terminate	O
+windows	B-APP
+media	I-APP
+player	I-APP
+
+I	O
+want	O
+to	O
+terminate	O
+Media	B-APP
+Player	I-APP
+
+I	O
+want	O
+to	O
+shut	O
+down	O
+photos	B-APP
+
+I	O
+want	O
+to	O
+shut	O
+down	O
+microsoft	B-APP
+photos	I-APP
+
+I	O
+want	O
+to	O
+shut	O
+down	O
+paint	B-APP
+
+I	O
+want	O
+to	O
+shut	O
+down	O
+Paint	B-APP
+
+I	O
+need	O
+to	O
+close	O
+mspaint	B-APP
+
+I	O
+need	O
+to	O
+close	O
+MSPaint	B-APP
+
+I	O
+need	O
+to	O
+close	O
+paint	B-APP
+3d	I-APP
+
+I	O
+need	O
+to	O
+close	O
+Paint	B-APP
+3D	I-APP
+
+I	O
+need	O
+to	O
+stop	O
+calculator	B-APP
+
+I	O
+need	O
+to	O
+stop	O
+Calculator	B-APP
+
+I	O
+need	O
+to	O
+stop	O
+calendar	B-APP
+
+I	O
+need	O
+to	O
+stop	O
+Calendar	B-APP
+
+close	O
+clock	B-APP
+now	O
+
+close	O
+Clock	B-APP
+now	O
+
+close	O
+mail	B-APP
+now	O
+
+close	O
+Mail	B-APP
+now	O
+
+terminate	O
+weather	B-APP
+now	O
+
+terminate	O
+Weather	B-APP
+now	O
+
+terminate	O
+maps	B-APP
+now	O
+
+terminate	O
+Maps	B-APP
+now	O
+
+shut	O
+down	O
+camera	B-APP
+now	O
+
+shut	O
+down	O
+Camera	B-APP
+now	O
+
+shut	O
+down	O
+xbox	B-APP
+now	O
+
+shut	O
+down	O
+Xbox	B-APP
+now	O
+
+end	O
+microsoft	B-APP
+store	I-APP
+now	O
+
+end	O
+Microsoft	B-APP
+Store	I-APP
+now	O
+
+end	O
+settings	B-APP
+now	O
+
+end	O
+Settings	B-APP
+now	O
+
+exit	O
+
+quit	O
+
+close	O
+the	O
+application	O
+
+close	O
+the	O
+program	O
+
+stop	O
+the	O
+program	O
+
+stop	O
+the	O
+application	O
+
+terminate	O
+the	O
+program	O
+
+terminate	O
+the	O
+application	O
+
+end	O
+the	O
+program	O
+
+end	O
+the	O
+application	O
+
+please	O
+exit	O
+
+please	O
+quit	O
+
+please	O
+close	O
+the	O
+program	O
+
+please	O
+stop	O
+the	O
+program	O
+
+please	O
+terminate	O
+the	O
+application	O
+
+please	O
+end	O
+the	O
+application	O
+
+could	O
+you	O
+terminate	O
+the	O
+program	O
+
+could	O
+you	O
+close	O
+the	O
+application	O
+
+I	O
+want	O
+to	O
+exit	O
+
+I	O
+want	O
+to	O
+quit	O
+
+I	O
+need	O
+to	O
+exit	O
+
+I	O
+need	O
+to	O
+quit	O
+
+I	O
+need	O
+to	O
+terminate	O
+the	O
+program	O
+
+close	O
+this	O
+program	O
+
+exit	O
+this	O
+program	O
+
+stop	O
+this	O
+program	O
+
+quit	O
+this	O
+program	O
+
+terminate	O
+this	O
+program	O
+
+close	O
+this	O
+application	O
+
+stop	O
+this	O
+application	O
+
+exit	O
+this	O
+application	O
+
+quit	O
+this	O
+application	O
+
+terminate	O
+this	O
+application	O
+
+shut	O
+down	O
+the	O
+program	O
+
+shut	O
+down	O
+the	O
+application	O
+
+quit	O
+the	O
+program	O
+
+quit	O
+the	O
+application	O
+
+stop	O
+
+close	O
+
+terminate	O
+
+shutdown	O
+
+shut	O
+down	O
+
+end	O
+

@@ -1,0 +1,55 @@
+can you move SharedFiles to PublicFiles
+can you move PrivateFiles to TemporaryFiles
+can you move ScratchSpace to SandboxArea
+can you move OldProjects to OldRecords
+can you move CurrentWork to CompletedWork
+can you move PendingWork to ImportantFiles
+can you move the folder to x1
+can you move the folder to v2 Builds
+can you move the folder to Q4 Reports
+can you move the folder to 3D Models
+can you move the folder to C++ Practice
+can you move the folder to 2026 Archive
+could you move API_v3 into Old-2
+could you move Room 7 into A1
+could you move 3D Studio into Q1 Planning
+could you move Version 4 into Team Room
+could you move Archive 9 into Documents
+can you move a directory
+can you move a folder
+can you move the directory
+can you move the folder
+could you move a directory
+could you move a folder
+could you move the directory
+could you move the folder
+I need to move a directory
+I need to move a folder
+I need to move the directory
+I need to move the folder
+I want to move a directory
+I want to move a folder
+I want to move the directory
+I want to move the folder
+move a directory
+move a folder
+move a new folder
+move directory
+move folder
+move one folder
+move that directory
+move that folder
+move the directory
+move the folder
+move the folder here
+move this directory
+move this folder
+move this folder here
+please move a directory
+please move a folder
+please move that folder
+please move the directory
+please move the folder
+please move this directory
+please move this folder
+put the folder here

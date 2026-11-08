@@ -1,0 +1,1800 @@
+copy customer_onboarding_status.xlsx across into Restricted Documents
+copy vpn_configuration_backup.csv across into GEHU Approved
+copy contract_signed_v3.iso across into College Receipts
+copy dependency_audit.otf across into DBMS Project - Builds
+copy api_specification_backup.webm across into Department Processed
+copy renewal_forecast.xlsx across into DBMS Project - Published
+copy path_resolution_tests.csv across into Operating Systems - Imports
+copy rollback_plan_approved.obj across into GEHU - Sprint 12
+copy validation_set.csv across into Reference Material
+copy rollback_plan.pcapng across into College - Evaluation
+copy project_scope.sh across into D:\Projects\Backups
+copy config.py across into C:\Users\Ankit\Pictures\presentations\validation data\Department Data
+copy app.py across into D:\Work\Presentations
+copy branch_protection_audit.csv across into D:\Source\Shared Documents\exports\API Responses
+copy audit_evidence_backup.feather across into D:\Work\warehouse\Travel Planning\Shipping
+copy vehicle_insurance_renewal.pdf across into C:\Users\Ankit\Documents\Downloads
+copy postmortem.ai across into F:\USB Backup\Assets
+copy weather_station_monthly_export.csv across into C:\ProgramData\exports\generated\Department Deliverables
+copy release_notes_draft.cs across into D:\Work\Lab Work
+copy project_plan_2026_10.psd across into D:\WinPilot\Firewall Configs\website\Mobile Videos
+copy localisation_strings_final.json across to Accessibility
+copy courier_claim_form.docx across to University Validation
+copy purchase_order.csv across to Unicode Names Tests
+copy ecommerce_tax_rules.xlsx across to Team To Submit
+copy data_lake_inventory.xlsx across to Service Appointments
+copy stock_expiry_report.xlsx across to College Assets
+copy compliance_review_draft.hcl across to Video Editing Projects
+copy disaster_recovery.err across to Operating Systems Raw Data
+copy data_loss_prevention_alerts.csv across to Shift Rosters
+copy hidden_attribute_inventory.csv across to College - Pending Review
+copy cinema_receipt.pdf across to D:\Work\exports\Device Reports\Department To Review
+copy final_year_project_report.docx across to D:\Staging\invoices\presentations\Pull Requests
+copy payment_receipt_approved.bin across to \\NAS01\Shared\Course Material\Old Versions\SSH Configs
+copy expense_claim_v2.dwg across to C:\Users\Ankit\Downloads\presentations\Reports\Project Test Set
+copy asset_inventory.png across to D:\Staging\NER experiments\presentations\Department Logs
+copy weekly_status_update.docx across to C:\Dev\Travel
+copy security_scan_results.html across to F:\USB Backup\Test Results
+copy expense_claim_reviewed.msix across to \\FileServer\Departments\presentations\marketing\Speech Recognition
+copy museum_ticket.pdf across to \\192.168.1.20\teamshare\entity pools\Firewall Configs\Scheduled Tasks
+copy privacy_assessment.h across to C:\Users\Ankit\Desktop\Assignments\screenshots\ETL Jobs
+copy flight_itinerary_return.pdf across to the folder Project Packages
+copy external_ssd_inventory.csv across to the folder Project Releases
+copy repair_quote_2026_119.xlsx across to the folder College - Tickets
+copy backup_manifest_final.gz across to the folder University Support
+copy power_plan_backup.pow across to the folder Department Old Versions
+copy monthly_summary_october.pdf across to the folder 3D Models
+copy integration_test.evtx across to the folder Project Q4
+copy cold_chain_temperature_excursion.csv across to the folder Client 2026
+copy customer_churn_analysis.ipynb across to the folder Approved Documents
+copy metrics_summary.json across to the folder Payroll Manager - Semester 5
+copy network_topology.dmp across to the folder G:\Shared\Home Repairs\screenshots\Year Approved
+copy crash_reproduction_steps.docx across to the folder C:\Users\Ankit\Videos\Home Repairs\generated\Client Evidence
+copy call_summary_20261020.md across to the folder D:\Backups\Test Results
+copy stock_reconciliation.html across to the folder D:\Backups\generated\Final Versions\Music Playlists
+copy travel_itinerary.pdf across to the folder C:\Users\ankit.kumar\Documents\Presentations
+copy risk_register_approved.tif across to the folder D:\Shared\Test Results
+copy attendance_sheet_final.xlsm across to the folder D:\WinPilot\HR\src\Study Material
+copy inspection_checklist.zip across to the folder C:\Users\Ankit\Documents\Receipts
+copy campaign_budget_reforecast.xlsx across to the folder D:\Source\Network Captures\Client A\Trip Photos
+copy customer_export.zip across to the folder C:\ProgramData\tests\design files\API Documentation
+copy network_topology_export.drawio and place it in Shared Drive
+copy sales_commission_calculation.xlsx and place it in DBMS Project - To Copy
+copy invoice_scan_001.tiff and place it in Attendees
+copy meeting_minutes.db and place it in scripts
+copy lab_viva_questions.pdf and place it in Department Results
+copy wifi_diagnostics.txt and place it in Department Inputs
+copy recycle_bin_audit.csv and place it in Office Admin
+copy file_operation_timings.csv and place it in College - Archives
+copy site_materials_inventory.csv and place it in Holiday 2026
+copy shipping_labels.pdf and place it in Operating Systems - Tests
+copy invoice_october.pdf and place it in D:\Work\database\docs\Department 2026
+copy draft_deployment.jsonl and place it in C:\Users\Ankit\Pictures\Certificates\Semester 7\Project Audio
+copy patch_compliance_report.xlsx and place it in C:\Temp\Assignments
+copy expense_claim_october.pdf and place it in \\OfficePC\Public\Research Papers\database\LeetCode
+copy security_findings_revised.iso and place it in C:\Users\Ankit\Videos\backend\generated\Documents
+copy product_returns_2026.csv and place it in D:\Data\receipts\backend\Year Contracts
+copy marketplace_listing_feed.csv and place it in D:\Projects\Shared Drive
+copy firewall_audit.cab and place it in D:\Work\Finance Team
+copy campaign_calendar.tiff and place it in D:\Work\Old Versions
+copy course_feedback_analysis.xlsx and place it in D:\Data\Assets
+copy festival_shopping_list.xlsx and put it in Recovery Codes
+copy expense_claim.db and put it in College Data
+copy emergency_travel_contacts.vcf and put it in Payroll Manager Documents
+copy shipment_tracking.ts and put it in University - Records
+copy query_results.model and put it in WinPilot Documentation
+copy client_call_followup.docx and put it in Released
+copy stock_reconciliation_approved.ini and put it in GEHU - Photos
+copy payroll_register_v2.dmp and put it in Client Tracking
+copy shipment_tracking_draft.obj and put it in Project History
+copy release_notes_2026_10.3mf and put it in Unit 2 Notes
+copy browser_matrix.img and put it in D:\Projects\backups\engineering\Disaster Recovery
+copy open_application_examples.jsonl and put it in E:\Archive\Archived 2024
+copy portfolio_project_readme.md and put it in C:\Users\Ankit\Downloads\Firewall Configs\Firewall Configs\Brand Assets
+copy customs_declaration.pdf and put it in C:\Users\Ankit\Documents\Semester 7\Firewall Configs\Year Receipts
+copy project_charter_approved.inf and put it in C:\Users\Ankit\Desktop\Datasets
+copy construction_site_daily_log.docx and put it in \\backup-server\weekly\Semester 5\Projects\Windows Settings
+copy database_schema_backup.bat and put it in D:\Research\archives\docs\Decision Records
+copy salary_statement.msix and put it in F:\USB Backup\intent models\Certificates\Department Week 42
+copy delivery_proof_5832.jpg and put it in \\FileServer\Departments\training data\engineering\Documents for Insurance
+copy inspection_checklist_revised.gif and put it in C:\Users\Ankit\Desktop\HR\datasets\Team Evidence
+copy pytest_coverage.xml and save it to University - Validation
+copy network_topology_backup.gpx and save it to Payroll Manager - Validation
+copy dns_records.onnx and save it to checkpoints
+copy checksum_validation.log and save it to College - Working Files
+copy invoice_register_reviewed.yaml and save it to Operating Systems Invoices
+copy budget_forecast_backup.jpeg and save it to Final Submission Package
+copy annual_report.m4a and save it to Year Shared
+copy fleet_fuel_reconciliation.xlsx and save it to DBMS Project - Current
+copy frontend_bundle_stats.html and save it to College - Engineering
+copy research_presentation_october.pptx and save it to GEHU To Copy
+copy invoice_register.docx and save it to C:\Users\Ankit\Pictures\Course Material\Reports\Work
+copy cloud_cost_report.woff2 and save it to F:\External Drive\PBL Phase 2\generated\Team Suppliers
+copy service_health_reviewed.lnk and save it to D:\Staging\contracts\invoices\Mobile Backup
+copy subtitle_translation_hi.srt and save it to C:\Users\Ankit\OneDrive\Graphics Troubleshooting\customer support\Year Documentation
+copy warehouse_reorder_alerts.csv and save it to D:\Data\Client A\campaigns\Business Continuity
+copy dependency_vulnerability_list.csv and save it to \\NAS01\Shared\frontend\validation data\Intent Validation
+copy delivery_tracking_export.csv and save it to D:\Data\Client A\warehouse\Property Documents
+copy training_data.csv and save it to D:\Work\College
+copy equipment_register.ass and save it to D:\Backups\Downloads
+copy cloud_cost_report.safetensors and save it to D:\Work\Screenshots
+copy localisation_strings_approved.example and store it in Intent Training
+copy bank_reconciliation_october.xlsx and store it in Sprint 12
+copy support_case_draft.html and store it in WinPilot Deliverables
+copy portfolio_deployment_notes.md and store it in DBMS Project Pending Review
+copy augmentation_job_history.csv and store it in Payroll Manager Incoming
+copy compliance_review.bat and store it in Maintenance
+copy tfidf_vectorizer.pkl and store it in Team Shared Files
+copy fundraiser_budget.xlsx and store it in Calendar Exports
+copy solar_inverter_fault_log.csv and store it in University Ready to Submit
+copy hdd_smart_attributes.csv and store it in College - Planning
+copy project_scope_reviewed.psd and store it in C:\Users\Ankit\Pictures\Payroll Manager\api tests\Department Shared Files
+copy certificate_renewal_plan.md and store it in D:\WinPilot\api tests\Travel Planning\Personal Certificates
+copy vulnerability_report_2026_10.old and store it in D:\WinPilot\datasets\design files\Leave and Attendance
+copy property_tax_receipt.pdf and store it in D:\WinPilot\marketing\screenshots\Voice Activity Detection
+copy college_bus_route_map.png and store it in \\FileServer\Departments\website\archives\Team Designs
+copy startup_apps_report.html and store it in \\backup-server\weekly\To Submit\Semester 7\Department Finance
+copy stock_reconciliation.sql and store it in D:\Projects\src\release builds\Team Sprint 12
+copy latency_benchmark_2026_10.dat and store it in \\192.168.1.20\teamshare\Client A\intent models\Department Schedules
+copy meeting_transcript_cleaned.docx and store it in E:\Media\design files\Payroll Manager\Project References
+copy community_minutes.docx and store it in E:\College\engineering\Sprint 13\Project Packages
+copy campaign_calendar.jpg into GEHU Engineering
+copy leave_request.ps1 into WinPilot - For Approval
+copy exam_admit_card.pdf into Payroll Manager Records
+copy supplier_quote_2026_10.ics into GEHU To Sort
+copy participant_information_sheet.docx into Operating Systems Deliverables
+copy customer_survey_2026_10.msg into WinPilot - Requests
+copy test_auth.py into University - Evaluation
+copy inventory_ageing_report.xlsx into GEHU Receipts
+copy customer_export_reviewed.tsx into Invoices
+copy windows_search_index_status.txt into Task History
+copy seo_keyword_export.xlsx into C:\Program Files (x86)\Lab Work\PBL Phase 2\Team Invoices
+copy customer_survey_revised.lnk into D:\Staging\imports\validation data\Investment Records
+copy pet_photo_20261018.jpg into C:\Users\ankit.kumar\Documents\Downloads
+copy Telegram Desktop 2026-10-17 21-08-44.jpg into E:\Personal\Graphics Troubleshooting\October 2026\Project Processed
+copy onedrive_sync_errors.csv into C:\Temp\Lab Work\contracts\Project Plans
+copy mobile_warranty_claim.pdf into \\OfficePC\Public\Source Code\generated\Outgoing Files
+copy shipping_manifest_20261020.xlsx into D:\Data\Research
+copy slow_query_analysis_revised.tmp into \\backup-server\weekly\Reports\release builds\Client Working
+copy database_snapshot_revised.prof into C:\Temp\Projects\datasets\Fonts
+copy leetcode_progress.xlsx into C:\Users\Ankit\Pictures\api tests\WinPilot\Project Manifests
+copy internal_audit_plan.xlsx into the destination folder Operating Systems - Raw Data
+copy budget_forecast.php into the destination folder Payroll Manager - October 2026
+copy file_manifest.txt into the destination folder College References
+copy employee_rota_october.xlsx into the destination folder Large Files Review
+copy rainwater_harvesting_plan.pdf into the destination folder Inbox Zero
+copy lighthouse_audit.json into the destination folder DBMS Project Shared
+copy ssh_known_hosts_review.txt into the destination folder University Working Files
+copy smb_share_permissions.xlsx into the destination folder Department Week 43
+copy incident_report_final.md into the destination folder DBMS Project Rejected
+copy refund_request_revised.prof into the destination folder Fitness Tracking
+copy boarding_pass_sample.pdf into the destination folder C:\Users\Ankit\Videos\presentations\Audio Troubleshooting\Client Suppliers
+copy placement_offer_acceptance.pdf into the destination folder E:\Personal\Source Code\NER experiments\Project Scripts
+copy hotel_booking.pdf into the destination folder D:\Work\Training Data
+copy dashboard_mockup.fig into the destination folder \\192.168.1.20\teamshare\Windows Logs\docs\Project Invoices
+copy db_dump_2026_10_20.sql into the destination folder D:\Work\validation data\config\Translations
+copy website_audit.appx into the destination folder E:\College\marketing\Source Code\Kubernetes
+copy unit_test_report_draft.fig into the destination folder C:\Dev\Course Material\api tests\Dataset Snapshots
+copy compliance_review_revised.bz2 into the destination folder D:\College\GEHU\October 2026\Windows Logs\Team Manifests
+copy equipment_checkout_log.xlsx into the destination folder D:\WinPilot\Semester 5\Final Versions\Meal Planning
+copy automation_plugin_registry.json into the destination folder C:\Users\Public\Documents\Travel Planning\logs\Year Drafts
+copy restore_drill_results.xlsx into the directory Department Documents
+copy project_scope.iso into the directory Project Finance
+copy weekly_standup_notes.docx into the directory Payroll Manager - Finance
+copy driving_lesson_schedule.ics into the directory Operating Systems Templates
+copy privacy_assessment_final.jsx into the directory Case Collision Tests
+copy Screenshot (12).png into the directory Investment Records
+copy customer_data_dictionary.xlsx into the directory Cloud Computing
+copy support_case_000381.txt into the directory University Engineering
+copy placement_resume_review.docx into the directory Payroll Manager - Published
+copy website_audit_reviewed.tar.gz into the directory GEHU Pending Review
+copy gst_invoice_register.csv into the directory C:\Temp\recordings\Exam Preparation\Team Customers
+copy serializers.py into the directory \\backup-server\weekly\Windows Logs\Semester 7\Department Final
+copy csrf_test_report.html into the directory C:\Users\Ankit\Videos\Client A\inventory\Reference Material
+copy forklift_service_log.xlsx into the directory D:\Research\family photos\screenshots\Structure Library Imports
+copy dependency_lockfile.txt into the directory E:\Personal\training data\family photos\Support Bundle
+copy PO-2026-00481.pdf into the directory C:\Users\Ankit\Documents\Research
+copy ping_latency_week42.csv into the directory C:\Users\Ankit\Videos\validation data\Week 42\Community
+copy hyperparameters.yaml into the directory D:\Data\Personal Finance\test results\Planning
+copy reimbursement_form.docx into the directory E:\College\Photos
+copy poster_print.pdf into the directory E:\College\Screenshots
+copy swim_training_log.xlsx over to Production Incidents
+copy blog_draft.md over to Operating Systems Exports
+copy app_control_event_log.evtx over to Router Configs
+copy api_auth_examples.json over to GEHU - Exports
+copy translation_memory.tmx over to University - Previous
+copy vpn_configuration.css over to Operating Systems - Forms
+copy weekly_update_draft.out over to WinPilot Temporary Files
+copy sports_club_membership.pdf over to Online Shopping
+copy customer_survey.yaml over to Payroll Manager - Current
+copy database_schema.safetensors over to University To Rename
+copy project_final_v3.zip over to \\FileServer\Departments\Semester 7\Shared Documents\Year Working
+copy webhook_delivery_log.csv over to D:\Data\Old Versions
+copy notes_from_call_with_supplier.docx over to \\192.168.1.20\teamshare\Semester 5\Release 1.4\Project Processed
+copy README.md over to D:\Backups\GEHU
+copy creative_review_comments.docx over to C:\Dev\NER experiments\config\Downloaded Installers
+copy invoice_dispute_1048.docx over to C:\Program Files\datasets\photos\Visitor Management
+copy explorer_window_snapshot.json over to D:\Backups\Assignments
+copy customer_export_draft.pt over to E:\College\Presentations
+copy service_health.ipa over to \\192.168.1.20\teamshare\config\src\Scheduled Tasks
+copy lecture_capture_week8.mkv over to C:\Dev\Shared Drive
+copy campaign_calendar.etl to Payroll Manager - To Rename
+copy shipment_tracking.mov to University Contracts
+copy course_progress_export.csv to Department Designs
+copy fuel_efficiency_tracker.xlsx to Photo Library
+copy candidate_consent_form.pdf to College Reports
+copy security_findings.fbx to Operating Systems - Audio
+copy saved_sessions.json to College Clean Data
+copy draft_travel.png to Music Playlists
+copy water_bill.pdf to Client Data
+copy journal_proof_corrections.pdf to Team Releases
+copy gas_bill_receipt.pdf to D:\Research\Lab Work\invoices\Python Environments
+copy risk_assessment_reviewed.example to D:\College\GEHU\api tests\model outputs\Team Customers
+copy accessibility_test_run.xml to D:\Projects\Recordings
+copy warehouse_stock.mp3 to G:\Shared\Travel Planning\docs\File Migration
+copy faculty_meeting_agenda.docx to C:\Users\Ankit\Desktop\Week 42
+copy disk_cleanup_candidates.csv to D:\Source\api tests\backend\Project Documents
+copy network_path_examples.txt to D:\Shared\Database
+copy purchase_order.ear to C:\ProgramData\campaigns\marketing\Production Incidents
+copy stakeholder_demo_script.md to D:\Work\Old Versions\PBL Phase 2\Storage Reports
+copy final_reviewed.docx to C:\ProgramData\Week 42\validation data\Entity Boundary Cases
+copy purchase_order.out to the destination folder Department Tickets
+copy bank_statement.pdf to the destination folder Hindi
+copy project_plan_reviewed.log to the destination folder WinPilot - To Rename
+copy salary_breakup_comparison.xlsx to the destination folder College - Reference Material
+copy fee_receipt.pdf to the destination folder Personal Learning
+copy translation_strings_hi.json to the destination folder GEHU - Semester 7
+copy performance_regression_report.xlsx to the destination folder Incoming Files
+copy latency_benchmark.obj to the destination folder College - Builds
+copy water_quality_lab_sheet.xlsx to the destination folder Certificates
+copy k6_latency_summary.json to the destination folder University - Deliverables
+copy dog_training_notes.md to the destination folder D:\Source\generated\photos\Semester 7
+copy building_access_map.pdf to the destination folder \\192.168.1.20\teamshare\Release 1.4\Windows Logs\Open Pull Requests
+copy peer_review_response.docx to the destination folder E:\Media\Datasets
+copy mod_list.txt to the destination folder C:\Users\Ankit\Desktop\Graphics Troubleshooting\WinPilot\Department Materials
+copy rollback_plan_reviewed.gradle to the destination folder \\backup-server\weekly\src\Release 1.4\Portable Apps
+copy inspection_checklist_backup.url to the destination folder C:\ProgramData\recordings\Network Captures\Cloud Computing
+copy database_schema_final.sys to the destination folder E:\College\Source Code
+copy payroll_register_draft.jsx to the destination folder E:\Incoming\entity pools\imports\Documents
+copy device_manager_export.txt to the destination folder D:\Backups\finance\Audio Troubleshooting\Travel Documents
+copy social_post_template.psd to the destination folder D:\Research\tests\Device Reports\Team Tests
+copy weekly_update.fig to the directory College
+copy tax_computation_v2.htm to the directory DBMS Project To Sort
+copy filesystem_operation_audit.csv to the directory GEHU - November 2026
+copy hostel_maintenance_register.xlsx to the directory WinPilot - Week 42
+copy network_share_latency.csv to the directory Team Videos
+copy payment_receipt_reviewed.json to the directory Phone Transfer
+copy pre-commit-config.yaml to the directory WinPilot - Scripts
+copy supplier_quote_revised.ipynb to the directory College - Approved
+copy price_comparison_reviewed.apk to the directory Payroll Manager Team Shared
+copy inventory_reorder_forecast.xlsx to the directory Project Alpha
+copy weekend_plan.docx to the directory C:\Users\Ankit\Videos\design files\customer support\Department Scripts
+copy customer_export.xz to the directory C:\Users\Ankit\Videos\Semester 5\Personal Finance\Music
+copy customer_export.jpeg to the directory \\backup-server\weekly\Personal Finance\docs\Year Reports
+copy travel_allowance_claim.xlsx to the directory \\OfficePC\Public\frontend\WinPilot\Dashboards
+copy settings.py to the directory C:\Users\Ankit\Videos\warehouse\design files\Year Packages
+copy delete_folder_safety_tests.csv to the directory E:\Personal\campaigns\To Review\Analytics Models
+copy subtitle_hi.srt to the directory D:\Backups\Finance Team
+copy audit_evidence.cer to the directory C:\Users\Ankit\Desktop\family photos\Course Material\Department Students
+copy security_findings_v3.c to the directory F:\USB Backup\entity pools\finance\Obsolete
+copy tenant_move_in_checklist.docx to the directory C:\Dev\src\src\NPTEL Material
+copy D:\Shared\Meeting Notes\exit_interview_notes.docx across into Department Inventory
+copy D:\Data\receipts\backend\emergency_contact_sheet.xlsx across into Package Locks
+copy E:\College\PBL Phase 2\test results\draft_training.json across into Payroll Manager - Releases
+copy F:\External Drive\diagnostics\Audio Troubleshooting\mysql_slow_query_log.txt across into WinPilot Audio
+copy C:\Users\ankit.kumar\Documents\Research\network_topology_export.drawio across into NDAs
+copy C:\Temp\Personal Finance\Personal Finance\preprocess_data.py across into College Tickets
+copy D:\Work\Travel\oauth_scope_review.xlsx across into Conference
+copy G:\Shared\meeting notes\invoices\compliance_checklist.pdf across into University Designs
+copy C:\Users\Ankit\Desktop\Source Code\validation data\windows_features_state.txt across into University - To Copy
+copy G:\Shared\Research Papers\meeting notes\property_tax_challan.pdf across into Building Maintenance
+copy E:\Archive\Device Reports\Course Material\powercfg_energy_report.html across into D:\Work\operations\engineering\Security Operations
+copy D:\Staging\presentations\operations\interview_schedule_week43.ics across into C:\Users\Ankit\Downloads\Windows Logs\client files\Fitness Tracking
+copy C:\ProgramData\Reports\generated\tenant_move_in_checklist.docx across into C:\Users\Ankit\Downloads\Model Outputs
+copy E:\Personal\Exam Preparation\assets\firewall_change_request.docx across into D:\Projects\Release 1.4\Source Code\WinPilot Intent Detection
+copy C:\Users\Ankit\Pictures\archives\Device Reports\windows_terminal_profile.json across into C:\Dev\To Submit\tests\Identity Documents
+copy C:\Program Files (x86)\Audio Troubleshooting\database\predictions_output.csv across into D:\College\GEHU\Source Code\campaigns\Bookings
+copy F:\USB Backup\intent models\Certificates\holiday_budget_2026.xlsx across into D:\College\GEHU\Final Versions\campaigns\Project Assets
+copy F:\USB Backup\Audio Troubleshooting\test results\publication_permission_form.docx across into F:\External Drive\finance\screenshots\Build Artifacts
+copy C:\Users\Ankit\OneDrive\logs\inventory\team_folder_index.csv across into D:\WinPilot\Home Repairs\Course Material\Department Results
+copy D:\Backups\Projects\Supplier North\draft_lab.xlsx across into D:\Research\Client A
+copy \\OfficePC\Public\datasets\frontend\frontend_bundle_stats.html across to Payroll Manager Shared
+copy \\NAS01\Shared\inventory\Week 42\home_network_diagram.drawio across to WinPilot - Operations
+copy C:\ProgramData\Personal Finance\Certificates\expense_approval_workflow.drawio across to DBMS Project Evaluation
+copy C:\Users\Ankit\Documents\Semester 5\research_collaboration_agreement.pdf across to Pokemon Saves
+copy \\192.168.1.20\teamshare\Semester 5\Release 1.4\faculty_meeting_agenda.docx across to Project Plans
+copy D:\WinPilot\generated\Research Papers\sleep_schedule_notes.md across to Client Invoices
+copy D:\Source\HR\customer support\appliance_warranty_claim.docx across to Community
+copy \\192.168.1.20\teamshare\finance\inventory\handoff_package_manifest.json across to WinPilot Rejected
+copy C:\Users\ankit.kumar\Documents\Receipts\sports_facility_booking.ics across to GEHU Photos
+copy D:\WinPilot\docs\WinPilot\open_source_pr_review.patch across to Team Results
+copy \\NAS01\Shared\Course Material\Release 1.4\meal_plan.docx across to C:\Dev\travel\contracts\Team Materials
+copy E:\Media\Release 1.4\receipts\hackathon_pitch.pptx across to D:\Backups\exports\Certificates\Department Notes
+copy D:\Research\PBL Phase 2\recipe_shopping_list.xlsx across to E:\Media\Client A\Exam Preparation\WinPilot Intent Detection
+copy D:\Staging\imports\To Submit\bibliography_dedup_report.csv across to E:\Personal\api tests\frontend\Team Tickets
+copy F:\USB Backup\Sprint 13\client files\production_snapshot_redacted.sql across to D:\Source\release builds\WinPilot\Department Scripts
+copy G:\Shared\Supplier North\exports\disk_partition_map.png across to E:\Media\Lab Work\Projects\Driver Installers
+copy \\OfficePC\Public\test results\intent models\license_key.txt across to C:\Temp\Assignments\Reports\Mobile Videos
+copy \\192.168.1.20\teamshare\inventory\customer support\intent_dataset_train.jsonl across to C:\ProgramData\Source Code\October 2026\Team Validation
+copy E:\Media\design files\To Submit\oracle_listener_status.txt across to D:\Backups\Semester 5
+copy D:\Research\Driver Backups\Windows Logs\render_preview.png across to E:\Incoming\Supplier North\To Submit\CI Reports
+copy E:\Incoming\HR\Supplier North\registry_export_before_fix.reg across to the folder University Training
+copy D:\Research\WinPilot\passport_scan.jpg across to the folder Windows Update
+copy C:\Dev\recordings\PBL Phase 2\lab_safety_training.pdf across to the folder DBMS Project Private
+copy C:\Users\Ankit\Documents\Model Outputs\wedding_invitation_sample.png across to the folder Annotation Review
+copy D:\Data\Photos\team_photo.png across to the folder College - Previous
+copy E:\College\Exam Preparation\database\home_loan_interest_certificate.pdf across to the folder Bug Triage
+copy \\192.168.1.20\teamshare\Graphics Troubleshooting\operations\sales_forecast_model.pkl across to the folder WinPilot - Outputs
+copy D:\Data\Research\home_inventory_october.xlsx across to the folder Team Q3
+copy E:\College\Assignments\screenshots\warranty_card.pdf across to the folder DBMS Project Old Versions
+copy \\FileServer\Departments\Certificates\datasets\performance_regression_report.xlsx across to the folder Intent Classification
+copy \\192.168.1.20\teamshare\Certificates\imports\demo_slides.pptx across to the folder C:\Users\Ankit\Downloads\Screenshots
+copy C:\Users\Ankit\Videos\PBL Phase 2\partner_contract_draft.docx across to the folder E:\College\Tests
+copy C:\Users\Ankit\Videos\Semester 5\gdpr_request_log.csv across to the folder C:\Temp\Datasets
+copy C:\ProgramData\exports\customer support\code_review_checklist.md across to the folder E:\Media\receipts\presentations\Startup Apps
+copy C:\Dev\PBL Phase 2\database_erd.png across to the folder D:\Data\imports\temp\Birthdays
+copy C:\Program Files (x86)\contracts\WinPilot\copy_file_validation.csv across to the folder C:\Temp\diagnostics\recordings\Project Results
+copy E:\College\NER experiments\design files\shift_roster.xlsx across to the folder F:\USB Backup\Entity Pools
+copy \\FileServer\Departments\To Submit\family photos\password_manager_export_encrypted.csv across to the folder D:\Work\To Submit\invoices\Backend
+copy D:\Staging\October 2026\Graphics Troubleshooting\tenant_deposit_return.xlsx across to the folder C:\Dev\Presentations
+copy C:\Dev\Travel Planning\photos\grant_budget_v2.xlsx across to the folder C:\Temp\Screenshots
+copy E:\Media\Documents\product_walkthrough.mp4 and place it in DBMS Project Notes
+copy C:\Users\Ankit\Videos\marketing\design files\api_latency_report.xlsx and place it in Localization
+copy \\FileServer\Departments\Semester 5\api tests\account_health_score.xlsx and place it in University Notes
+copy D:\Shared\PBL Phase 2\semester_result_archive.zip and place it in GEHU 2027
+copy E:\Media\Device Reports\invoices\file_transfer_manifest.json and place it in USB Transfer
+copy \\NAS01\Shared\Release 1.4\Certificates\meal_prep_plan_october.docx and place it in DBMS Project Inventory
+copy D:\College\GEHU\engineering\screenshots\driver_package.msi and place it in Quarantine
+copy E:\Incoming\To Review\config\structure_template_audit.json and place it in GEHU Tickets
+copy F:\USB Backup\Windows Logs\recordings\ner_prediction_examples.jsonl and place it in University Audits
+copy C:\Program Files\logs\intent models\integration_test_trace.log and place it in Project Tracking
+copy D:\Source\test results\api tests\interview_clip.mp3 and place it in C:\Program Files\logs\To Review\Department Finance
+copy F:\USB Backup\To Submit\Driver Backups\technical_round_notes.md and place it in C:\Dev\Invoices
+copy C:\Dev\Course Material\api tests\tour_booking_invoice.pdf and place it in C:\Users\Ankit\Desktop\Client A
+copy C:\Users\Ankit\Desktop\Release 1.4\training data\field_sensor_calibration.pdf and place it in \\backup-server\weekly\entity pools\validation data\Sports
+copy C:\Dev\inventory\customer support\readme_for_contributors.md and place it in D:\Backups\warehouse\Semester 7\Department Videos
+copy D:\WinPilot\Home Repairs\Course Material\trip_photos_manali.zip and place it in F:\USB Backup\Source Code\backend\Vehicle Documents
+copy E:\Archive\Assignments\work_order_00817.pdf and place it in C:\Temp\client files\marketing\Video Editing
+copy D:\Data\Training Data\investment_tax_report.pdf and place it in C:\Users\Ankit\Pictures\Reports\Supplier North\Year Invoices
+copy C:\Users\Ankit\Desktop\tests\travel\exit_clearance_form.pdf and place it in C:\Users\Ankit\Desktop\Client A\Network Captures\Processed Files
+copy C:\Users\Ankit\Documents\Semester 7\Firewall Configs\maintenance_request_0092.docx and place it in C:\Users\Ankit\Desktop\Sprint 13
+copy C:\Program Files\entity pools\release builds\viva_prep_notes.docx and put it in Command Templates
+copy F:\USB Backup\database\October 2026\weekly_cleaning_roster.xlsx and put it in Portable Utilities
+copy E:\College\operations\Semester 5\demo_account_list.csv and put it in DBMS Project - Responses
+copy \\backup-server\weekly\Assignments\database\usb_device_history.csv and put it in Cloud Operations
+copy D:\Data\Assignments\offsite_backup_receipt.pdf and put it in DBMS Project - Clients
+copy \\192.168.1.20\teamshare\Course Material\Course Material\fixed_deposit_advice.pdf and put it in University Reports
+copy C:\Users\Ankit\Desktop\datasets\Graphics Troubleshooting\vendor_payment_batch.txt and put it in Department Q4
+copy D:\Research\Documents\api_openapi_spec.yaml and put it in College - Assets
+copy D:\Projects\PBL Phase 2\garden_seed_order.pdf and put it in Payroll Manager Approved
+copy D:\Backups\archives\intent models\rename_file_edge_cases.jsonl and put it in DBMS Project - Incoming
+copy \\FileServer\Departments\Personal Finance\invoices\banner_design.psd and put it in G:\Shared\engineering\docs\Client Requests
+copy E:\Media\To Review\Device Reports\cms_content_export.xml and put it in F:\USB Backup\marketing\recordings\Sports
+copy \\backup-server\weekly\Semester 5\Projects\nextjs_build_manifest.json and put it in E:\Incoming\intent models\Exam Preparation\CI Artifacts
+copy D:\Work\assets\Payroll Manager\family_budget.xlsx and put it in D:\College\GEHU\Week 42\migrations\Desktop
+copy E:\Media\Research\faculty_feedback_form.docx and put it in G:\Shared\customer support\Final Versions\Windows Explorer
+copy D:\Research\Training Data\feature_flag_rollout.md and put it in \\backup-server\weekly\WinPilot\config\Project Metrics
+copy \\192.168.1.20\teamshare\WinPilot\WinPilot\lightroom_catalog_backup.lrcat and put it in C:\Dev\Receipts
+copy C:\ProgramData\migrations\archives\expenses_q3.xlsx and put it in F:\USB Backup\Projects
+copy C:\ProgramData\datasets\inventory\grant_budget_v2.xlsx and put it in D:\Projects\family photos\Reports\App Plugins
+copy C:\Program Files (x86)\engineering\To Review\risk_register.xlsx and put it in D:\Research\October 2026\HR\Large Files
+copy C:\Program Files\Shared Documents\diagnostics\invoice_1048.pdf and save it to Team Notes
+copy C:\Users\Public\Documents\Reports\returns_register.xlsx and save it to University - Clean Data
+copy D:\Work\model outputs\Semester 5\passport_renewal_checklist.docx and save it to Payroll Manager Processed Data
+copy \\FileServer\Departments\October 2026\Windows Logs\readme_old.md and save it to GEHU Private
+copy C:\Users\Ankit\Downloads\Certificates\exports\pytest.ini and save it to presentations
+copy D:\College\GEHU\WinPilot\family photos\roadmap_review_notes.docx and save it to Semester 1
+copy C:\Projects\Meeting Notes\presentation_final.pptx and save it to resources
+copy D:\Projects\backups\engineering\helpdesk_escalation_matrix.xlsx and save it to Augmentation Output
+copy D:\Backups\Audio Troubleshooting\finance\contract_test_results.xml and save it to Portfolio
+copy D:\Work\Documents\interview_transcripts_anonymised.zip and save it to Payroll Manager Backups
+copy D:\College\GEHU\Certificates\screenshots\product_walkthrough.mp4 and save it to F:\USB Backup\WinPilot3
+copy C:\Users\Ankit\Desktop\logs\Payroll Manager\emergency_travel_contacts.vcf and save it to C:\Users\Public\Documents\assets\customer support\Attendees
+copy D:\WinPilot\diagnostics\imports\podcast_queue.opml and save it to E:\Media\Archives
+copy E:\Personal\PBL Phase 2\recordings\graphql_schema.graphql and save it to C:\Temp\test results\Network Captures\Awaiting Feedback
+copy C:\Users\Ankit\Pictures\recordings\Release 1.4\driver_rollback_plan.docx and save it to C:\Dev\Graphics Troubleshooting\temp\Intent Training
+copy C:\Users\Ankit\Downloads\HR\Semester 5\flight_web_checkin_confirmation.pdf and save it to D:\Projects\Assignments\October 2026\Evaluation Corpora
+copy C:\Users\Ankit\Downloads\Screenshots\tax_documents_2025.pdf and save it to E:\College\Assignments
+copy F:\USB Backup\Home Repairs\engineering\office_it_asset_handover.xlsx and save it to C:\Temp\src\logs\Team Old Versions
+copy \\192.168.1.20\teamshare\Network Captures\warehouse\bank_statement.pdf and save it to E:\College\Certificates\contracts\diagrams
+copy D:\Shared\Semester 5\warehouse_temperature_log.csv and save it to C:\Program Files\PBL Phase 2\Exam Preparation\Intent Models
+copy C:\Temp\Downloads\article_outline.docx and store it in College - Documents
+copy C:\Users\Public\Documents\Backups\incident_evidence.zip and store it in College Templates
+copy \\NAS01\Shared\validation data\logs\copy_file_validation.csv and store it in Client Outputs
+copy D:\Work\Invoices\emergency_travel_contacts.vcf and store it in College - Sprint 12
+copy D:\Backups\src\test results\incident_postmortem.docx and store it in University - Students
+copy \\NAS01\Shared\Graphics Troubleshooting\Final Versions\tax_deduction_proofs.zip and store it in College Archived
+copy C:\Users\Ankit\Pictures\Payroll Manager\api tests\tax_return_acknowledgement.pdf and store it in Project Sprint 13
+copy C:\Users\Ankit\Pictures\migrations\Windows Logs\draft_returns.docx and store it in WinPilot - Notes
+copy \\FileServer\Departments\database\intent models\rainwater_harvesting_plan.pdf and store it in Payroll Manager 2025
+copy D:\WinPilot\backend\Final Versions\inventory_ageing_report.xlsx and store it in GEHU 2025
+copy G:\Shared\design files\datasets\media_library_index.m3u and store it in E:\College\api tests\Certificates\NER Training
+copy \\backup-server\weekly\WinPilot\Source Code\hidden_attribute_inventory.csv and store it in C:\Users\Ankit\Documents\Shared Drive
+copy C:\Users\Ankit\Videos\Assignments\portable_tool.zip and store it in C:\Users\Ankit\OneDrive\family photos\website\Building Maintenance
+copy \\FileServer\Departments\Exam Preparation\Projects\vehicle_puc_certificate.pdf and store it in \\backup-server\weekly\archives\Firewall Configs\Year Results
+copy C:\Users\Public\Documents\campaigns\marketing\admit_card_semester_7.pdf and store it in \\FileServer\Departments\Old Versions\Network Captures\Year Deliverables
+copy E:\Media\test results\family photos\entity_resolution_cases.jsonl and store it in C:\Users\Ankit\Documents\frontend\release builds\Client Videos
+copy C:\Users\Ankit\Downloads\Old Versions\Release 1.4\home_inventory_october.xlsx and store it in D:\Data\Home Repairs\Lab Work\Department 2026
+copy C:\Users\Public\Documents\Sprint 13\Payroll Manager\student_attendance_exception.csv and store it in \\backup-server\weekly\exports\Sprint 13\Leave Requests
+copy C:\Users\Ankit\Pictures\Model Outputs\grocery_receipt_20261019.jpg and store it in E:\College\Docs
+copy D:\Data\Client A\campaigns\passport_scan.jpg and store it in F:\USB Backup\Engineering Team
+copy C:\Users\Ankit\Videos\validation data\diagnostics\kubernetes_pod_logs.txt into DBMS Project - Revisions
+copy C:\Temp\client files\marketing\camera_raw_20261018.cr3 into PowerShell
+copy F:\External Drive\src\PBL Phase 2\returns_register.xlsx into Export Staging
+copy C:\Dev\client files\customer support\home_renovation_estimate.xlsx into University Imports
+copy C:\Users\Ankit\Documents\photos\Final Versions\neighbourhood_contact_list.vcf into Payroll Manager - Evaluation
+copy C:\Users\Ankit\OneDrive\screenshots\receipts\internship_daily_log.xlsx into College - Exports
+copy C:\Users\Ankit\Desktop\Downloads\records_classification.xlsx into Compliance Evidence
+copy C:\Users\Ankit\Documents\temp\frontend\gym_membership_receipt.pdf into WinPilot Reference Material
+copy C:\Users\Ankit\OneDrive\Downloads\offsite_backup_receipt.pdf into Family Photos
+copy G:\Shared\recordings\logs\seed_data.sql into Project 2026
+copy D:\Work\engineering\Research Papers\smart_home_devices.csv into F:\External Drive\inventory\Lab Work\Audio Troubleshooting
+copy D:\Projects\Release 1.4\Firewall Configs\command_parser_edge_cases.jsonl into C:\Users\Ankit\OneDrive\HR\entity pools\Team Reports
+copy C:\Users\Ankit\Downloads\presentations\Reports\product_roadmap.pptx into D:\WinPilot\generated\Research Papers\DBMS Project
+copy D:\College\GEHU\imports\src\skeleton_generation_report.html into C:\Users\Ankit\Documents\Test Results
+copy F:\External Drive\receipts\backups\accounts_payable_ageing.xlsx into D:\Research\Game Saves
+copy F:\USB Backup\Device Reports\invoices\shift_roster.xlsx into D:\Work\Exam Preparation\Personal Finance\WinPilot Imports
+copy E:\Personal\docs\assets\winget_export.json into D:\Backups\imports\invoices\Webcam Recordings
+copy D:\Work\Model Outputs\draft_payroll.svg into D:\WinPilot\Sprint 13\Course Material\Training Data
+copy G:\Shared\customer support\database\asset_depreciation_schedule.xlsx into C:\Users\Public\Documents\GEHU
+copy C:\Users\Ankit\Videos\Data\project_proposal.docx into \\backup-server\weekly\migrations\customer support\To Submit
+copy D:\Data\Exam Preparation\Personal Finance\placement_drive_registration.pdf into the destination folder WinPilot Templates
+copy D:\WinPilot\archives\Assignments\augmentation_job_history.csv into the destination folder Hidden File Tests
+copy D:\College\GEHU\Certificates\Supplier North\semester_7_project_synopsis.docx into the destination folder University 2026
+copy D:\Data\backups\meeting notes\photo_album_cover.jpg into the destination folder College - Customers
+copy C:\Users\Public\Documents\HR\Firewall Configs\default_programs_export.xml into the destination folder Supplier Invoices
+copy E:\Incoming\intent models\Exam Preparation\draft_transcription.json into the destination folder Attendance Records
+copy D:\College\GEHU\Lab Work\Reports\field_sensor_calibration.pdf into the destination folder development
+copy E:\Media\PBL Phase 2\rent_agreement_renewal.docx into the destination folder Department Assets
+copy C:\Users\ankit.kumar\Documents\Reports\container_vulnerability_report.html into the destination folder WinPilot Records
+copy E:\Media\src\diagnostics\birthday_video_2026.mp4 into the destination folder College To Sort
+copy E:\Archive\Model Outputs\stakeholder_feedback.docx into the destination folder D:\Research\Research
+copy D:\WinPilot\datasets\intent models\seo_crawl_findings.csv into the destination folder \\OfficePC\Public\datasets\Shared Documents\Project Pending
+copy \\NAS01\Shared\design files\frontend\brand_logo_monochrome.svg into the destination folder C:\Users\Ankit\Desktop\Shared Drive
+copy E:\Media\backups\customer support\lab_sample_label_template.docx into the destination folder C:\Dev\October 2026\Old Versions\Client Tracking
+copy D:\Backups\Reports\customer support\access_denied_repro_steps.docx into the destination folder C:\Users\Ankit\Documents\invoices\diagnostics\Project Reviewed
+copy C:\Users\Ankit\Videos\Downloads\desktop_shortcut_inventory.csv into the destination folder \\FileServer\Departments\October 2026\Windows Logs\Year References
+copy D:\Work\api tests\test results\experiment_config.yaml into the destination folder \\backup-server\weekly\warehouse\release builds\English
+copy E:\Personal\finance\inventory\INV-2026-1048.pdf into the destination folder C:\Program Files\Microsoft Office\root\Office16
+copy \\OfficePC\Public\warehouse\Sprint 13\requirements.txt into the destination folder C:\Users\Ankit\Videos\Semester 7\Reports\Client Logs
+copy F:\USB Backup\Backups\license_inventory.csv into the destination folder C:\Temp\campaigns\generated\Annotation Guidelines
+copy C:\Users\Public\Documents\Research Papers\photos\api_rate_limit_test_results.csv into the directory Browser Backups
+copy \\NAS01\Shared\Course Material\Old Versions\course_outcomes_mapping.xlsx into the directory GEHU - Working Files
+copy C:\Users\Ankit\Pictures\Downloads\tsconfig.json into the directory Payroll Manager - Shared
+copy C:\Users\Public\Documents\Receipts\participant_information_sheet.docx into the directory Installer Files
+copy D:\Work\validation data\config\status_page_update.md into the directory DBMS Project Data
+copy D:\Research\NER experiments\archives\customs_declaration.pdf into the directory Department Pending
+copy C:\ProgramData\operations\Windows Logs\student_club_budget.xlsx into the directory DBMS Project Requests
+copy C:\Users\Ankit\OneDrive\Model Outputs\file_naming_conventions.md into the directory DBMS Project Materials
+copy C:\Program Files\training data\Semester 7\grant_spend_tracker.xlsx into the directory Project 2025
+copy \\OfficePC\Public\website\logs\student_fee_reconciliation.xlsx into the directory Waiting for Review
+copy D:\Projects\Travel\gdpr_request_log.csv into the directory F:\USB Backup\inventory\Travel Planning\Feature Requests
+copy C:\Dev\customer support\Semester 5\leave_encashment_calculation.xlsx into the directory \\backup-server\weekly\generated\warehouse\Team Processed
+copy C:\Users\Ankit\Videos\Invoices\certificate_chain.pem into the directory F:\USB Backup\Datasets
+copy D:\Data\Research\photos_backup.zip into the directory E:\Media\Backups
+copy C:\Users\Ankit\AppData\Roaming\Microsoft\Windows\Recent\meeting_notes.lnk into the directory E:\Incoming\Sprint 13\diagnostics\Client Documents
+copy C:\ProgramData\website\api tests\leave_request_form.docx into the directory D:\Projects\October 2026
+copy C:\Users\Public\Documents\Photos\pet_care_calendar.ics into the directory D:\Backups\docs\Device Reports\WinPilot Intent Detection
+copy E:\Personal\meeting notes\migrations\system_info.txt into the directory C:\Dev\Model Outputs
+copy \\NAS01\Shared\entity pools\receipts\student_club_budget.xlsx into the directory C:\Users\Ankit\Documents\Network Captures\intent models\Hindi Translation
+copy \\NAS01\Shared\invoices\receipts\capacity_planning_model.xlsx into the directory E:\Media\Assets
+copy D:\Work\api tests\Network Captures\user_preferences.json over to Payroll Manager - Week 42
+copy C:\Users\Ankit\Documents\contracts\Driver Backups\wedding_invitation_sample.png over to Finance Team
+copy C:\ProgramData\To Review\Exam Preparation\meeting_transcript_cleaned.docx over to WinPilot - Team Shared
+copy C:\Users\Ankit\Videos\Archive\game_manual.pdf over to WinPilot - Audits
+copy E:\Media\Certificates\Network Captures\semester_5_notes_unit_3.docx over to GEHU - Reports
+copy C:\Users\Public\Documents\Certificates\client files\client_logo.svg over to Payroll Manager - Materials
+copy C:\Projects\Assignments\settings.py over to WinPilot - October 2026
+copy C:\Users\Ankit\Videos\Home Repairs\generated\quality_sample_rejection.xlsx over to Team Operations
+copy D:\WinPilot\Supplier North\Research Papers\virtualenv_rebuild_steps.md over to DBMS Project For Approval
+copy D:\Research\Device Reports\test results\integration_test_trace.log over to College For Review
+copy E:\College\Meeting Notes\README.md over to C:\Users\Public\Documents\engineering\archives\Bug Reports
+copy F:\USB Backup\entity pools\travel\walking_log_october.csv over to \\backup-server\weekly\imports\WinPilot\Client Q3
+copy D:\Research\Invoices\incident_response_playbook.pdf over to C:\Program Files\Course Material\recordings\Software
+copy D:\College\GEHU\Supplier North\backend\travel_claim_status.html over to C:\Users\Public\Documents\website\design files\Sprint 12
+copy C:\Program Files\Driver Backups\model outputs\cafeteria_vendor_invoice.pdf over to C:\Users\Ankit\Videos\campaigns\Week 42\Team Responses
+copy F:\External Drive\PBL Phase 2\imports\sports_club_membership.pdf over to C:\Users\Ankit\Pictures\Release 1.4\Semester 7\Client Current
+copy D:\Backups\Archive\shopping_comparison_october.xlsx over to \\OfficePC\Public\intent models\design files\WinPilot Tests
+copy G:\Shared\Graphics Troubleshooting\To Review\documents_to_print.pdf over to E:\Archive\Client B
+copy C:\Users\Ankit\Desktop\warehouse\archives\README.md over to D:\Backups\To Submit
+copy C:\Program Files (x86)\exports\database\draft_attendance.docx over to D:\Research\Downloads
+copy F:\External Drive\Research Papers\operations\lab_computer_fault_log.csv to WinPilot Drafts
+copy D:\Research\HR\config\weekly_status_update.docx to DBMS Project Current
+copy D:\WinPilot\Week 42\api tests\coding_round_results.xlsx to Visitor Management
+copy D:\Work\WinPilot\Home Repairs\returns_register.xlsx to Team Builds
+copy F:\USB Backup\backups\finance\long_filename_cases.csv to Payroll Manager - Photos
+copy C:\Program Files (x86)\Release 1.4\Exam Preparation\cache_hit_ratio.xlsx to 2025 Payroll Manager
+copy D:\Projects\Travel\android_keystore_backup.txt to Move Tests
+copy G:\Shared\src\Semester 7\performance_goals_2026.xlsx to API Tests
+copy C:\Projects\Downloads\family_trip_itinerary.docx to WinPilot Intent Detection
+copy C:\Users\Ankit\Desktop\Travel\disk_health_report.html to Utility Bills
+copy F:\External Drive\migrations\datasets\exit_interview_notes.docx to D:\Shared\Generated Records
+copy C:\Users\Ankit\Downloads\Model Outputs\invoice_1048.pdf to E:\Media\Sprint 13
+copy D:\Source\Exam Preparation\Graphics Troubleshooting\receipt_cafe.png to D:\College\GEHU\exports\engineering\Python Projects
+copy C:\Users\Ankit\Pictures\Research\bug_triage.xlsx to D:\Shared\GEHU
+copy E:\Media\Graphics Troubleshooting\validation data\ram_test_summary.html to E:\Incoming\Firewall Configs\src\Sales Operations
+copy E:\College\presentations\Semester 7\game_level_blockout.blend to D:\Source\HR\customer support\Client Responses
+copy F:\USB Backup\Travel\helpdesk_escalation_matrix.xlsx to \\FileServer\Departments\assets\Payroll Manager\Application Profiles
+copy E:\College\marketing\Source Code\research_sources.bib to \\OfficePC\Public\warehouse\Sprint 13\Tax Returns
+copy \\NAS01\Shared\marketing\Release 1.4\sales_summary.xlsx to C:\Users\Public\Documents\Home Repairs\imports\Client Audio
+copy C:\Users\Ankit\Pictures\training data\travel\family_trip_itinerary.docx to D:\Data\Final Versions
+copy D:\College\GEHU\validation data\HR\shader_test.frag to the destination folder Client Version 2
+copy D:\Work\Source\draft_booking.json to the destination folder DBMS Project Suppliers
+copy C:\Users\Public\Documents\Graphics Troubleshooting\Research Papers\risk_register.xlsx to the destination folder Payroll Manager - Q4 2026
+copy C:\Users\Ankit\Documents\Source\tuition_receipt.pdf to the destination folder Payroll Manager Working Files
+copy C:\Program Files (x86)\Network Captures\customer support\student_lab_groups.xlsx to the destination folder DBMS Project - Outputs
+copy C:\Temp\Assignments\cinema_receipt.pdf to the destination folder Published
+copy E:\Incoming\Week 42\meeting notes\voice_note.m4a to the destination folder DBMS Project - Tracking
+copy F:\USB Backup\Training Data\draft_payroll.svg to the destination folder Payroll Manager - Code
+copy E:\Personal\release builds\design files\court_hearing_calendar.ics to the destination folder Utilities
+copy D:\Research\October 2026\logs\creative_review_comments.docx to the destination folder Payroll Manager Results
+copy C:\Program Files\Final Versions\Firewall Configs\music_practice_schedule.pdf to the destination folder D:\WinPilot\Driver Backups\photos\Team Week 43
+copy \\OfficePC\Public\Release 1.4\Source Code\playwright_trace.zip to the destination folder D:\WinPilot\Graphics Troubleshooting\tests\Help Centre Articles
+copy C:\Users\Ankit\Documents\Week 42\campaigns\settings.py to the destination folder D:\College\GEHU\backups\intent models\Project Sprint 13
+copy D:\Source\presentations\October 2026\documents_archive.zip to the destination folder C:\Users\ankit.kumar\Documents\Photos
+copy C:\Projects\Invoices\sample_chain_of_custody.pdf to the destination folder F:\External Drive\generated\backups\Project Week 42
+copy \\FileServer\Departments\backend\migrations\forklift_service_log.xlsx to the destination folder C:\Users\Ankit\Documents\finance\Travel Planning\University Exports
+copy C:\Temp\meeting notes\database\invoice_dispute_1048.docx to the destination folder C:\Temp\Source Code
+copy E:\Personal\Audio Troubleshooting\docs\quality_inspection_form.xlsx to the destination folder D:\Staging\exports\release builds\Client November
+copy D:\College\GEHU\Audio Troubleshooting\api tests\filesystem_operation_audit.csv to the destination folder C:\Users\Ankit\Videos\Network Captures\finance\Version 2
+copy E:\Media\inventory\release builds\gst_invoice_register.csv to the destination folder D:\Research\Test Results
+copy D:\College\GEHU\Downloads\research_presentation_october.pptx to the directory Department Checkpoints
+copy D:\Projects\Semester 7\imports\parking_receipt.pdf to the directory Synthetic Data
+copy E:\College\marketing\backups\case_collision_audit.csv to the directory Backend Services
+copy C:\Users\Ankit\Documents\Archive\weekly_cleaning_roster.xlsx to the directory Year Designs
+copy C:\Dev\temp\Assignments\new_employee_induction_checklist.docx to the directory Stakeholder Feedback
+copy E:\Archive\Backups\boarding_pass_sample.pdf to the directory GEHU History
+copy C:\Users\Ankit\Pictures\database\Exam Preparation\car_inspection_report.pdf to the directory WinPilot Revisions
+copy D:\Work\Archive\warranty_expiry_tracker.xlsx to the directory Client Team A
+copy C:\Users\Ankit\Pictures\model outputs\To Submit\club_membership.pdf to the directory Compliance
+copy C:\Users\Ankit\Downloads\database\family photos\experiment_config.yaml to the directory College 2025
+copy F:\USB Backup\Model Outputs\task_failure_reproduction.docx to the directory D:\Backups\Videos
+copy E:\Incoming\travel\screenshots\classification_report.txt to the directory C:\Users\Ankit\Videos\client files\Exam Preparation\Year Metrics
+copy D:\Source\inventory\contracts\requirements.txt to the directory D:\WinPilot\Research Papers\To Review\Course Recordings
+copy C:\Dev\backend\Final Versions\release_tag_manifest.json to the directory \\192.168.1.20\teamshare\Course Material\Course Material\Returns
+copy \\backup-server\weekly\Assignments\src\bookmark_backup.html to the directory D:\Research\invoices\Shared Documents\Design Files
+copy D:\Data\Network Captures\recordings\software_bill_of_materials.json to the directory \\OfficePC\Public\test results\Reports\Browser Compatibility
+copy \\backup-server\weekly\warehouse\release builds\service_feedback_summary.docx to the directory G:\Shared\website\family photos\Submitted for Correction
+copy C:\Users\Public\Documents\archives\Reports\scan_20261020_0930.pdf to the directory C:\ProgramData\Research Papers\backups\Unsorted
+copy C:\Users\ankit.kumar\Documents\Research\handover_certificate.pdf to the directory D:\Projects\Datasets
+copy D:\Staging\Graphics Troubleshooting\Personal Finance\company_background_brief.pdf to the directory C:\Users\Ankit\OneDrive\database\travel\Templates
+copy file draft_returns.docx into WinPilot - Q3 2026
+copy file equipment_register_approved.tiff into College Records
+copy file risk_register.xlsx into GEHU Support
+copy file audit_evidence_v2.fbx into DNS Exports
+copy file access_denied_repro_steps.docx into Book Summaries
+copy file webinar_registration_confirmation.pdf into USB Backups
+copy file risk_assessment_backup.pptx into GEHU - Operations
+copy file data_quality_checks.py into University - Published
+copy file sports_match_schedule.pdf into Payroll Manager To Copy
+copy file visa_appointment_letter.pdf into Out-of-Vocabulary Cases
+copy file semester_result_archive.zip into \\192.168.1.20\teamshare\diagnostics\Device Reports\Year Students
+copy file migration_plan.webm into \\backup-server\weekly\Firewall Configs\Personal Finance\Project Documentation
+copy file disaster_recovery_final.weights into C:\Users\Public\Documents\Exam Preparation\October 2026\Model Monitoring
+copy file new_employee_induction_checklist.docx into C:\Users\Ankit\Downloads\October 2026
+copy file analytics_dashboard_backup.ost into \\192.168.1.20\teamshare\Final Versions\Personal Finance\Virtual Machines
+copy file social_media_plan.xlsx into F:\USB Backup\To Submit
+copy file company_background_brief.pdf into C:\Users\Ankit\Downloads\website\release builds\Department Receipts
+copy file query_results.pdf into C:\Program Files (x86)\Network Captures\customer support\To Submit
+copy file contract_draft.sql into C:\Users\ankit.kumar\Documents\October 2026
+copy file asset_inventory.err into E:\Archive\travel\NER experiments\Recovery Files
+copy file status_report.msi to Scheduled Tasks
+copy file cloud_cost_report_final.gz to Team Raw
+copy file index.html to Department Working
+copy file restore_test.py to Project Manifests
+copy file court_hearing_calendar.ics to Legal Documents
+copy file travel_document_bundle.zip to WinPilot Voice Pipeline
+copy file readonly_attribute_cases.csv to Client Planning
+copy file regression_suite_reviewed.tmp to Import Staging
+copy file game_mod_load_order.txt to Team Logs
+copy file bank_kyc_update_form.pdf to SSH Configs
+copy file smart_home_devices.csv to C:\Users\Ankit\Downloads\finance\October 2026\Disk Cleanup Review
+copy file department_timetable_revision.pdf to E:\Archive\Reports
+copy file voice_memo_12.aac to \\FileServer\Departments\Final Versions\entity pools\Year Approved
+copy file tax_computation.tiff to E:\College\SQL Scripts
+copy file localization_strings.po to D:\Research\Lab Work
+copy file network_topology_v2.hpp to E:\Incoming\intent models\archives\Meal Planning
+copy file meeting_minutes_backup.gif to \\backup-server\weekly\training data\api tests\Windows Settings
+copy file social_media_plan_final.java to F:\USB Backup\family photos\Research Papers\Year Documents
+copy file data_dictionary_customer.xlsx to \\FileServer\Departments\HR\Employee Records
+copy file exit_interview_notes.docx to D:\Backups\datasets\temp\Data Quality
+copy file C:\Users\Ankit\Desktop\Invoices\dbms_mini_project.pdf into University Releases
+copy file D:\College\GEHU\entity pools\Home Repairs\meal_prep_plan_october.docx into Website Redesign
+copy file E:\College\src\client files\old_laptop_backup.zip into Website Content
+copy file E:\Media\training data\campaigns\ner_prediction_examples.jsonl into 2026 College
+copy file C:\Users\Ankit\Pictures\Training Data\render_preview.png into Project Private
+copy file \\backup-server\weekly\diagnostics\presentations\privacy_notice.docx into DBMS Project - Semester 5
+copy file C:\Users\Ankit\Downloads\Lab Work\Firewall Configs\electricity_bill.pdf into GEHU - Outputs
+copy file E:\Archive\training data\Sprint 13\index_rebuild_history.csv into WinPilot - Backups
+copy file E:\Incoming\October 2026\exports\resume_for_python_role.pdf into Meeting Follow-ups
+copy file D:\WinPilot\Screenshots\frontend_bundle_stats.html into College - Packages
+copy file C:\Users\Ankit\Desktop\NER experiments\Device Reports\office_supply_order.xlsx into E:\Archive\intent models\WinPilot\Source Code
+copy file C:\Users\Ankit\Desktop\client files\Release 1.4\sample_chain_of_custody.pdf into \\192.168.1.20\teamshare\backups\logs\Meeting Follow-ups
+copy file C:\Users\Ankit\Videos\Documents\shift_roster.xlsx into \\192.168.1.20\teamshare\WinPilot\WinPilot\Training Corpora
+copy file D:\College\GEHU\tests\receipts\specimen_register.xlsx into C:\Program Files (x86)\backups\Semester 7\Data Quality
+copy file D:\Work\Client A\migrations\index_rebuild_history.csv into C:\Users\Ankit\Downloads\warehouse\Firewall Configs\Department Research
+copy file E:\College\contracts\October 2026\rename_file_edge_cases.jsonl into D:\Backups\Assignments\Graphics Troubleshooting\Hotel Reservations
+copy file E:\Media\Research\database_restore_test.log into \\192.168.1.20\teamshare\travel\Device Reports\Path Tests
+copy file \\FileServer\Departments\Source Code\presentations\shopping_list_week42.txt into D:\College\GEHU\imports\src\Client 2025
+copy file F:\USB Backup\customer support\logs\intent_confidence_histogram.png into C:\Users\Ankit\Documents\validation data\WinPilot\Marketing Analytics
+copy file D:\Staging\model outputs\Release 1.4\3d_print_slicer_profile.ini into C:\Users\Ankit\Pictures\campaigns\client files\Licensed Software
+copy file D:\Research\generated\tests\dog_training_notes.md to GEHU Documentation
+copy file F:\External Drive\archives\Final Versions\vpn_connection_history.csv to GEHU Revisions
+copy file D:\Research\intent models\Course Material\final_reviewed.docx to University Inputs
+copy file G:\Shared\Release 1.4\Windows Logs\shipment_customs_documents.zip to Payroll Manager - Policies
+copy file C:\Users\Ankit\Pictures\Receipts\student_attendance_october.xlsx to Blender Projects
+copy file \\OfficePC\Public\config\Release 1.4\meal_prep_plan_october.docx to DBMS Project Photos
+copy file C:\Users\Ankit\OneDrive\WinPilot\shipment_exception_log.csv to Team Cleaned
+copy file C:\Temp\Downloads\press_release.docx to Year Checkpoints
+copy file C:\Dev\docs\Home Repairs\intent_confusion_matrix.png to College - To Move
+copy file \\NAS01\Shared\model outputs\campaigns\product_release_checklist.docx to Semester 3
+copy file D:\WinPilot\Travel\uptime_sla_calculation.xlsx to C:\Users\Ankit\OneDrive\screenshots\contracts\Migration Validation
+copy file C:\Users\Ankit\Desktop\config\family photos\plant_seedling_inventory.xlsx to C:\Users\Ankit\Documents\api tests\Old Versions\Client Materials
+copy file D:\Source\operations\Week 42\vpc_network_diagram.drawio to D:\Data\Week 42\Certificates\Architecture Decision Records
+copy file \\OfficePC\Public\intent models\design files\container_build_log.txt to C:\Users\Ankit\OneDrive\Graphics Troubleshooting\Graphics Troubleshooting\Support Team
+copy file D:\Projects\Data\fitness_challenge_results.csv to C:\Dev\Final Versions
+copy file \\NAS01\Shared\design files\backend\draft_network.yaml to C:\Users\Ankit\OneDrive\tests\client files\DNS Exports
+copy file D:\Backups\Windows Logs\inventory\race_registration_confirmation.pdf to C:\Dev\Game Saves
+copy file C:\Users\Ankit\OneDrive\recordings\client files\tour_operator_quote.pdf to F:\External Drive\Source Code\engineering\Project Data
+copy file D:\Backups\meeting notes\design files\student_attendance_october.xlsx to E:\College\Test Results
+copy file C:\Users\Public\Documents\engineering\archives\plumber_visit_notes.docx to C:\Temp\Old Versions
+copy the file driver_package.msi into Project Current
+copy the file salary_slip_october.pdf into Department Validation
+copy the file fuel_card_transactions.csv into DBMS Project Operations
+copy the file meeting_agenda.rs into Refund Cases
+copy the file payroll_register_revised.tf into Department Exports
+copy the file api_test_results.gif into Year Working
+copy the file payroll_variance_report.xlsx into Ready to Share
+copy the file tour_operator_quote.pdf into College Tracking
+copy the file draft_restore.docx into Social Media
+copy the file inference_latency_benchmark.csv into Year Audits
+copy the file course_materials_week7.zip into C:\Users\Ankit\Downloads\Backups
+copy the file brand_logo_monochrome.svg into C:\ProgramData\test results\WinPilot\CRM Exports
+copy the file android_keystore_backup.txt into E:\Media\Receipts
+copy the file flight_web_checkin_confirmation.pdf into C:\Users\Ankit\Documents\backend\src\Client Records
+copy the file salary_statement_revised.ass into C:\Program Files (x86)\Reports\Firewall Configs\Comics
+copy the file static_analysis.sarif into C:\Users\ankit.kumar\Documents\Archives
+copy the file account_lockout_events.evtx into F:\USB Backup\Logs
+copy the file disaster_recovery_approved.pfx into D:\Work\Assignments
+copy the file supplier_quote_approved.dmp into D:\Projects\Old Versions
+copy the file privacy_assessment_reviewed.stl into C:\Users\Ankit\Documents\Travel
+copy the file hotfix_notes_october.md to College Audio
+copy the file sharing_violation_trace.etl to GEHU Outputs
+copy the file train_booking_dehradun.pdf to Audits
+copy the file conference_abstract_v2.docx to WinPilot - Revisions
+copy the file social_media_calendar.xlsx to WinPilot Entity Recognition
+copy the file installer_signing_report.txt to WinPilot - Materials
+copy the file legacy_import_errors.csv to Client Finance
+copy the file project_charter_2026_10.pem to Project Processed
+copy the file localisation_strings_revised.c to College - To Copy
+copy the file weekly_update_2026_10.pcapng to Sprint Planning
+copy the file windows_installer_config.wxs to C:\Dev\Finance Team
+copy the file vulnerability_report_approved.pdf to D:\Shared\October 2026
+copy the file container_inventory_final.onnx to C:\Temp\WinPilot3
+copy the file salary_statement_backup.exe to C:\Users\ankit.kumar\Documents\Release 1.4
+copy the file leave_request.m4a to C:\Users\Ankit\Videos\test results\Network Captures\Business Continuity
+copy the file reading_list.xlsx to \\192.168.1.20\teamshare\Device Reports\imports\Year Inventory
+copy the file seo_report_v2.msg to D:\Data\Datasets
+copy the file dns_records.jar to F:\USB Backup\tests\assets\WinPilot Exports
+copy the file attendance_sheet_revised.gradle to D:\College\GEHU\Sprint 13\To Submit\Year Code
+copy the file project_scope_draft.pfx to D:\Research\Database
+copy the file \\FileServer\Departments\Windows Logs\Week 42\expense_split_october.xlsx into College - Audio
+copy the file C:\Users\Ankit\Pictures\Downloads\car_registration_renewal.pdf into Important Documents
+copy the file \\192.168.1.20\teamshare\generated\test results\train_pnr_confirmation.pdf into Emulator Configuration
+copy the file C:\Program Files\engineering\Driver Backups\emulator_controller_profile.cfg into DBMS Project Releases
+copy the file C:\Users\ankit.kumar\Documents\Photos\returns_authorisation_5832.pdf into College - Photos
+copy the file E:\Archive\Assignments\pyproject.toml into DBMS Project - Week 43
+copy the file C:\Users\Ankit\Videos\Home Repairs\family photos\draft_returns.docx into WinPilot - Private
+copy the file C:\Projects\Screenshots\medical_claim_form.pdf into College - Designs
+copy the file D:\Projects\Source Code\meeting notes\library_due_notice.pdf into Payroll Manager Archived
+copy the file C:\Users\Ankit\Pictures\archives\Lab Work\stock_expiry_alerts.csv into Rejected Records
+copy the file C:\ProgramData\presentations\inventory\event_run_of_show.docx into D:\Work\travel\backups\Accessibility Review
+copy the file C:\Users\Ankit\Pictures\logs\database\stock_expiry_report.xlsx into E:\Media\Config
+copy the file C:\Users\Ankit\Pictures\operations\HR\browser_bookmarks_2026.html into D:\Source\src\Semester 7\Travel Planning
+copy the file C:\Program Files\diagnostics\entity pools\company_shortlist_october.xlsx into F:\External Drive\Assignments\recordings\Team Records
+copy the file D:\Research\meeting notes\Shared Documents\integration_test_trace.log into C:\Users\Ankit\Desktop\api tests\Research Papers\Production Incidents
+copy the file C:\Temp\Documents\node_modules_audit.json into C:\Users\Ankit\Documents\Model Outputs
+copy the file C:\Users\Ankit\Pictures\assets\warehouse\lab_calibration_schedule.ics into C:\Temp\Invoices
+copy the file C:\Users\Ankit\OneDrive\travel\Graphics Troubleshooting\schema_v2.sql into D:\Data\client files\HR\Year Audits
+copy the file C:\Users\Ankit\Videos\validation data\Week 42\student_attendance_exception.csv into \\FileServer\Departments\screenshots\generated\Comics
+copy the file G:\Shared\Projects\migrations\cat_adoption_documents.pdf into D:\Data\family photos\operations\Project Templates
+copy the file C:\Dev\intent models\To Submit\flight_confirmation.pdf to College Shared
+copy the file D:\Data\HR\To Review\school_transfer_certificate.pdf to University - Finance
+copy the file C:\Users\Ankit\Videos\Audio Troubleshooting\database\device_enrolment_report.xlsx to College - October 2026
+copy the file \\NAS01\Shared\config\screenshots\ci_pipeline_results.json to Year Releases
+copy the file D:\Shared\Downloads\repository_mirror.bundle to Version 2
+copy the file D:\Backups\Documents\team_folder_index.csv to College - Inventory
+copy the file G:\Shared\Firewall Configs\imports\speech_samples_manifest.csv to DBMS Project - Raw Data
+copy the file C:\Users\Ankit\Pictures\Documents\network_adapter_report.html to Project Invoices
+copy the file D:\College\GEHU\Final Versions\campaigns\migration_notes.md to Manual Test Results
+copy the file C:\Users\Ankit\Desktop\customer support\Travel Planning\medical_reimbursement_claim.pdf to Operating Systems Results
+copy the file F:\USB Backup\Source\tax_documents_2025.pdf to F:\USB Backup\Final Versions\Personal Finance\3D Assets
+copy the file C:\Users\Ankit\Pictures\Sprint 13\presentations\road_trip_expense_split.xlsx to D:\Research\Source Code\imports\Old Versions
+copy the file \\NAS01\Shared\presentations\migrations\race_registration_confirmation.pdf to E:\Media\Generated Records
+copy the file \\NAS01\Shared\travel\exports\homework_tracker.xlsx to C:\Users\Ankit\Documents\Reports
+copy the file C:\Users\Ankit\OneDrive\archives\Old Versions\survey_responses.xlsx to C:\Users\Ankit\OneDrive\config\migrations\Client Reviewed
+copy the file D:\Data\Travel\stock_expiry_report.xlsx to D:\Work\Reports
+copy the file C:\Users\Ankit\Documents\design files\Old Versions\firefox_bookmarks_backup.html to \\OfficePC\Public\Home Repairs\finance\Client Designs
+copy the file E:\Archive\Travel Planning\recordings\delivery_photos.zip to C:\Program Files\Semester 5\backend\Client Q3
+copy the file \\192.168.1.20\teamshare\src\receipts\software_bill_of_materials.json to \\backup-server\weekly\October 2026\warehouse\Browser Bookmarks
+copy the file C:\Program Files\Exam Preparation\Assignments\neighbourhood_event_flyer.jpg to E:\College\exports\contracts\Department Approved
+could you copy api_specification.yml into Unseen Entity Tests
+could you copy release_notes_approved.fig into Customer Feedback
+could you copy podcast_episode_queue.opml into WinPilot - For Review
+could you copy shift_schedule_revised.tf into College Responses
+could you copy VID_20261017_201501.mp4 into Read Only Reference
+could you copy quality_inspection_form.xlsx into Employee Records
+could you copy seo_report_revised.war into WinPilot - Photos
+could you copy department_notice_october.pdf into Payroll Manager Clean Data
+could you copy leave_request_backup.otf into College - Old Versions
+could you copy vmware_network_config.vmx into Operating Systems - Scripts
+could you copy workshop_materials.zip into C:\Program Files (x86)\operations\NER experiments\Music Playlists
+could you copy weekly_update.tsx into D:\Staging\To Submit\api tests\Vehicle Documents
+could you copy slow_query_analysis.ts into D:\Projects\Semester 7\imports\Project Evidence
+could you copy privacy_cookie_inventory.xlsx into C:\Temp\Config
+could you copy draft_payroll.svg into E:\Media\Release 1.4\photos\Department Shared Files
+could you copy regression_suite_2026_10.reg into F:\External Drive\Audio Troubleshooting\tests\Approved Documents
+could you copy privacy_assessment_approved.pst into E:\Archive\finance\travel\Home Renovation
+could you copy cash_flow_final.vhdx into C:\ProgramData\client files\imports\Department Imports
+could you copy domain_dns_records.csv into C:\Temp\Semester 5\Audio Troubleshooting\Deployment Rollbacks
+could you copy 3d_print_slicer_profile.ini into E:\Incoming\Exam Preparation\src\Textures
+could you copy draft_booking.json to GEHU - Inputs
+could you copy website_audit_backup.js to Registrations
+could you copy meeting_agenda_revised.tsx to College Rejected
+could you copy voice_over_script.docx to Year Operations
+could you copy supplier_quote_draft.example to DBMS Project Designs
+could you copy bus_booking_confirmation.pdf to Year Exports
+could you copy energy_consumption_october.csv to Operating Systems Evidence
+could you copy contract_draft.mkv to GEHU Drafts
+could you copy support_case_final.hcl to Release Candidate
+could you copy draft_experiment.mp4 to Folder Operations
+could you copy davinci_project_archive.drp to E:\College\Shared Drive
+could you copy vulnerability_report.msix to \\OfficePC\Public\finance\PBL Phase 2\Research Papers
+could you copy draft_v2.docx to D:\Projects\Assignments
+could you copy container_build_log.txt to D:\Staging\Course Material\backend\Driver Installers
+could you copy home_cleaning_checklist.docx to E:\College\Game Saves
+could you copy weekly_report.docx to \\OfficePC\Public\Home Repairs\api tests\Team Imports
+could you copy meeting_agenda.key to C:\Users\Ankit\Videos\receipts\Graphics Troubleshooting\Submitted for Correction
+could you copy cycle_count_results.xlsx to D:\Projects\Tests
+could you copy returns_tracking_5832.txt to \\FileServer\Departments\assets\Driver Backups\Hindi Translation
+could you copy vpn_configuration_v3.bat to \\backup-server\weekly\temp\intent models\Department Designs
+could you copy D:\Source\backups\test results\container_build_log.txt into Department Policies
+could you copy F:\USB Backup\Semester 5\company_research_notes.md into imports
+could you copy C:\Dev\To Submit\Client A\electrician_quote_2026.pdf into Department Forms
+could you copy C:\Users\Ankit\Desktop\marketing\Network Captures\garden_seed_order.pdf into Payroll Manager - Requests
+could you copy \\NAS01\Shared\validation data\migrations\meeting_room_av_checklist.pdf into WinPilot Results
+could you copy E:\Media\Source\student_project_rubric.pdf into Portable Apps
+could you copy C:\Users\Ankit\Desktop\config\tests\electricity_consumption_october.csv into Internal Audit
+could you copy \\backup-server\weekly\warehouse\datasets\folder_migration_plan.docx into Operating Systems Scripts
+could you copy F:\External Drive\To Submit\customer support\donation_receipt_october.pdf into Payroll Manager - To Copy
+could you copy D:\Data\PBL Phase 2\src\hotel_booking.pdf into College Previous
+could you copy C:\Program Files\PBL Phase 2\design files\draft_database.svg into C:\Users\Ankit\Desktop\Source Code
+could you copy E:\Archive\test results\screenshots\unicode_path_test_cases.csv into D:\Shared\Entity Pools
+could you copy \\192.168.1.20\teamshare\contracts\Semester 5\luggage_inventory.xlsx into C:\Users\Public\Documents\operations\family photos\Documents for Accountant
+could you copy C:\Program Files\recordings\contracts\long_filename_cases.csv into C:\Users\Ankit\Desktop\contracts\Device Reports\Department Raw
+could you copy C:\Program Files\Week 42\imports\file_lock_retry_results.csv into E:\Archive\Payroll Manager\contracts\Installer Files
+could you copy E:\Archive\Archived 2024\old_laptop_backup.zip into D:\Projects\warehouse\Payroll Manager\Team Finance
+could you copy F:\USB Backup\Assignments\internal_audit_plan.xlsx into C:\Users\Ankit\Desktop\design files\docs\Project Contracts
+could you copy D:\WinPilot\Screenshots\windows_terminal_profile.json into C:\Temp\Finance Team
+could you copy E:\Personal\datasets\imports\object_storage_inventory.csv into E:\Media\Week 42
+could you copy F:\USB Backup\Week 42\contracts\software_bill_of_materials.json into C:\Users\Ankit\Desktop\release builds\config\Privacy
+could you copy D:\Research\contracts\website\device_manager_export.txt to Monthly Review
+could you copy F:\USB Backup\Semester 5\Projects\wedding_guest_tracker.xlsx to Operating Systems Processed Data
+could you copy D:\WinPilot\receipts\archives\subscription_bills_october.pdf to Year Receipts
+could you copy C:\Users\Ankit\Documents\model outputs\Research Papers\meeting_audio.wav to Project Operations
+could you copy \\FileServer\Departments\Research Papers\Driver Backups\automation_plugin_test_results.xlsx to GEHU - Documents
+could you copy C:\Users\ankit.kumar\Documents\Receipts\passport_renewal_checklist.docx to Operating Systems - References
+could you copy C:\Temp\Driver Backups\engineering\resume_ankit.pdf to Sales Operations
+could you copy \\FileServer\Departments\generated\Travel Planning\driver_rollback_plan.docx to University - Archives
+could you copy C:\ProgramData\client files\imports\end_to_end_test_video.mp4 to Project To Review
+could you copy D:\Backups\Model Outputs\uv.lock to Terraform
+could you copy C:\Temp\Semester 5\Client A\technical_interview_bank.docx to C:\Users\ankit.kumar\Documents\Backups
+could you copy C:\Users\Ankit\Pictures\receipts\tests\internal_audit_plan.xlsx to D:\Work\Assignments\Network Captures\Brand Guidelines
+could you copy C:\Users\Ankit\Documents\PBL Phase 2\luggage_tag_print.pdf to C:\Users\Ankit\Downloads\Database
+could you copy C:\Users\Ankit\Videos\Research\vendor_tax_details.xlsx to C:\Users\Public\Documents\Engineering Team
+could you copy E:\Archive\Model Outputs\equipment_checkout_log.xlsx to C:\Users\Ankit\OneDrive\Payroll Manager\Supplier North\BIOS Notes
+could you copy D:\Work\diagnostics\Semester 5\courier_pickup_schedule.ics to D:\Data\exports\Assignments\Project Scripts
+could you copy D:\Work\Training Data\travel_document_bundle.zip to D:\Projects\imports\invoices\Year Reviewed
+could you copy D:\Staging\contracts\invoices\ecommerce_tax_rules.xlsx to \\OfficePC\Public\meeting notes\frontend\Year Assets
+could you copy C:\Users\Ankit\Desktop\Invoices\node_modules_audit.json to C:\Users\Ankit\Pictures\invoices\src\Personal Learning
+could you copy D:\Data\Semester 5\warehouse_map.png to D:\Research\Old Versions\tests\Team Invoices
+create a copy of uptime_summary_draft.img in College Policies
+create a copy of quarterly_review_backup.conf in Year Cleaned
+create a copy of payroll_register.conf in TLS Certificates
+create a copy of bank_reconciliation_draft.ost in Client Deliverables
+create a copy of data_warehouse_refresh.log in DBMS Project Raw Data
+create a copy of order_status_export.json in Privacy-Safe Samples
+create a copy of annual_report_draft.gif in Team Customers
+create a copy of onboarding_guide.pdf in Project Results
+create a copy of dns_records.appx in Payroll Manager Exports
+create a copy of restore_test.sh in Fonts
+create a copy of customer_survey_approved.ods in \\FileServer\Departments\generated\Semester 7\Release Notes
+create a copy of thesis_submission_receipt.pdf in C:\Users\Ankit\Pictures\recordings\docs\Year Data
+create a copy of merge_conflict_notes.txt in D:\College\GEHU\imports\Windows Logs\Department Contracts
+create a copy of uptime_sla_calculation.xlsx in C:\Users\Ankit\Downloads\Research Papers\backups\Reference Material
+create a copy of quality_sample_rejection.xlsx in E:\Personal\family photos\Sprint 13\DBMS Project
+create a copy of project_scope_backup.csv in D:\Work\WinPilot\Home Repairs\Year Outputs
+create a copy of registry_backup.reg in \\NAS01\Shared\Final Versions\Personal Finance\Team Q4
+create a copy of license_register.appx in D:\Work\family photos\database\Browser Session Backups
+create a copy of customer_export.mkv in D:\Projects\website\invoices\Client Assets
+create a copy of accessibility_keyboard_test.csv in C:\Program Files\training data\Graphics Troubleshooting\Invitations
+create a copy of \\NAS01\Shared\finance\family photos\draft_travel.png in College Exports
+create a copy of D:\Shared\Semester 5\event_pass_2026.png in Query Performance
+create a copy of C:\Users\Ankit\Documents\logs\WinPilot\product_roadmap.pptx in Client Training
+create a copy of C:\ProgramData\Assignments\contracts\hostel_room_change_request.pdf in WinPilot Dataset
+create a copy of D:\Research\Receipts\queue_retry_analysis.ipynb in WinPilot Builds
+create a copy of \\NAS01\Shared\Windows Logs\Exam Preparation\inference_latency_benchmark.csv in Payroll Manager Designs
+create a copy of C:\Projects\Backups\stock_expiry_report.xlsx in Docker
+create a copy of C:\Users\Ankit\AppData\Local\Temp\winpilot_import.tmp in Year Outputs
+create a copy of C:\Windows\System32\winevt\Logs\System.evtx in Course Recordings
+create a copy of D:\Projects\Downloads\coding_practice_log.csv in Leave and Attendance
+create a copy of C:\Users\ankit.kumar\Documents\Archive\routes.py in \\backup-server\weekly\generated\Network Captures\Year Week 43
+create a copy of D:\Research\engineering\Supplier North\draft_automation.pptx in F:\USB Backup\Presentations
+create a copy of C:\Users\Public\Documents\WinPilot\approval_history.csv in D:\Work\Semester 5\archives\Customer Research
+create a copy of D:\College\GEHU\Exam Preparation\October 2026\webhook_delivery_log.csv in D:\Research\engineering\Supplier North\Year Cleaned
+create a copy of D:\Backups\Backups\authentication_failure_log.csv in C:\Users\Public\Documents\assets\customer support\Dataset QA
+create a copy of C:\Users\Ankit\Pictures\Firewall Configs\Old Versions\offline_files_status.csv in D:\Source\warehouse\Assignments\Code Reviews
+create a copy of C:\Temp\Client A\Release 1.4\birthday_guest_list.xlsx in C:\Dev\Source Code
+create a copy of D:\Backups\Driver Backups\To Submit\assignment_submission_revised.pdf in G:\Shared\backups\WinPilot\Knowledge Base
+create a copy of \\OfficePC\Public\Projects\Network Captures\career_fair_map.png in C:\Users\Ankit\Downloads\Semester 7
+create a copy of E:\Incoming\imports\customer support\windows_api_notes.md in C:\Program Files (x86)\finance\Projects\Contract Archive
+create a copy of the file cleaned_customers.parquet inside DBMS Project - Designs
+create a copy of the file contract_signed_v2.sys inside Payroll Manager Receipts
+create a copy of the file build_manifest.apk inside Project October
+create a copy of the file quarterly_review_draft.old inside University - Templates
+create a copy of the file accessibility_audit_draft.prof inside University - Incoming
+create a copy of the file battery_usage_history.csv inside Operating Systems Clean Data
+create a copy of the file restore_test_backup.ts inside Practical Exam
+create a copy of the file contract_signed_final.sqlite inside WinPilot Contracts
+create a copy of the file error_0xc0000005.log inside GEHU - To Sort
+create a copy of the file price_comparison_draft.pkl inside WinPilot - Releases
+create a copy of the file browser_matrix_backup.eml inside C:\Users\Ankit\Documents\release builds\model outputs\Team Reviewed
+create a copy of the file complaints_dashboard_export.csv inside C:\Program Files (x86)\engineering\To Review\Book Notes
+create a copy of the file shift_schedule.odp inside C:\Dev\Assignments\release builds\PostgreSQL
+create a copy of the file regression_suite.war inside D:\Work\temp\Certificates\Product Roadmap
+create a copy of the file chrome_extension_list.csv inside C:\ProgramData\To Review\Shared Documents\Mobile Backup
+create a copy of the file vpn_configuration_revised.dwg inside E:\Archive\training data\Sprint 13\Customer Feedback
+create a copy of the file password_manager_export_encrypted.csv inside C:\Users\Ankit\Downloads\test results\PBL Phase 2\Team Files
+create a copy of the file .env.example inside \\192.168.1.20\teamshare\Windows Logs\client files\Solved Question Papers
+create a copy of the file draft_automation.pptx inside C:\Users\Ankit\Downloads\Sprint 13
+create a copy of the file restore_test_revised.obj inside \\FileServer\Departments\To Review\operations\Bills
+create a copy of the file E:\Archive\Shared Documents\Client A\research_participant_schedule.ics inside Payroll Manager - Schedules
+create a copy of the file \\NAS01\Shared\Device Reports\WinPilot\shopping_return_label.pdf inside Browser Bookmarks
+create a copy of the file \\backup-server\weekly\WinPilot\config\cross_browser_screenshots.zip inside GEHU - Students
+create a copy of the file C:\Users\Ankit\Downloads\Downloads\contact_form_test_results.csv inside Department Requests
+create a copy of the file E:\Media\Semester 5\domain_renewal_receipt.pdf inside Year Reports
+create a copy of the file E:\Personal\NER experiments\entity pools\model_ablation_results.xlsx inside GEHU Requests
+create a copy of the file D:\Work\Device Reports\screenshots\walking_log_october.csv inside Accounts Receivable
+create a copy of the file C:\Dev\logs\Graphics Troubleshooting\seed_users.sql inside College Manifests
+create a copy of the file C:\Users\Ankit\Desktop\Backups\cycle_count_results.xlsx inside DBMS Project Engineering
+create a copy of the file C:\Users\Ankit\OneDrive\model outputs\marketing\legal_case_summary.docx inside University - Assets
+create a copy of the file C:\Users\Public\Documents\October 2026\Driver Backups\batch_cleanup_script.bat inside D:\Work\Week 42\intent models\Engineering Team
+create a copy of the file D:\Work\Assignments\Network Captures\community_event_flyer.png inside C:\Users\Public\Documents\Windows Logs\invoices\WinPilot Imports
+create a copy of the file E:\Media\Invoices\checksum_manifest.sha256 inside D:\WinPilot\customer support\imports\Client Tickets
+create a copy of the file D:\Work\Travel\warranty_expiry_tracker.xlsx inside D:\Data\Database
+create a copy of the file D:\Work\Backups\research_group_minutes.docx inside D:\Research\exports\config\Supplier Invoices
+create a copy of the file C:\Program Files\client files\Driver Backups\supplier_contacts.vcf inside D:\Research\Archives
+create a copy of the file E:\Archive\Sprint 13\travel\accessibility_fixes.md inside C:\Users\Ankit\Desktop\Device Reports\PBL Phase 2\Year Cleaned
+create a copy of the file D:\Projects\intent models\Old Versions\server.log inside D:\Data\backups\meeting notes\Project Week 42
+create a copy of the file C:\Users\Ankit\Desktop\Archive\settings.py inside C:\Dev\Personal Finance\Client A\Client Engineering
+create a copy of the file C:\Users\Ankit\Documents\release builds\model outputs\codeql_findings.sarif inside C:\Dev\Music
+create a duplicate of delivery_manifest_v2.pcapng in 3D Assets
+create a duplicate of cloud_cost_report_2026_10.tsv in GEHU - Ready to Submit
+create a duplicate of integration_test_approved.rar in Lecture Notes
+create a duplicate of employee_id_request.docx in PESE Lab
+create a duplicate of asset_inventory_v2.yml in GEHU Final Versions
+create a duplicate of release_notes.xz in GEHU - Data
+create a duplicate of payment_receipt.pem in GEHU - Templates
+create a duplicate of ec2_instance_inventory.csv in DBMS Project - Releases
+create a duplicate of budget_forecast_revised.tsv in University Clients
+create a duplicate of solar_inverter_log.txt in Operating Systems - Assets
+create a duplicate of firewall_audit_2026_10.trace in D:\WinPilot\database\Semester 5\Failed Imports
+create a duplicate of case_sensitive_collision_report.csv in E:\Media\PBL Phase 2\Firewall Configs\Client November
+create a duplicate of build_manifest.fig in C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+create a duplicate of courier_pickup_schedule.ics in D:\Shared\Projects
+create a duplicate of maintenance_log_revised.srt in C:\Dev\operations\WinPilot\Client Logs
+create a duplicate of browser_matrix_v2.otf in D:\Work\Docs
+create a duplicate of train_model.py in E:\Archive\Shared Drive
+create a duplicate of fire_alarm_test_record.pdf in E:\Incoming\intent models\Windows Logs\Warranties
+create a duplicate of query_practice.sql in E:\College\family photos\generated\Project Pending
+create a duplicate of analytics_export.json in C:\Users\Public\Documents\Receipts
+create a duplicate of C:\Temp\Semester 7\meeting notes\installer_signing_report.txt in University - Outgoing
+create a duplicate of C:\Temp\Release 1.4\Windows Logs\draft_performance.md in College - Outgoing
+create a duplicate of C:\Program Files\Client A\client files\service_feedback_summary.docx in Payroll Manager - Templates
+create a duplicate of C:\ProgramData\Assignments\entity pools\placement_offer_comparison.xlsx in Team Archive
+create a duplicate of \\FileServer\Departments\intent models\Device Reports\model_evaluation_holdout.csv in DBMS Project Outputs
+create a duplicate of F:\External Drive\Firewall Configs\Payroll Manager\cycling_maintenance_log.xlsx in University - Forms
+create a duplicate of D:\Backups\validation data\Personal Finance\shell_context_menu_audit.csv in College - Team Shared
+create a duplicate of C:\Temp\Invoices\supplier_delivery_score.xlsx in Payroll Manager - To Sort
+create a duplicate of D:\Research\invoices\Shared Documents\project_archive_2024.zip in DBMS Project Published
+create a duplicate of C:\Users\Ankit\OneDrive\Home Repairs\Sprint 13\files_to_review.txt in Customer Reproductions
+create a duplicate of E:\Personal\Semester 5\training data\query_practice.sql in C:\Temp\PBL Phase 2\Projects\Contract Archive
+create a duplicate of \\backup-server\weekly\backups\temp\habit_tracker.xlsx in C:\Program Files (x86)\meeting notes\logs\Team November
+create a duplicate of F:\USB Backup\Downloads\research_dataset_manifest.json in F:\USB Backup\Phone Transfer
+create a duplicate of C:\Users\Ankit\OneDrive\Travel\garden_plan.jpg in F:\External Drive\Week 42\client files\Team Logs
+create a duplicate of C:\Users\Public\Documents\Travel Planning\logs\cloud_practitioner_badge.png in E:\College\assets\meeting notes\Client Scripts
+create a duplicate of C:\Users\Ankit\Videos\customer support\Reports\junction_inventory.csv in C:\Users\Public\Documents\Graphics Troubleshooting\Research Papers\Year Private
+create a duplicate of E:\Incoming\intent models\Windows Logs\wsl_setup_checklist.md in E:\Personal\travel\WinPilot\Volunteering
+create a duplicate of C:\Users\Ankit\Documents\WinPilot\event_registration_list.xlsx in D:\WinPilot\Final Versions\validation data\Finance Team
+create a duplicate of C:\Users\Ankit\Downloads\test results\PBL Phase 2\safety_incident_report.docx in C:\Temp\release builds\Shared Documents\Client Outputs
+create a duplicate of C:\Users\ankit.kumar\Documents\Backups\api_client.ts in C:\Users\Ankit\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+create another copy of travel_insurance_policy.pdf in Revisions
+create another copy of vpn_connection_history.csv in Chat Exports
+create another copy of license_register_v3.bat in University Data
+create another copy of shipment_tracking.yml in Project Files
+create another copy of character_rig.ma in API Documentation
+create another copy of registry_export_before_fix.reg in Dependency Audits
+create another copy of risk_assessment_v2.msix in Payroll Manager - Evidence
+create another copy of music_practice_schedule.pdf in University Policies
+create another copy of budget_forecast_2026_10.cs in Client Policies
+create another copy of customer_survey.prof in Project Final
+create another copy of society_maintenance_receipt.pdf in \\FileServer\Departments\screenshots\Exam Preparation\Client Evidence
+create another copy of tour_booking_invoice.pdf in \\192.168.1.20\teamshare\Projects\Driver Backups\Client Templates
+create another copy of project_plan.yaml in E:\Incoming\Device Reports\Shared Documents\Installer Files
+create another copy of windows_update_history.html in D:\Backups\Validation Data
+create another copy of coding_assessment_results.csv in C:\Users\Ankit\Downloads\tests\HR\tmp
+create another copy of product_catalog.dxf in C:\Users\Ankit\Downloads\Release 1.4
+create another copy of cash_flow.exe in D:\Projects\Driver Backups\warehouse\Fitness Logs
+create another copy of usb_device_history.csv in F:\External Drive\To Submit\customer support\WinPilot User Commands
+create another copy of university_id_scan.jpg in D:\Data\family photos\Reports\Client B
+create another copy of shared_drive_permissions.xlsx in D:\Source\inventory\Travel Planning\Team Resources
+create another copy of C:\Users\Public\Documents\Home Repairs\Travel Planning\forklift_service_log.xlsx in Operating Systems - Records
+create another copy of \\192.168.1.20\teamshare\travel\Device Reports\home_network_diagram.drawio in Bike Documents
+create another copy of D:\Backups\Reports\save_slot_03.sav in Department Sprint 13
+create another copy of E:\Archive\PBL Phase 2\retry_policy_notes.md in University Manifests
+create another copy of D:\WinPilot\Reports\imports\fleet_inspection_checklist.pdf in Augmentation Runs
+create another copy of E:\College\frontend\Payroll Manager\draft_research.yaml in Project Imports
+create another copy of C:\Program Files\Microsoft VS Code\Code.exe in DBMS Project Videos
+create another copy of C:\Users\Ankit\Videos\Screenshots\draft_network.yaml in Payroll Manager
+create another copy of C:\Users\Ankit\Downloads\Research Papers\Device Reports\responsive_layout_checks.pdf in Sports
+create another copy of D:\Research\Semester 5\inventory\alembic_revision_map.txt in Video Projects
+create another copy of C:\Temp\Shared Documents\Client A\camera_manual.pdf in C:\Users\ankit.kumar\Documents\Assets
+create another copy of C:\Users\Public\Documents\Exam Preparation\October 2026\draft_expenses.zip in D:\Source\archives\Old Versions\Browser Backups
+create another copy of D:\College\GEHU\NER experiments\migrations\readonly_file_matrix.xlsx in C:\Users\Ankit\Documents\training data\model outputs\Team November
+create another copy of C:\Users\Ankit\Downloads\marketing\screenshots\render_preview.png in \\NAS01\Shared\Audio Troubleshooting\Reports\Department Suppliers
+create another copy of F:\USB Backup\PBL Phase 2\archives\draft_v1.docx in \\FileServer\Departments\validation data\Network Captures\End-to-End Tests
+create another copy of C:\ProgramData\imports\temp\presentation_recording.webm in \\192.168.1.20\teamshare\frontend\receipts\Maintenance
+create another copy of C:\Temp\PBL Phase 2\Projects\api_rate_limit_test_results.csv in F:\External Drive\Firewall Configs\Payroll Manager\Permission Tests
+create another copy of \\OfficePC\Public\Home Repairs\NER experiments\customer_onboarding_status.xlsx in \\NAS01\Shared\invoices\Supplier North\Deployment Rollbacks
+create another copy of \\NAS01\Shared\migrations\api tests\models.py in D:\Research\design files\Reports\Study Material
+create another copy of C:\Users\Ankit\Downloads\Archive\cold_storage_alarm_history.csv in C:\Users\Ankit\Downloads\Driver Backups\tests\Client Sprint 13
+duplicate access.log into Year Manifests
+duplicate mysql_slow_query_log.txt into Team To Review
+duplicate soil_test_results.pdf into Client A
+duplicate payroll_register.png into Quarterly Planning
+duplicate warehouse_stock_backup.pdf into Year Drafts
+duplicate concert_setlist_notes.txt into GEHU Releases
+duplicate project_plan.pcap into Security Alerts
+duplicate book_club_reading_schedule.ics into Payroll Manager - Old Versions
+duplicate status_report_revised.pickle into Incident Management
+duplicate build_manifest_revised.model into GEHU - Suppliers
+duplicate purchase_receipt_2026.pdf into D:\Projects\Source Code\Semester 7\Team Reports
+duplicate contract_draft_2026_10.js into D:\Backups\imports\screenshots\Windows Update
+duplicate quarterly_review.dat into C:\Users\Public\Documents\engineering\Payroll Manager\Project Version 2
+duplicate quarterly_review.ics into C:\Temp\To Submit
+duplicate shift_schedule.msi into \\192.168.1.20\teamshare\Shared Documents\Reports\Year History
+duplicate dependency_audit_final.db into D:\Source\inventory\contracts\Client Week 43
+duplicate customer_invoice_2026_091.pdf into C:\Users\Ankit\Pictures\website\release builds\Team October
+duplicate pet_vet_receipt.pdf into D:\Backups\finance\Exam Preparation\Department Shared Files
+duplicate quality_report_backup.mkv into G:\Shared\HR\recordings\Client Clients
+duplicate product_catalog.pptx into D:\Backups\Temporary Exports
+duplicate vehicle_fleet_register.xlsx to Team Inventory
+duplicate seo_report.ini to DBMS Project Team Shared
+duplicate cloud_cost_report_v2.cmd to DBMS Project Tickets
+duplicate salary_statement_draft.exe to Meeting Minutes
+duplicate inspection_checklist_reviewed.toml to College - Q3 2026
+duplicate uptime_summary.rb to 2027 Payroll Manager
+duplicate incident_report_v2.pickle to Dataset Versioning
+duplicate risk_register_backup.mp3 to University History
+duplicate budget_forecast_reviewed.appx to University Archives
+duplicate bank_reconciliation_v3.mkv to Manali Trip
+duplicate status_report.feather to C:\Users\Ankit\Downloads\config\Payroll Manager\Cycling
+duplicate air_conditioner_service_record.pdf to C:\Users\Ankit\Downloads\presentations\Supplier North\CAD Drawings
+duplicate firewall_audit.trace to \\OfficePC\Public\frontend\Research Papers\Large Files Review
+duplicate deployment_checklist_v3.pyw to \\NAS01\Shared\backups\datasets\Application Profiles
+duplicate invoice_register.trace to C:\Users\Ankit\Desktop\Personal Finance\Shared Documents\Accounts Receivable
+duplicate draft_invoice.pptx to C:\Dev\Screenshots
+duplicate linux_package_list.txt to \\OfficePC\Public\PBL Phase 2\Assignments\Access Control
+duplicate cover_letter_company_a.docx to D:\Research\config\archives\Year Audio
+duplicate regression_suite.pth to C:\Users\Ankit\Downloads\Tests
+duplicate migration_plan.dat to D:\Projects\Assets
+duplicate C:\Users\Ankit\Videos\WinPilot\accounts_payable_ageing.xlsx into DBMS Project Manifests
+duplicate C:\Dev\Documents\telemetry_schema.json into Employee Offboarding
+duplicate E:\College\WinPilot\benchmark_results.xlsx into Risk and Assumption Log
+duplicate C:\Users\Ankit\Videos\Screenshots\cover_letter_company_a.docx into University Inventory
+duplicate C:\Users\Public\Documents\operations\family photos\wedding_invitation_sample.png into Education Certificates
+duplicate C:\Users\ankit.kumar\Documents\Assignments\tsconfig.json into Graphics Troubleshooting
+duplicate D:\College\GEHU\release builds\datasets\exam_revaluation_request.docx into Release Notes
+duplicate C:\Users\ankit.kumar\Documents\Source\file_naming_conventions.md into Audio Production
+duplicate C:\Projects\Travel\phishing_report_template.docx into Payroll Manager - Documents
+duplicate E:\Personal\Travel Planning\Course Material\machine_downtime_register.xlsx into Client Shared
+duplicate C:\Users\Ankit\Downloads\WinPilot\fuel_log_october.csv into C:\ProgramData\config\operations\Team Tickets
+duplicate C:\Users\Ankit\Downloads\Reports\src\wifi_roaming_diagnostics.csv into \\NAS01\Shared\validation data\migrations\Year Cleaned
+duplicate E:\Personal\release builds\Home Repairs\pip_freeze_winpilot.txt into F:\USB Backup\Database
+duplicate D:\Source\training data\training data\cashbook_october.xlsx into C:\Dev\Engineering Team
+duplicate D:\Source\October 2026\campaigns\dns_lookup_results.txt into C:\Dev\Entity Pools
+duplicate D:\Projects\Assignments\house_repairs.xlsx into D:\Data\tests\assets\WinPilot Models
+duplicate C:\Users\Public\Documents\Documents\device_photos_october.zip into D:\Staging\archives\presentations\Stable Release
+duplicate C:\Users\Public\Documents\temp\exports\color_contrast_report.csv into D:\Data\Photos
+duplicate D:\Projects\Network Captures\Week 42\pull_request_482_review.md into D:\Work\assets\Payroll Manager\WinPilot3
+duplicate C:\Dev\diagnostics\photos\pet_vet_receipt.pdf into F:\USB Backup\To Review\PBL Phase 2\PostgreSQL
+duplicate C:\Temp\src\logs\purchase_receipt_2026.pdf to Payroll Manager Evaluation
+duplicate C:\Program Files (x86)\WinPilot\Lab Work\pull_request_482_review.md to Application Control Logs
+duplicate C:\Users\Ankit\Documents\Release 1.4\generated\notification_sound.wav to WinPilot Metrics
+duplicate E:\Incoming\Firewall Configs\src\draft_annotations.yaml to Team Sprint 13
+duplicate E:\Archive\Downloads\windows_terminal_profile.json to Meal Prep
+duplicate F:\USB Backup\Assignments\backend\endpoint_alert_export.json to GEHU - Invoices
+duplicate E:\Personal\training data\Network Captures\invoice_dispute_1048.docx to Client Documentation
+duplicate D:\WinPilot\Assignments\hosting_invoice_october.pdf to Disk Health
+duplicate C:\Users\Ankit\Pictures\exports\Device Reports\proforma_invoice_2026.pdf to Submitted and Accepted
+duplicate C:\Temp\Lab Work\contracts\performance_profile.prof to DBMS Project - Pending Review
+duplicate D:\Data\Home Repairs\engineering\duplicate_files_report.csv to C:\ProgramData\website\api tests\Client Operations
+duplicate F:\External Drive\Driver Backups\training data\presentation_final.pptx to F:\USB Backup\datasets\inventory\Team Current
+duplicate \\backup-server\weekly\Device Reports\temp\coding_round_results.xlsx to E:\Archive\College
+duplicate F:\External Drive\archives\assets\exam_revision.pdf to C:\Users\Ankit\Documents\WinPilot
+duplicate C:\Users\Public\Documents\Meeting Notes\notification_sound.wav to E:\Archive\Release 1.4
+duplicate C:\Temp\api tests\Semester 5\unity_package_manifest.json to G:\Shared\src\Semester 7\Team Test Set
+duplicate D:\College\GEHU\Week 42\Driver Backups\virtual_machine_snapshot.vmdk to D:\Staging\Research Papers\tests\Structure Libraries
+duplicate C:\Projects\Screenshots\reading_list.xlsx to C:\ProgramData\Old Versions\Home Repairs\WinPilot User Commands
+duplicate C:\Users\Ankit\Pictures\Course Material\Projects\security_guard_roster.xlsx to G:\Shared\To Review\screenshots\WinPilot Intent Detection
+duplicate D:\WinPilot\validation data\Personal Finance\comic_collection.cbz to C:\Users\Ankit\Desktop\contracts\finance\Client Tracking
+duplicate the file system_services_export.csv in College - Schedules
+duplicate the file load_test_report.cab in DBMS Project - To Sort
+duplicate the file researcher_orcid_export.xml in annotations
+duplicate the file postman_collection.json in WinPilot3
+duplicate the file restore_test_v2.cmd in WinPilot Exports
+duplicate the file incident_report.tsx in DBMS Project - Outgoing
+duplicate the file shared_folder_cleanup_plan.docx in Payroll Manager 2026
+duplicate the file load_test_report_revised.txt in Device Reports
+duplicate the file model_training_parameters.yaml in Client Resources
+duplicate the file font_rendering_test.png in Operating Systems Validation
+duplicate the file draft_contract_comments.docx in D:\College\GEHU\Audio Troubleshooting\api tests\External Drives
+duplicate the file backup_manifest.vcf in D:\Projects\Client B
+duplicate the file compliance_review.evtx in E:\Media\Exam Preparation\design files\Portable Apps
+duplicate the file quality_report_revised.png in C:\Users\Ankit\Desktop\archives\api tests\intent datasets
+duplicate the file bitlocker_recovery_instructions.pdf in C:\Users\Ankit\Videos\model outputs\backups\Visitor Management
+duplicate the file class_notes_week8.docx in E:\Archive\Projects
+duplicate the file meeting_agenda_approved.heapsnapshot in D:\Shared\Training Data
+duplicate the file campaign_calendar_v2.dxf in E:\College\Research Papers\docs\Year Files
+duplicate the file field_sensor_calibration.pdf in D:\Research\contracts\website\Q4 2026
+duplicate the file migration_results_2026_10.3mf in C:\ProgramData\contracts\photos\Contracts
+duplicate the file C:\Program Files\assets\Windows Logs\portfolio_deployment_notes.md in Subtitles
+duplicate the file E:\Personal\design files\docs\employee_rota_october.xlsx in Permission Boundary Tests
+duplicate the file D:\Source\generated\Device Reports\pip_freeze_winpilot.txt in WinPilot - Customers
+duplicate the file \\NAS01\Shared\migrations\receipts\switch_port_inventory.xlsx in Project Working
+duplicate the file F:\USB Backup\Firewall Configs\NER experiments\accuracy_history.csv in GEHU - Incoming
+duplicate the file E:\College\validation data\screenshots\browser_bookmarks_2026.html in 2026 DBMS Project
+duplicate the file E:\Media\Research Papers\Travel Planning\bank_kyc_update_form.pdf in Database Systems Course
+duplicate the file E:\Archive\intent models\Device Reports\evaluate_model.py in Loan Documents
+duplicate the file G:\Shared\website\family photos\data_pipeline_alerts.csv in Payroll Manager Old Versions
+duplicate the file D:\Work\Final Versions\archives\readme_updated.md in University - Policies
+duplicate the file G:\Shared\Reports\Course Material\postgres_query_plan.sql in D:\Research\Python Projects
+duplicate the file C:\Users\Ankit\OneDrive\Exam Preparation\family photos\cms_content_export.xml in D:\Shared\Validation Data
+duplicate the file E:\Archive\Source\extensions_inventory.csv in E:\Incoming\Home Repairs\presentations\External SSD Backup
+duplicate the file C:\Program Files (x86)\meeting notes\Driver Backups\database_restore_test.log in \\NAS01\Shared\Sprint 13\Windows Logs\Legacy Migration
+duplicate the file F:\USB Backup\Downloads\contractor_payment_tracker.xlsx in E:\College\Old Versions
+duplicate the file C:\Users\Ankit\Videos\Data\practical_file_index.xlsx in E:\Archive\Supplier North\Source Code\Year Planning
+duplicate the file C:\Temp\Lab Work\screenshots\fuel_log_october.csv in D:\Research\Travel
+duplicate the file E:\Incoming\finance\campaigns\employee_leave_balance.csv in E:\Personal\Semester 5\training data\Project Documents
+duplicate the file D:\Staging\presentations\marketing\load_test_results.jtl in E:\Archive\Archives
+duplicate the file E:\Archive\intent models\WinPilot\project_guide_comments.docx in C:\Users\Public\Documents\Temporary Exports
+I need to copy cash_flow_reviewed.rs into Infrastructure as Code
+I need to copy model_checkpoint.pt into Business Intelligence
+I need to copy deployment_plan.md into Payroll Manager - Clean Data
+I need to copy database_schema_approved.reg into College - Notes
+I need to copy export_2026-10-20_1200.csv into Webcam Recordings
+I need to copy file_association_export.reg into To Move
+I need to copy faculty_feedback_form.docx into GEHU Data
+I need to copy credit_card_dispute_letter.docx into notebooks
+I need to copy integration_test_final.dmp into Department History
+I need to copy proforma_invoice_2026.pdf into Year Support
+I need to copy speech_samples_manifest.csv into C:\Program Files\engineering\Driver Backups\Product Roadmap
+I need to copy bank_reconciliation_final.odt into C:\Temp\Generated Records
+I need to copy windows_api_notes.md into E:\Incoming\finance\photos\Team Revisions
+I need to copy backup_manifest_revised.blend into C:\Program Files (x86)\To Review\Network Captures\Support Tickets
+I need to copy annotation_guidelines_v2.docx into C:\Users\Public\Documents\Game Saves
+I need to copy meeting_agenda_backup.feather into F:\USB Backup\Old Versions\Final Versions\Database Migrations
+I need to copy restore_test.md into E:\College\Client B
+I need to copy index_rebuild_history.csv into E:\Archive\training data\test results\Pictures
+I need to copy payment_receipt_draft.bak into C:\ProgramData\engineering\imports\API Contracts
+I need to copy incident_report_reviewed.obj into D:\Shared\Logs
+I need to copy privacy_assessment.conf to Year Students
+I need to copy docker_build_output.log to GEHU - Validation
+I need to copy nda_signed_2026.pdf to WinPilot - Sprint 13
+I need to copy research_dataset_manifest.json to College - Rejected
+I need to copy podcast_intro.mp3 to 2026 University
+I need to copy incident_report_2026_10.appx to Department Invoices
+I need to copy contract_draft_approved.otf to Trip Planning
+I need to copy draft_v1.docx to Reading Notes
+I need to copy firewall_rules.json to Project Tests
+I need to copy delivery_manifest_reviewed.cfg to Real User Examples
+I need to copy customer_dimension_sample.csv to C:\Users\Ankit\Documents\Datasets
+I need to copy integration_test.csv to \\backup-server\weekly\WinPilot\Source Code\Project Cleaned
+I need to copy slow_query_analysis_reviewed.sqlite to D:\Staging\exports\Lab Work\Year Assets
+I need to copy leave_request_v3.js to C:\Users\Ankit\Desktop\datasets\Graphics Troubleshooting\Department Cleaned
+I need to copy risk_register.hpp to E:\Media\Certificates\Payroll Manager\Project Finance
+I need to copy dependency_audit_reviewed.gif to D:\Research\To Review\archives\Team Inputs
+I need to copy workplace_induction_slides.pptx to D:\Research\Photos
+I need to copy vulnerability_report_reviewed.rb to D:\Projects\Certificates\Old Versions\Real User Examples
+I need to copy security_findings_2026_10.wav to C:\Users\Ankit\Desktop\SQL Scripts
+I need to copy analytics_dashboard.vhdx to D:\Work\docs\config\Production Incidents
+I need to copy C:\Program Files (x86)\Assignments\recordings\lab_sample_label_template.docx into Sales Reports
+I need to copy D:\WinPilot\PBL Phase 2\rename_collision_tests.jsonl into Project Metrics
+I need to copy D:\Source\generated\photos\logo_final.svg into End-to-End Tests
+I need to copy D:\Data\Meeting Notes\symlink_test_matrix.xlsx into Team Policies
+I need to copy E:\Media\Documents\temporary_export.tmp into University Approved
+I need to copy C:\Users\Ankit\Pictures\Semester 7\Graphics Troubleshooting\customer_dimension_sample.csv into WinPilot - Reference Material
+I need to copy C:\Users\Ankit\Desktop\warehouse\Driver Backups\warranty_expiry_tracker.xlsx into University - Support
+I need to copy \\FileServer\Departments\assets\Exam Preparation\cross_browser_screenshots.zip into DBMS Project - Ready to Submit
+I need to copy D:\Research\Model Outputs\confusion_matrix.png into GEHU Ready to Submit
+I need to copy D:\Source\Semester 7\contracts\flight_web_checkin_confirmation.pdf into Payroll Manager - Ready to Submit
+I need to copy C:\Dev\Invoices\subscription_cancellation_receipt.pdf into F:\USB Backup\Config
+I need to copy C:\Projects\Reports\office_seating_plan.png into C:\Users\Ankit\Videos\Week 42\Driver Backups\Webinar
+I need to copy D:\College\GEHU\Week 42\migrations\ssh_key_fingerprint.txt into E:\Archive\Device Reports\Course Material\Archived Branches
+I need to copy D:\Backups\logs\Shared Documents\visitor_pass_register.xlsx into C:\Users\Ankit\Documents\Semester 5
+I need to copy E:\Personal\screenshots\Semester 5\bibliography_dedup_report.csv into \\FileServer\Departments\Payroll Manager\Firewall Configs\Marketing Analytics
+I need to copy \\backup-server\weekly\Driver Backups\PBL Phase 2\postgres_query_plan.sql into D:\Shared\Source Code
+I need to copy D:\Staging\warehouse\migrations\courier_pickup_schedule.ics into C:\Users\Ankit\Pictures\diagnostics\Sprint 13\Rejected Records
+I need to copy D:\Research\Archive\brand_guidelines.pdf into D:\Work\exports\Semester 7\Team Reviewed
+I need to copy C:\Users\Ankit\Downloads\website\Travel Planning\rent_agreement_renewal.docx into F:\USB Backup\presentations\tests\Photo Library
+I need to copy F:\USB Backup\Receipts\new_hire_checklist.docx into C:\Users\ankit.kumar\Documents\Semester 5
+I need to copy \\NAS01\Shared\frontend\validation data\refund_request_8831.pdf to Department Releases
+I need to copy D:\Data\Home Repairs\Lab Work\supplier_onboarding_form.pdf to Service Metrics
+I need to copy D:\Research\Research Papers\Course Material\cron_migration_notes.md to Documents for Travel
+I need to copy C:\Users\Ankit\Pictures\October 2026\photos\VID_20261017_201501.mp4 to Entity Boundary Cases
+I need to copy C:\Users\Ankit\OneDrive\Exam Preparation\campaigns\luggage_inventory.xlsx to Query Results
+I need to copy F:\USB Backup\Invoices\insurance_claim_photos.zip to release
+I need to copy C:\Temp\temp\engineering\event_pass_2026.png to Team Code
+I need to copy D:\Source\Old Versions\Source Code\library_clearance_form.pdf to Client Scripts
+I need to copy C:\Windows\System32\drivers\etc\hosts to College Results
+I need to copy D:\Work\Network Captures\Personal Finance\locale_fallback_test.csv to Payroll Manager Rejected
+I need to copy \\NAS01\Shared\HR\Driver Backups\ebook_sample.epub to G:\Shared\Supplier North\exports\Project Research
+I need to copy C:\Users\Ankit\Desktop\entity pools\family photos\network_capture.pcapng to D:\Projects\WinPilot
+I need to copy D:\Projects\Semester 5\src\cdn_cache_report.xlsx to C:\Users\Ankit\Desktop\Source Code\Sprint 13\Team Policies
+I need to copy \\192.168.1.20\teamshare\Lab Work\screenshots\label_to_id_map.json to E:\Personal\Travel Planning\Course Material\Project Plans
+I need to copy D:\WinPilot\Source Code\warehouse\survey_questionnaire_v3.docx to C:\Users\Ankit\Downloads\Lab Work
+I need to copy E:\College\assets\meeting notes\project_evaluation_rubric.pdf to C:\Users\Ankit\Documents\Validation Data
+I need to copy C:\Dev\Reports\archive_integrity_check.txt to D:\Research\src\travel\FY2025-26
+I need to copy E:\Incoming\invoices\Device Reports\symlink_policy_notes.md to D:\Projects\WinPilot3
+I need to copy D:\Projects\warehouse\Payroll Manager\lab_computer_fault_log.csv to E:\Personal\screenshots\assets\Client Photos
+I need to copy C:\Users\ankit.kumar\Documents\Data\supplier_onboarding_form.pdf to \\FileServer\Departments\docs\WinPilot\Production Incidents
+I want a copy of draft_backup.txt in GEHU Operations
+I want a copy of race_registration_confirmation.pdf in DBMS Project
+I want a copy of citation_style_check.log in University Rejected
+I want a copy of meeting_agenda.tf in College 2026
+I want a copy of explorer_crash_dump.dmp in Team Suppliers
+I want a copy of customer_support_macros.csv in University 2025
+I want a copy of assignment_feedback_sem5.pdf in WinPilot Imports
+I want a copy of gamepad_button_layout.json in Entity Labelling
+I want a copy of translation_vendor_quote.pdf in Payroll Manager Packages
+I want a copy of privacy_assessment.exe in Incident Timeline
+I want a copy of deployment_checklist.psd in D:\College\GEHU\Certificates\Network Captures\Year Week 43
+I want a copy of cash_flow.ps1 in D:\Data\Videos
+I want a copy of asset_inventory.sqlite in E:\Archive\Tests
+I want a copy of ner_vocab_mapping.json in E:\Personal\Final Versions\Certificates\Practical Files
+I want a copy of pyinstaller_build.spec in C:\Users\Ankit\Documents\release builds\Travel Planning\VPN Profiles
+I want a copy of field_observations.md in C:\Users\Ankit\Downloads\Projects\To Review\Real User Examples
+I want a copy of phishing_report_template.docx in D:\Staging\screenshots\backend\Year Deliverables
+I want a copy of warehouse_stock_20261020.csv in E:\Incoming\release builds\To Review\WinPilot Imports
+I want a copy of archive_for_accountant.zip in D:\Work\entity pools\meeting notes\Benchmark Datasets
+I want a copy of load_test_report_v2.dwg in C:\Program Files (x86)\invoices\Driver Backups\Model Error Cases
+I want a copy of F:\External Drive\Final Versions\Audio Troubleshooting\notification_sound.wav in Payroll Manager Reports
+I want a copy of E:\Incoming\Network Captures\logs\journal_submission_receipt.pdf in Structure Libraries
+I want a copy of C:\Users\Public\Documents\Source\consent_records_index.xlsx in Department Revisions
+I want a copy of \\192.168.1.20\teamshare\Windows Logs\docs\weekly_status_update.docx in Keep for Reference
+I want a copy of C:\Dev\release builds\inventory\cover_letter_company_a.docx in WinPilot - Invoices
+I want a copy of C:\Users\Ankit\Desktop\migrations\training data\training_attendance.xlsx in DBMS Project - Research
+I want a copy of E:\Media\imports\warehouse\Scan 004.pdf in Study Material
+I want a copy of C:\Users\Ankit\Documents\Research\intent_dataset_test.jsonl in Large Files
+I want a copy of C:\Users\Ankit\Desktop\marketing\warehouse\air_purifier_filter_record.pdf in WinPilot Private
+I want a copy of C:\Users\Ankit\Documents\WinPilot\Source Code\semester_result_archive.zip in WinPilot Packages
+I want a copy of D:\College\GEHU\WinPilot\student_feedback_form.docx in D:\Backups\Week 42\Travel Planning\Department Cleaned
+I want a copy of C:\Users\Public\Documents\model outputs\Firewall Configs\rental_agreement.pdf in E:\College\photos\finance\Project Engineering
+I want a copy of D:\Research\recordings\migrations\schema_migration_20261020.sql in D:\Data\Client A\Projects\Meeting Recordings
+I want a copy of E:\Media\Invoices\pull_request_review.md in C:\Dev\Assets
+I want a copy of D:\Work\Meeting Notes\air_quality_sensor_export.json in F:\USB Backup\frontend\Network Captures\Research Papers
+I want a copy of F:\USB Backup\imports\PBL Phase 2\query_plan.txt in D:\Data\src\diagnostics\Team References
+I want a copy of E:\Media\Data\feature_importance.png in C:\Users\Ankit\Documents\inventory\datasets\presentations
+I want a copy of C:\Users\Ankit\Pictures\Release 1.4\receipts\bluetooth_pairing_log.txt in \\OfficePC\Public\meeting notes\Supplier North\Project References
+I want a copy of E:\Archive\finance\travel\terraform_plan.txt in D:\Staging\release builds\exports\October 2026
+I want a copy of E:\Media\To Review\HR\journal_proof_corrections.pdf in E:\Media\Sprint 13\Course Material\USB Transfer
+I want to copy inspection_checklist_2026_10.mp4 into DBMS Project - Training
+I want to copy refund_request.inf into Year Materials
+I want to copy event_run_of_show.docx into Client Validation
+I want to copy maintenance_log_v3.sav into Client Documents
+I want to copy customer_survey_v3.msix into Company Research
+I want to copy task_scheduler_export.xml into DBMS Project - Sprint 12
+I want to copy quarterly_review.pptx into College Builds
+I want to copy build_manifest_approved.h into DBMS Project Documentation
+I want to copy thumbnail_generation_log.txt into GEHU Raw Data
+I want to copy rail_ticket_return.pdf into College Packages
+I want to copy mobile_app_logs.zip into C:\Windows\System32\drivers\etc
+I want to copy personal_documents_index.xlsx into C:\Dev\Generated Records
+I want to copy candidate_scores.xlsx into E:\College\Model Outputs
+I want to copy student_fee_reconciliation.xlsx into E:\Archive\To Submit\Source Code\Car Maintenance
+I want to copy inspection_checklist_v3.example into E:\Incoming\PBL Phase 2\Week 42\Fitness Logs
+I want to copy equipment_loan_register.xlsx into F:\External Drive\client files\Travel Planning\Year Drafts
+I want to copy query_results_backup.ini into C:\Users\ankit.kumar\Documents\Docs
+I want to copy restore_test_reviewed.jsonl into D:\Work\Backups
+I want to copy inspection_checklist.tar.gz into D:\Backups\imports\Projects\Shipping
+I want to copy bank_reconciliation.ass into D:\Backups\Datasets
+I want to copy architecture_overview.vsdx to GEHU - Contracts
+I want to copy supplier_onboarding_form.pdf to Current Semester
+I want to copy resume_for_backend_role.pdf to DBMS Project - Documentation
+I want to copy draft_dataset.docx to Operating Systems - Evidence
+I want to copy localisation_strings_2026_10.pem to Assignments
+I want to copy shift_schedule_final.jsx to Machine Learning
+I want to copy incident_report_backup.dwg to University - Raw Data
+I want to copy vendor_comparison.xlsx to Team Photos
+I want to copy invoice_register_2026_10.ai to 2025 WinPilot
+I want to copy internship_daily_log.xlsx to Uptime Reports
+I want to copy bank_reconciliation.m4a to C:\Users\Ankit\Desktop\Semester 7\contracts\Documents for Placement
+I want to copy unit_test_report.weights to D:\Source\model outputs\Certificates\Cover Letters
+I want to copy print_to_pdf_test.docx to C:\Users\Ankit\Documents\Archives
+I want to copy newsletter_template.html to C:\Users\Ankit\Documents\Finance Team
+I want to copy repair_receipt_20261018.pdf to \\OfficePC\Public\HR\entity pools\Desktop Cleanup
+I want to copy payment_receipt_v2.7z to D:\Work\operations\To Submit\Voice Recordings
+I want to copy meeting_agenda.php to \\FileServer\Departments\Certificates\Audio Troubleshooting\Department Results
+I want to copy donation_receipt_october.pdf to D:\WinPilot\website\Payroll Manager\Solved Question Papers
+I want to copy project_charter.sqlite to E:\Personal\datasets\imports\Invitations
+I want to copy property_tax_challan.pdf to C:\Program Files (x86)\campaigns\screenshots\Project Audio
+I want to copy E:\Media\Model Outputs\flight_delay_claim.docx into GEHU - Pending Review
+I want to copy E:\College\Audio Troubleshooting\Sprint 13\approval_history.csv into University - Processed Data
+I want to copy E:\Archive\Receipts\driver_install_notes.md into Year Test Set
+I want to copy D:\Staging\Firewall Configs\Release 1.4\capstone_source_bundle.zip into Payroll Manager - Training
+I want to copy C:\Users\Ankit\Pictures\entity pools\Release 1.4\train_pnr_confirmation.pdf into Payroll Manager Requests
+I want to copy D:\Data\Course Material\Semester 7\gst_invoice_register.csv into College Support
+I want to copy F:\USB Backup\marketing\recordings\windows_defender_history.csv into College Approved
+I want to copy E:\College\Backups\checksum_validation.log into GEHU To Rename
+I want to copy E:\College\Receipts\disk_partition_map.png into Department Team A
+I want to copy C:\Users\Ankit\Desktop\Meeting Notes\release_build_manifest.json into University Results
+I want to copy C:\Users\Public\Documents\Old Versions\Firewall Configs\performance_review.docx into E:\Media\Travel Planning\To Review\Feature Requests
+I want to copy \\NAS01\Shared\customer support\receipts\long_path_test_cases.jsonl into E:\College\Reports
+I want to copy E:\Archive\campaigns\backend\interview_coding_scheme.xlsx into C:\Program Files (x86)\PBL Phase 2\migrations\Year Templates
+I want to copy D:\Source\migrations\Reports\annual_review_2025.docx into C:\Users\Ankit\Documents\archives\docs\Password Vault Backups
+I want to copy D:\College\GEHU\screenshots\Assignments\release_checklist.xlsx into C:\Users\Public\Documents\Reports
+I want to copy E:\College\Backups\campaign_creatives.zip into D:\Backups\entity pools\customer support\Project October
+I want to copy E:\Archive\Supplier North\Source Code\book_club_reading_schedule.ics into C:\Program Files (x86)\meeting notes\travel\Meal Prep
+I want to copy D:\Work\operations\engineering\product_feedback_october.csv into F:\External Drive\backups\meeting notes\Client Approved
+I want to copy C:\Program Files\Windows Logs\customer support\recovery_key_instructions.pdf into D:\WinPilot\migrations\Lab Work\Project Approved
+I want to copy D:\Staging\Course Material\backend\feature_store_inventory.csv into E:\Media\Docs
+I want to copy E:\Personal\Final Versions\Certificates\cad_drawing_revision_08.dwg to Household Budget
+I want to copy D:\Data\temp\meeting notes\data_warehouse_refresh.log to DBMS Project - Final Submission
+I want to copy C:\Users\Ankit\OneDrive\invoices\recordings\dns_zone_export.txt to College - Data
+I want to copy C:\Users\Ankit\OneDrive\Graphics Troubleshooting\Graphics Troubleshooting\records_classification.xlsx to Release 1.4
+I want to copy D:\Projects\Archive\Procfile to Supplier North
+I want to copy \\NAS01\Shared\inventory\HR\exit_clearance_form.pdf to Web Development
+I want to copy C:\Users\Ankit\Videos\intent models\customer support\tour_operator_quote.pdf to Previous Semester
+I want to copy C:\Dev\generated\marketing\usb_device_driver_log.txt to Archived 2024
+I want to copy E:\Media\imports\Shared Documents\ssh_config_backup.txt to Operating Systems Materials
+I want to copy C:\Temp\assets\Windows Logs\windows_api_notes.md to Database Migrations
+I want to copy D:\Backups\travel\datasets\firefox_bookmarks_backup.html to D:\Research\Sprint 13\engineering\temp
+I want to copy D:\College\GEHU\WinPilot\exam_results_provisional.xlsx to D:\Source\intent models\test results\Architecture Decision Records
+I want to copy C:\Temp\Meeting Notes\app_crash_trace.txt to C:\Users\Ankit\Documents\Release 1.4
+I want to copy C:\Users\Ankit\Pictures\frontend\recordings\dependency_vulnerability_list.csv to E:\Media\Projects\Reports\Client Tickets
+I want to copy C:\Users\Ankit\Videos\PBL Phase 2\music_library.m3u to C:\Program Files (x86)\datasets\presentations\On-call Handover
+I want to copy D:\Backups\Downloads\long_path_test_cases.jsonl to C:\Users\Ankit\Desktop\engineering\NER experiments\Department Receipts
+I want to copy \\OfficePC\Public\presentations\Sprint 13\course_registration_override.pdf to D:\WinPilot\Research Papers\contracts\Client 2026
+I want to copy D:\Backups\imports\screenshots\dashboard.tsx to E:\Archive\To Review
+I want to copy E:\College\Source\media_kit.zip to C:\Users\Public\Documents\Travel
+I want to copy E:\Media\entity pools\validation data\new_hire_checklist.docx to \\backup-server\weekly\logs\Exam Preparation\dist
+make a copy of assignment_submission_final.pdf in Downloads To Delete
+make a copy of ecommerce_product_feed.csv in College Designs
+make a copy of meal_prep_plan_october.docx in Submitted Work
+make a copy of interview_coding_scheme.xlsx in Payroll Manager Releases
+make a copy of bank_reconciliation_v2.jsx in College - Training
+make a copy of shipment_tracking_backup.java in University 2027
+make a copy of payment_receipt.ts in Windows Recovery
+make a copy of employee_handbook.pdf in Software Receipts
+make a copy of draft_project.xml in DBMS Project - Reports
+make a copy of eventlog_system_export.evtx in Datasets
+make a copy of database_snapshot.tsx in C:\Users\Public\Documents\Device Reports\contracts\Year Q3
+make a copy of price_comparison.sh in D:\Staging\warehouse\migrations\To Move
+make a copy of container_vulnerability_report.html in C:\Dev\College
+make a copy of compliance_review_v2.gpx in D:\Shared\Downloads
+make a copy of payment_receipt.safetensors in E:\Personal\Assignments\Home Repairs\Project Documentation
+make a copy of labels.json in D:\Source\backups\test results\entity pools
+make a copy of quality_report_v3.gpx in C:\Users\Ankit\Downloads\Certificates\test results\Telemetry
+make a copy of deadlock_reproduction.py in D:\Source\Semester 7\contracts\Branches
+make a copy of warehouse_temperature_log.csv in E:\Personal\docs\assets\Game Capture Clips
+make a copy of property_photos.zip in F:\USB Backup\invoices\Windows Logs\Project Pending
+make a copy of weekly_cleaning_roster.xlsx inside University Exports
+make a copy of accessibility_audit_reviewed.exe inside Project Training
+make a copy of capstone_demo_slides.pptx inside GEHU - Manifests
+make a copy of build_manifest_backup.out inside College - Finance
+make a copy of emulator_controller_profile.cfg inside Payroll Manager - Sprint 13
+make a copy of contact_list.fbx inside University - Revisions
+make a copy of container_inventory.xlsm inside WinPilot Training
+make a copy of quality_report_approved.bat inside Year Current
+make a copy of annotation_disagreement_report.xlsx inside College Temporary Files
+make a copy of home_loan_amortisation.xlsx inside GEHU - Previous
+make a copy of budget_forecast_final.stl inside D:\Source\WinPilot\recordings\Project Deliverables
+make a copy of risk_assessment.md inside C:\Temp\Windows Logs\To Review\Year Records
+make a copy of annual_review_2025.docx inside D:\Work\Semester 5
+make a copy of stratified_split_check.csv inside E:\Personal\migrations\recordings\Semester 7
+make a copy of s3_bucket_audit.csv inside \\FileServer\Departments\entity pools\Audio Troubleshooting\Screen Captures
+make a copy of transcript_meeting.txt inside C:\Users\Ankit\Pictures\training data\travel\WinPilot Documentation
+make a copy of latency_baseline.xlsx inside C:\Users\Ankit\Documents\Temporary Exports
+make a copy of technical_round_notes.md inside C:\Users\ankit.kumar\Documents\GEHU
+make a copy of draft_sales.json inside C:\Users\Ankit\Downloads\screenshots\Supplier North\To Sort
+make a copy of partner_contract_draft.docx inside D:\Work\SQL Scripts
+make a copy of D:\Source\training data\assets\qualitative_analysis_notes.md in GEHU Processed Data
+make a copy of D:\College\GEHU\inventory\operations\extensions_inventory.csv in Downloaded Installers
+make a copy of C:\ProgramData\intent models\intent models\reading_list.xlsx in College Contracts
+make a copy of D:\Staging\Projects\release builds\confusion_matrix.png in University - Inventory
+make a copy of D:\Backups\Training Data\Telegram Desktop 2026-10-17 21-08-44.jpg in Old Versions
+make a copy of D:\Backups\Source Code\website\driver_package.msi in archives
+make a copy of C:\Users\Ankit\Videos\Audio Troubleshooting\Certificates\client_call_followup.docx in Client Pending
+make a copy of C:\Users\Ankit\Videos\diagnostics\training data\exam_admit_card.pdf in Migrations
+make a copy of E:\College\Training Data\portable_tool.zip in Operating Systems - Reports
+make a copy of C:\Users\ankit.kumar\Documents\Invoices\ideas_inbox.md in University Clean Data
+make a copy of C:\Users\Ankit\Desktop\operations\Network Captures\warehouse_map.png in D:\Source\test results\migrations\Department Photos
+make a copy of E:\College\Projects\Payroll Manager\cooking_gas_booking.pdf in D:\Work\Audio Troubleshooting\Week 42\Desktop
+make a copy of \\OfficePC\Public\Exam Preparation\Semester 5\commit_signatures_report.txt in C:\Users\Ankit\Pictures\warehouse\Sprint 13\Public Resources
+make a copy of \\backup-server\weekly\exports\Sprint 13\container_scan_summary.html in C:\Users\Public\Documents\Client A\model outputs\Database Migrations
+make a copy of D:\Data\Training Data\fitness_challenge_results.csv in C:\Users\Ankit\Pictures\Exam Preparation\To Review\Project Customers
+make a copy of C:\Dev\travel\contracts\experiment_results.csv in C:\Users\Ankit\Desktop\Sprint 13\generated\USB Backups
+make a copy of D:\Staging\invoices\photos\file_manifest.txt in F:\USB Backup\Finance Team
+make a copy of E:\College\api tests\exports\image_optimisation_results.xlsx in C:\Users\Ankit\Desktop\customer support\Travel Planning\Property Documents
+make a copy of G:\Shared\invoices\receipts\train_booking_dehradun.pdf in C:\Users\Ankit\Downloads\Engineering Team
+make a copy of D:\Source\recordings\imports\seo_crawl_findings.csv in D:\Backups\Python Projects
+make a copy of C:\Users\Ankit\Videos\Course Material\Device Reports\product_roadmap.pptx inside WinPilot - Final Submission
+make a copy of C:\Users\Public\Documents\Certificates\training data\offer_letter_template.docx inside GEHU Scripts
+make a copy of C:\Users\Ankit\Downloads\receipts\Old Versions\end_to_end_test_video.mp4 inside GEHU - Audits
+make a copy of C:\Program Files (x86)\PBL Phase 2\migrations\account_lockout_events.evtx inside Year Forms
+make a copy of C:\Users\Ankit\Desktop\Data\laptop_allocation_form.pdf inside WinPilot - Data
+make a copy of D:\Work\Receipts\appliance_manual_washer.pdf inside University - Private
+make a copy of C:\Program Files (x86)\HR\Driver Backups\feature_store_inventory.csv inside DBMS Project - Photos
+make a copy of \\OfficePC\Public\imports\Final Versions\filesystem_test_matrix.xlsx inside GEHU - Metrics
+make a copy of C:\ProgramData\finance\engineering\media_library_index.m3u inside College Code
+make a copy of C:\Dev\Source Code\Semester 5\customer_list.xlsx inside Project Code
+make a copy of \\OfficePC\Public\finance\training data\rename_file_edge_cases.jsonl inside C:\Program Files (x86)\exports\database\Department Exports
+make a copy of D:\Source\backend\temp\building_permit_application.pdf inside C:\Users\ankit.kumar\Documents\Receipts
+make a copy of C:\Users\Ankit\Videos\Travel\internship_offer_comparison.pdf inside D:\Shared\Release 1.4
+make a copy of D:\Work\Source\sample_chain_of_custody.pdf inside F:\USB Backup\To Review
+make a copy of D:\Work\family photos\database\pet_microchip_record.pdf inside C:\Users\Ankit\Downloads\Reports\src\Project Sprint 12
+make a copy of C:\Users\Ankit\Documents\WinPilot\codeql_findings.sarif inside D:\Backups\Database
+make a copy of C:\Users\Ankit\OneDrive\Data\lab_inventory_reorder.xlsx inside D:\WinPilot\tests\tests\Order Tracking
+make a copy of D:\Work\PBL Phase 2\release builds\delivery_route_plan.gpx inside D:\Backups\Engineering Team
+make a copy of C:\Users\Ankit\OneDrive\Training Data\utility_receipts.zip inside C:\Temp\frontend\design files\Assignments
+make a copy of E:\Media\Meeting Notes\stocktake_variance_report.xlsx inside E:\Incoming\Lab Work\Semester 5\Project Outputs
+make a copy of the file vehicle_emissions_certificate.pdf in DBMS Project Responses
+make a copy of the file website_audit_v3.bz2 in University - Semester 5
+make a copy of the file budget_forecast_approved.ass in Payroll Manager Training
+make a copy of the file incident_evidence.zip in Client Materials
+make a copy of the file slow_query_analysis_2026_10.etl in GEHU - Notes
+make a copy of the file rollback_plan_final.model in College - Results
+make a copy of the file data_masking_rules.yaml in Payroll Manager Finance
+make a copy of the file social_media_plan_backup.conf in Project Documents
+make a copy of the file support_call_recording_21.mp3 in Device Guard Investigation
+make a copy of the file accessibility_audit_backup.sqlite in WinPilot - Week 43
+make a copy of the file water_sample_results.csv in C:\Program Files\client files\Driver Backups\Semester 6
+make a copy of the file structure_template_audit.json in C:\Users\ankit.kumar\Documents\Lab Work
+make a copy of the file draft_contract.sql in C:\Users\Ankit\Videos\To Review\Source Code\Team Private
+make a copy of the file Dockerfile in C:\Users\Ankit\Documents\marketing\To Submit\Department Test Set
+make a copy of the file maintenance_request_0092.docx in \\OfficePC\Public\Exam Preparation\Semester 5\Source Code
+make a copy of the file xss_regression_cases.jsonl in C:\Users\Ankit\OneDrive\campaigns\Projects\Project Deliverables
+make a copy of the file privacy_assessment.go in C:\Users\Ankit\Documents\October 2026
+make a copy of the file payment_receipt_final.msi in C:\Users\Ankit\Pictures\recordings\Release 1.4\Department Reports
+make a copy of the file wedding_guest_tracker.xlsx in C:\Dev\docs\Home Repairs\Licensed Software
+make a copy of the file stock_reconciliation.aab in E:\College\Config
+make a copy of the file \\OfficePC\Public\Reports\marketing\subscription_bills_october.pdf in Personal Admin
+make a copy of the file E:\Incoming\Exam Preparation\src\reading_queue.json in WinPilot 2026
+make a copy of the file D:\Data\Screenshots\powershell_history_redacted.txt in College To Rename
+make a copy of the file E:\College\engineering\Sprint 13\lighthouse_audit.json in WinPilot Clients
+make a copy of the file D:\Staging\Old Versions\design files\bus_ticket_dehradun_delhi.pdf in Unicode Tests
+make a copy of the file D:\Data\client files\HR\data_validation_failures.csv in User Feedback
+make a copy of the file D:\Data\Invoices\resume_ankit.pdf in Network Share Tests
+make a copy of the file G:\Shared\Firewall Configs\api tests\database_vacuum_report.txt in Home Inventory
+make a copy of the file C:\Dev\design files\WinPilot\default_programs_export.xml in Documents for Final Submission
+make a copy of the file C:\Users\Public\Documents\recordings\finance\performance_review.docx in University Audio
+make a copy of the file E:\College\Invoices\support_tickets.csv in D:\Work\Network Captures\Research Papers\Department 2025
+make a copy of the file E:\Archive\NER experiments\Payroll Manager\driver_package.msi in C:\Users\Ankit\Videos\travel\Windows Logs\Music Collection
+make a copy of the file C:\Users\Ankit\Desktop\contracts\finance\semester_timetable.pdf in C:\Users\Ankit\Videos\src\October 2026\Accessibility Review
+make a copy of the file E:\College\Firewall Configs\Final Versions\product_roadmap.pptx in D:\Shared\WinPilot3
+make a copy of the file C:\Users\Ankit\OneDrive\family photos\validation data\automation_run_history.jsonl in \\FileServer\Departments\Home Repairs\training data\Team Engineering
+make a copy of the file C:\Dev\migrations\Semester 7\order_status_export.json in \\192.168.1.20\teamshare\PBL Phase 2\test results\Department Current
+make a copy of the file F:\External Drive\Exam Preparation\api tests\training_sandbox_data.json in D:\Data\Finance Team
+make a copy of the file D:\Staging\model outputs\To Review\device_photos_october.zip in D:\Work\backend\client files\API Tests
+make a copy of the file D:\Work\Release 1.4\receipts\files_to_review.txt in D:\College\GEHU\design files\meeting notes\Accessibility
+make a copy of the file E:\College\test results\WinPilot\museum_ticket.pdf in C:\Temp\model outputs\Exam Preparation\Department Forms
+make a duplicate copy of game_screenshots.zip in Team Engineering
+make a duplicate copy of conference_travel_claim.xlsx in Restore Tests
+make a duplicate copy of cash_flow_draft.txt in App Plugins
+make a duplicate copy of comic_collection.cbz in Project Validation
+make a duplicate copy of analytics_dashboard.webp in College Private
+make a duplicate copy of cash_flow_backup.jar in Shipping
+make a duplicate copy of purchase_order_8821.pdf in Recycle Bin Tests
+make a duplicate copy of rollback_plan_backup.rs in College - Ready to Submit
+make a duplicate copy of synthetic_data_seed.json in College Old Versions
+make a duplicate copy of entity_resolution_cases.jsonl in GEHU - Engineering
+make a duplicate copy of mock_test_scores.csv in D:\Projects\Release 1.4
+make a duplicate copy of document_version_history.csv in C:\Temp\Device Reports\HR\Project October
+make a duplicate copy of contacts_export.vcf in D:\Shared\Final Versions
+make a duplicate copy of repository_mirror.bundle in C:\Users\Ankit\Downloads\Config
+make a duplicate copy of operation_rollback_log.txt in F:\USB Backup\screenshots\src\Shipping
+make a duplicate copy of social_media_plan_draft.ttf in E:\Archive\Shared Documents\Client A\Client Pending
+make a duplicate copy of monthly_summary.png in E:\Media\WinPilot3
+make a duplicate copy of analytics_dashboard_revised.pom in D:\Backups\Receipts
+make a duplicate copy of fuel_card_statement.pdf in E:\Media\engineering\warehouse\Performance Appraisals
+make a duplicate copy of placement_drive_registration.pdf in \\backup-server\weekly\invoices\presentations\Year To Review
+make a duplicate copy of C:\ProgramData\Supplier North\Week 42\app_icon.png in WinPilot Reports
+make a duplicate copy of C:\Users\Ankit\OneDrive\Research Papers\Week 42\pip_freeze_winpilot.txt in University Finance
+make a duplicate copy of \\192.168.1.20\teamshare\frontend\receipts\untitled_spreadsheet.xlsx in Payroll Manager Tracking
+make a duplicate copy of C:\Users\Ankit\Desktop\warehouse\Assignments\dispatch_exception_report.csv in Operating Systems References
+make a duplicate copy of E:\Incoming\Semester 5\test results\data_masking_rules.yaml in DBMS Project Receipts
+make a duplicate copy of C:\Temp\Source\club_event_poster.jpg in Semester 8
+make a duplicate copy of C:\Users\Ankit\Desktop\archives\api tests\property_photos.zip in Wallpapers
+make a duplicate copy of C:\Users\ankit.kumar\Documents\Travel\Desktop.ini in Payroll Manager Assets
+make a duplicate copy of C:\Projects\WinPilot\automation_plugin_registry.json in Model Error Cases
+make a duplicate copy of C:\Users\ankit.kumar\Documents\WinPilot\client_call_followup.docx in Team Audits
+make a duplicate copy of G:\Shared\recordings\Semester 5\campaign_budget_reforecast.xlsx in D:\Staging\To Submit\design files\Client Evidence
+make a duplicate copy of D:\College\GEHU\Home Repairs\Course Material\fuel_card_statement.pdf in E:\Media\campaigns\WinPilot\Phone Transfer
+make a duplicate copy of C:\Users\Public\Documents\Research\personal_finance_dashboard.xlsx in D:\Research\Assignments
+make a duplicate copy of C:\Users\Ankit\Downloads\website\release builds\meeting_audio.wav in C:\Users\Ankit\Documents\campaigns\Semester 5\Team Deliverables
+make a duplicate copy of D:\Shared\Travel\migration_notes.md in C:\Users\Ankit\OneDrive\validation data\website\Final Report Attachments
+make a duplicate copy of F:\USB Backup\Photos\final_reviewed.docx in C:\Dev\logs\Graphics Troubleshooting\Family Events
+make a duplicate copy of C:\Program Files\Course Material\recordings\technical_interview_bank.docx in E:\Archive\Release 1.4\receipts\Team Photos
+make a duplicate copy of \\OfficePC\Public\Home Repairs\api tests\proforma_invoice_2026.pdf in D:\Data\October 2026\operations\Department November
+make a duplicate copy of \\192.168.1.20\teamshare\Certificates\Network Captures\social_media_calendar.xlsx in E:\College\Videos
+make a duplicate copy of D:\Data\operations\HR\retry_policy_notes.md in G:\Shared\Firewall Configs\imports\Team Students
+place a copy of attendance_sheet.xlsm in UX Research
+place a copy of vet_appointment_confirmation.ics in College Validation
+place a copy of monthly_summary_backup.pdf in Permission Tests
+place a copy of tax_computation_backup.etl in Rental Agreement
+place a copy of retry_policy_notes.md in WinPilot - History
+place a copy of equipment_register_revised.pyw in Feature Engineering
+place a copy of shift_schedule_v3.cmd in tokenizers
+place a copy of oauth_redirect_uri_list.txt in Knowledge Base
+place a copy of placement_cell_dashboard.xlsx in Archived 2025
+place a copy of rental_inspection_photos.zip in GEHU - Q4 2026
+place a copy of release_notes_v1.4.md in D:\Data\Source Code
+place a copy of thesis_chapter_2.docx in E:\College\Shared Documents\backups\Year Week 43
+place a copy of uptime_summary_final.err in C:\Users\Ankit\Pictures\photos\validation data\Git Repositories
+place a copy of website_audit_draft.zip in D:\Data\HR\To Review\Personal Archive
+place a copy of washing_machine_service_invoice.pdf in D:\Research\inventory\contracts\3D Assets
+place a copy of jwt_validation_cases.jsonl in F:\External Drive\PBL Phase 2\entity pools\Test Results
+place a copy of stock_expiry_alerts.csv in C:\Users\ankit.kumar\Documents\Reports
+place a copy of godot_project_export.zip in \\192.168.1.20\teamshare\src\src\Device Reports
+place a copy of sample_commands.jsonl in E:\Incoming\Firewall Configs\operations\Year Old Versions
+place a copy of api_test_results.jsonl in D:\Work\GEHU
+place a copy of D:\Backups\training data\entity pools\clinical_study_site_log.csv in Archive 2026
+place a copy of E:\College\Documents\config.py in DBMS Project - Suppliers
+place a copy of C:\Users\Ankit\Documents\recordings\Payroll Manager\building_access_card_log.csv in Year Revisions
+place a copy of C:\Users\Ankit\Downloads\warehouse\Firewall Configs\credit_card_dispute_letter.docx in Voice Recordings
+place a copy of C:\Users\Ankit\Pictures\October 2026\datasets\profile_picture.jpg in Resumes
+place a copy of C:\Dev\exports\Certificates\warehouse_bin_location_map.xlsx in College Engineering
+place a copy of C:\Users\Ankit\Videos\model outputs\backups\network_capture.pcapng in 2024 DBMS Project
+place a copy of G:\Shared\Research Papers\To Review\luggage_inventory.xlsx in Unit 4 Notes
+place a copy of D:\College\GEHU\Driver Backups\Firewall Configs\release_checklist.xlsx in Payroll Manager - Raw Data
+place a copy of G:\Shared\imports\Audio Troubleshooting\network_adapter_report.html in Year Tracking
+place a copy of \\192.168.1.20\teamshare\PBL Phase 2\test results\photo_album_cover.jpg in C:\Users\Ankit\Downloads\WinPilot3
+place a copy of C:\Users\Ankit\Desktop\WinPilot\thesis_chapter_2.docx in E:\Incoming\website\operations\Stock Reports
+place a copy of C:\ProgramData\generated\Semester 5\email_newsletter_performance.csv in C:\Users\Ankit\Documents\Home Repairs\travel\Project Gamma
+place a copy of C:\Users\Ankit\Downloads\Travel\device_manager_export.txt in D:\Backups\Reports
+place a copy of C:\Users\Ankit\Videos\client files\Semester 7\utility_receipts.zip in C:\Program Files\Reports\Old Versions\Merge Conflicts
+place a copy of C:\Users\Ankit\Downloads\Screenshots\household_insurance_schedule.pdf in D:\Research\campaigns\warehouse\Client October
+place a copy of D:\Work\temp\recordings\machine_downtime_register.xlsx in C:\ProgramData\backend\config\Project Requests
+place a copy of \\192.168.1.20\teamshare\config\screenshots\warranty_card.pdf in E:\College\presentations\Semester 7\Project Current
+place a copy of \\FileServer\Departments\src\generated\query_plan.txt in D:\Work\October 2026\Lab Work\Team Current
+place a copy of D:\Shared\Documents\windows_update_history.html in C:\Users\Public\Documents\Generated Records
+please copy chemical_inventory.csv into Warranty Claims
+please copy container_inventory_draft.woff2 into College Incoming
+please copy unicode_path_test_cases.csv into Department 2025
+please copy monthly_summary.properties into Public
+please copy reviewer_comments_round2.docx into Wireframes
+please copy dependency_audit.bin into University Drafts
+please copy access_card_audit.csv into College Outputs
+please copy NOTICE into Project Cleaned
+please copy mock_interview_feedback.docx into Code Reviews
+please copy vehicle_repair_estimate.xlsx into University - Working Files
+please copy dataset_hash_manifest.sha256 into C:\Users\Public\Documents\Windows Logs\Driver Backups\Junction Tests
+please copy assignment_submission_revised.pdf into C:\Users\Public\Documents\Docs
+please copy request_trace.log into \\NAS01\Shared\presentations\Windows Logs\TLS Certificates
+please copy specimen_register.xlsx into \\192.168.1.20\teamshare\Lab Work\Old Versions\Cloud Computing
+please copy migration_results.iso into \\OfficePC\Public\finance\HR\UX Research
+please copy birthday_guest_list.xlsx into F:\USB Backup\Driver Backups\model outputs\Hindi
+please copy shift_schedule.m4a into D:\Data\Shared Drive
+please copy hackathon_pitch.pptx into D:\Work\marketing\validation data\Browser Session Backups
+please copy risk_register.toml into E:\Media\inventory\Semester 5\Reading Notes
+please copy service_health_backup.vhdx into C:\Users\Ankit\OneDrive\Sprint 13\Semester 7\Client Test Set
+please copy product_catalog_2026_10.evtx to Operating Systems Archives
+please copy rollback_plan.json to GEHU - Releases
+please copy annual_report_reviewed.wav to GEHU - Sprint 13
+please copy server.log to Shopping Lists
+please copy faq_draft.md to DBMS Project - Sprint 13
+please copy project_plan_approved.jar to Training Corpora
+please copy new_hire_checklist.docx to Client Drafts
+please copy privacy_assessment_v3.bak to Phone Backup
+please copy technical_interview_bank.docx to University Students
+please copy delivery_manifest_backup.eml to VirtualBox
+please copy api_specification.lock to E:\Personal\contracts\Projects\Client Reviewed
+please copy contract_signed.cer to E:\College\Downloads
+please copy dependency_audit_revised.go to G:\Shared\Client A\HR\Team Archive
+please copy firewall_audit.sh to D:\Work\Downloads
+please copy localisation_strings_backup.pth to C:\Users\Ankit\Videos\Research Papers\Final Versions\Patch Files
+please copy attendance_sheet.jar to C:\Program Files (x86)\engineering\logs\Project Alpha
+please copy site_survey.dxf to D:\Shared\Research
+please copy load_test_results.jtl to C:\Users\Ankit\Documents\imports\HR\Database Systems Course
+please copy status_report_final.msix to D:\Source\Travel Planning\Assignments\Music Playlists
+please copy campaign_calendar_revised.xml to C:\Dev\recordings\PBL Phase 2\Department Scripts
+please copy D:\Work\Research\reading_queue.json into WinPilot Models
+please copy C:\Users\Ankit\Documents\Network Captures\test results\presentation_final.pptx into Phone Restore
+please copy D:\Research\archives\docs\path_resolution_tests.csv into WinPilot - Clients
+please copy D:\Work\Training Data\vendor_payment_batch.txt into GEHU 2024
+please copy C:\Users\Ankit\Downloads\travel\test results\update_channel_config.yaml into Bank Reconciliation
+please copy D:\WinPilot\Old Versions\datasets\lighthouse_audit.json into WinPilot - Drafts
+please copy C:\Users\ankit.kumar\Documents\PBL Phase 2\research_sources.bib into Inbox
+please copy D:\Backups\Assignments\background_job_failures.csv into Payroll Manager Pending Review
+please copy C:\Users\ankit.kumar\Documents\Downloads\refund_request_8831.pdf into College To Move
+please copy C:\Dev\entity pools\backend\visitor_register.xlsx into Project Designs
+please copy C:\Users\Ankit\Desktop\Source Code\Sprint 13\user_preferences.json into D:\WinPilot\Certificates\training data\Team Training
+please copy C:\Users\Ankit\Desktop\Reports\command_history_sample.txt into C:\ProgramData\To Review\Exam Preparation\Bug Triage
+please copy C:\Users\Ankit\Documents\Travel\air_quality_sensor_export.json into D:\WinPilot\migrations\Home Repairs\Work Documents
+please copy F:\USB Backup\To Review\PBL Phase 2\powershell_profile.ps1 into D:\College\GEHU\Exam Preparation\October 2026\Important Documents
+please copy D:\Work\PBL Phase 2\cab_receipt_20261019.pdf into C:\Users\Ankit\Documents\diagnostics\Firewall Configs\App Diagnostics
+please copy C:\Users\Ankit\Documents\tests\training data\skeleton_generation_report.html into G:\Shared\finance\Exam Preparation\Textures
+please copy F:\External Drive\entity pools\HR\container_image_list.csv into C:\Users\Ankit\Documents\Game Saves
+please copy C:\Users\Ankit\Desktop\Device Reports\Home Repairs\air_quality_sensor_export.json into C:\ProgramData\test results\Course Material\Performance Reviews
+please copy D:\WinPilot\release builds\inventory\portfolio_project_readme.md into F:\USB Backup\Release 1.4
+please copy C:\Temp\Sprint 13\presentations\exam_revaluation_request.docx into E:\Media\Source Code\Firewall Configs\Client Forms
+please copy C:\Users\Ankit\Pictures\invoices\Audio Troubleshooting\old_letters_archive.zip to DBMS Project - Packages
+please copy \\backup-server\weekly\Final Versions\Graphics Troubleshooting\gpu_benchmark_results.csv to DBMS Project - Inputs
+please copy D:\Staging\To Submit\design files\field_site_photos.zip to Client Designs
+please copy C:\Program Files (x86)\invoices\Driver Backups\field_observations.md to WinPilot - Imports
+please copy C:\Users\Ankit\Downloads\Photos\recovery_key_instructions.pdf to Short Term Staging
+please copy C:\Dev\test results\Audio Troubleshooting\known_hosts_backup.txt to GEHU Packages
+please copy C:\Users\Ankit\Videos\Network Captures\finance\survey_responses.xlsx to Client Reports
+please copy D:\Research\Source\schema_v2.sql to Team Team B
+please copy C:\Users\Public\Documents\Documents\dog_training_notes.md to Garden Maintenance
+please copy D:\WinPilot\Meeting Notes\phone_transfer_log.txt to University Raw Data
+please copy D:\Backups\Device Reports\inventory\translation_review_hi.xlsx to D:\Projects\Week 42\logs\Tokenisation
+please copy D:\Backups\Sprint 13\screenshots\video_chapter_markers.csv to C:\Dev\Graphics Troubleshooting\migrations\Client Old Versions
+please copy D:\Projects\finance\October 2026\task_scheduler_export.xml to D:\Projects\Week 42
+please copy D:\Work\Archive\luggage_tag_print.pdf to E:\Personal\Semester 5\config\Client Documentation
+please copy C:\Users\Ankit\Downloads\Data\Thumbs.db to C:\Users\Ankit\Pictures\migrations\Semester 5\Year Data
+please copy C:\Users\Ankit\OneDrive\Reports\assets\semester_planner_2026.xlsx to D:\Data\Travel
+please copy \\NAS01\Shared\HR\Exam Preparation\container_build_log.txt to C:\Users\Ankit\OneDrive\meeting notes\Certificates\Mockups
+please copy C:\Temp\To Submit\Personal Finance\virtualbox_vm_list.csv to D:\Projects\Downloads
+please copy E:\Archive\Final Versions\model outputs\camera_raw_20261018.cr3 to D:\Work\docs\Course Material\Team Shared
+please copy C:\Users\Ankit\Documents\archives\docs\research_sources.bib to D:\College\GEHU\Projects\Week 42\Phone Backup
+please duplicate project_scope_v3.htm into Client Metrics
+please duplicate contract_signed_reviewed.ass into Performance Reviews
+please duplicate household_receipt_bundle.zip into WinPilot - Outgoing
+please duplicate risk_register.bin into WinPilot - Suppliers
+please duplicate annual_report_2026_10.crt into College - For Review
+please duplicate meeting_minutes_reviewed.pptx into Issue Attachments
+please duplicate salary_statement.css into Client Responses
+please duplicate schema_v2.sql into Client To Review
+please duplicate iam_policy_review.json into Privacy
+please duplicate maintenance_log_v2.jar into Operating Systems Documents
+please duplicate api_specification_2026_10.weights into C:\Users\Ankit\Documents\To Review
+please duplicate game_save_backup_slot_04.zip into C:\Users\Ankit\Pictures\Old Versions\migrations\Year Working
+please duplicate parking_receipt.pdf into C:\Dev\Travel Planning\To Review\Client Inputs
+please duplicate router_firmware_notes.md into C:\Users\Ankit\Documents\Lab Work\backend\Storage Migration
+please duplicate migration_plan.lock into C:\ProgramData\datasets\temp\Department History
+please duplicate backup_manifest_v3.7z into C:\Program Files\Semester 5\Firewall Configs\Team Receipts
+please duplicate campaign_calendar_final.mkv into D:\Projects\Network Captures\Week 42\Subtitles
+please duplicate support_case_revised.pem into C:\Users\Ankit\Downloads\Assignments
+please duplicate INV-2026-1048.pdf into D:\Source\Home Repairs\Audio Troubleshooting\Returns
+please duplicate node_modules_audit.json into D:\College\GEHU\frontend\family photos\Insurance Policies
+please duplicate sales_pipeline_october.xlsx to Payroll Manager - Tickets
+please duplicate usb_backup_verification.csv to Department Final
+please duplicate trip_photos_manali.zip to Podcast Downloads
+please duplicate homework_tracker.xlsx to 2026 WinPilot
+please duplicate intel_graphics_driver_notes.md to DBMS Project - Reference Material
+please duplicate crash_dump_index.csv to WinPilot - Temporary Files
+please duplicate customer_survey_reviewed.py to Delivery Proofs
+please duplicate quality_report.rtf to Payroll Manager - Previous
+please duplicate laptop_temperature_log.csv to Payroll Manager - Metrics
+please duplicate leave_request_form.docx to Payroll Manager - Working Files
+please duplicate database_schema.pickle to D:\Projects\tests\Graphics Troubleshooting\docs
+please duplicate shipment_tracking_final.webm to \\backup-server\weekly\Assignments\database\Database Systems Course
+please duplicate readme_for_contributors.md to F:\USB Backup\database\October 2026\Team Videos
+please duplicate inspection_checklist.jpeg to E:\Incoming\Driver Backups\datasets\Project 2026
+please duplicate stock_reconciliation_draft.xlsm to E:\Archive\Source Code
+please duplicate draft_customers.html to E:\Archive\Temporary Exports
+please duplicate migration_results.evtx to E:\College\Datasets
+please duplicate deployment_checklist_reviewed.png to \\192.168.1.20\teamshare\inventory\customer support\Action Items
+please duplicate latency_benchmark.cs to C:\Users\Ankit\Downloads\Archives
+please duplicate scholarship_shortlist.xlsx to D:\Work\Research
+please duplicate \\OfficePC\Public\meeting notes\frontend\courier_pickup_schedule.ics into Hindi Translation
+please duplicate F:\USB Backup\Model Outputs\page.tsx into Department Metrics
+please duplicate F:\USB Backup\datasets\inventory\property_tax_challan.pdf into Procurement
+please duplicate D:\Backups\receipts\Device Reports\WhatsApp Image 2026-10-18 at 17.42.33.jpeg into Year Packages
+please duplicate C:\Program Files (x86)\model outputs\customer support\travel_memories_2025.docx into WinPilot User Commands
+please duplicate C:\Dev\Device Reports\photos\vendor_tax_details.xlsx into Payroll Manager - Archives
+please duplicate D:\Backups\entity pools\customer support\seed_inventory.xlsx into College Customers
+please duplicate C:\Users\Public\Documents\Data\office_supply_order.xlsx into WinPilot Inventory
+please duplicate \\backup-server\weekly\photos\Course Material\salary_expectations.xlsx into College Notes
+please duplicate C:\Users\Ankit\Desktop\Assignments\school_transfer_certificate.pdf into Team Version 1
+please duplicate C:\Users\Public\Documents\Research\shared_drive_permissions.xlsx into C:\Dev\Semester 7
+please duplicate D:\Research\Data\audio_device_test.wav into C:\Dev\database\Source Code\Unit 4 Notes
+please duplicate C:\Projects\Documents\meal_plan.docx into C:\Dev\Client A
+please duplicate C:\Users\Ankit\Desktop\datasets\Final Versions\investment_portfolio_snapshot.xlsx into F:\External Drive\datasets\marketing\Project Research
+please duplicate C:\Dev\Windows Logs\Home Repairs\weather_station_log.csv into D:\Projects\screenshots\receipts\Project Audits
+please duplicate E:\College\Photos\investment_tax_report.pdf into C:\Users\Ankit\Documents\Assets
+please duplicate \\FileServer\Departments\screenshots\generated\meeting_room_booking.ics into D:\Source\invoices\invoices\Team Audio
+please duplicate C:\Users\Ankit\Documents\Archive\invoice_scan_001.tiff into C:\Users\Ankit\Downloads\Week 42
+please duplicate C:\Users\Public\Documents\Client A\Lab Work\queue_retry_analysis.ipynb into D:\Projects\Sprint 13
+please duplicate C:\Users\Ankit\OneDrive\src\database\household_inventory.xlsx into C:\Users\ankit.kumar\Documents\Entity Pools
+please duplicate \\FileServer\Departments\Certificates\Audio Troubleshooting\home_cleaning_checklist.docx to Department Records
+please duplicate C:\Users\Ankit\Pictures\Archive\vaccination_record.pdf to Year References
+please duplicate D:\Data\Travel\electricity_bill.pdf to Receipts
+please duplicate E:\College\Downloads\supplier_contacts.vcf to Unit 3 Notes
+please duplicate D:\Shared\Model Outputs\consent_records_index.xlsx to WinPilot - Assets
+please duplicate \\OfficePC\Public\finance\HR\task_failure_reproduction.docx to WinPilot Raw Data
+please duplicate E:\College\Certificates\contracts\battery_cycle_report.csv to University Materials
+please duplicate C:\Users\Ankit\Pictures\Exam Preparation\To Review\privacy_impact_assessment.docx to intent datasets
+please duplicate C:\Users\Ankit\Desktop\Screenshots\event_viewer_errors.evtx to Project Shared
+please duplicate D:\College\GEHU\Certificates\Driver Backups\hostel_allocation_letter.pdf to Generated Records
+please duplicate D:\College\GEHU\Projects\Week 42\marksheet_semester_5.pdf to F:\USB Backup\Assignments
+please duplicate C:\Users\Public\Documents\Client A\model outputs\end_to_end_test_video.mp4 to G:\Shared\website\Audio Troubleshooting\Client Processed
+please duplicate C:\Projects\Receipts\pre-commit-config.yaml to C:\Users\Ankit\Desktop\marketing\Network Captures\Bank Statements
+please duplicate \\NAS01\Shared\release builds\Research Papers\shared_link_inventory.xlsx to D:\Research\Driver Backups\imports\reports
+please duplicate C:\Users\Ankit\Desktop\tests\entity pools\error_0xc0000005.log to D:\Data\October 2026
+please duplicate C:\Program Files (x86)\entity pools\intent models\book_highlights.txt to E:\Incoming\Lab Work\Driver Backups\Reading Notes
+please duplicate \\OfficePC\Public\Payroll Manager\archives\holiday_photo_index.csv to E:\College\GEHU
+please duplicate E:\Incoming\family photos\To Submit\shell_context_menu_audit.csv to \\192.168.1.20\teamshare\Certificates\imports\Bank Reconciliation
+please duplicate G:\Shared\screenshots\Assignments\power_plan_backup.pow to C:\Users\Ankit\Videos\Audio Troubleshooting\database\Department Builds
+please duplicate \\FileServer\Departments\docs\WinPilot\backup_manifest_20261020.json to C:\Users\Ankit\Desktop\HR\imports\Node Packages
+put a copy of entity_pool_usage_stats.xlsx into DBMS Project - November 2026
+put a copy of vehicle_service_booking.ics into WinPilot Resources
+put a copy of road_trip_expense_split.xlsx into Client Q3
+put a copy of game_manual.pdf into 2025 GEHU
+put a copy of weekly_update_v2.pom into WinPilot Forms
+put a copy of cad_drawing_revision_08.dwg into College - For Approval
+put a copy of knowledge_base_export.zip into University Temporary Files
+put a copy of holiday_video.mp4 into Password Vault Backups
+put a copy of seo_report.prof into To Review
+put a copy of database_index_report.html into Management
+put a copy of survey_responses.xlsx into E:\Media\Finance Team
+put a copy of responsive_breakpoint_matrix.xlsx into D:\Staging\October 2026\Graphics Troubleshooting\C++ Practice
+put a copy of audit_evidence_2026_10.wav into D:\Backups\Projects\Supplier North\Localization
+put a copy of rollback_plan_draft.ost into C:\Users\Ankit\OneDrive\travel\api tests\Bills
+put a copy of attendance_register.xlsx into D:\Data\GEHU
+put a copy of gpu_benchmark_results.csv into C:\Users\Ankit\Videos\imports\Certificates\Team Research
+put a copy of unity_package_manifest.json into D:\Projects\WinPilot\Home Repairs\Project Deliverables
+put a copy of product_feedback_october.csv into D:\Backups\Lab Work
+put a copy of localisation_strings.pfx into C:\Users\ankit.kumar\Documents\Research
+put a copy of api_specification_reviewed.etl into C:\Users\Public\Documents\Exam Preparation\training data\Project Alpha
+put a copy of E:\Personal\Graphics Troubleshooting\docs\notes_from_call_with_supplier.docx into Client Working
+put a copy of D:\Data\Archive\maintenance_record.pdf into Volunteering
+put a copy of D:\College\GEHU\Source Code\campaigns\csrf_test_report.html into WinPilot Shared
+put a copy of D:\Source\Payroll Manager\October 2026\placement_offer_acceptance.pdf into Old Laptop
+put a copy of C:\Users\Ankit\Pictures\tests\customer support\pet_vet_receipt.pdf into Payroll Manager - Private
+put a copy of C:\Users\Ankit\OneDrive\Backups\repair_quote_2026_119.xlsx into WinPilot - Finance
+put a copy of D:\WinPilot\Archive\audio_device_test.wav into Data Engineering
+put a copy of F:\External Drive\backups\meeting notes\travel_memories_2025.docx into WinPilot - Raw Data
+put a copy of \\backup-server\weekly\inventory\presentations\registry_export_before_fix.reg into GEHU - Private
+put a copy of C:\Dev\PBL Phase 2\migrations\plant_seedling_inventory.xlsx into Payroll Manager - References
+put a copy of D:\Data\campaigns\model outputs\query_plan.txt into C:\Users\Public\Documents\generated\Projects\Project Private
+put a copy of D:\Source\tests\generated\network_path_examples.txt into E:\College\invoices\Semester 5\Department Responses
+put a copy of C:\Users\Ankit\Documents\Data\campaign_budget_reforecast.xlsx into D:\Projects\Screenshots
+put a copy of F:\USB Backup\database\Shared Documents\webinar_registration_confirmation.pdf into E:\College\operations\Semester 5\Scanned Documents
+put a copy of E:\Incoming\PBL Phase 2\Week 42\partner_contract_draft.docx into G:\Shared\design files\datasets\Team Records
+put a copy of C:\Users\Ankit\Videos\Network Captures\marketing\command_history_sample.txt into C:\Program Files (x86)\docs\HR\Quarantine
+put a copy of C:\Users\Ankit\Downloads\Invoices\bike_service_receipt.pdf into E:\Media\Model Outputs
+put a copy of \\FileServer\Departments\screenshots\Exam Preparation\repository_mirror.bundle into C:\Program Files\PBL Phase 2\design files\Client Shared
+put a copy of D:\Source\operations\Device Reports\specimen_register.xlsx into D:\Research\campaigns\assets\Accounts Receivable
+put a copy of G:\Shared\engineering\docs\webinar_registration_confirmation.pdf into C:\Program Files (x86)\October 2026\assets\2025 Records
+put a duplicate of draft_permissions.docx in Payroll Manager Audits
+put a duplicate of football_training_log.xlsx in WinPilot Support
+put a duplicate of photos_backup.zip in Client Audits
+put a duplicate of pii_redaction_test_results.csv in Deployment Rollbacks
+put a duplicate of staff_schedule_week43.xlsx in DBMS Project Inputs
+put a duplicate of wsl_distribution_export.tar in WinPilot - Tracking
+put a duplicate of old_versions_do_not_delete.zip in 2024 WinPilot
+put a duplicate of seo_report.sys in External SSD Backup
+put a duplicate of family_calendar_october.ics in College Backups
+put a duplicate of migration_results_revised.docx in Customer One
+put a duplicate of course_outcomes_mapping.xlsx in F:\USB Backup\validation data\docs\Q3 2026
+put a duplicate of database_schema_reviewed.tmp in C:\Users\Ankit\OneDrive\frontend\model outputs\Team Schedules
+put a duplicate of delivery_route_plan.gpx in C:\Dev\PBL Phase 2\migrations\Project Cleaned
+put a duplicate of social_media_plan.h in C:\Users\Ankit\Desktop\tests\entity pools\Year October
+put a duplicate of device_guard_policy_notes.md in E:\Media\Driver Backups\Source Code\Year Packages
+put a duplicate of usability_findings.xlsx in D:\Projects\Assignments\Week 42\Year Tests
+put a duplicate of migration_plan_backup.xz in G:\Shared\Research Papers\meeting notes\Structure Library Exports
+put a duplicate of query_results.pth in \\backup-server\weekly\config\presentations\Docker
+put a duplicate of benchmark_results.xlsx in C:\Users\Ankit\Downloads\Driver Backups\Audio Troubleshooting\Team Manifests
+put a duplicate of disaster_recovery_draft.gz in F:\USB Backup\family photos\campaigns\Pet Care
+put a duplicate of D:\Projects\config\Semester 7\draft_orders.txt in Year Records
+put a duplicate of D:\Research\Research\release_candidate_1.4.0.zip in College - Published
+put a duplicate of C:\Users\Ankit\Videos\backups\src\command_history_sample.txt in College Published
+put a duplicate of E:\Media\Source\learning_path_tracker.xlsx in Payroll Manager - Audio
+put a duplicate of E:\Archive\docs\inventory\faculty_feedback_semester_5.xlsx in University - To Print
+put a duplicate of D:\Work\Windows Logs\Course Material\todo_today.txt in GEHU Records
+put a duplicate of \\backup-server\weekly\imports\WinPilot\dependency_update_plan.md in License Inventory
+put a duplicate of C:\Program Files (x86)\engineering\logs\coding_contest_submissions.zip in Department Suppliers
+put a duplicate of C:\ProgramData\To Review\Shared Documents\experiment_assignments.csv in Onboarding
+put a duplicate of E:\Media\backups\backups\dns_cache_flush_notes.md in Year Notes
+put a duplicate of D:\Data\Photos\consent_records_index.xlsx in C:\Users\Ankit\Desktop\contracts\Projects\Frontend Components
+put a duplicate of C:\Users\Ankit\Pictures\Source\draft_suppliers.xlsx in D:\Research\customer support\Device Reports\Weekend Plans
+put a duplicate of C:\Users\Ankit\Documents\training data\model outputs\lab_computer_fault_log.csv in E:\Archive\Photos
+put a duplicate of \\NAS01\Shared\Firewall Configs\inventory\delivery_photos.zip in C:\Temp\WinPilot
+put a duplicate of C:\Projects\Data\refund_approval_8831.pdf in E:\College\finance\assets\Customer Onboarding
+put a duplicate of C:\Users\Public\Documents\marketing\Personal Finance\web_hosting_renewal.pdf in D:\Source\config\Release 1.4\Dashboards
+put a duplicate of D:\Work\Research Papers\Supplier North\external_drive_inventory.csv in D:\Research\backups\presentations\Intent Validation
+put a duplicate of D:\Work\Reports\assignment_feedback_sem5.pdf in D:\Data\Client B
+put a duplicate of C:\Dev\Graphics Troubleshooting\migrations\property_tax_receipt.pdf in C:\Users\Ankit\Desktop\Test Results
+put a duplicate of \\OfficePC\Public\frontend\Research Papers\asset_register_2026.xlsx in D:\Projects\contracts\database\Internship Applications
+save a copy of camera_manual.pdf in Audio Troubleshooting
+save a copy of rollback_plan.env in GEHU Reference Material
+save a copy of crash_report.dmp in 2024 College
+save a copy of risk_assessment.rtf in Payroll Manager - Tracking
+save a copy of file_lock_retry_results.csv in DBMS Project Resources
+save a copy of device_enrolment_report.xlsx in University Planning
+save a copy of recording_2026-10-19.wav in WinPilot - Current
+save a copy of fire_drill_roster.xlsx in Team Documents
+save a copy of user_feedback_triage.xlsx in production
+save a copy of schema_diff_20261020.sql in Payroll Manager Metrics
+save a copy of weekly_update.etl in C:\Program Files\src\campaigns\Department Reports
+save a copy of seo_report_approved.ttf in G:\Shared\assets\Certificates\Year Backups
+save a copy of contract_test_results.xml in C:\Users\Ankit\Desktop\tests\travel\Client November
+save a copy of vulnerability_report.dmp in E:\Personal\recordings\Travel Planning\Bills
+save a copy of returns_authorisation_5832.pdf in C:\Program Files\Driver Backups\training data\DNS Exports
+save a copy of batch_cleanup_script.bat in G:\Shared\Audio Troubleshooting\diagnostics\Client Sprint 12
+save a copy of interview_schedule_week43.ics in D:\Projects\validation data\Payroll Manager\Client October
+save a copy of ner_training_examples.jsonl in C:\Dev\client files\customer support\Junction Tests
+save a copy of seed_users.sql in D:\Backups\Presentations
+save a copy of quarterly_review_2026_10.tiff in E:\College\Lab Work
+save a copy of C:\Users\Ankit\Pictures\campaigns\client files\davinci_project_archive.drp in 2025 DBMS Project
+save a copy of C:\Users\Ankit\OneDrive\Reports\bluetooth_diagnostics.txt in Shortcuts
+save a copy of C:\Users\Ankit\Pictures\Meeting Notes\appliance_manual_washer.pdf in Payroll Manager Notes
+save a copy of D:\Source\assets\Week 42\app.py in Command History
+save a copy of C:\Program Files (x86)\NER experiments\training data\data_collection_schedule.ics in Firmware Packages
+save a copy of C:\Users\Ankit\Downloads\Research Papers\backups\transcript_meeting.txt in DBMS Project Templates
+save a copy of C:\Users\ankit.kumar\Documents\Downloads\codeql_findings.sarif in 2026 Payroll Manager
+save a copy of C:\Users\Ankit\Downloads\Research\audio_device_test.wav in Automated Test Reports
+save a copy of D:\College\GEHU\Reports\Shared Documents\endpoint_alert_export.json in Project Scripts
+save a copy of D:\Research\Home Repairs\finance\android_keystore_backup.txt in Project Exports
+save a copy of C:\Dev\Travel Planning\To Review\machine_service_log.xlsx in E:\Archive\Week 42
+save a copy of \\OfficePC\Public\family photos\marketing\Screenshot (12).png in E:\Incoming\presentations\inventory\Return Requests
+save a copy of C:\Users\Public\Documents\Travel\draft_lab.xlsx in \\192.168.1.20\teamshare\Device Reports\presentations\WinPilot User Commands
+save a copy of C:\Users\Ankit\Videos\Source\car_inspection_report.pdf in C:\Temp\Certificates\migrations\Project Q3
+save a copy of C:\Users\Ankit\Videos\Meeting Notes\building_access_map.pdf in D:\Research\Validation Data
+save a copy of D:\Data\Backups\draft_analytics.csv in C:\Users\Ankit\Documents\Assignments\HR\FY2026-27
+save a copy of D:\Backups\Invoices\energy_consumption_october.csv in D:\Data\Assignments
+save a copy of C:\Dev\receipts\Semester 5\emergency_plan_home.pdf in E:\College\Projects\Payroll Manager\Project Customers
+save a copy of E:\Media\Receipts\newsletter_header.png in D:\Staging\To Submit\frontend\Sprint 13
+save a copy of D:\College\GEHU\Downloads\endpoint_isolation_log.txt in C:\Dev\Week 42
+store a duplicate of incident_report.pickle in Recruitment
+store a duplicate of audit_evidence.bat in Project Audits
+store a duplicate of project_scope.cfg in Year Backups
+store a duplicate of unit_test_report.7z in Year Processed
+store a duplicate of test_filesystem.py in Phone Troubleshooting
+store a duplicate of database_restore_test.log in Payroll Manager - Revisions
+store a duplicate of warehouse_stock.gif in Online Orders
+store a duplicate of analytics_dashboard_v2.mkv in Payroll Manager - Clients
+store a duplicate of regression_suite.feather in Data Governance
+store a duplicate of food_delivery_invoice.pdf in WinPilot - Schedules
+store a duplicate of museum_audio_guide.mp3 in C:\Users\ankit.kumar\Documents\Logs
+store a duplicate of quality_report_final.css in C:\Users\Ankit\OneDrive\Shared Documents\datasets\Project Archive
+store a duplicate of file_naming_conventions.md in C:\Temp\To Submit\Personal Finance\Refund Cases
+store a duplicate of monthly_summary_revised.arrow in E:\Media\Videos
+store a duplicate of hotel_rooming_list.xlsx in E:\Media\meeting notes\October 2026\Project Research
+store a duplicate of slow_query_analysis.jpg in C:\Users\Public\Documents\Research
+store a duplicate of lab_booking_calendar.ics in D:\Projects\Projects
+store a duplicate of water_tank_service_log.xlsx in E:\Archive\Recordings
+store a duplicate of duplicate_files_report.csv in D:\Work\database\model outputs\Team Invoices
+store a duplicate of wifi_roaming_diagnostics.csv in C:\Users\Ankit\Pictures\database\Personal Finance\Documents for Travel
+store a duplicate of C:\Users\Ankit\Pictures\Invoices\offsite_backup_receipt.pdf in Department To Submit
+store a duplicate of C:\Users\Public\Documents\recordings\backups\delivery_proof_5832.jpg in Laptop Maintenance
+store a duplicate of E:\Incoming\Certificates\Week 42\Scan 004.pdf in Warranties
+store a duplicate of D:\Research\To Review\archives\subscription_bills_october.pdf in College - Processed Data
+store a duplicate of C:\Users\Ankit\Documents\Photos\fundraiser_budget.xlsx in Speech Recognition
+store a duplicate of D:\Work\Semester 5\training_attendance.xlsx in Audio Transcripts
+store a duplicate of C:\Users\Ankit\Pictures\warehouse\Sprint 13\maintenance_request_0092.docx in Migration Rollback
+store a duplicate of E:\Media\Travel\concert_booking_confirmation.pdf in Project Suppliers
+store a duplicate of D:\Projects\HR\Windows Logs\cold_storage_alarm_history.csv in GEHU - Designs
+store a duplicate of E:\Media\finance\Source Code\access_review_2026.xlsx in DBMS Project Research
+store a duplicate of D:\Work\validation data\datasets\update_channel_config.yaml in D:\Data\Sprint 13\migrations\Sprint 12
+store a duplicate of D:\Data\contracts\meeting notes\responsive_layout_checks.pdf in C:\Users\Ankit\Documents\migrations\Exam Preparation\Project Imports
+store a duplicate of D:\Work\backend\client files\support_tickets.csv in C:\Program Files\database\Course Material\Move Tests
+store a duplicate of C:\Users\Ankit\Pictures\receipts\backend\benefits_enrolment_form.pdf in G:\Shared\api tests\release builds\Year Test Set
+store a duplicate of C:\Temp\Assignments\validation data\luggage_inventory.xlsx in F:\USB Backup\Invoices
+store a duplicate of E:\College\family photos\generated\gdpr_request_log.csv in D:\Data\backups\Final Versions\Do Not Delete
+store a duplicate of D:\Research\Downloads\video_encode_presets.json in D:\Projects\College
+store a duplicate of C:\Users\Ankit\Videos\tests\generated\orm_model_diff.patch in D:\Staging\backups\test results\Project 2026
+store a duplicate of C:\Users\Ankit\Desktop\Data\soil_moisture_log.xlsx in \\FileServer\Departments\Audio Troubleshooting\warehouse\Salary Records
+store a duplicate of C:\Users\Ankit\Desktop\release builds\Firewall Configs\team_org_chart.vsdx in C:\Users\Ankit\Pictures\Course Material\Projects\Project Videos

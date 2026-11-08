@@ -1,0 +1,657 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "move_folder",
+      "pattern": "can you move {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "can you move {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "can you move the folder to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "can you move the folder to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "could you move {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "could you move {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "could you move the folder to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "could you move the folder to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "I need to move {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "I need to move {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "I want to move {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "I want to move {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} folder",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} folder into {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} folder to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} from {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} here",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} into {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {FOLDER} to my {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {PATH_DIR} directory",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {PATH_DIR} folder",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {PATH_DIR} folder into {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {PATH_DIR} folder to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {PATH_DIR} here",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {PATH_DIR} into {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move {PATH_DIR} to my {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a directory called {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a directory called {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a directory from {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a directory from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a directory named {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a directory named {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a folder called {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a folder from {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a folder from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move a folder named {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move directory {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move folder {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move folder {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move folder {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move that folder into {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move that folder into {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the {FOLDER} folder from {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the {FOLDER} folder from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the {PATH_DIR} folder",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the directory called {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the directory called {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the directory named {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the directory named {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder called {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder from {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder from {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder into {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder into {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move the folder named {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move this folder into {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "move this folder into {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "please move {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "please move {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "please move the folder to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "please move the folder to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put {FOLDER} folder in {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put {FOLDER} here",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put {FOLDER} in {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put {FOLDER} in my {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put {PATH_DIR} folder in {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put {PATH_DIR} here",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put {PATH_DIR} in {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put {PATH_DIR} in my {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put College Work in {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put College Work in {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put Rahul in my {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put Rahul in my {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put that folder in {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put that folder in {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put the folder in {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put the folder in {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put this folder in {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "put this folder in {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "send {FOLDER} folder to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "send {FOLDER} to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "send {PATH_DIR} folder to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "send {PATH_DIR} to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "send the folder to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "send the folder to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "send this folder to {FOLDER}",
+      "intents": [
+        "move_folder"
+      ]
+    },
+    {
+      "dataset": "move_folder",
+      "pattern": "send this folder to {PATH_DIR}",
+      "intents": [
+        "move_folder"
+      ]
+    }
+  ]
+}

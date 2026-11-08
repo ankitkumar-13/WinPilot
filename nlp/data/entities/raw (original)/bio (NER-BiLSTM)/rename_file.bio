@@ -1,0 +1,3038 @@
+rename	O
+project	B-FILE
+schedule.xlsx	I-FILE
+
+rename	O
+expense	B-FILE
+report.xlsx	I-FILE
+
+rename	O
+sales	B-FILE
+data.xlsx	I-FILE
+
+rename	O
+employee_data.csv	B-FILE
+
+rename	O
+C:\Users\Public\Documents\shared	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+D:\Projects\WinPilot\src\main.py	B-PATH_FILE
+
+rename	O
+D:\College\Semester	B-PATH_FILE
+5\Notes\os	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+rename	O
+D:\Work\Reports\annual	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+rename	O
+student_data.csv	B-FILE
+to	O
+contact_list.csv	B-FILE
+
+rename	O
+transaction_data.csv	B-FILE
+to	O
+attendance.csv	B-FILE
+
+rename	O
+main.py	B-FILE
+to	O
+app.py	B-FILE
+
+rename	O
+server.py	B-FILE
+to	O
+client.py	B-FILE
+
+rename	O
+D:\Backup\Database\database	B-PATH_FILE
+backup.sql	I-PATH_FILE
+to	O
+E:\Research\Reports\research	B-PATH_FILE
+paper.pdf	I-PATH_FILE
+
+rename	O
+E:\Media\Videos\lecture	B-PATH_FILE
+recording.mp4	I-PATH_FILE
+to	O
+Projects\main.py	B-PATH_FILE
+
+rename	O
+Projects\app.py	B-PATH_FILE
+to	O
+Projects\project	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+Projects\README.md	B-PATH_FILE
+to	O
+Projects\data.csv	B-PATH_FILE
+
+rename	O
+automation.py	B-FILE
+to	O
+final_report.pdf	O
+
+rename	O
+data	B-FILE
+processing.py	I-FILE
+to	O
+final_report.pdf	O
+
+rename	O
+database.py	B-FILE
+to	O
+final_report.pdf	O
+
+rename	O
+configuration.py	B-FILE
+to	O
+final_report.pdf	O
+
+rename	O
+Projects\config.json	B-PATH_FILE
+to	O
+final_report.pdf	O
+
+rename	O
+Projects\Source\main.cpp	B-PATH_FILE
+to	O
+final_report.pdf	O
+
+rename	O
+Projects\Source\helper.cpp	B-PATH_FILE
+to	O
+final_report.pdf	O
+
+rename	O
+Projects\Docs\project	B-PATH_FILE
+guide.pdf	I-PATH_FILE
+to	O
+final_report.pdf	O
+
+rename	O
+file	O
+utility	B-FILE
+functions.py	I-FILE
+to	O
+test.py	B-FILE
+
+rename	O
+file	O
+main.cpp	B-FILE
+to	O
+program.cpp	B-FILE
+
+rename	O
+file	O
+source.cpp	B-FILE
+to	O
+calculator.cpp	B-FILE
+
+rename	O
+file	O
+student	B-FILE
+management.cpp	I-FILE
+to	O
+file	B-FILE
+manager.cpp	I-FILE
+
+rename	O
+file	O
+Projects\Backup\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+to	O
+College\Assignments\os	B-PATH_FILE
+assignment.pdf	I-PATH_FILE
+
+rename	O
+file	O
+College\Assignments\dbms	B-PATH_FILE
+assignment.docx	I-PATH_FILE
+to	O
+College\Notes\operating	B-PATH_FILE
+systems.pdf	I-PATH_FILE
+
+rename	O
+file	O
+College\Notes\machine	B-PATH_FILE
+learning	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+to	O
+College\Projects\file	B-PATH_FILE
+manager.cpp	I-PATH_FILE
+
+rename	O
+file	O
+College\Projects\final	B-PATH_FILE
+report.docx	I-PATH_FILE
+to	O
+College\Semester	B-PATH_FILE
+5\schedule.xlsx	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+main.c	B-FILE
+to	O
+helper.c	B-FILE
+
+rename	O
+the	O
+file	O
+header.h	B-FILE
+to	O
+Main.java	B-FILE
+
+rename	O
+the	O
+file	O
+Student.java	B-FILE
+to	O
+DatabaseManager.java	B-FILE
+
+rename	O
+the	O
+file	O
+script.js	B-FILE
+to	O
+app.js	B-FILE
+
+rename	O
+the	O
+file	O
+College\Semester	B-PATH_FILE
+5\syllabus.pdf	I-PATH_FILE
+to	O
+Work\Reports\annual	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+Work\Reports\monthly	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+to	O
+Work\Projects\website\index.html	B-PATH_FILE
+
+rename	O
+the	O
+file	O
+Work\Projects\website\style.css	B-PATH_FILE
+to	O
+Work\Projects\application\server.py	B-PATH_FILE
+
+rename	O
+the	O
+file	O
+Work\Projects\application\config.json	B-PATH_FILE
+to	O
+Personal\Photos\profile	B-PATH_FILE
+photo.jpg	I-PATH_FILE
+
+rename	O
+index.html	B-FILE
+as	O
+login.html	B-FILE
+
+rename	O
+dashboard.html	B-FILE
+as	O
+style.css	B-FILE
+
+rename	O
+main.css	B-FILE
+as	O
+config.json	B-FILE
+
+rename	O
+package.json	B-FILE
+as	O
+user	B-FILE
+data.json	I-FILE
+
+rename	O
+Personal\Photos\family	B-PATH_FILE
+photo.jpg	I-PATH_FILE
+as	O
+Personal\Documents\resume.pdf	B-PATH_FILE
+
+rename	O
+Personal\Documents\cover	B-PATH_FILE
+letter.docx	I-PATH_FILE
+as	O
+Personal\Backup\personal	B-PATH_FILE
+files.zip	I-PATH_FILE
+
+rename	O
+Shared\Projects\source	B-PATH_FILE
+code.zip	I-PATH_FILE
+as	O
+Shared\Projects\project	B-PATH_FILE
+data.xlsx	I-PATH_FILE
+
+rename	O
+Shared\Reports\team	B-PATH_FILE
+report.pdf	I-PATH_FILE
+as	O
+Data\Raw\student	B-PATH_FILE
+data.csv	I-PATH_FILE
+
+change	O
+application	B-FILE
+settings.json	I-FILE
+name	O
+to	O
+database	B-FILE
+backup.json	I-FILE
+
+change	O
+data.xml	B-FILE
+name	O
+to	O
+configuration.xml	B-FILE
+
+change	O
+settings.yaml	B-FILE
+name	O
+to	O
+docker-compose.yml	B-FILE
+
+change	O
+database.sql	B-FILE
+name	O
+to	O
+schema.sql	B-FILE
+
+change	O
+Data\Processed\student	B-PATH_FILE
+results.csv	I-PATH_FILE
+name	O
+to	O
+Data\Reports\analysis	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+change	O
+Data\Reports\final	B-PATH_FILE
+analysis.pdf	I-PATH_FILE
+name	O
+to	O
+Data\Exports\monthly	B-PATH_FILE
+results.csv	I-PATH_FILE
+
+change	O
+Archive\2025\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+name	O
+to	O
+Archive\2026\final	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+change	O
+Backup\Projects\database	B-PATH_FILE
+backup.sql	I-PATH_FILE
+name	O
+to	O
+Backup\Reports\old	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+change	O
+the	O
+name	O
+of	O
+create	B-FILE
+tables.sql	I-FILE
+to	O
+backup	B-FILE
+database.sql	I-FILE
+
+change	O
+the	O
+name	O
+of	O
+database.db	B-FILE
+to	O
+application.db	B-FILE
+
+change	O
+the	O
+name	O
+of	O
+records.sqlite	B-FILE
+to	O
+local	B-FILE
+database.sqlite	I-FILE
+
+change	O
+the	O
+name	O
+of	O
+backup.bak	B-FILE
+to	O
+archive.zip	B-FILE
+
+change	O
+the	O
+name	O
+of	O
+Media\Images\project	B-PATH_FILE
+diagram.png	I-PATH_FILE
+to	O
+Media\Images\company	B-PATH_FILE
+logo.svg	I-PATH_FILE
+
+change	O
+the	O
+name	O
+of	O
+Media\Videos\lecture	B-PATH_FILE
+recording.mp4	I-PATH_FILE
+to	O
+Media\Audio\voice	B-PATH_FILE
+recording.wav	I-PATH_FILE
+
+change	O
+the	O
+name	O
+of	O
+Research\Machine	B-PATH_FILE
+Learning\research	I-PATH_FILE
+paper.pdf	I-PATH_FILE
+to	O
+Research\Machine	B-PATH_FILE
+Learning\training	I-PATH_FILE
+data.csv	I-PATH_FILE
+
+change	O
+the	O
+name	O
+of	O
+Research\Reports\experiment	B-PATH_FILE
+results.xlsx	I-PATH_FILE
+to	O
+Research\Reports\final	B-PATH_FILE
+paper.docx	I-PATH_FILE
+
+change	O
+file	O
+name	O
+project	B-FILE
+backup.zip	I-FILE
+to	O
+documents	B-FILE
+archive.zip	I-FILE
+
+change	O
+file	O
+name	O
+backup	B-FILE
+files.rar	I-FILE
+to	O
+project	B-FILE
+files.7z	I-FILE
+
+change	O
+file	O
+name	O
+photo.jpg	B-FILE
+to	O
+profile	B-FILE
+photo.jpg	I-FILE
+
+change	O
+file	O
+name	O
+family	B-FILE
+photo.jpg	I-FILE
+to	O
+screenshot.png	B-FILE
+
+change	O
+file	O
+name	O
+Source\Python\automation.py	B-PATH_FILE
+to	O
+Source\Python\configuration.py	B-PATH_FILE
+
+change	O
+file	O
+name	O
+Source\Cpp\file	B-PATH_FILE
+manager.cpp	I-PATH_FILE
+to	O
+Source\Java\DatabaseManager.java	B-PATH_FILE
+
+change	O
+file	O
+name	O
+Source\Web\index.html	B-PATH_FILE
+to	O
+Source\Web\login.html	B-PATH_FILE
+
+change	O
+file	O
+name	O
+Reports\2026\January\monthly	B-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+Reports\2026\March\expense	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+change	O
+filename	O
+project	B-FILE
+diagram.png	I-FILE
+to	O
+company	B-FILE
+logo.svg	I-FILE
+
+change	O
+filename	O
+scanned	B-FILE
+document.jpeg	I-FILE
+to	O
+presentation.pptx	B-FILE
+
+change	O
+filename	O
+project	B-FILE
+presentation.pptx	I-FILE
+to	O
+final	B-FILE
+presentation.pptx	I-FILE
+
+change	O
+filename	O
+seminar	B-FILE
+slides.ppt	I-FILE
+to	O
+lecture	B-FILE
+recording.mp4	I-FILE
+
+change	O
+filename	O
+Reports\2026\September\project	B-PATH_FILE
+summary.docx	I-PATH_FILE
+to	O
+Semester	B-PATH_FILE
+5\OS\unit	I-PATH_FILE
+1	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+change	O
+filename	O
+Semester	B-PATH_FILE
+5\DBMS\unit	I-PATH_FILE
+2	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+to	O
+Semester	B-PATH_FILE
+5\Projects\database	I-PATH_FILE
+project.sql	I-PATH_FILE
+
+change	O
+filename	O
+Semester	B-PATH_FILE
+5\Projects\final	I-PATH_FILE
+presentation.pptx	I-PATH_FILE
+to	O
+My	B-PATH_FILE
+Files\Important	I-PATH_FILE
+Documents\passport	I-PATH_FILE
+copy.pdf	I-PATH_FILE
+
+change	O
+filename	O
+My	B-PATH_FILE
+Files\Projects\WinPilot\main.py	I-PATH_FILE
+to	O
+My	B-PATH_FILE
+Files\Projects\WinPilot\project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+
+give	O
+tutorial	B-FILE
+video.mp4	I-FILE
+a	O
+new	O
+name	O
+
+give	O
+music	B-FILE
+collection.mp3	I-FILE
+a	O
+new	O
+name	O
+
+give	O
+voice	B-FILE
+recording.wav	I-FILE
+a	O
+new	O
+name	O
+
+give	O
+project	B-FILE
+image.webp	I-FILE
+a	O
+new	O
+name	O
+
+give	O
+My	B-PATH_FILE
+Files\College\Assignments\assignment	I-PATH_FILE
+submission.docx	I-PATH_FILE
+a	O
+new	O
+name	O
+
+give	O
+Client	B-PATH_FILE
+Work\Website\src\index.html	I-PATH_FILE
+a	O
+new	O
+name	O
+
+give	O
+Client	B-PATH_FILE
+Work\Website\assets\company	I-PATH_FILE
+logo.png	I-PATH_FILE
+a	O
+new	O
+name	O
+
+give	O
+Client	B-PATH_FILE
+Work\Reports\client	I-PATH_FILE
+report.pdf	I-PATH_FILE
+a	O
+new	O
+name	O
+
+make	O
+Dockerfile	B-FILE
+Makefile	B-FILE
+
+make	O
+LICENSE	B-FILE
+.gitignore	B-FILE
+
+make	O
+.env	B-FILE
+configuration.ini	B-FILE
+
+make	O
+application.cfg	B-FILE
+startup.bat	B-FILE
+
+make	O
+Client	B-PATH_FILE
+Work\Invoices\payment	I-PATH_FILE
+receipt.pdf	I-PATH_FILE
+Project	B-PATH_FILE
+Alpha\Source	I-PATH_FILE
+Code\main.py	I-PATH_FILE
+
+make	O
+Project	B-PATH_FILE
+Alpha\Documentation\user	I-PATH_FILE
+manual.pdf	I-PATH_FILE
+Project	B-PATH_FILE
+Alpha\Test	I-PATH_FILE
+Data\sample	I-PATH_FILE
+data.csv	I-PATH_FILE
+
+make	O
+Project	B-PATH_FILE
+Alpha\Releases\application	I-PATH_FILE
+installer.zip	I-PATH_FILE
+Project	B-PATH_FILE
+Beta\Reports\final	I-PATH_FILE
+report.docx	I-PATH_FILE
+
+make	O
+Project	B-PATH_FILE
+Beta\Database\schema.sql	I-PATH_FILE
+Project	B-PATH_FILE
+Beta\Assets\project	I-PATH_FILE
+image.png	I-PATH_FILE
+
+please	O
+rename	O
+install	B-FILE
+script.ps1	I-FILE
+
+please	O
+rename	O
+setup.exe	B-FILE
+
+please	O
+rename	O
+application	B-FILE
+installer.msi	I-FILE
+
+please	O
+rename	O
+library.dll	B-FILE
+
+please	O
+rename	O
+Machine	B-PATH_FILE
+Learning\Models\trained	I-PATH_FILE
+model.pkl	I-PATH_FILE
+
+please	O
+rename	O
+Machine	B-PATH_FILE
+Learning\Data\training	I-PATH_FILE
+dataset.csv	I-PATH_FILE
+
+please	O
+rename	O
+Machine	B-PATH_FILE
+Learning\Reports\model	I-PATH_FILE
+results.xlsx	I-PATH_FILE
+
+please	O
+rename	O
+Machine	B-PATH_FILE
+Learning\Documentation\project	I-PATH_FILE
+documentation.pdf	I-PATH_FILE
+
+please	O
+rename	O
+system	B-FILE
+backup.img	I-FILE
+to	O
+virtual	B-FILE
+machine.iso	I-FILE
+
+please	O
+rename	O
+notes.txt	B-FILE
+to	O
+todo.txt	B-FILE
+
+please	O
+rename	O
+readme.txt	B-FILE
+to	O
+summary.txt	B-FILE
+
+please	O
+rename	O
+draft.txt	B-FILE
+to	O
+final	B-FILE
+notes.txt	I-FILE
+
+please	O
+rename	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\app.py	I-PATH_FILE
+to	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\requirements.txt	I-PATH_FILE
+
+please	O
+rename	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\templates\index.html	I-PATH_FILE
+to	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\static\style.css	I-PATH_FILE
+
+please	O
+rename	O
+File	B-PATH_FILE
+Manager\Source\file_manager.cpp	I-PATH_FILE
+to	O
+File	B-PATH_FILE
+Manager\Documentation\project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+
+please	O
+rename	O
+File	B-PATH_FILE
+Manager\Test	I-PATH_FILE
+Files\sample	I-PATH_FILE
+document.txt	I-PATH_FILE
+to	O
+Test	B-PATH_FILE
+Data\Input\input	I-PATH_FILE
+file.csv	I-PATH_FILE
+
+please	O
+rename	O
+the	O
+file	O
+project	B-FILE
+notes.txt	I-FILE
+to	O
+meeting	B-FILE
+notes.txt	I-FILE
+
+please	O
+rename	O
+the	O
+file	O
+college	B-FILE
+notes.txt	I-FILE
+to	O
+semester	B-FILE
+notes.txt	I-FILE
+
+please	O
+rename	O
+the	O
+file	O
+personal	B-FILE
+notes.txt	I-FILE
+to	O
+work	B-FILE
+notes.txt	I-FILE
+
+please	O
+rename	O
+the	O
+file	O
+daily	B-FILE
+tasks.txt	I-FILE
+to	O
+important	B-FILE
+information.txt	I-FILE
+
+please	O
+rename	O
+the	O
+file	O
+Test	B-PATH_FILE
+Data\Output\expected	I-PATH_FILE
+results.csv	I-PATH_FILE
+to	O
+Test	B-PATH_FILE
+Data\Reports\test	I-PATH_FILE
+report.pdf	I-PATH_FILE
+
+please	O
+rename	O
+the	O
+file	O
+New	B-PATH_FILE
+Folder\project	I-PATH_FILE
+notes.txt	I-PATH_FILE
+to	O
+New	B-PATH_FILE
+Folder\backup	I-PATH_FILE
+files.zip	I-PATH_FILE
+
+please	O
+rename	O
+the	O
+file	O
+2026\Projects\annual	B-PATH_FILE
+project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+2026\College\semester	B-PATH_FILE
+results.xlsx	I-PATH_FILE
+
+please	O
+rename	O
+the	O
+file	O
+2026\Personal\expense	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+to	O
+2026\Work\meeting	B-PATH_FILE
+notes.docx	I-PATH_FILE
+
+please	O
+change	O
+contact	B-FILE
+list.txt	I-FILE
+to	O
+error.log	B-FILE
+
+please	O
+change	O
+application	B-FILE
+log.log	I-FILE
+to	O
+debug	B-FILE
+log.log	I-FILE
+
+please	O
+change	O
+access	B-FILE
+log.log	I-FILE
+to	O
+system	B-FILE
+log.log	I-FILE
+
+please	O
+change	O
+changelog.md	B-FILE
+to	O
+project	B-FILE
+documentation.md	I-FILE
+
+please	O
+change	O
+.\report.pdf	B-PATH_FILE
+to	O
+.\project	B-PATH_FILE
+report.docx	I-PATH_FILE
+
+please	O
+change	O
+.\Projects\main.py	B-PATH_FILE
+to	O
+.\Projects\data\results.csv	B-PATH_FILE
+
+please	O
+change	O
+.\College\Notes\exam	B-PATH_FILE
+notes.pdf	I-PATH_FILE
+to	O
+..\report.pdf	B-PATH_FILE
+
+please	O
+change	O
+..\Documents\resume.pdf	B-PATH_FILE
+to	O
+..\Projects\main.py	B-PATH_FILE
+
+can	O
+you	O
+rename	O
+README.md	B-FILE
+
+can	O
+you	O
+rename	O
+getting	B-FILE
+started.md	I-FILE
+
+can	O
+you	O
+rename	O
+project	B-FILE
+report.pdf	I-FILE
+
+can	O
+you	O
+rename	O
+final	B-FILE
+project	I-FILE
+report.pdf	I-FILE
+
+can	O
+you	O
+rename	O
+..\Backup\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+
+can	O
+you	O
+rename	O
+C:\Users\Ankit\Documents\report.pdf	B-PATH_FILE
+
+can	O
+you	O
+rename	O
+C:\Users\Ankit\Projects\WinPilot\main.py	B-PATH_FILE
+
+can	O
+you	O
+rename	O
+C:\Users\Ankit\College\Assignments\dbms	B-PATH_FILE
+assignment.docx	I-PATH_FILE
+
+can	O
+you	O
+rename	O
+college	B-FILE
+assignment.pdf	I-FILE
+to	O
+research	B-FILE
+paper.pdf	I-FILE
+
+can	O
+you	O
+rename	O
+annual	B-FILE
+report.pdf	I-FILE
+to	O
+user	B-FILE
+manual.pdf	I-FILE
+
+can	O
+you	O
+rename	O
+software	B-FILE
+guide.pdf	I-FILE
+to	O
+project	B-FILE
+proposal.pdf	I-FILE
+
+can	O
+you	O
+rename	O
+resume.pdf	B-FILE
+to	O
+updated	B-FILE
+resume.pdf	I-FILE
+
+can	O
+you	O
+rename	O
+C:\Users\Ankit\Pictures\project	B-PATH_FILE
+diagram.png	I-PATH_FILE
+to	O
+C:\Users\Ankit\Desktop\Projects\final	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+can	O
+you	O
+rename	O
+C:\Users\Ankit\OneDrive\Projects\project	B-PATH_FILE
+notes.txt	I-PATH_FILE
+to	O
+C:\Users\Public\Documents\shared	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+can	O
+you	O
+rename	O
+D:\Projects\WinPilot\src\main.py	B-PATH_FILE
+to	O
+D:\College\Semester	B-PATH_FILE
+5\Notes\os	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+can	O
+you	O
+rename	O
+D:\Work\Reports\annual	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+to	O
+D:\Backup\Database\database	B-PATH_FILE
+backup.sql	I-PATH_FILE
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+invoice.pdf	B-FILE
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+payment	B-FILE
+receipt.pdf	I-FILE
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+certificate.pdf	B-FILE
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+course	B-FILE
+syllabus.pdf	I-FILE
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+E:\Research\Reports\research	B-PATH_FILE
+paper.pdf	I-PATH_FILE
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+E:\Media\Videos\lecture	B-PATH_FILE
+recording.mp4	I-PATH_FILE
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+Projects\main.py	B-PATH_FILE
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+Projects\app.py	B-PATH_FILE
+
+can	O
+you	O
+change	O
+question	B-FILE
+paper.pdf	I-FILE
+to	O
+exam	B-FILE
+schedule.pdf	I-FILE
+
+can	O
+you	O
+change	O
+report.docx	B-FILE
+to	O
+project	B-FILE
+report.docx	I-FILE
+
+can	O
+you	O
+change	O
+final	B-FILE
+project	I-FILE
+report.docx	I-FILE
+to	O
+college	B-FILE
+assignment.docx	I-FILE
+
+can	O
+you	O
+change	O
+assignment	B-FILE
+submission.docx	I-FILE
+to	O
+meeting	B-FILE
+notes.docx	I-FILE
+
+can	O
+you	O
+change	O
+Projects\project	B-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+Projects\README.md	B-PATH_FILE
+
+can	O
+you	O
+change	O
+Projects\data.csv	B-PATH_FILE
+to	O
+Projects\config.json	B-PATH_FILE
+
+can	O
+you	O
+change	O
+Projects\Source\main.cpp	B-PATH_FILE
+to	O
+Projects\Source\helper.cpp	B-PATH_FILE
+
+can	O
+you	O
+change	O
+Projects\Docs\project	B-PATH_FILE
+guide.pdf	I-PATH_FILE
+to	O
+Projects\Backup\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+
+could	O
+you	O
+rename	O
+project	B-FILE
+proposal.docx	I-FILE
+
+could	O
+you	O
+rename	O
+application	B-FILE
+letter.docx	I-FILE
+
+could	O
+you	O
+rename	O
+cover	B-FILE
+letter.docx	I-FILE
+
+could	O
+you	O
+rename	O
+resume.docx	B-FILE
+
+could	O
+you	O
+rename	O
+College\Assignments\os	B-PATH_FILE
+assignment.pdf	I-PATH_FILE
+
+could	O
+you	O
+rename	O
+College\Assignments\dbms	B-PATH_FILE
+assignment.docx	I-PATH_FILE
+
+could	O
+you	O
+rename	O
+College\Notes\operating	B-PATH_FILE
+systems.pdf	I-PATH_FILE
+
+could	O
+you	O
+rename	O
+College\Notes\machine	B-PATH_FILE
+learning	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+could	O
+you	O
+rename	O
+student	B-FILE
+details.docx	I-FILE
+to	O
+budget.xlsx	B-FILE
+
+could	O
+you	O
+rename	O
+monthly	B-FILE
+budget.xlsx	I-FILE
+to	O
+annual	B-FILE
+budget.xlsx	I-FILE
+
+could	O
+you	O
+rename	O
+student	B-FILE
+marks.xlsx	I-FILE
+to	O
+attendance	B-FILE
+record.xlsx	I-FILE
+
+could	O
+you	O
+rename	O
+employee	B-FILE
+details.xlsx	I-FILE
+to	O
+project	B-FILE
+schedule.xlsx	I-FILE
+
+could	O
+you	O
+rename	O
+College\Projects\file	B-PATH_FILE
+manager.cpp	I-PATH_FILE
+to	O
+College\Projects\final	B-PATH_FILE
+report.docx	I-PATH_FILE
+
+could	O
+you	O
+rename	O
+College\Semester	B-PATH_FILE
+5\schedule.xlsx	I-PATH_FILE
+to	O
+College\Semester	B-PATH_FILE
+5\syllabus.pdf	I-PATH_FILE
+
+could	O
+you	O
+rename	O
+Work\Reports\annual	B-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+Work\Reports\monthly	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+could	O
+you	O
+rename	O
+Work\Projects\website\index.html	B-PATH_FILE
+to	O
+Work\Projects\website\style.css	B-PATH_FILE
+
+could	O
+you	O
+change	O
+expense	B-FILE
+report.xlsx	I-FILE
+to	O
+sales	B-FILE
+data.xlsx	I-FILE
+
+could	O
+you	O
+change	O
+employee_data.csv	B-FILE
+to	O
+student_data.csv	B-FILE
+
+could	O
+you	O
+change	O
+contact_list.csv	B-FILE
+to	O
+transaction_data.csv	B-FILE
+
+could	O
+you	O
+change	O
+attendance.csv	B-FILE
+to	O
+main.py	B-FILE
+
+could	O
+you	O
+change	O
+Work\Projects\application\server.py	B-PATH_FILE
+to	O
+Work\Projects\application\config.json	B-PATH_FILE
+
+could	O
+you	O
+change	O
+Personal\Photos\profile	B-PATH_FILE
+photo.jpg	I-PATH_FILE
+to	O
+Personal\Photos\family	B-PATH_FILE
+photo.jpg	I-PATH_FILE
+
+could	O
+you	O
+change	O
+Personal\Documents\resume.pdf	B-PATH_FILE
+to	O
+Personal\Documents\cover	B-PATH_FILE
+letter.docx	I-PATH_FILE
+
+could	O
+you	O
+change	O
+Personal\Backup\personal	B-PATH_FILE
+files.zip	I-PATH_FILE
+to	O
+Shared\Projects\source	B-PATH_FILE
+code.zip	I-PATH_FILE
+
+I	O
+want	O
+to	O
+rename	O
+app.py	B-FILE
+
+I	O
+want	O
+to	O
+rename	O
+server.py	B-FILE
+
+I	O
+want	O
+to	O
+rename	O
+client.py	B-FILE
+
+I	O
+want	O
+to	O
+rename	O
+automation.py	B-FILE
+
+I	O
+want	O
+to	O
+rename	O
+Shared\Projects\project	B-PATH_FILE
+data.xlsx	I-PATH_FILE
+
+I	O
+want	O
+to	O
+rename	O
+Shared\Reports\team	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+I	O
+want	O
+to	O
+rename	O
+Data\Raw\student	B-PATH_FILE
+data.csv	I-PATH_FILE
+
+I	O
+want	O
+to	O
+rename	O
+Data\Processed\student	B-PATH_FILE
+results.csv	I-PATH_FILE
+
+I	O
+want	O
+to	O
+rename	O
+data	B-FILE
+processing.py	I-FILE
+to	O
+database.py	B-FILE
+
+I	O
+want	O
+to	O
+rename	O
+configuration.py	B-FILE
+to	O
+utility	B-FILE
+functions.py	I-FILE
+
+I	O
+want	O
+to	O
+rename	O
+test.py	B-FILE
+to	O
+main.cpp	B-FILE
+
+I	O
+want	O
+to	O
+rename	O
+program.cpp	B-FILE
+to	O
+source.cpp	B-FILE
+
+I	O
+want	O
+to	O
+rename	O
+Data\Reports\analysis	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+to	O
+Data\Reports\final	B-PATH_FILE
+analysis.pdf	I-PATH_FILE
+
+I	O
+want	O
+to	O
+rename	O
+Data\Exports\monthly	B-PATH_FILE
+results.csv	I-PATH_FILE
+to	O
+Archive\2025\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+
+I	O
+want	O
+to	O
+rename	O
+Archive\2026\final	B-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+Backup\Projects\database	B-PATH_FILE
+backup.sql	I-PATH_FILE
+
+I	O
+want	O
+to	O
+rename	O
+Backup\Reports\old	B-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+Media\Images\project	B-PATH_FILE
+diagram.png	I-PATH_FILE
+
+I	O
+need	O
+to	O
+rename	O
+calculator.cpp	B-FILE
+
+I	O
+need	O
+to	O
+rename	O
+student	B-FILE
+management.cpp	I-FILE
+
+I	O
+need	O
+to	O
+rename	O
+file	B-FILE
+manager.cpp	I-FILE
+
+I	O
+need	O
+to	O
+rename	O
+main.c	B-FILE
+
+I	O
+need	O
+to	O
+rename	O
+Media\Images\company	B-PATH_FILE
+logo.svg	I-PATH_FILE
+
+I	O
+need	O
+to	O
+rename	O
+Media\Videos\lecture	B-PATH_FILE
+recording.mp4	I-PATH_FILE
+
+I	O
+need	O
+to	O
+rename	O
+Media\Audio\voice	B-PATH_FILE
+recording.wav	I-PATH_FILE
+
+I	O
+need	O
+to	O
+rename	O
+Research\Machine	B-PATH_FILE
+Learning\research	I-PATH_FILE
+paper.pdf	I-PATH_FILE
+
+I	O
+need	O
+to	O
+rename	O
+helper.c	B-FILE
+to	O
+header.h	B-FILE
+
+I	O
+need	O
+to	O
+rename	O
+Main.java	B-FILE
+to	O
+Student.java	B-FILE
+
+I	O
+need	O
+to	O
+rename	O
+DatabaseManager.java	B-FILE
+to	O
+script.js	B-FILE
+
+I	O
+need	O
+to	O
+rename	O
+app.js	B-FILE
+to	O
+index.html	B-FILE
+
+I	O
+need	O
+to	O
+rename	O
+Research\Machine	B-PATH_FILE
+Learning\training	I-PATH_FILE
+data.csv	I-PATH_FILE
+to	O
+Research\Reports\experiment	B-PATH_FILE
+results.xlsx	I-PATH_FILE
+
+I	O
+need	O
+to	O
+rename	O
+Research\Reports\final	B-PATH_FILE
+paper.docx	I-PATH_FILE
+to	O
+Source\Python\automation.py	B-PATH_FILE
+
+I	O
+need	O
+to	O
+rename	O
+Source\Python\configuration.py	B-PATH_FILE
+to	O
+Source\Cpp\file	B-PATH_FILE
+manager.cpp	I-PATH_FILE
+
+I	O
+need	O
+to	O
+rename	O
+Source\Java\DatabaseManager.java	B-PATH_FILE
+to	O
+Source\Web\index.html	B-PATH_FILE
+
+rename	O
+the	O
+file	O
+called	O
+login.html	B-FILE
+
+rename	O
+the	O
+file	O
+called	O
+dashboard.html	B-FILE
+
+rename	O
+the	O
+file	O
+called	O
+style.css	B-FILE
+
+rename	O
+the	O
+file	O
+called	O
+main.css	B-FILE
+
+rename	O
+the	O
+file	O
+called	O
+Source\Web\login.html	B-PATH_FILE
+
+rename	O
+the	O
+file	O
+called	O
+Reports\2026\January\monthly	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+called	O
+Reports\2026\March\expense	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+called	O
+Reports\2026\September\project	B-PATH_FILE
+summary.docx	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+named	O
+config.json	B-FILE
+
+rename	O
+the	O
+file	O
+named	O
+package.json	B-FILE
+
+rename	O
+the	O
+file	O
+named	O
+user	B-FILE
+data.json	I-FILE
+
+rename	O
+the	O
+file	O
+named	O
+application	B-FILE
+settings.json	I-FILE
+
+rename	O
+the	O
+file	O
+named	O
+Semester	B-PATH_FILE
+5\OS\unit	I-PATH_FILE
+1	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+named	O
+Semester	B-PATH_FILE
+5\DBMS\unit	I-PATH_FILE
+2	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+named	O
+Semester	B-PATH_FILE
+5\Projects\database	I-PATH_FILE
+project.sql	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+named	O
+Semester	B-PATH_FILE
+5\Projects\final	I-PATH_FILE
+presentation.pptx	I-PATH_FILE
+
+rename	O
+a	O
+file	O
+called	O
+database	B-FILE
+backup.json	I-FILE
+
+rename	O
+a	O
+file	O
+called	O
+data.xml	B-FILE
+
+rename	O
+a	O
+file	O
+called	O
+configuration.xml	B-FILE
+
+rename	O
+a	O
+file	O
+called	O
+settings.yaml	B-FILE
+
+rename	O
+a	O
+file	O
+called	O
+My	B-PATH_FILE
+Files\Important	I-PATH_FILE
+Documents\passport	I-PATH_FILE
+copy.pdf	I-PATH_FILE
+
+rename	O
+a	O
+file	O
+called	O
+My	B-PATH_FILE
+Files\Projects\WinPilot\main.py	I-PATH_FILE
+
+rename	O
+a	O
+file	O
+called	O
+My	B-PATH_FILE
+Files\Projects\WinPilot\project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+a	O
+file	O
+called	O
+My	B-PATH_FILE
+Files\College\Assignments\assignment	I-PATH_FILE
+submission.docx	I-PATH_FILE
+
+rename	O
+a	O
+file	O
+named	O
+docker-compose.yml	B-FILE
+
+rename	O
+a	O
+file	O
+named	O
+database.sql	B-FILE
+
+rename	O
+a	O
+file	O
+named	O
+schema.sql	B-FILE
+
+rename	O
+a	O
+file	O
+named	O
+create	B-FILE
+tables.sql	I-FILE
+
+rename	O
+a	O
+file	O
+named	O
+Client	B-PATH_FILE
+Work\Website\src\index.html	I-PATH_FILE
+
+rename	O
+a	O
+file	O
+named	O
+Client	B-PATH_FILE
+Work\Website\assets\company	I-PATH_FILE
+logo.png	I-PATH_FILE
+
+rename	O
+a	O
+file	O
+named	O
+Client	B-PATH_FILE
+Work\Reports\client	I-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+a	O
+file	O
+named	O
+Client	B-PATH_FILE
+Work\Invoices\payment	I-PATH_FILE
+receipt.pdf	I-PATH_FILE
+
+rename	O
+my	O
+file	O
+backup	B-FILE
+database.sql	I-FILE
+
+rename	O
+my	O
+file	O
+database.db	B-FILE
+
+rename	O
+my	O
+file	O
+application.db	B-FILE
+
+rename	O
+my	O
+file	O
+records.sqlite	B-FILE
+
+rename	O
+my	O
+file	O
+Project	B-PATH_FILE
+Alpha\Source	I-PATH_FILE
+Code\main.py	I-PATH_FILE
+
+rename	O
+my	O
+file	O
+Project	B-PATH_FILE
+Alpha\Documentation\user	I-PATH_FILE
+manual.pdf	I-PATH_FILE
+
+rename	O
+my	O
+file	O
+Project	B-PATH_FILE
+Alpha\Test	I-PATH_FILE
+Data\sample	I-PATH_FILE
+data.csv	I-PATH_FILE
+
+rename	O
+my	O
+file	O
+Project	B-PATH_FILE
+Alpha\Releases\application	I-PATH_FILE
+installer.zip	I-PATH_FILE
+
+rename	O
+my	O
+local	B-FILE
+database.sqlite	I-FILE
+
+rename	O
+my	O
+backup.bak	B-FILE
+
+rename	O
+my	O
+archive.zip	B-FILE
+
+rename	O
+my	O
+project	B-FILE
+backup.zip	I-FILE
+
+rename	O
+my	O
+Project	B-PATH_FILE
+Beta\Reports\final	I-PATH_FILE
+report.docx	I-PATH_FILE
+
+rename	O
+my	O
+Project	B-PATH_FILE
+Beta\Database\schema.sql	I-PATH_FILE
+
+rename	O
+my	O
+Project	B-PATH_FILE
+Beta\Assets\project	I-PATH_FILE
+image.png	I-PATH_FILE
+
+rename	O
+my	O
+Machine	B-PATH_FILE
+Learning\Models\trained	I-PATH_FILE
+model.pkl	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+from	O
+documents	B-FILE
+archive.zip	I-FILE
+to	O
+backup	B-FILE
+files.rar	I-FILE
+
+rename	O
+the	O
+file	O
+from	O
+project	B-FILE
+files.7z	I-FILE
+to	O
+photo.jpg	B-FILE
+
+rename	O
+the	O
+file	O
+from	O
+profile	B-FILE
+photo.jpg	I-FILE
+to	O
+family	B-FILE
+photo.jpg	I-FILE
+
+rename	O
+the	O
+file	O
+from	O
+screenshot.png	B-FILE
+to	O
+project	B-FILE
+diagram.png	I-FILE
+
+rename	O
+the	O
+file	O
+from	O
+Machine	B-PATH_FILE
+Learning\Data\training	I-PATH_FILE
+dataset.csv	I-PATH_FILE
+to	O
+Machine	B-PATH_FILE
+Learning\Reports\model	I-PATH_FILE
+results.xlsx	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+from	O
+Machine	B-PATH_FILE
+Learning\Documentation\project	I-PATH_FILE
+documentation.pdf	I-PATH_FILE
+to	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\app.py	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+from	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\requirements.txt	I-PATH_FILE
+to	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\templates\index.html	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+from	O
+Python	B-PATH_FILE
+Projects\Web	I-PATH_FILE
+App\static\style.css	I-PATH_FILE
+to	O
+File	B-PATH_FILE
+Manager\Source\file_manager.cpp	I-PATH_FILE
+
+rename	O
+company	B-FILE
+logo.svg	I-FILE
+from	O
+old	O
+name	O
+to	O
+new	O
+name	O
+
+rename	O
+scanned	B-FILE
+document.jpeg	I-FILE
+from	O
+old	O
+name	O
+to	O
+new	O
+name	O
+
+rename	O
+presentation.pptx	B-FILE
+from	O
+old	O
+name	O
+to	O
+new	O
+name	O
+
+rename	O
+project	B-FILE
+presentation.pptx	I-FILE
+from	O
+old	O
+name	O
+to	O
+new	O
+name	O
+
+rename	O
+File	B-PATH_FILE
+Manager\Documentation\project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+from	O
+old	O
+name	O
+to	O
+new	O
+name	O
+
+rename	O
+File	B-PATH_FILE
+Manager\Test	I-PATH_FILE
+Files\sample	I-PATH_FILE
+document.txt	I-PATH_FILE
+from	O
+old	O
+name	O
+to	O
+new	O
+name	O
+
+rename	O
+Test	B-PATH_FILE
+Data\Input\input	I-PATH_FILE
+file.csv	I-PATH_FILE
+from	O
+old	O
+name	O
+to	O
+new	O
+name	O
+
+rename	O
+Test	B-PATH_FILE
+Data\Output\expected	I-PATH_FILE
+results.csv	I-PATH_FILE
+from	O
+old	O
+name	O
+to	O
+new	O
+name	O
+
+rename	O
+my	O
+final	B-FILE
+presentation.pptx	I-FILE
+to	O
+seminar	B-FILE
+slides.ppt	I-FILE
+
+rename	O
+my	O
+lecture	B-FILE
+recording.mp4	I-FILE
+to	O
+tutorial	B-FILE
+video.mp4	I-FILE
+
+rename	O
+my	O
+music	B-FILE
+collection.mp3	I-FILE
+to	O
+voice	B-FILE
+recording.wav	I-FILE
+
+rename	O
+my	O
+project	B-FILE
+image.webp	I-FILE
+to	O
+Dockerfile	B-FILE
+
+rename	O
+my	O
+Test	B-PATH_FILE
+Data\Reports\test	I-PATH_FILE
+report.pdf	I-PATH_FILE
+to	O
+New	B-PATH_FILE
+Folder\project	I-PATH_FILE
+notes.txt	I-PATH_FILE
+
+rename	O
+my	O
+New	B-PATH_FILE
+Folder\backup	I-PATH_FILE
+files.zip	I-PATH_FILE
+to	O
+2026\Projects\annual	B-PATH_FILE
+project	I-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+my	O
+2026\College\semester	B-PATH_FILE
+results.xlsx	I-PATH_FILE
+to	O
+2026\Personal\expense	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+rename	O
+my	O
+2026\Work\meeting	B-PATH_FILE
+notes.docx	I-PATH_FILE
+to	O
+.\report.pdf	B-PATH_FILE
+
+please	O
+change	O
+the	O
+name	O
+of	O
+Makefile	B-FILE
+
+please	O
+change	O
+the	O
+name	O
+of	O
+LICENSE	B-FILE
+
+please	O
+change	O
+the	O
+name	O
+of	O
+.gitignore	B-FILE
+
+please	O
+change	O
+the	O
+name	O
+of	O
+.env	B-FILE
+
+please	O
+change	O
+the	O
+name	O
+of	O
+.\project	B-PATH_FILE
+report.docx	I-PATH_FILE
+
+please	O
+change	O
+the	O
+name	O
+of	O
+.\Projects\main.py	B-PATH_FILE
+
+please	O
+change	O
+the	O
+name	O
+of	O
+.\Projects\data\results.csv	B-PATH_FILE
+
+please	O
+change	O
+the	O
+name	O
+of	O
+.\College\Notes\exam	B-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+change	O
+the	O
+name	O
+of	O
+configuration.ini	B-FILE
+
+change	O
+the	O
+name	O
+of	O
+application.cfg	B-FILE
+
+change	O
+the	O
+name	O
+of	O
+startup.bat	B-FILE
+
+change	O
+the	O
+name	O
+of	O
+install	B-FILE
+script.ps1	I-FILE
+
+change	O
+the	O
+name	O
+of	O
+..\report.pdf	B-PATH_FILE
+
+change	O
+the	O
+name	O
+of	O
+..\Documents\resume.pdf	B-PATH_FILE
+
+change	O
+the	O
+name	O
+of	O
+..\Projects\main.py	B-PATH_FILE
+
+change	O
+the	O
+name	O
+of	O
+..\Backup\project	B-PATH_FILE
+backup.zip	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+to	O
+setup.exe	B-FILE
+
+rename	O
+the	O
+file	O
+to	O
+application	B-FILE
+installer.msi	I-FILE
+
+rename	O
+the	O
+file	O
+to	O
+library.dll	B-FILE
+
+rename	O
+the	O
+file	O
+to	O
+system	B-FILE
+backup.img	I-FILE
+
+rename	O
+the	O
+file	O
+to	O
+C:\Users\Ankit\Documents\report.pdf	B-PATH_FILE
+
+rename	O
+the	O
+file	O
+to	O
+C:\Users\Ankit\Projects\WinPilot\main.py	B-PATH_FILE
+
+rename	O
+the	O
+file	O
+to	O
+C:\Users\Ankit\College\Assignments\dbms	B-PATH_FILE
+assignment.docx	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+to	O
+C:\Users\Ankit\Pictures\project	B-PATH_FILE
+diagram.png	I-PATH_FILE
+
+rename	O
+the	O
+document	O
+to	O
+virtual	B-FILE
+machine.iso	I-FILE
+
+rename	O
+the	O
+document	O
+to	O
+notes.txt	B-FILE
+
+rename	O
+the	O
+document	O
+to	O
+todo.txt	B-FILE
+
+rename	O
+the	O
+document	O
+to	O
+readme.txt	B-FILE
+
+rename	O
+the	O
+document	O
+to	O
+C:\Users\Ankit\Desktop\Projects\final	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+the	O
+document	O
+to	O
+C:\Users\Ankit\OneDrive\Projects\project	B-PATH_FILE
+notes.txt	I-PATH_FILE
+
+rename	O
+the	O
+document	O
+to	O
+C:\Users\Public\Documents\shared	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+rename	O
+the	O
+document	O
+to	O
+D:\Projects\WinPilot\src\main.py	B-PATH_FILE
+
+rename	O
+the	O
+file	O
+as	O
+summary.txt	B-FILE
+
+rename	O
+the	O
+file	O
+as	O
+draft.txt	B-FILE
+
+rename	O
+the	O
+file	O
+as	O
+final	B-FILE
+notes.txt	I-FILE
+
+rename	O
+the	O
+file	O
+as	O
+project	B-FILE
+notes.txt	I-FILE
+
+rename	O
+the	O
+file	O
+as	O
+D:\College\Semester	B-PATH_FILE
+5\Notes\os	I-PATH_FILE
+notes.pdf	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+as	O
+D:\Work\Reports\annual	B-PATH_FILE
+report.xlsx	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+as	O
+D:\Backup\Database\database	B-PATH_FILE
+backup.sql	I-PATH_FILE
+
+rename	O
+the	O
+file	O
+as	O
+E:\Research\Reports\research	B-PATH_FILE
+paper.pdf	I-PATH_FILE
+
+change	O
+the	O
+file	O
+name	O
+to	O
+meeting	B-FILE
+notes.txt	I-FILE
+
+change	O
+the	O
+file	O
+name	O
+to	O
+college	B-FILE
+notes.txt	I-FILE
+
+change	O
+the	O
+file	O
+name	O
+to	O
+semester	B-FILE
+notes.txt	I-FILE
+
+change	O
+the	O
+file	O
+name	O
+to	O
+personal	B-FILE
+notes.txt	I-FILE
+
+change	O
+the	O
+file	O
+name	O
+to	O
+E:\Media\Videos\lecture	B-PATH_FILE
+recording.mp4	I-PATH_FILE
+
+change	O
+the	O
+file	O
+name	O
+to	O
+Projects\main.py	B-PATH_FILE
+
+change	O
+the	O
+file	O
+name	O
+to	O
+Projects\app.py	B-PATH_FILE
+
+change	O
+the	O
+file	O
+name	O
+to	O
+Projects\project	B-PATH_FILE
+report.pdf	I-PATH_FILE
+
+give	O
+the	O
+file	O
+the	O
+name	O
+work	B-FILE
+notes.txt	I-FILE
+
+give	O
+the	O
+file	O
+the	O
+name	O
+daily	B-FILE
+tasks.txt	I-FILE
+
+give	O
+the	O
+file	O
+the	O
+name	O
+important	B-FILE
+information.txt	I-FILE
+
+give	O
+the	O
+file	O
+the	O
+name	O
+contact	B-FILE
+list.txt	I-FILE
+
+give	O
+the	O
+file	O
+the	O
+name	O
+Projects\README.md	B-PATH_FILE
+
+give	O
+the	O
+file	O
+the	O
+name	O
+Projects\data.csv	B-PATH_FILE
+
+give	O
+the	O
+file	O
+the	O
+name	O
+Projects\config.json	B-PATH_FILE
+
+give	O
+the	O
+file	O
+the	O
+name	O
+Projects\Source\main.cpp	B-PATH_FILE
+
+rename	O
+a	O
+file	O
+in	O
+Database	B-FOLDER
+
+rename	O
+a	O
+file	O
+in	O
+Databases	B-FOLDER
+
+rename	O
+a	O
+file	O
+in	O
+SQL	B-FOLDER
+
+rename	O
+a	O
+file	O
+in	O
+MySQL	B-FOLDER
+
+rename	O
+a	O
+file	O
+in	O
+MyFiles\Work	B-PATH_DIR
+
+rename	O
+a	O
+file	O
+in	O
+MyFiles\ImportantDocuments	B-PATH_DIR
+
+rename	O
+a	O
+file	O
+in	O
+2026	B-PATH_DIR
+
+rename	O
+a	O
+file	O
+in	O
+2026\January	B-PATH_DIR
+
+rename	O
+the	O
+file	O
+in	O
+PostgreSQL	B-FOLDER
+
+rename	O
+the	O
+file	O
+in	O
+Oracle	B-FOLDER
+
+rename	O
+the	O
+file	O
+in	O
+Server	B-FOLDER
+
+rename	O
+the	O
+file	O
+in	O
+Client	B-FOLDER
+
+rename	O
+the	O
+file	O
+in	O
+2026\March	B-PATH_DIR
+
+rename	O
+the	O
+file	O
+in	O
+2026\September	B-PATH_DIR
+
+rename	O
+the	O
+file	O
+in	O
+2026\October	B-PATH_DIR
+
+rename	O
+the	O
+file	O
+in	O
+2026\Projects	B-PATH_DIR
+
+rename	O
+error.log	B-FILE
+in	O
+Network	B-FOLDER
+
+rename	O
+application	B-FILE
+log.log	I-FILE
+in	O
+Security	B-FOLDER
+
+rename	O
+debug	B-FILE
+log.log	I-FILE
+in	O
+Systems	B-FOLDER
+
+rename	O
+access	B-FILE
+log.log	I-FILE
+in	O
+Applications	B-FOLDER
+
+rename	O
+system	B-FILE
+log.log	I-FILE
+in	O
+Software	B-FOLDER
+
+rename	O
+changelog.md	B-FILE
+in	O
+Tools	B-FOLDER
+
+rename	O
+project	B-FILE
+documentation.md	I-FILE
+in	O
+Utilities	B-FOLDER
+
+rename	O
+README.md	B-FILE
+in	O
+Resources	B-FOLDER
+
+rename	O
+getting	B-FILE
+started.md	I-FILE
+in	O
+2026\Reports	B-PATH_DIR
+
+rename	O
+project	B-FILE
+report.pdf	I-FILE
+in	O
+TestData\Input	B-PATH_DIR
+
+rename	O
+final	B-FILE
+project	I-FILE
+report.pdf	I-FILE
+in	O
+TestData\Output	B-PATH_DIR
+
+rename	O
+college	B-FILE
+assignment.pdf	I-FILE
+in	O
+TestData\ExpectedResults	B-PATH_DIR
+
+change	O
+the	O
+filename	O
+in	O
+Projects2025	B-FOLDER
+
+change	O
+the	O
+filename	O
+in	O
+Completed	B-FOLDER
+
+change	O
+the	O
+filename	O
+in	O
+Pending	B-FOLDER
+
+change	O
+the	O
+filename	O
+in	O
+Temporary	B-FOLDER
+
+change	O
+the	O
+filename	O
+in	O
+.\Projects	B-PATH_DIR
+
+change	O
+the	O
+filename	O
+in	O
+.\Projects\Source	B-PATH_DIR
+
+change	O
+the	O
+filename	O
+in	O
+.\College\Notes	B-PATH_DIR
+
+change	O
+the	O
+filename	O
+in	O
+.\Work\Reports	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+in	O
+OldFiles	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+in	O
+NewFiles	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+in	O
+Important	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+in	O
+Shared	B-FOLDER
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+in	O
+.\Data\Processed	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+in	O
+..\Projects	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+in	O
+..\Documents	B-PATH_DIR
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+in	O
+..\Backup	B-PATH_DIR
+
+rename	O
+a	O
+file	O
+
+rename	O
+file	O
+
+rename	O
+the	O
+file	O
+
+rename	O
+a	O
+document	O
+
+rename	O
+the	O
+document	O
+
+change	O
+the	O
+name	O
+of	O
+a	O
+file	O
+
+change	O
+the	O
+file	O
+name	O
+
+change	O
+the	O
+filename	O
+
+change	O
+a	O
+file	O
+name	O
+
+give	O
+the	O
+file	O
+a	O
+new	O
+name	O
+
+give	O
+a	O
+file	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+old	O
+file	O
+a	O
+new	O
+name	O
+
+give	O
+the	O
+document	O
+a	O
+new	O
+name	O
+
+please	O
+rename	O
+the	O
+file	O
+
+please	O
+change	O
+the	O
+file	O
+name	O
+
+please	O
+give	O
+the	O
+file	O
+a	O
+new	O
+name	O
+
+can	O
+you	O
+rename	O
+the	O
+file	O
+
+can	O
+you	O
+change	O
+the	O
+file	O
+name	O
+
+could	O
+you	O
+rename	O
+the	O
+file	O
+
+could	O
+you	O
+change	O
+the	O
+file	O
+name	O
+
+I	O
+want	O
+to	O
+rename	O
+the	O
+file	O
+
+I	O
+need	O
+to	O
+rename	O
+the	O
+file	O
+
+I	O
+need	O
+to	O
+change	O
+the	O
+file	O
+name	O
+
+rename	O
+the	O
+old	O
+file	O
+
+rename	O
+the	O
+new	O
+file	O
+
+rename	O
+this	O
+file	O
+
+rename	O
+that	O
+file	O
+
+change	O
+the	O
+name	O
+of	O
+this	O
+file	O
+
+change	O
+the	O
+name	O
+of	O
+that	O
+file	O
+
+rename	O
+my	O
+report	O
+file	O
+
+rename	O
+my	O
+document	O
+
+rename	O
+the	O
+report	O
+
+rename	O
+the	O
+notes	O
+file	O
+
+rename	O
+the	O
+project	O
+file	O
+
+rename	O
+the	O
+assignment	O
+file	O
+
+rename	O
+one	O
+file	O
+
+rename	O
+a	O
+single	O
+file	O
+
+rename	O
+one	O
+of	O
+my	O
+files	O
+
+change	O
+the	O
+name	O
+of	O
+one	O
+file	O
+
+give	O
+one	O
+file	O
+a	O
+new	O
+name	O
+

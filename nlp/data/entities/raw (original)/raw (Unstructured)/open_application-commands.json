@@ -1,0 +1,231 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "can you launch an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "can you open an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "can you start an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "could you launch an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "could you open an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "could you start an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "I need to launch an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "I need to open an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "I need to start an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "I want to launch an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "I want to open an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "I want to start an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch my browser"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch my code editor"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch program"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch the app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch the browser"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch the browser application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch the code editor"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "launch the program"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open my browser"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open my code editor"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open program"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open the app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open the browser"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open the browser application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open the code editor"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "open the program"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "please launch an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "please launch the app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "please open an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "please open the app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "please start an app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "please start the app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start an application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start my browser"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start my code editor"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start program"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start the app"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start the browser"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start the browser application"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start the code editor"
+    },
+    {
+      "dataset": "open_application",
+      "intent": "open_application",
+      "text": "start the program"
+    }
+  ]
+}

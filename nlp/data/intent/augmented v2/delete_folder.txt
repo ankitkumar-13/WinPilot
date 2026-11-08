@@ -1,0 +1,965 @@
+can you get rid of the College - Documents folder
+can you get rid of the College Templates folder
+can you get rid of the Client Outputs folder
+can you get rid of the College - Sprint 12 folder
+can you get rid of the University - Students folder
+can you get rid of the C:\Users\ankit.kumar\Documents\Semester 7 folder
+can you get rid of the C:\Users\Public\Documents\Lab Work\assets\Department Customers folder
+can you get rid of the E:\Personal\Supplier North\Firewall Configs\Feature Requests folder
+can you get rid of the C:\Dev\invoices\campaigns\October 2026 folder
+can you get rid of the C:\Users\Public\Documents\Assignments\Graphics Troubleshooting\Project Documentation folder
+could you delete the directory named College Archived
+could you delete the directory named Project Sprint 13
+could you delete the directory named WinPilot - Notes
+could you delete the directory named Payroll Manager 2025
+could you delete the directory named GEHU 2025
+could you delete the folder named DBMS Project - Revisions
+could you delete the folder named PowerShell
+could you delete the folder named Export Staging
+could you delete the folder named University Imports
+could you delete the folder named Payroll Manager - Evaluation
+could you get rid of the College - Exports folder
+could you get rid of the Compliance Evidence folder
+could you get rid of the WinPilot Reference Material folder
+could you get rid of the Family Photos folder
+could you get rid of the Project 2026 folder
+could you get rid of the D:\College\GEHU\Semester 7\Project Report folder
+could you get rid of the D:\Data\warehouse\Course Material\Client Responses folder
+could you get rid of the D:\Projects\Generated Records folder
+could you get rid of the C:\Users\Public\Documents\docs\api tests\Department Receipts folder
+could you get rid of the E:\College\Python Projects folder
+could you remove the directory named WinPilot Templates
+could you remove the directory named Hidden File Tests
+could you remove the directory named University 2026
+could you remove the directory named College - Customers
+could you remove the directory named Supplier Invoices
+could you remove the folder named Attendance Records
+could you remove the folder named development
+could you remove the folder named Department Assets
+could you remove the folder named WinPilot Records
+could you remove the folder named College To Sort
+delete Browser Backups and its contents
+delete GEHU - Working Files and its contents
+delete Payroll Manager - Shared and its contents
+delete Installer Files and its contents
+delete DBMS Project Data and its contents
+delete Department Pending directory
+delete DBMS Project Requests directory
+delete DBMS Project Materials directory
+delete Project 2025 directory
+delete Waiting for Review directory
+delete Payroll Manager - Week 42 folder
+delete Finance Team folder
+delete WinPilot - Team Shared folder
+delete WinPilot - Audits folder
+delete GEHU - Reports folder
+delete C:\Users\Ankit\Pictures\NER experiments\customer support\Year Data directory
+delete C:\Users\Ankit\Desktop\Lab Work directory
+delete \\FileServer\Departments\HR\meeting notes\Team Q3 directory
+delete C:\Users\Ankit\Desktop\frontend\Release 1.4\Phone Transfer directory
+delete \\NAS01\Shared\inventory\Week 42\Team Outputs directory
+delete C:\Users\Ankit\Downloads\Music folder
+delete D:\WinPilot\To Submit\customer support\Property Documents folder
+delete D:\Backups\marketing\Network Captures\Integration Tests folder
+delete C:\Dev\migrations\Semester 7\Released folder
+delete E:\Archive\Final Versions\model outputs\Utility Payments folder
+delete a directory called Payroll Manager - Materials
+delete a directory called WinPilot - October 2026
+delete a directory called Team Operations
+delete a directory called DBMS Project For Approval
+delete a directory called College For Review
+delete a directory called E:\Archive\migrations\recordings\Project Deliverables
+delete a directory called D:\Projects\To Submit\model outputs\Interview Prep
+delete a directory called C:\ProgramData\frontend\training data\App Diagnostics
+delete a directory called C:\ProgramData\Sprint 13\warehouse\imports
+delete a directory called E:\Archive\exports\docs\Ambiguous Commands
+delete a directory named WinPilot Drafts
+delete a directory named DBMS Project Current
+delete a directory named Visitor Management
+delete a directory named Team Builds
+delete a directory named Payroll Manager - Photos
+delete a directory named C:\Users\Public\Documents\Windows Logs\logs\Inbox Zero
+delete a directory named C:\Users\Ankit\OneDrive\Home Repairs\October 2026\Pictures
+delete a directory named C:\Users\Ankit\Desktop\College
+delete a directory named D:\Research\Travel Planning\Semester 7\tmp
+delete a directory named F:\External Drive\To Submit\photos\Voice Recordings
+delete a folder called 2025 Payroll Manager
+delete a folder called Move Tests
+delete a folder called API Tests
+delete a folder called WinPilot Intent Detection
+delete a folder called Utility Bills
+delete a folder called C:\Users\Ankit\Desktop\operations\Source Code\Team Old Versions
+delete a folder called E:\Media\Engineering Team
+delete a folder called C:\Users\Ankit\Downloads\Logs
+delete a folder called C:\Temp\travel\travel\Previous Semester
+delete a folder called F:\External Drive\finance\meeting notes\Department October
+delete a folder named Client Version 2
+delete a folder named DBMS Project Suppliers
+delete a folder named Payroll Manager - Q4 2026
+delete a folder named Payroll Manager Working Files
+delete a folder named DBMS Project - Outputs
+delete a folder named D:\Backups\Course Material\Exam Preparation\Training Corpora
+delete a folder named D:\Data\website\Projects\Device Reports
+delete a folder named C:\Program Files (x86)\backend\Week 42\Terraform
+delete a folder named C:\Dev\Validation Data
+delete a folder named D:\Work\Research Papers\Supplier North\Brand Guidelines
+delete directory Published
+delete directory DBMS Project - Tracking
+delete directory Payroll Manager - Code
+delete directory Utilities
+delete directory Payroll Manager Results
+delete folder Department Checkpoints
+delete folder Synthetic Data
+delete folder Backend Services
+delete folder Year Designs
+delete folder Stakeholder Feedback
+delete folder F:\USB Backup\Training Data
+delete folder C:\Users\Public\Documents\Final Versions
+delete folder G:\Shared\Release 1.4\Windows Logs\Webinar
+delete folder C:\Dev\imports\travel\Year Week 43
+delete folder D:\Data\operations\HR\Client Checkpoints
+delete the GEHU History directory
+delete the WinPilot Revisions directory
+delete the Client Team A directory
+delete the Compliance directory
+delete the College 2025 directory
+delete the WinPilot - Q3 2026 folder
+delete the College Records folder
+delete the GEHU Support folder
+delete the DNS Exports folder
+delete the Book Summaries folder
+delete the D:\Data\Archives directory
+delete the C:\Dev\To Review directory
+delete the D:\Backups\temp\Release 1.4\Team Data directory
+delete the D:\WinPilot\Personal Finance\Shared Documents\src directory
+delete the C:\Users\Ankit\Desktop\Temporary Exports directory
+delete the E:\Personal\Release 1.4\photos\Old Versions folder
+delete the C:\Users\Ankit\Documents\warehouse\receipts\Documents for HR folder
+delete the C:\Temp\warehouse\Firewall Configs\production folder
+delete the E:\College\src\Research Papers\Mockups folder
+delete the \\backup-server\weekly\finance\inventory\File Operations folder
+delete the directory USB Backups and its contents
+delete the directory GEHU - Operations and its contents
+delete the directory University - Published and its contents
+delete the directory Payroll Manager To Copy and its contents
+delete the directory Out-of-Vocabulary Cases and its contents
+delete the directory Scheduled Tasks from C:\Users\ankit.kumar\Documents\Database
+delete the directory Team Raw from D:\College\GEHU\Source Code\campaigns\tests
+delete the directory Department Working from C:\Users\Ankit\OneDrive\Network Captures\campaigns\Project Private
+delete the directory Project Manifests from C:\Users\Ankit\Downloads\Old Versions
+delete the directory Legal Documents from C:\Temp\Music
+delete the directory WinPilot Voice Pipeline from \\NAS01\Shared\presentations\migrations\Inbox Zero
+delete the directory Client Planning from C:\ProgramData\PBL Phase 2\generated\Department Forms
+delete the directory Import Staging from D:\Data\presentations\Sprint 13\Project 2025
+delete the directory Team Logs from C:\Users\Ankit\OneDrive\model outputs\marketing\Year Releases
+delete the directory SSH Configs from \\OfficePC\Public\logs\diagnostics\resources
+delete the directory University Releases in C:\Users\Ankit\Videos\NER experiments\Assignments\sandbox
+delete the directory Website Redesign in D:\Backups\Recordings
+delete the directory Website Content in C:\Users\Public\Documents\archives\Reports\Team Files
+delete the directory 2026 College in C:\Users\Public\Documents\recordings\backups\Project Evidence
+delete the directory Project Private in D:\Backups\inventory\finance\Team Audits
+delete the directory DBMS Project - Semester 5 in D:\Backups\assets\recordings\Disk Cleanup Review
+delete the directory GEHU - Outputs in D:\Staging\training data\test results\Client Team B
+delete the directory WinPilot - Backups in D:\Work\validation data\datasets\Marketing Campaigns
+delete the directory Meeting Follow-ups in C:\Users\Ankit\Downloads\To Review\docs\Client Test Set
+delete the directory College - Packages in C:\Program Files (x86)\client files\docs\HR Team
+delete the directory GEHU Documentation located in C:\Users\Public\Documents\Music
+delete the directory GEHU Revisions located in D:\Research\intent models\migrations\Pokemon Saves
+delete the directory University Inputs located in E:\Personal\meeting notes\backend\Department Clients
+delete the directory Payroll Manager - Policies located in F:\USB Backup\Home Repairs\engineering\Knowledge Base
+delete the directory Blender Projects located in C:\Users\Ankit\Downloads\Training Data
+delete the directory DBMS Project Photos located in E:\College\frontend\Payroll Manager\Department Students
+delete the directory Team Cleaned located in \\OfficePC\Public\assets\Research Papers\Database Migrations
+delete the directory Year Checkpoints located in C:\Program Files (x86)\imports\Final Versions\Client Tests
+delete the directory College - To Move located in G:\Shared\recordings\Semester 5\Oracle Database
+delete the directory Semester 3 located in E:\Media\Client B
+delete the directory at C:\ProgramData\Graphics Troubleshooting\invoices\Accounts Payable
+delete the directory at C:\Temp\Receipts
+delete the directory at D:\Projects\WinPilot\api tests\Leave and Attendance
+delete the directory at E:\Media\inventory\release builds\Tax Returns
+delete the directory at D:\Data\Sprint 13
+delete the directory at path C:\Dev\Database
+delete the directory at path D:\Shared\Lab Work
+delete the directory at path \\backup-server\weekly\To Submit\tests\Augmentation Reports
+delete the directory at path C:\Users\Ankit\Desktop\Photos
+delete the directory at path D:\Work\api tests\Release 1.4\Q3 2026
+delete the directory called Project Current
+delete the directory called Department Validation
+delete the directory called DBMS Project Operations
+delete the directory called Refund Cases
+delete the directory called Department Exports
+delete the directory called C:\Users\Ankit\Documents\October 2026\imports\Datasets
+delete the directory called C:\Dev\Sprint 13
+delete the directory called C:\Users\Ankit\Documents\database\photos\Out-of-Vocabulary Cases
+delete the directory called C:\Users\Public\Documents\Tests
+delete the directory called F:\USB Backup\release builds\Home Repairs\Tax Documents
+delete the directory located at E:\Incoming\client files\To Review\Department Customers
+delete the directory located at E:\Archive\migrations\Old Versions\Team Sprint 12
+delete the directory located at G:\Shared\Graphics Troubleshooting\To Review\Real User Examples
+delete the directory located at \\FileServer\Departments\Lab Work\Semester 5\diagrams
+delete the directory located at D:\College\GEHU\validation data\HR\Sprint 12
+delete the directory named Year Working
+delete the directory named Ready to Share
+delete the directory named College Tracking
+delete the directory named Social Media
+delete the directory named Year Audits
+delete the directory named College Audio from my computer
+delete the directory named GEHU Outputs from my computer
+delete the directory named Audits from my computer
+delete the directory named WinPilot - Revisions from my computer
+delete the directory named WinPilot Entity Recognition from my computer
+delete the folder WinPilot - Materials
+delete the folder Client Finance
+delete the folder Project Processed
+delete the folder College - To Copy
+delete the folder Sprint Planning
+delete the folder College - Audio and its contents
+delete the folder Important Documents and its contents
+delete the folder Emulator Configuration and its contents
+delete the folder DBMS Project Releases and its contents
+delete the folder College - Photos and its contents
+delete the folder DBMS Project - Week 43 from E:\Archive\Final Versions
+delete the folder WinPilot - Private from C:\ProgramData\Audio Troubleshooting\imports\build
+delete the folder College - Designs from D:\Research\diagnostics\invoices\Team Week 42
+delete the folder Payroll Manager Archived from D:\College\GEHU\Course Material\Projects\Client Schedules
+delete the folder Rejected Records from D:\Research\operations\frontend\Client Customers
+delete the folder College Shared from D:\Backups\Device Reports\inventory\WinPilot Documentation
+delete the folder University - Finance from D:\Data\Firewall Configs\config\Machine Learning
+delete the folder College - October 2026 from C:\Program Files (x86)\Reports\diagnostics\Year Audits
+delete the folder Year Releases from D:\Research\October 2026\logs\Signed Documents
+delete the folder Version 2 from D:\Backups\Device Reports\design files\Department Week 43
+delete the folder College - Inventory in E:\Archive\WinPilot3
+delete the folder DBMS Project - Raw Data in C:\Users\Public\Documents\Week 42\client files\Certificates
+delete the folder Project Invoices in C:\Program Files (x86)\backend\backups\Language Learning
+delete the folder Manual Test Results in C:\Users\Ankit\Desktop\Research
+delete the folder Operating Systems Results in C:\ProgramData\migrations\archives\Application Config
+delete the folder Unseen Entity Tests in C:\Program Files (x86)\Reports\Network Captures\Recovery Files
+delete the folder Customer Feedback in C:\Dev\NER experiments\Client A\checkpoints
+delete the folder WinPilot - For Review in C:\Users\Ankit\Desktop\Release 1.4\customer support\Intent Models
+delete the folder College Responses in E:\Media\Recordings
+delete the folder Read Only Reference in D:\College\GEHU\Reports\Shared Documents\Audio Transcripts
+delete the folder Employee Records located in C:\Program Files\assets\Windows Logs\Business Continuity
+delete the folder WinPilot - Photos located in E:\Archive\SQL Scripts
+delete the folder Payroll Manager Clean Data located in E:\Incoming\Course Material\Audio Troubleshooting\Git Repositories
+delete the folder College - Old Versions located in E:\Incoming\client files\Supplier North\Client Inputs
+delete the folder Operating Systems - Scripts located in \\NAS01\Shared\operations\Audio Troubleshooting\Service Metrics
+delete the folder GEHU - Inputs located in C:\Users\Ankit\Desktop\Engineering Team
+delete the folder Registrations located in F:\USB Backup\Device Reports\invoices\Year Templates
+delete the folder College Rejected located in C:\Users\Ankit\Downloads\Source Code
+delete the folder Year Operations located in C:\Program Files\inventory\warehouse\CI Artifacts
+delete the folder DBMS Project Designs located in E:\Archive\GEHU
+delete the folder G:\Shared\Graphics Troubleshooting\Audio Troubleshooting\Team Builds
+delete the folder D:\Backups\diagnostics\Driver Backups\Department Resources
+delete the folder D:\Data\Temporary Exports
+delete the folder D:\Shared\Old Versions
+delete the folder C:\Dev\Assignments
+delete the folder at C:\Users\Ankit\Pictures\receipts\backend\Workshop
+delete the folder at E:\Media\finance\Source Code\Team History
+delete the folder at D:\Data\WinPilot
+delete the folder at F:\External Drive\tests\Lab Work\Client Deliverables
+delete the folder at E:\Media\src\diagnostics\Submitted Work
+delete the folder at path \\NAS01\Shared\warehouse\To Review\Department Notes
+delete the folder at path D:\Backups\Release 1.4
+delete the folder at path D:\Staging\logs\screenshots\Deployment Rollbacks
+delete the folder at path C:\Users\Ankit\Videos\tests\generated\Loan Documents
+delete the folder at path \\NAS01\Shared\contracts\Reports\Frontend Components
+delete the folder called Year Exports
+delete the folder called Operating Systems Evidence
+delete the folder called GEHU Drafts
+delete the folder called Release Candidate
+delete the folder called Folder Operations
+delete the folder called Department Policies Project
+delete the folder called imports Project
+delete the folder called Department Forms Project
+delete the folder called Payroll Manager - Requests Project
+delete the folder called WinPilot Results Project
+delete the folder called F:\USB Backup\Firewall Configs\NER experiments\Structure Libraries
+delete the folder called D:\Projects\exports\photos\Subtitles
+delete the folder called F:\External Drive\Research Papers\operations\Brand Guidelines
+delete the folder called F:\External Drive\Driver Backups\training data\Resumes
+delete the folder called C:\Users\Ankit\Desktop\entity pools\family photos\Crash Reports
+delete the folder called D:\College\GEHU\Research Papers\Audio Troubleshooting\Year Schedules Project
+delete the folder called D:\Shared\Recordings Project
+delete the folder called C:\Users\Ankit\Videos\diagnostics\training data\Mockups Project
+delete the folder called C:\Program Files (x86)\design files\Old Versions\OneDrive Sync Project
+delete the folder called C:\Users\Ankit\Videos\warehouse\Certificates\Container Images Project
+delete the folder located at C:\Users\Public\Documents\Client B
+delete the folder located at E:\Media\Reports
+delete the folder located at C:\Users\Ankit\Downloads\Invoices
+delete the folder located at \\NAS01\Shared\Course Material\Personal Finance\Documents Pending Signature
+delete the folder located at C:\Users\Ankit\OneDrive\temp\Windows Logs\Sales Reports
+delete the folder named Portable Apps
+delete the folder named Internal Audit
+delete the folder named Operating Systems Scripts
+delete the folder named Payroll Manager - To Copy
+delete the folder named College Previous
+delete the folder named Monthly Review from my computer
+delete the folder named Operating Systems Processed Data from my computer
+delete the folder named Year Receipts from my computer
+delete the folder named Project Operations from my computer
+delete the folder named GEHU - Documents from my computer
+delete the folder named D:\Backups\receipts\Device Reports\WinPilot Models
+delete the folder named C:\Users\Ankit\Documents\Training Data
+delete the folder named D:\Staging\api tests\Semester 5\Vendor Management
+delete the folder named D:\Projects\src\customer support\Department Shared Files
+delete the folder named \\backup-server\weekly\release builds\To Submit\Phone Backup
+delete the specified folder Operating Systems - References
+delete the specified folder Sales Operations
+delete the specified folder University - Archives
+delete the specified folder Project To Review
+delete the specified folder Terraform
+discard the directory at \\OfficePC\Public\logs\Course Material\Project Materials
+discard the directory at F:\External Drive\Network Captures\marketing\Textures
+discard the directory at C:\Users\Public\Documents\Lab Work
+discard the directory at \\FileServer\Departments\design files\Reports\Client Raw
+discard the directory at \\NAS01\Shared\marketing\Release 1.4\Unicode Tests
+discard the directory named College Policies
+discard the directory named Year Cleaned
+discard the directory named TLS Certificates
+discard the directory named Client Deliverables
+discard the directory named DBMS Project Raw Data
+discard the folder at C:\Users\Ankit\OneDrive\screenshots\receipts\Error Analysis
+discard the folder at E:\Incoming\presentations\Client A\Client Imports
+discard the folder at D:\Data\model outputs\finance\FY2025-26
+discard the folder at C:\Temp\campaigns\migrations\Container Registry
+discard the folder at C:\Program Files\Shared Documents\diagnostics\Case Collision Tests
+discard the folder named Privacy-Safe Samples
+discard the folder named Team Customers
+discard the folder named Project Results
+discard the folder named Payroll Manager Exports
+discard the folder named Fonts
+erase the directory College Exports
+erase the directory Query Performance
+erase the directory Client Training
+erase the directory WinPilot Dataset
+erase the directory WinPilot Builds
+erase the directory at C:\Temp\operations\Network Captures\Year Audio
+erase the directory at E:\Personal\meeting notes\migrations\Crash Dumps
+erase the directory at E:\College\intent models\src\Placement Preparation
+erase the directory at C:\ProgramData\Network Captures\contracts\Year November
+erase the directory at C:\Users\Ankit\Documents\College
+erase the directory named Payroll Manager Designs
+erase the directory named Docker
+erase the directory named Year Outputs
+erase the directory named Course Recordings
+erase the directory named Leave and Attendance
+erase the folder DBMS Project - Designs
+erase the folder Payroll Manager Receipts
+erase the folder Project October
+erase the folder University - Templates
+erase the folder University - Incoming
+erase the folder at C:\Users\ankit.kumar\Documents\Assignments
+erase the folder at C:\Program Files (x86)\Source Code\Assignments\Fitness Logs
+erase the folder at \\FileServer\Departments\HR\exports\Event Planning
+erase the folder at C:\Users\Ankit\Documents\WinPilot\Source Code\Project Requests
+erase the folder at E:\Archive\Training Data
+erase the folder named Operating Systems Clean Data
+erase the folder named Practical Exam
+erase the folder named WinPilot Contracts
+erase the folder named GEHU - To Sort
+erase the folder named WinPilot - Releases
+get rid of Payroll Manager - Schedules folder
+get rid of Browser Bookmarks folder
+get rid of GEHU - Students folder
+get rid of Department Requests folder
+get rid of Year Reports folder
+get rid of E:\Media\entity pools\validation data\Windows Diagnostics folder
+get rid of D:\Backups\PBL Phase 2\To Review\Leave Requests folder
+get rid of C:\Users\Ankit\Downloads\warehouse\NER experiments\Q4 2026 folder
+get rid of C:\Users\Public\Documents\backups\imports\Project Outputs folder
+get rid of C:\Users\Ankit\Videos\tests\archives\Payroll Processing folder
+get rid of the GEHU Requests folder
+get rid of the Accounts Receivable folder
+get rid of the College Manifests folder
+get rid of the DBMS Project Engineering folder
+get rid of the University - Assets folder
+get rid of the C:\Program Files\Client A\client files\Audio Editing folder
+get rid of the E:\Media\api tests\Client A\Client Evidence folder
+get rid of the E:\Personal\src\website\Accessibility folder
+get rid of the F:\External Drive\temp\Research Papers\Client Approved folder
+get rid of the E:\Personal\NER experiments\Final Versions\Intent Validation folder
+get rid of the directory 3D Assets
+get rid of the directory GEHU - Ready to Submit
+get rid of the directory Lecture Notes
+get rid of the directory PESE Lab
+get rid of the directory GEHU Final Versions
+get rid of the directory D:\Backups\Logs
+get rid of the directory D:\Projects\Lab Work
+get rid of the directory E:\Archive\Sprint 13\travel\Team Responses
+get rid of the directory C:\Temp\engineering\Windows Logs\Lecture Recordings
+get rid of the directory \\OfficePC\Public\validation data\client files\Screen Captures
+get rid of the directory at C:\Users\Public\Documents\model outputs\Firewall Configs\Department Week 42
+get rid of the directory at C:\Users\Ankit\Documents\Engineering Team
+get rid of the directory at D:\Source\Device Reports\To Review\Team Checkpoints
+get rid of the directory at C:\Temp\recordings\assets\Attendance Records
+get rid of the directory at C:\Users\Ankit\Desktop\migrations\engineering\Hackathon
+get rid of the directory named GEHU - Data
+get rid of the directory named GEHU - Templates
+get rid of the directory named DBMS Project - Releases
+get rid of the directory named University Clients
+get rid of the directory named Operating Systems - Assets
+get rid of the folder University - Outgoing
+get rid of the folder College - Outgoing
+get rid of the folder Payroll Manager - Templates
+get rid of the folder Team Archive
+get rid of the folder DBMS Project Outputs
+get rid of the folder F:\USB Backup\entity pools\travel\Order Tracking
+get rid of the folder D:\Source\imports\travel\Uptime Reports
+get rid of the folder \\NAS01\Shared\Device Reports\WinPilot\Client Tracking
+get rid of the folder C:\Users\Ankit\Downloads\Windows Logs\presentations\Restore Points
+get rid of the folder C:\Temp\Game Saves
+get rid of the folder at D:\Research\test results\imports\USB Transfer
+get rid of the folder at E:\Media\release builds\Windows Logs\tmp
+get rid of the folder at C:\Temp\Sprint 13\test results\App Plugins
+get rid of the folder at C:\Temp\Python Projects
+get rid of the folder at D:\Backups\training data\entity pools\Performance Appraisals
+get rid of the folder named University - Forms
+get rid of the folder named College - Team Shared
+get rid of the folder named Payroll Manager - To Sort
+get rid of the folder named DBMS Project Published
+get rid of the folder named Customer Reproductions
+I need the Revisions folder deleted
+I need the Chat Exports folder deleted
+I need the University Data folder deleted
+I need the Project Files folder deleted
+I need the API Documentation folder deleted
+I need the D:\Shared\Week 42 folder deleted
+I need the D:\WinPilot\datasets\intent models\Hindi Translation folder deleted
+I need the C:\Program Files (x86)\Graphics Troubleshooting\WinPilot\Year To Review folder deleted
+I need the D:\Staging\meeting notes\training data\Error Analysis folder deleted
+I need the C:\Program Files (x86)\backups\frontend\Project Scripts folder deleted
+I need to delete Dependency Audits folder
+I need to delete Payroll Manager - Evidence folder
+I need to delete University Policies folder
+I need to delete Client Policies folder
+I need to delete Project Final folder
+I need to delete D:\College\GEHU\Projects\intent models\Purchase Orders folder
+I need to delete C:\Users\Public\Documents\src\Supplier North\Property Documents folder
+I need to delete F:\USB Backup\Client A\test results\Department Schedules folder
+I need to delete D:\Backups\Graphics Troubleshooting\training data\Client Customers folder
+I need to delete D:\College\GEHU\Network Captures\Semester 7\Year October folder
+I need to erase the directory Operating Systems - Records
+I need to erase the directory Bike Documents
+I need to erase the directory Department Sprint 13
+I need to erase the directory University Manifests
+I need to erase the directory Augmentation Runs
+I need to erase the folder Project Imports
+I need to erase the folder DBMS Project Videos
+I need to erase the folder Payroll Manager
+I need to erase the folder Sports
+I need to erase the folder Video Projects
+I need to get rid of the directory named Year Manifests
+I need to get rid of the directory named Team To Review
+I need to get rid of the directory named Client A
+I need to get rid of the directory named Quarterly Planning
+I need to get rid of the directory named Year Drafts
+I need to get rid of the folder named GEHU Releases
+I need to get rid of the folder named Security Alerts
+I need to get rid of the folder named Payroll Manager - Old Versions
+I need to get rid of the folder named Incident Management
+I need to get rid of the folder named GEHU - Suppliers
+I need to remove Team Inventory folder
+I need to remove DBMS Project Team Shared folder
+I need to remove DBMS Project Tickets folder
+I need to remove Meeting Minutes folder
+I need to remove College - Q3 2026 folder
+I need to remove C:\Users\Ankit\OneDrive\invoices\recordings\Team Current folder
+I need to remove \\backup-server\weekly\warehouse\datasets\Payroll Reports folder
+I need to remove C:\Users\Ankit\Pictures\entity pools\Release 1.4\User Feedback folder
+I need to remove D:\WinPilot\datasets\evaluation folder
+I need to remove C:\ProgramData\Shared Documents\photos\Team Drafts folder
+I need to remove the 2027 Payroll Manager folder
+I need to remove the Dataset Versioning folder
+I need to remove the University History folder
+I need to remove the University Archives folder
+I need to remove the Manali Trip folder
+I need to remove the D:\Projects\GEHU folder
+I need to remove the \\192.168.1.20\teamshare\Shared Documents\warehouse\Client Old Versions folder
+I need to remove the C:\Users\Public\Documents\Travel Planning\logs\Entity Pool Generated folder
+I need to remove the C:\Temp\Lab Work\screenshots\Property Documents folder
+I need to remove the D:\Work\Release 1.4\receipts\WinPilot folder
+I want the DBMS Project Manifests directory deleted
+I want the Employee Offboarding directory deleted
+I want the Risk and Assumption Log directory deleted
+I want the University Inventory directory deleted
+I want the Education Certificates directory deleted
+I want the Graphics Troubleshooting folder deleted
+I want the Release Notes folder deleted
+I want the Audio Production folder deleted
+I want the Payroll Manager - Documents folder deleted
+I want the Client Shared folder deleted
+I want the C:\Program Files (x86)\HR\Driver Backups\Department Documentation directory deleted
+I want the E:\Archive\Python Projects directory deleted
+I want the C:\Dev\entity pools\Old Versions\Oracle Database directory deleted
+I want the C:\Program Files\Week 42\validation data\Entity Pool Generated directory deleted
+I want the C:\Users\Ankit\Documents\Windows Logs\Device Reports\Oracle Database directory deleted
+I want the C:\Users\ankit.kumar\Documents\Recordings folder deleted
+I want the \\OfficePC\Public\Course Material\intent models\Python Projects folder deleted
+I want the D:\Projects\presentations\migrations\Marketing Campaigns folder deleted
+I want the D:\Data\Reports folder deleted
+I want the D:\Data\Personal Finance\docs\Recruitment Pipeline folder deleted
+I want to delete Payroll Manager Evaluation folder
+I want to delete Application Control Logs folder
+I want to delete WinPilot Metrics folder
+I want to delete Team Sprint 13 folder
+I want to delete Meal Prep folder
+I want to delete D:\Projects\frontend\Personal Finance\Vulnerability Scans folder
+I want to delete D:\College\GEHU\Home Repairs\Course Material\Project Working folder
+I want to delete E:\Incoming\logs\backend\Pet Care folder
+I want to delete C:\Program Files (x86)\travel\assets\Team Finance folder
+I want to delete C:\Users\ankit.kumar\Documents\Videos folder
+I want to delete the GEHU - Invoices folder
+I want to delete the Client Documentation folder
+I want to delete the Disk Health folder
+I want to delete the Submitted and Accepted folder
+I want to delete the DBMS Project - Pending Review folder
+I want to delete the E:\Media\Travel folder
+I want to delete the C:\Program Files\model outputs\recordings\Work folder
+I want to delete the \\192.168.1.20\teamshare\Payroll Manager\Windows Logs\Incident Response folder
+I want to delete the D:\Staging\presentations\marketing\reports folder
+I want to delete the E:\Personal\diagnostics\recordings\Client Schedules folder
+I want to erase the directory College - Schedules
+I want to erase the directory DBMS Project - To Sort
+I want to erase the directory annotations
+I want to erase the directory WinPilot3
+I want to erase the directory WinPilot Exports
+I want to erase the folder DBMS Project - Outgoing
+I want to erase the folder Payroll Manager 2026
+I want to erase the folder Device Reports
+I want to erase the folder Client Resources
+I want to erase the folder Operating Systems Validation
+I want to get rid of the Subtitles folder
+I want to get rid of the Permission Boundary Tests folder
+I want to get rid of the WinPilot - Customers folder
+I want to get rid of the Project Working folder
+I want to get rid of the GEHU - Incoming folder
+I want to get rid of the D:\WinPilot\Semester 5\docs\Security Reviews folder
+I want to get rid of the \\192.168.1.20\teamshare\screenshots\Device Reports\System Recovery folder
+I want to get rid of the C:\Program Files (x86)\datasets\Network Captures\Team Releases folder
+I want to get rid of the C:\Users\Ankit\Downloads\website\Travel Planning\Portfolio folder
+I want to get rid of the C:\Users\Ankit\Documents\Week 42\Semester 7\Command History folder
+I want to get rid of the directory named 2026 DBMS Project
+I want to get rid of the directory named Database Systems Course
+I want to get rid of the directory named Loan Documents
+I want to get rid of the directory named Payroll Manager Old Versions
+I want to get rid of the directory named University - Policies
+I want to get rid of the folder named Infrastructure as Code
+I want to get rid of the folder named Business Intelligence
+I want to get rid of the folder named Payroll Manager - Clean Data
+I want to get rid of the folder named College - Notes
+I want to get rid of the folder named Webcam Recordings
+I want to remove To Move folder
+I want to remove GEHU Data folder
+I want to remove notebooks folder
+I want to remove Department History folder
+I want to remove Year Support folder
+I want to remove D:\Data\campaigns\exports\Employment Records folder
+I want to remove \\backup-server\weekly\Old Versions\database\Move Tests folder
+I want to remove D:\Backups\finance\finance\Training Materials folder
+I want to remove C:\Users\Public\Documents\Python Projects folder
+I want to remove C:\Users\ankit.kumar\Documents\Invoices folder
+move the directory Year Students to the recycle bin
+move the directory GEHU - Validation to the recycle bin
+move the directory WinPilot - Sprint 13 to the recycle bin
+move the directory College - Rejected to the recycle bin
+move the directory 2026 University to the recycle bin
+move the folder Department Invoices to the recycle bin
+move the folder Trip Planning to the recycle bin
+move the folder Reading Notes to the recycle bin
+move the folder Project Tests to the recycle bin
+move the folder Real User Examples to the recycle bin
+permanently delete the directory Sales Reports
+permanently delete the directory Project Metrics
+permanently delete the directory End-to-End Tests
+permanently delete the directory Team Policies
+permanently delete the directory University Approved
+permanently delete the folder WinPilot - Reference Material
+permanently delete the folder University - Support
+permanently delete the folder DBMS Project - Ready to Submit
+permanently delete the folder GEHU Ready to Submit
+permanently delete the folder Payroll Manager - Ready to Submit
+permanently remove the directory Department Releases
+permanently remove the directory Service Metrics
+permanently remove the directory Documents for Travel
+permanently remove the directory Entity Boundary Cases
+permanently remove the directory Query Results
+permanently remove the folder release
+permanently remove the folder Team Code
+permanently remove the folder Client Scripts
+permanently remove the folder College Results
+permanently remove the folder Payroll Manager Rejected
+please delete the GEHU Operations directory
+please delete the DBMS Project directory
+please delete the University Rejected directory
+please delete the College 2026 directory
+please delete the Team Suppliers directory
+please delete the University 2025 folder
+please delete the WinPilot Imports folder
+please delete the Entity Labelling folder
+please delete the Payroll Manager Packages folder
+please delete the Incident Timeline folder
+please delete the E:\Personal\Exam Preparation\assets\Lab Work directory
+please delete the C:\Users\Public\Documents\Old Versions\Firewall Configs\Entity Pool Sources directory
+please delete the C:\ProgramData\release builds\recordings\Team Audio directory
+please delete the F:\USB Backup\Final Versions directory
+please delete the C:\Program Files\recordings\finance\imports directory
+please delete the E:\Incoming\Semester 7\NER experiments\backups folder
+please delete the C:\Dev\Temporary Exports folder
+please delete the G:\Shared\photos\test results\Year Tracking folder
+please delete the C:\Users\Public\Documents\tests\marketing\Case Collision Tests folder
+please delete the D:\Work\Travel Planning\database\App Configurations folder
+please delete the folder named Payroll Manager Reports
+please delete the folder named Structure Libraries
+please delete the folder named Department Revisions
+please delete the folder named Keep for Reference
+please delete the folder named WinPilot - Invoices
+please erase the directory named DBMS Project - Research
+please erase the directory named Study Material
+please erase the directory named Large Files
+please erase the directory named WinPilot Private
+please erase the directory named WinPilot Packages
+please erase the folder named DBMS Project - Training
+please erase the folder named Year Materials
+please erase the folder named Client Validation
+please erase the folder named Client Documents
+please erase the folder named Company Research
+please get rid of the DBMS Project - Sprint 12 folder
+please get rid of the College Builds folder
+please get rid of the DBMS Project Documentation folder
+please get rid of the GEHU Raw Data folder
+please get rid of the College Packages folder
+please get rid of the D:\Projects\Archives folder
+please get rid of the D:\Staging\frontend\Supplier North\Project Documents folder
+please get rid of the E:\Incoming\generated\Assignments\Frontend folder
+please get rid of the C:\Users\Ankit\Desktop\Source Code\validation data\Planning folder
+please get rid of the D:\Work\Python Projects folder
+please remove the GEHU - Contracts directory
+please remove the Current Semester directory
+please remove the DBMS Project - Documentation directory
+please remove the Operating Systems - Evidence directory
+please remove the Assignments directory
+please remove the Machine Learning folder
+please remove the University - Raw Data folder
+please remove the Team Photos folder
+please remove the 2025 WinPilot folder
+please remove the Uptime Reports folder
+please remove the C:\Users\Public\Documents\Week 42 directory
+please remove the E:\Media\config\photos\Game Capture Clips directory
+please remove the \\FileServer\Departments\website\config\2026 Records directory
+please remove the D:\Backups\family photos\Firewall Configs\Driver Backups directory
+please remove the E:\Media\Photos directory
+please remove the C:\Users\Ankit\Downloads\Lab Work\Windows Logs\Customer One folder
+please remove the C:\Users\ankit.kumar\Documents\Week 42 folder
+please remove the D:\Backups\Old Versions folder
+please remove the \\OfficePC\Public\Reports\website\Machine Learning folder
+please remove the F:\USB Backup\Firewall Configs\Firewall Configs\Project Outputs folder
+put the directory GEHU - Pending Review in the recycle bin
+put the directory University - Processed Data in the recycle bin
+put the directory Year Test Set in the recycle bin
+put the directory Payroll Manager - Training in the recycle bin
+put the directory Payroll Manager Requests in the recycle bin
+put the folder College Support in the recycle bin
+put the folder College Approved in the recycle bin
+put the folder GEHU To Rename in the recycle bin
+put the folder Department Team A in the recycle bin
+put the folder University Results in the recycle bin
+remove Household Budget and its contents
+remove DBMS Project - Final Submission and its contents
+remove College - Data and its contents
+remove Release 1.4 and its contents
+remove Supplier North and its contents
+remove Web Development directory
+remove Previous Semester directory
+remove Archived 2024 directory
+remove Operating Systems Materials directory
+remove Database Migrations directory
+remove Downloads To Delete folder
+remove College Designs folder
+remove Submitted Work folder
+remove Payroll Manager Releases folder
+remove College - Training folder
+remove E:\Incoming\Course Material\To Review\Client Shared Files directory
+remove D:\Data\Exam Preparation\Personal Finance\Project Files directory
+remove F:\External Drive\NER experiments\Exam Preparation\Department Inventory directory
+remove G:\Shared\meeting notes\invoices\Year Research directory
+remove \\backup-server\weekly\Final Versions\Graphics Troubleshooting\Department Planning directory
+remove E:\Incoming\receipts\meeting notes\Dataset Versioning folder
+remove D:\Source\engineering\recordings\Project Audio folder
+remove D:\Research\Receipts folder
+remove \\FileServer\Departments\Personal Finance\invoices\Investment Records folder
+remove G:\Shared\Projects\migrations\Team Research folder
+remove a directory called University 2027
+remove a directory called Windows Recovery
+remove a directory called Software Receipts
+remove a directory called DBMS Project - Reports
+remove a directory called Datasets
+remove a directory called C:\Program Files\archives\operations\Data Quality
+remove a directory called C:\Users\Ankit\Documents\Config
+remove a directory called \\192.168.1.20\teamshare\Reports\backups\Reading Notes
+remove a directory called D:\Data\Exam Preparation\Course Material\Year Audio
+remove a directory called F:\USB Backup\receipts\Network Captures\Team Team B
+remove a directory named University Exports
+remove a directory named Project Training
+remove a directory named GEHU - Manifests
+remove a directory named College - Finance
+remove a directory named Payroll Manager - Sprint 13
+remove a directory named D:\Staging\Shared Documents\presentations\Load Tests
+remove a directory named C:\Users\ankit.kumar\Documents\Finance Team
+remove a directory named C:\Users\Ankit\Documents\api tests\backups\Music
+remove a directory named D:\Shared\Client A
+remove a directory named C:\Users\ankit.kumar\Documents\To Review
+remove a folder called University - Revisions
+remove a folder called WinPilot Training
+remove a folder called Year Current
+remove a folder called College Temporary Files
+remove a folder called GEHU - Previous
+remove a folder called D:\College\GEHU\entity pools\Home Repairs\Phone Transfer
+remove a folder called C:\Users\Ankit\Pictures\tests\temp\Knowledge Base
+remove a folder called \\backup-server\weekly\temp\assets\Client Releases
+remove a folder called F:\USB Backup\Semester 5\Projects\Mobile Photos
+remove a folder called D:\Data\Recordings
+remove a folder named GEHU Processed Data
+remove a folder named Downloaded Installers
+remove a folder named College Contracts
+remove a folder named University - Inventory
+remove a folder named Old Versions
+remove a folder named E:\Archive\Game Saves
+remove a folder named C:\Users\Ankit\Videos\tests\Lab Work\Analytics
+remove a folder named C:\Users\Ankit\Downloads\src\backend\checkpoints
+remove a folder named D:\Shared\Model Outputs
+remove a folder named C:\Users\Ankit\Desktop\Client B
+remove folder archives
+remove folder Client Pending
+remove folder Migrations
+remove folder Operating Systems - Reports
+remove folder University Clean Data
+remove folder D:\Source\migrations\validation data\Project Beta
+remove folder F:\USB Backup\Shared Documents\frontend\Project Outputs
+remove folder D:\Backups\operations\engineering\Team Responses
+remove folder C:\ProgramData\family photos\inventory\To Submit
+remove folder D:\Data\Screenshots
+remove the WinPilot - Final Submission directory
+remove the GEHU Scripts directory
+remove the GEHU - Audits directory
+remove the Year Forms directory
+remove the WinPilot - Data directory
+remove the University - Private folder
+remove the DBMS Project - Photos folder
+remove the GEHU - Metrics folder
+remove the College Code folder
+remove the Project Code folder
+remove the \\OfficePC\Public\family photos\marketing\App Configurations directory
+remove the F:\USB Backup\Lab Work directory
+remove the C:\Users\ankit.kumar\Documents\Music directory
+remove the F:\USB Backup\Week 42\contracts\Rejected Records directory
+remove the E:\College\generated\frontend\Bills directory
+remove the D:\Work\Invoices folder
+remove the C:\Dev\October 2026 folder
+remove the D:\Data\Training Data folder
+remove the C:\Users\ankit.kumar\Documents\Client A folder
+remove the D:\Work\api tests\Driver Backups\Network Troubleshooting folder
+remove the directory DBMS Project Responses and its contents
+remove the directory University - Semester 5 and its contents
+remove the directory Payroll Manager Training and its contents
+remove the directory Client Materials and its contents
+remove the directory GEHU - Notes and its contents
+remove the directory College - Results from F:\External Drive\family photos\src\Team Week 42
+remove the directory Payroll Manager Finance from D:\Projects\Test Results
+remove the directory Project Documents from C:\Users\Ankit\Documents\Logs
+remove the directory Device Guard Investigation from E:\Media\backups\customer support\Restore Tests
+remove the directory WinPilot - Week 43 from D:\Backups\Week 42
+remove the directory Personal Admin from C:\Program Files\Network Captures\Supplier North\Windows Settings
+remove the directory WinPilot 2026 from C:\Program Files (x86)\Personal Finance\receipts\Browser Compatibility
+remove the directory College To Rename from D:\Backups\archives\intent models\Year Schedules
+remove the directory WinPilot Clients from D:\Source\migrations\Reports\Fonts
+remove the directory Unicode Tests from D:\Staging\frontend\model outputs\Engineering Team
+remove the directory User Feedback in E:\College\Week 42\generated\Benchmark Datasets
+remove the directory Network Share Tests in D:\WinPilot\Certificates\Certificates\PowerShell
+remove the directory Home Inventory in D:\Shared\Archives
+remove the directory Documents for Final Submission in D:\Work\Sprint 13\Old Versions\Department Photos
+remove the directory University Audio in F:\External Drive\docs\imports\Department Approved
+remove the directory Team Engineering in \\192.168.1.20\teamshare\Release 1.4\entity pools\Annotation Guidelines
+remove the directory Restore Tests in D:\College\GEHU\Semester 7\NER experiments\Git Repositories
+remove the directory App Plugins in D:\College\GEHU\Payroll Manager\src\Team Version 2
+remove the directory Project Validation in D:\Staging\Exam Preparation\training data\Team Designs
+remove the directory College Private in E:\Media\imports\Windows Logs\Research
+remove the directory Shipping located in C:\Users\Public\Documents\Entity Pools
+remove the directory Recycle Bin Tests located in C:\Program Files\customer support\Shared Documents\Year Old Versions
+remove the directory College - Ready to Submit located in C:\Dev\invoices\Travel Planning\Product Analytics
+remove the directory College Old Versions located in D:\Backups\invoices\Assignments\WinPilot Voice Pipeline
+remove the directory GEHU - Engineering located in \\FileServer\Departments\archives\Week 42\Year Materials
+remove the directory WinPilot Reports located in E:\Media\imports\warehouse\Diagnostics
+remove the directory University Finance located in G:\Shared\tests\Network Captures\Project Test Set
+remove the directory Payroll Manager Tracking located in C:\Temp\Backups
+remove the directory Operating Systems References located in D:\College\GEHU\Client A\engineering\Year Packages
+remove the directory DBMS Project Receipts located in E:\Media\Shared Drive
+remove the directory at D:\Backups\Training Data
+remove the directory at \\NAS01\Shared\Release 1.4\Certificates\Home Maintenance
+remove the directory at C:\Users\Ankit\Downloads\imports\archives\Department Planning
+remove the directory at D:\Staging\PBL Phase 2\datasets\Vehicle Records
+remove the directory at \\OfficePC\Public\Travel Planning\inventory\Team Current
+remove the directory at path D:\Source\training data\Client A\Company Research
+remove the directory at path E:\Archive\client files\contracts\CAD Drawings
+remove the directory at path C:\Dev\docs\travel\Team Schedules
+remove the directory at path D:\Shared\Backups
+remove the directory at path \\FileServer\Departments\Certificates\datasets\Team Week 43
+remove the directory called Semester 8
+remove the directory called Wallpapers
+remove the directory called Payroll Manager Assets
+remove the directory called Model Error Cases
+remove the directory called Team Audits
+remove the directory called \\NAS01\Shared\inventory\HR\Placement Preparation
+remove the directory called \\OfficePC\Public\docs\Certificates\Meeting Notes
+remove the directory called E:\Personal\Research Papers\migrations\Structure Library Imports
+remove the directory called G:\Shared\exports\src\Intent Evaluation
+remove the directory called \\NAS01\Shared\Payroll Manager\Release 1.4\Deployment Packages
+remove the directory located at C:\Temp\To Review
+remove the directory located at C:\ProgramData\Supplier North\finance\Project Archive
+remove the directory located at C:\Users\Ankit\Documents\Docs
+remove the directory located at C:\Users\Ankit\Documents\tests\exports\Important Documents
+remove the directory located at D:\College\GEHU\Exam Preparation\family photos\Confidential Archive
+remove the directory named UX Research
+remove the directory named College Validation
+remove the directory named Permission Tests
+remove the directory named Rental Agreement
+remove the directory named WinPilot - History
+remove the directory named Feature Engineering from my computer
+remove the directory named tokenizers from my computer
+remove the directory named Knowledge Base from my computer
+remove the directory named Archived 2025 from my computer
+remove the directory named GEHU - Q4 2026 from my computer
+remove the folder Archive 2026
+remove the folder DBMS Project - Suppliers
+remove the folder Year Revisions
+remove the folder Voice Recordings
+remove the folder Resumes
+remove the folder College Engineering and its contents
+remove the folder 2024 DBMS Project and its contents
+remove the folder Unit 4 Notes and its contents
+remove the folder Payroll Manager - Raw Data and its contents
+remove the folder Year Tracking and its contents
+remove the folder Warranty Claims from D:\Projects\Release 1.4\Travel Planning\Team Clients
+remove the folder College Incoming from D:\Projects\To Review\Driver Backups\Client Code
+remove the folder Department 2025 from D:\Work\Datasets
+remove the folder Public from E:\Media\College
+remove the folder Wireframes from \\192.168.1.20\teamshare\Driver Backups\docs\Assignments
+remove the folder University Drafts from \\NAS01\Shared\Firewall Configs\inventory\Blender Projects
+remove the folder College Outputs from D:\Shared\Engineering Team
+remove the folder Project Cleaned from D:\Staging\client files\Supplier North\Team Share
+remove the folder Code Reviews from D:\College\GEHU\backups\Network Captures\Year Checkpoints
+remove the folder University - Working Files from F:\External Drive\entity pools\HR\Knowledge Base
+remove the folder Operating Systems Archives in C:\Users\Ankit\Downloads\To Review\To Submit\Team Support
+remove the folder GEHU - Releases in G:\Shared\src\website\Network Troubleshooting
+remove the folder GEHU - Sprint 13 in D:\Work\inventory\datasets\VirtualBox
+remove the folder Shopping Lists in E:\Media\test results\family photos\General Ledger
+remove the folder DBMS Project - Sprint 13 in D:\WinPilot\Home Repairs\archives\Year Notes
+remove the folder Training Corpora in C:\Temp\marketing\Exam Preparation\notebooks
+remove the folder Client Drafts in E:\Incoming\Payroll Manager\marketing\Client B
+remove the folder Phone Backup in D:\Shared\SQL Scripts
+remove the folder University Students in C:\Users\Public\Documents\entity pools\Firewall Configs\Leadership
+remove the folder VirtualBox in D:\Backups\logs\Device Reports\Client Audio
+remove the folder WinPilot Models located in \\NAS01\Shared\Network Captures\HR\Client To Submit
+remove the folder Phone Restore located in E:\Archive\api tests\website\Project Cleaned
+remove the folder WinPilot - Clients located in E:\Archive\Driver Backups\training data\production
+remove the folder GEHU 2024 located in C:\Dev\Old Versions
+remove the folder Bank Reconciliation located in C:\Users\Public\Documents\Certificates\training data\WinPilot Entity Recognition
+remove the folder WinPilot - Drafts located in C:\Users\ankit.kumar\Documents\WinPilot3
+remove the folder Inbox located in D:\College\GEHU\Driver Backups\Firewall Configs\Audio
+remove the folder Payroll Manager Pending Review located in C:\Users\Public\Documents\Old Versions\engineering\Submitted and Accepted
+remove the folder College To Move located in \\FileServer\Departments\Device Reports\archives\Bank Statements
+remove the folder Project Designs located in C:\Dev\Python Projects
+remove the folder C:\Users\Ankit\Downloads\tests\Graphics Troubleshooting\Department Photos
+remove the folder E:\Media\validation data\contracts\Monthly Reports
+remove the folder G:\Shared\customer support\frontend\Data Governance
+remove the folder F:\USB Backup\Archives
+remove the folder D:\Research\Semester 5\inventory\Audio Troubleshooting
+remove the folder at C:\Users\Ankit\Pictures\Exam Preparation\Client A\Cover Letters
+remove the folder at C:\Users\Ankit\Desktop\docs\finance\Accessibility Review
+remove the folder at C:\Users\Ankit\Desktop\Receipts
+remove the folder at D:\Backups\Travel
+remove the folder at D:\Projects\intent models\Old Versions\Archived 2025
+remove the folder at path C:\Program Files\Windows Logs\customer support\Team Working
+remove the folder at path D:\Work\meeting notes\family photos\Client Engineering
+remove the folder at path D:\Staging\website\docs\USB Transfer
+remove the folder at path C:\Users\Ankit\Documents\To Submit
+remove the folder at path C:\Program Files\Google\Chrome\Application
+remove the folder called DBMS Project - Packages
+remove the folder called DBMS Project - Inputs
+remove the folder called Client Designs
+remove the folder called WinPilot - Imports
+remove the folder called Short Term Staging
+remove the folder called C:\Users\Ankit\OneDrive\Travel Planning\Home Repairs\Client Sprint 13
+remove the folder called C:\Users\Ankit\Downloads\datasets\Reports\Tax Returns
+remove the folder called E:\Archive\website\To Review\Client Planning
+remove the folder called E:\Media\engineering\campaigns\Unit 3 Notes
+remove the folder called C:\Users\Public\Documents\Research Papers\datasets\Language Practice
+remove the folder located at E:\Archive\receipts\Shared Documents\Supplier North
+remove the folder located at C:\Temp\Client A
+remove the folder located at E:\Archive\Videos
+remove the folder located at C:\Users\Public\Documents\College
+remove the folder located at D:\Source\Lab Work\Final Versions\Important Documents
+remove the folder named GEHU Packages
+remove the folder named Client Reports
+remove the folder named Team Team B
+remove the folder named Garden Maintenance
+remove the folder named University Raw Data
+remove the folder named Client Metrics from my computer
+remove the folder named Performance Reviews from my computer
+remove the folder named WinPilot - Outgoing from my computer
+remove the folder named WinPilot - Suppliers from my computer
+remove the folder named College - For Review from my computer
+remove the folder named Issue Attachments Project
+remove the folder named Client Responses Project
+remove the folder named Client To Review Project
+remove the folder named Privacy Project
+remove the folder named Operating Systems Documents Project
+remove the folder named \\NAS01\Shared\Supplier North\Payroll Manager\User Guide Drafts
+remove the folder named E:\College\To Submit
+remove the folder named D:\WinPilot\Device Reports\Certificates\Recipes
+remove the folder named D:\Work\Semester 7
+remove the folder named E:\Incoming\family photos\migrations\Vulnerability Scans
+remove the folder named \\192.168.1.20\teamshare\Network Captures\Graphics Troubleshooting\Department Old Versions Project
+remove the folder named E:\College\marketing\backups\Team Validation Project
+remove the folder named E:\College\Firewall Configs\Final Versions\Coding Practice Project
+remove the folder named C:\Users\Public\Documents\Logs Project
+remove the folder named E:\Incoming\customer support\Assignments\Restricted Documents Project
+send the directory Payroll Manager - Tickets to the recycle bin
+send the directory Department Final to the recycle bin
+send the directory Podcast Downloads to the recycle bin
+send the directory 2026 WinPilot to the recycle bin
+send the directory DBMS Project - Reference Material to the recycle bin
+send the folder WinPilot - Temporary Files to the recycle bin
+send the folder Delivery Proofs to the recycle bin
+send the folder Payroll Manager - Previous to the recycle bin
+send the folder Payroll Manager - Metrics to the recycle bin
+send the folder Payroll Manager - Working Files to the recycle bin
+trash the directory named Hindi Translation
+trash the directory named Department Metrics
+trash the directory named Procurement
+trash the directory named Year Packages
+trash the directory named WinPilot User Commands
+trash the folder named Payroll Manager - Archives
+trash the folder named College Customers
+trash the folder named WinPilot Inventory
+trash the folder named College Notes
+trash the folder named Team Version 1
+would you delete the directory named Department Records
+would you delete the directory named Year References
+would you delete the directory named Receipts
+would you delete the directory named Unit 3 Notes
+would you delete the directory named WinPilot - Assets
+would you delete the folder named WinPilot Raw Data
+would you delete the folder named University Materials
+would you delete the folder named intent datasets
+would you delete the folder named Project Shared
+would you delete the folder named Generated Records
+would you remove the directory named DBMS Project - November 2026
+would you remove the directory named WinPilot Resources
+would you remove the directory named Client Q3
+would you remove the directory named 2025 GEHU
+would you remove the directory named WinPilot Forms
+would you remove the folder named College - For Approval
+would you remove the folder named University Temporary Files
+would you remove the folder named Password Vault Backups
+would you remove the folder named To Review
+would you remove the folder named Management

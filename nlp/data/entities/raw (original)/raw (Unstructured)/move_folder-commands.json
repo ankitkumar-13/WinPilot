@@ -1,0 +1,196 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "can you move a directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "can you move a folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "can you move the directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "can you move the folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "could you move a directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "could you move a folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "could you move the directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "could you move the folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "I need to move a directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "I need to move a folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "I need to move the directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "I need to move the folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "I want to move a directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "I want to move a folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "I want to move the directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "I want to move the folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move a directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move a folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move a new folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move one folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move that directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move that folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move the directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move the folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move the folder here"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move this directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move this folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "move this folder here"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "please move a directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "please move a folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "please move that folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "please move the directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "please move the folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "please move this directory"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "please move this folder"
+    },
+    {
+      "dataset": "move_folder",
+      "intent": "move_folder",
+      "text": "put the folder here"
+    }
+  ]
+}

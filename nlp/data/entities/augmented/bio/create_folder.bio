@@ -1,0 +1,6404 @@
+add	O
+a	O
+new	O
+folder	O
+called	O
+Documents	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+Projects	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+Downloads	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+Pictures	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+Videos	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+Music	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Documents	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Desktop	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Downloads	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Pictures	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\Projects\PayrollManager	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Assignments	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Notes	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Research	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Reports	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Backups	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+Archives	B-FOLDER
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\College\DBMS	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\College\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\College\Computer	B-PATH_DIR
+Networks	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\College\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\Research\Papers	B-PATH_DIR
+
+add	O
+a	O
+new	O
+folder	O
+named	O
+C:\Users\Ankit\Research\Fieldwork	B-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Resources	B-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Templates	B-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+References	B-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Examples	B-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Samples	B-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Invoices	B-FOLDER
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Work\Finance	B-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Work\Operations	B-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Work\Sales	B-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Travel\Bookings	B-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\Automation	B-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\Automation\Source	B-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Receipts	B-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Finance	B-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Accounts	B-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Customers	B-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Orders	B-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Products	B-FOLDER
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\Automation\Tests	B-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\Research	B-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\Research\Data	B-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\Research\Reports	B-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\WebPlatform	B-PATH_DIR
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\WebPlatform\Frontend	B-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Employees	B-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Students	B-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Courses	B-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Attendance	B-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Payroll	B-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+Database	B-FOLDER
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\WebPlatform\Backend	B-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\MachineLearning	B-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\MachineLearning\Data	B-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\MachineLearning\Models	B-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\DatabaseLab	B-PATH_DIR
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+called	O
+D:\Projects\DatabaseLab\Schema	B-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Schemas	B-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Queries	B-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Migrations	B-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Exports	B-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Imports	B-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+Datasets	B-FOLDER
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\CollegeWork\DBMS	B-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\CollegeWork\DBMS\Labs	B-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\CollegeWork\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\CollegeWork\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Work\Finance	B-PATH_DIR
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+named	O
+D:\Work\Finance\Records	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+Models	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+Results	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+Experiments	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+Testing	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+Scripts	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+SourceCode	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+D:\Work\Sales	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+D:\Work\Sales\Orders	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+D:\Work\Operations\Maintenance	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+D:\Work\Human	B-PATH_DIR
+Resources	I-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+D:\Work\Shared	B-PATH_DIR
+Resources	I-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\WebPlatform	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+Documentation	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+Guides	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+Manuals	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+Logs	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+Config	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+Preferences	B-FOLDER
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\WebPlatform\Source	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\MobileApp	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\ApiService	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Development\DesktopTool	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Development\NLPProject	B-PATH_DIR
+
+could	O
+you	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Development\SecurityTools	B-PATH_DIR
+
+create	O
+Assets	B-FOLDER
+directory	O
+
+create	O
+Images	B-FOLDER
+directory	O
+
+create	O
+Icons	B-FOLDER
+directory	O
+
+create	O
+Designs	B-FOLDER
+directory	O
+
+create	O
+Layouts	B-FOLDER
+directory	O
+
+create	O
+Wireframes	B-FOLDER
+directory	O
+
+create	O
+Presentations	B-FOLDER
+folder	O
+
+create	O
+Spreadsheets	B-FOLDER
+folder	O
+
+create	O
+Contracts	B-FOLDER
+folder	O
+
+create	O
+Policies	B-FOLDER
+folder	O
+
+create	O
+Forms	B-FOLDER
+folder	O
+
+create	O
+Applications	B-FOLDER
+folder	O
+
+create	O
+E:\University\Semester	B-PATH_DIR
+Five\DBMS	I-PATH_DIR
+directory	O
+
+create	O
+E:\University\Semester	B-PATH_DIR
+Five\HCI	I-PATH_DIR
+directory	O
+
+create	O
+E:\University\Semester	B-PATH_DIR
+Six\Projects	I-PATH_DIR
+directory	O
+
+create	O
+F:\Backup\Documents	B-PATH_DIR
+directory	O
+
+create	O
+F:\Backup\Projects	B-PATH_DIR
+directory	O
+
+create	O
+F:\Backup\College	B-PATH_DIR
+directory	O
+
+create	O
+F:\Archive\Finance	B-PATH_DIR
+folder	O
+
+create	O
+F:\Archive\Sales	B-PATH_DIR
+folder	O
+
+create	O
+F:\Archive\Research	B-PATH_DIR
+folder	O
+
+create	O
+F:\Shared\Projects	B-PATH_DIR
+folder	O
+
+create	O
+F:\Shared\College	B-PATH_DIR
+folder	O
+
+create	O
+F:\Shared\Media	B-PATH_DIR
+folder	O
+
+create	O
+a	O
+directory	O
+called	O
+Certificates	B-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+Schedules	B-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+Timetables	B-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+Coursework	B-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+Practical	B-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+LectureNotes	B-FOLDER
+
+create	O
+a	O
+directory	O
+called	O
+F:\Data\Raw	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+F:\Data\Processed	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+F:\Data\Exports	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+F:\Research\Fieldwork	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+F:\Research\Publications	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+called	O
+C:\Workspaces\Northwind	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+StudyMaterial	B-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+ExamPrep	B-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+QuestionPapers	B-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+AnswerKeys	B-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+SemesterWork	B-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+CollegeWork	B-FOLDER
+
+create	O
+a	O
+directory	O
+named	O
+C:\Workspaces\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+C:\Workspaces\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+C:\Sandbox\Experiments	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+C:\Sandbox\Archive	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+D:\Sandbox\Personal	B-PATH_DIR
+
+create	O
+a	O
+directory	O
+named	O
+D:\Sandbox\Travel	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+UniversityWork	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Personal	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Travel	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Bookings	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Reservations	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+Vehicles	B-FOLDER
+
+create	O
+a	O
+folder	O
+called	O
+E:\Temp\Imports	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+E:\Temp\Exports	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+E:\CloudArchive\Personal	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+E:\CloudArchive\Work	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+F:\LongTermStorage\Records	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+called	O
+F:\LongTermStorage\Projects	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+Insurance	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Household	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Recipes	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Fitness	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Journals	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+Reading	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Public\Documents	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\OneDrive\Documents	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+D:\OneDriveBackup\Projects	B-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+E:\UniversityArchive\Project	B-PATH_DIR
+Records	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+F:\CompanyArchive\Client	B-PATH_DIR
+Records	I-PATH_DIR
+
+create	O
+a	O
+folder	O
+named	O
+C:\NetworkShare\Team	B-PATH_DIR
+Resources	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+Movies	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+Games	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+Photography	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+Gardening	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+Shopping	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+Work	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+D:\MediaStore\Photography	B-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+E:\ProjectStorage\Active	B-PATH_DIR
+Work	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+F:\BackupVault\Critical	B-PATH_DIR
+Records	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+C:\Shared\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+C:\Shared\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+called	O
+C:\Shared\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Meetings	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Agendas	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Minutes	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Clients	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Vendors	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+Operations	B-FOLDER
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+C:\Shared\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+C:\Shared\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+C:\Shared\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+C:\Shared\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+C:\Shared\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+create	O
+a	O
+new	O
+directory	O
+named	O
+C:\Shared\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+Planning	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+Strategy	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+Marketing	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+Sales	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+Support	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+HumanResources	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Shared\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Shared\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Shared\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Shared\x1	B-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Shared\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+called	O
+C:\Shared\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+Recruitment	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+Training	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+Compliance	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+Security	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+Audits	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+Incidents	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Shared\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Shared\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Shared\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Shared\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Shared\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+named	O
+C:\Shared\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Maintenance	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Monitoring	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Networking	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Servers	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Services	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Automation	B-FOLDER
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+create	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+Development	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+Deployment	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+Production	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+Staging	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+SourceArchive	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+CodeReview	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+D:\Archive\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+D:\Archive\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+called	O
+D:\Archive\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+Builds	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+Releases	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+Packages	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+Dependencies	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+Libraries	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+Modules	B-FOLDER
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+D:\Archive\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+D:\Archive\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+D:\Archive\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+D:\Archive\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+D:\Archive\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+directory	O
+named	O
+D:\Archive\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Plugins	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Extensions	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Containers	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Volumes	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Pipelines	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+Workflows	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Archive\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Archive\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Archive\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Archive\x1	B-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Archive\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+called	O
+D:\Archive\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+Jobs	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+Batches	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+RawData	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+CleanData	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+ProcessedData	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+TrainingData	B-FOLDER
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Archive\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Archive\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Archive\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Archive\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Archive\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+create	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Archive\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+create	O
+the	O
+ValidationData	B-FOLDER
+directory	O
+
+create	O
+the	O
+TestData	B-FOLDER
+directory	O
+
+create	O
+the	O
+Predictions	B-FOLDER
+directory	O
+
+create	O
+the	O
+Evaluation	B-FOLDER
+directory	O
+
+create	O
+the	O
+Benchmarks	B-FOLDER
+directory	O
+
+create	O
+the	O
+Metrics	B-FOLDER
+directory	O
+
+create	O
+the	O
+ReportsArchive	B-FOLDER
+folder	O
+
+create	O
+the	O
+ResearchNotes	B-FOLDER
+folder	O
+
+create	O
+the	O
+Fieldwork	B-FOLDER
+folder	O
+
+create	O
+the	O
+Surveys	B-FOLDER
+folder	O
+
+create	O
+the	O
+Interviews	B-FOLDER
+folder	O
+
+create	O
+the	O
+Observations	B-FOLDER
+folder	O
+
+create	O
+the	O
+D:\Archive\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\Archive\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\Archive\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\Archive\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\Archive\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\Archive\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+directory	O
+
+create	O
+the	O
+D:\Archive\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+D:\Archive\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+D:\Archive\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+E:\Projects\North	B-PATH_DIR
+Hall	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+E:\Projects\River	B-PATH_DIR
+Station	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+E:\Projects\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+folder	O
+
+create	O
+the	O
+new	O
+folder	O
+Publications	B-FOLDER
+
+create	O
+the	O
+new	O
+folder	O
+CaseStudies	B-FOLDER
+
+create	O
+the	O
+new	O
+folder	O
+Proposals	B-FOLDER
+
+create	O
+the	O
+new	O
+folder	O
+Specifications	B-FOLDER
+
+create	O
+the	O
+new	O
+folder	O
+Architecture	B-FOLDER
+
+create	O
+the	O
+new	O
+folder	O
+DesignDocs	B-FOLDER
+
+create	O
+the	O
+new	O
+folder	O
+E:\Projects\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+create	O
+the	O
+new	O
+folder	O
+E:\Projects\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+create	O
+the	O
+new	O
+folder	O
+E:\Projects\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+create	O
+the	O
+new	O
+folder	O
+E:\Projects\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+create	O
+the	O
+new	O
+folder	O
+E:\Projects\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+create	O
+the	O
+new	O
+folder	O
+E:\Projects\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+ProjectPlans	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+Roadmaps	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+Milestones	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+ChangeRequests	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+ReleaseNotes	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+IssueReports	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+E:\Projects\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+E:\Projects\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+E:\Projects\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+E:\Projects\x1	B-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+E:\Projects\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+called	O
+E:\Projects\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+ErrorReports	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+ActivityLogs	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+AccessLogs	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+AuditRecords	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+UserData	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+AppData	B-FOLDER
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+E:\Projects\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+E:\Projects\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+E:\Projects\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+E:\Projects\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+E:\Projects\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+I	O
+need	O
+a	O
+folder	O
+named	O
+E:\Projects\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+SessionData	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+CacheData	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Credentials	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Keys	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Guidelines	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+SharedFiles	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+E:\Projects\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+E:\Projects\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+E:\Projects\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+E:\Projects\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+E:\Projects\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+E:\Projects\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+PublicFiles	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+PrivateFiles	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+TemporaryFiles	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+ScratchSpace	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+SandboxArea	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+OldProjects	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+E:\Projects\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+E:\Projects\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+E:\Projects\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+F:\Storage\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+F:\Storage\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+F:\Storage\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+OldRecords	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+CurrentWork	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+CompletedWork	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+PendingWork	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+ImportantFiles	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+x1	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+F:\Storage\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+F:\Storage\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+F:\Storage\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+F:\Storage\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+F:\Storage\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+F:\Storage\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+v2	B-FOLDER
+Builds	I-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Q4	B-FOLDER
+Reports	I-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+3D	B-FOLDER
+Models	I-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+C++	B-FOLDER
+Practice	I-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+2026	B-FOLDER
+Archive	I-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+API_v3	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+F:\Storage\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+F:\Storage\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+F:\Storage\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+F:\Storage\x1	B-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+F:\Storage\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+F:\Storage\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+Old-2	B-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+Room	B-FOLDER
+7	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+A1	B-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+3D	B-FOLDER
+Studio	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+Q1	B-FOLDER
+Planning	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+Version	B-FOLDER
+4	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+F:\Storage\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+F:\Storage\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+F:\Storage\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+F:\Storage\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+F:\Storage\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+called	O
+F:\Storage\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Team	B-FOLDER
+Room	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Archive	B-FOLDER
+9	I-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Documents	B-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Projects	B-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Downloads	B-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+Pictures	B-FOLDER
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+F:\Storage\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+F:\Storage\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Documents	B-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Desktop	B-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Downloads	B-PATH_DIR
+
+I	O
+want	O
+a	O
+folder	O
+named	O
+C:\Users\Ankit\Pictures	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Videos	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Music	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Assignments	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Notes	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Research	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+Reports	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\Projects\PayrollManager	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\College\DBMS	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\College\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\College\Computer	B-PATH_DIR
+Networks	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+directory	O
+called	O
+C:\Users\Ankit\College\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Backups	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Archives	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Resources	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Templates	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+References	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+Examples	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Research\Papers	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Research\Fieldwork	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Work\Finance	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Work\Operations	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Work\Sales	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+create	O
+a	O
+folder	O
+called	O
+C:\Users\Ankit\Travel\Bookings	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+Samples	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+Invoices	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+Receipts	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+Finance	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+Accounts	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+Customers	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+D:\Projects\Automation	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+D:\Projects\Automation\Source	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+D:\Projects\Automation\Tests	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+D:\Projects\Research	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+D:\Projects\Research\Data	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+directory	O
+named	O
+D:\Projects\Research\Reports	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Orders	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Products	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Employees	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Students	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Courses	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+Attendance	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\WebPlatform	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\WebPlatform\Frontend	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\WebPlatform\Backend	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\MachineLearning	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\MachineLearning\Data	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+make	O
+a	O
+folder	O
+named	O
+D:\Projects\MachineLearning\Models	B-PATH_DIR
+
+make	O
+Payroll	B-FOLDER
+directory	O
+
+make	O
+Database	B-FOLDER
+directory	O
+
+make	O
+Schemas	B-FOLDER
+directory	O
+
+make	O
+Queries	B-FOLDER
+directory	O
+
+make	O
+Migrations	B-FOLDER
+directory	O
+
+make	O
+Exports	B-FOLDER
+directory	O
+
+make	O
+Imports	B-FOLDER
+folder	O
+
+make	O
+Datasets	B-FOLDER
+folder	O
+
+make	O
+Models	B-FOLDER
+folder	O
+
+make	O
+Results	B-FOLDER
+folder	O
+
+make	O
+Experiments	B-FOLDER
+folder	O
+
+make	O
+Testing	B-FOLDER
+folder	O
+
+make	O
+D:\Projects\DatabaseLab	B-PATH_DIR
+directory	O
+
+make	O
+D:\Projects\DatabaseLab\Schema	B-PATH_DIR
+directory	O
+
+make	O
+D:\CollegeWork\DBMS	B-PATH_DIR
+directory	O
+
+make	O
+D:\CollegeWork\DBMS\Labs	B-PATH_DIR
+directory	O
+
+make	O
+D:\CollegeWork\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+directory	O
+
+make	O
+D:\CollegeWork\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+directory	O
+
+make	O
+D:\Work\Finance	B-PATH_DIR
+folder	O
+
+make	O
+D:\Work\Finance\Records	B-PATH_DIR
+folder	O
+
+make	O
+D:\Work\Sales	B-PATH_DIR
+folder	O
+
+make	O
+D:\Work\Sales\Orders	B-PATH_DIR
+folder	O
+
+make	O
+D:\Work\Operations\Maintenance	B-PATH_DIR
+folder	O
+
+make	O
+D:\Work\Human	B-PATH_DIR
+Resources	I-PATH_DIR
+folder	O
+
+make	O
+a	O
+directory	O
+called	O
+Scripts	B-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+SourceCode	B-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+Documentation	B-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+Guides	B-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+Manuals	B-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+Logs	B-FOLDER
+
+make	O
+a	O
+directory	O
+called	O
+D:\Work\Shared	B-PATH_DIR
+Resources	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+E:\Projects\WebPlatform	B-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+E:\Projects\WebPlatform\Source	B-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+E:\Projects\MobileApp	B-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+E:\Projects\ApiService	B-PATH_DIR
+
+make	O
+a	O
+directory	O
+called	O
+E:\Development\DesktopTool	B-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+Config	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Preferences	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Assets	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Images	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Icons	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+Designs	B-FOLDER
+
+make	O
+a	O
+directory	O
+named	O
+E:\Development\NLPProject	B-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+E:\Development\SecurityTools	B-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+E:\University\Semester	B-PATH_DIR
+Five\DBMS	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+E:\University\Semester	B-PATH_DIR
+Five\HCI	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+E:\University\Semester	B-PATH_DIR
+Six\Projects	I-PATH_DIR
+
+make	O
+a	O
+directory	O
+named	O
+F:\Backup\Documents	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+Layouts	B-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+Wireframes	B-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+Presentations	B-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+Spreadsheets	B-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+Contracts	B-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+Policies	B-FOLDER
+
+make	O
+a	O
+folder	O
+called	O
+F:\Backup\Projects	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+F:\Backup\College	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+F:\Archive\Finance	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+F:\Archive\Sales	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+F:\Archive\Research	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+called	O
+F:\Shared\Projects	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+Forms	B-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Applications	B-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Certificates	B-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Schedules	B-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Timetables	B-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+Coursework	B-FOLDER
+
+make	O
+a	O
+folder	O
+named	O
+F:\Shared\College	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+F:\Shared\Media	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+F:\Data\Raw	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+F:\Data\Processed	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+F:\Data\Exports	B-PATH_DIR
+
+make	O
+a	O
+folder	O
+named	O
+F:\Research\Fieldwork	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+Practical	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+LectureNotes	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+StudyMaterial	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+ExamPrep	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+QuestionPapers	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+AnswerKeys	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+F:\Research\Publications	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+C:\Workspaces\Northwind	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+C:\Workspaces\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+C:\Workspaces\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+C:\Sandbox\Experiments	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+called	O
+C:\Sandbox\Archive	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+SemesterWork	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+CollegeWork	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+UniversityWork	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+Personal	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+Travel	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+Bookings	B-FOLDER
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+D:\Sandbox\Personal	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+D:\Sandbox\Travel	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+E:\Temp\Imports	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+E:\Temp\Exports	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+E:\CloudArchive\Personal	B-PATH_DIR
+
+make	O
+a	O
+new	O
+directory	O
+named	O
+E:\CloudArchive\Work	B-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Reservations	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Vehicles	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Insurance	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Household	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Recipes	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+Fitness	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+F:\LongTermStorage\Records	B-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+F:\LongTermStorage\Projects	B-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Public\Documents	B-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+C:\Users\Ankit\OneDrive\Documents	B-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+D:\OneDriveBackup\Projects	B-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+called	O
+E:\UniversityArchive\Project	B-PATH_DIR
+Records	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+Journals	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+Reading	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+Movies	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+Games	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+Photography	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+Gardening	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+F:\CompanyArchive\Client	B-PATH_DIR
+Records	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+C:\NetworkShare\Team	B-PATH_DIR
+Resources	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+D:\MediaStore\Photography	B-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+E:\ProjectStorage\Active	B-PATH_DIR
+Work	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+F:\BackupVault\Critical	B-PATH_DIR
+Records	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+named	O
+C:\Shared\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Shopping	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Work	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Meetings	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Agendas	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Minutes	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+Clients	B-FOLDER
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+make	O
+a	O
+new	O
+folder	O
+with	O
+the	O
+name	O
+C:\Shared\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+Vendors	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+Operations	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+Planning	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+Strategy	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+Marketing	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+Sales	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+called	O
+C:\Shared\x1	B-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+Support	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+HumanResources	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+Recruitment	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+Training	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+Compliance	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+Security	B-FOLDER
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+C:\Shared\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+C:\Shared\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+C:\Shared\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+C:\Shared\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+C:\Shared\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+directory	O
+named	O
+C:\Shared\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Audits	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Incidents	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Maintenance	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Monitoring	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Networking	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+Servers	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+C:\Shared\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+C:\Shared\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+C:\Shared\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+C:\Shared\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+C:\Shared\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+called	O
+C:\Shared\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+Services	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+Automation	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+Development	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+Deployment	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+Production	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+Staging	B-FOLDER
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Shared\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Shared\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Shared\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Shared\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+C:\Shared\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+make	O
+an	O
+empty	O
+folder	O
+named	O
+D:\Archive\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+make	O
+the	O
+SourceArchive	B-FOLDER
+directory	O
+
+make	O
+the	O
+CodeReview	B-FOLDER
+directory	O
+
+make	O
+the	O
+Builds	B-FOLDER
+directory	O
+
+make	O
+the	O
+Releases	B-FOLDER
+directory	O
+
+make	O
+the	O
+Packages	B-FOLDER
+directory	O
+
+make	O
+the	O
+Dependencies	B-FOLDER
+directory	O
+
+make	O
+the	O
+Libraries	B-FOLDER
+folder	O
+
+make	O
+the	O
+Modules	B-FOLDER
+folder	O
+
+make	O
+the	O
+Plugins	B-FOLDER
+folder	O
+
+make	O
+the	O
+Extensions	B-FOLDER
+folder	O
+
+make	O
+the	O
+Containers	B-FOLDER
+folder	O
+
+make	O
+the	O
+Volumes	B-FOLDER
+folder	O
+
+make	O
+the	O
+D:\Archive\River	B-PATH_DIR
+Station	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+D:\Archive\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+D:\Archive\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+D:\Archive\Maple	B-PATH_DIR
+House	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+D:\Archive\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+D:\Archive\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+directory	O
+
+make	O
+the	O
+D:\Archive\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+D:\Archive\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+D:\Archive\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+D:\Archive\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+D:\Archive\Room	B-PATH_DIR
+7	I-PATH_DIR
+folder	O
+
+make	O
+the	O
+D:\Archive\x1	B-PATH_DIR
+folder	O
+
+make	O
+the	O
+new	O
+folder	O
+Pipelines	B-FOLDER
+
+make	O
+the	O
+new	O
+folder	O
+Workflows	B-FOLDER
+
+make	O
+the	O
+new	O
+folder	O
+Jobs	B-FOLDER
+
+make	O
+the	O
+new	O
+folder	O
+Batches	B-FOLDER
+
+make	O
+the	O
+new	O
+folder	O
+RawData	B-FOLDER
+
+make	O
+the	O
+new	O
+folder	O
+CleanData	B-FOLDER
+
+make	O
+the	O
+new	O
+folder	O
+D:\Archive\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+make	O
+the	O
+new	O
+folder	O
+D:\Archive\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+make	O
+the	O
+new	O
+folder	O
+D:\Archive\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+make	O
+the	O
+new	O
+folder	O
+D:\Archive\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+make	O
+the	O
+new	O
+folder	O
+D:\Archive\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+make	O
+the	O
+new	O
+folder	O
+D:\Archive\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+ProcessedData	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+TrainingData	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+ValidationData	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+TestData	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+Predictions	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+Evaluation	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+D:\Archive\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+D:\Archive\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+D:\Archive\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+D:\Archive\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+D:\Archive\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+called	O
+D:\Archive\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+Benchmarks	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+Metrics	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+ReportsArchive	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+ResearchNotes	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+Fieldwork	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+Surveys	B-FOLDER
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+D:\Archive\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+D:\Archive\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+D:\Archive\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+D:\Archive\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+D:\Archive\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+please	O
+create	O
+a	O
+folder	O
+named	O
+E:\Projects\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+Interviews	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+Observations	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+Publications	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+CaseStudies	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+Proposals	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+Specifications	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+E:\Projects\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+E:\Projects\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+E:\Projects\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+E:\Projects\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+E:\Projects\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+called	O
+E:\Projects\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+Architecture	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+DesignDocs	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+ProjectPlans	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+Roadmaps	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+Milestones	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+ChangeRequests	B-FOLDER
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+E:\Projects\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+E:\Projects\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+E:\Projects\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+E:\Projects\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+E:\Projects\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+please	O
+make	O
+a	O
+folder	O
+named	O
+E:\Projects\x1	B-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+ReleaseNotes	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+IssueReports	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+ErrorReports	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+ActivityLogs	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+AccessLogs	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+AuditRecords	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+UserData	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+AppData	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+SessionData	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+CacheData	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+Credentials	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+Keys	B-FOLDER
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+please	O
+set	O
+up	O
+a	O
+folder	O
+named	O
+E:\Projects\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+Guidelines	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+SharedFiles	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+PublicFiles	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+PrivateFiles	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+TemporaryFiles	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+ScratchSpace	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+E:\Projects\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+called	O
+F:\Storage\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+SandboxArea	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+OldProjects	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+OldRecords	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+CurrentWork	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+CompletedWork	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+PendingWork	B-FOLDER
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+F:\Storage\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+F:\Storage\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+F:\Storage\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+F:\Storage\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+F:\Storage\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+set	O
+up	O
+a	O
+folder	O
+named	O
+F:\Storage\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+ImportantFiles	B-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+x1	B-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+v2	B-FOLDER
+Builds	I-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+Q4	B-FOLDER
+Reports	I-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+3D	B-FOLDER
+Models	I-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+C++	B-FOLDER
+Practice	I-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+F:\Storage\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+F:\Storage\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+F:\Storage\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+F:\Storage\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+F:\Storage\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+called	O
+F:\Storage\x1	B-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+2026	B-FOLDER
+Archive	I-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+API_v3	B-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+Old-2	B-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+Room	B-FOLDER
+7	I-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+A1	B-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+3D	B-FOLDER
+Studio	I-FOLDER
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+F:\Storage\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+F:\Storage\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+F:\Storage\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+F:\Storage\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+F:\Storage\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+set	O
+up	O
+a	O
+new	O
+folder	O
+named	O
+F:\Storage\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+can	O
+you	O
+create	O
+a	O
+directory	O
+
+can	O
+you	O
+create	O
+a	O
+folder	O
+
+can	O
+you	O
+create	O
+a	O
+new	O
+directory	O
+
+can	O
+you	O
+create	O
+a	O
+new	O
+folder	O
+
+can	O
+you	O
+make	O
+a	O
+directory	O
+
+can	O
+you	O
+make	O
+a	O
+folder	O
+
+can	O
+you	O
+make	O
+a	O
+new	O
+directory	O
+
+can	O
+you	O
+make	O
+a	O
+new	O
+folder	O
+
+could	O
+you	O
+create	O
+a	O
+directory	O
+
+could	O
+you	O
+create	O
+a	O
+folder	O
+
+could	O
+you	O
+create	O
+a	O
+new	O
+folder	O
+
+could	O
+you	O
+make	O
+a	O
+directory	O
+
+could	O
+you	O
+make	O
+a	O
+folder	O
+
+could	O
+you	O
+make	O
+a	O
+new	O
+folder	O
+
+create	O
+a	O
+directory	O
+
+create	O
+a	O
+directory	O
+for	O
+Ankit	O
+
+create	O
+a	O
+directory	O
+for	O
+Project	O
+
+create	O
+a	O
+folder	O
+
+create	O
+a	O
+folder	O
+for	O
+Ankit	O
+
+create	O
+a	O
+folder	O
+for	O
+college	O
+work	O
+
+create	O
+a	O
+folder	O
+for	O
+documents	O
+
+create	O
+a	O
+folder	O
+for	O
+my	O
+files	O
+
+create	O
+a	O
+folder	O
+for	O
+my	O
+project	O
+
+create	O
+a	O
+folder	O
+for	O
+Project	O
+
+create	O
+a	O
+folder	O
+for	O
+Rahul	O
+
+create	O
+a	O
+new	O
+directory	O
+
+create	O
+a	O
+new	O
+directory	O
+for	O
+my	O
+project	O
+
+create	O
+a	O
+new	O
+folder	O
+
+create	O
+a	O
+new	O
+folder	O
+for	O
+my	O
+project	O
+
+create	O
+folder	O
+
+create	O
+one	O
+directory	O
+
+create	O
+one	O
+folder	O
+
+I	O
+need	O
+a	O
+directory	O
+
+I	O
+need	O
+a	O
+folder	O
+
+I	O
+need	O
+a	O
+new	O
+directory	O
+
+I	O
+need	O
+a	O
+new	O
+folder	O
+
+I	O
+need	O
+to	O
+create	O
+a	O
+directory	O
+
+I	O
+need	O
+to	O
+create	O
+a	O
+folder	O
+
+I	O
+need	O
+to	O
+make	O
+a	O
+directory	O
+
+I	O
+need	O
+to	O
+make	O
+a	O
+folder	O
+
+I	O
+want	O
+to	O
+create	O
+a	O
+directory	O
+
+I	O
+want	O
+to	O
+create	O
+a	O
+folder	O
+
+I	O
+want	O
+to	O
+create	O
+a	O
+new	O
+folder	O
+
+I	O
+want	O
+to	O
+make	O
+a	O
+directory	O
+
+I	O
+want	O
+to	O
+make	O
+a	O
+folder	O
+
+I	O
+want	O
+to	O
+make	O
+a	O
+new	O
+folder	O
+
+make	O
+a	O
+directory	O
+
+make	O
+a	O
+directory	O
+for	O
+Ankit	O
+
+make	O
+a	O
+directory	O
+for	O
+Project	O
+
+make	O
+a	O
+directory	O
+for	O
+Rahul	O
+
+make	O
+a	O
+folder	O
+
+make	O
+a	O
+folder	O
+for	O
+Ankit	O
+
+make	O
+a	O
+folder	O
+for	O
+college	O
+work	O
+
+make	O
+a	O
+folder	O
+for	O
+documents	O
+
+make	O
+a	O
+folder	O
+for	O
+my	O
+files	O
+
+make	O
+a	O
+folder	O
+for	O
+my	O
+project	O
+
+make	O
+a	O
+folder	O
+for	O
+Project	O
+
+make	O
+a	O
+folder	O
+for	O
+Rahul	O
+
+make	O
+a	O
+new	O
+directory	O
+
+make	O
+a	O
+new	O
+directory	O
+for	O
+my	O
+project	O
+
+make	O
+a	O
+new	O
+folder	O
+
+make	O
+a	O
+new	O
+folder	O
+for	O
+my	O
+project	O
+
+make	O
+folder	O
+
+make	O
+one	O
+directory	O
+
+make	O
+one	O
+folder	O
+
+please	O
+create	O
+a	O
+directory	O
+
+please	O
+create	O
+a	O
+folder	O
+
+please	O
+create	O
+a	O
+new	O
+directory	O
+
+please	O
+create	O
+a	O
+new	O
+folder	O
+
+please	O
+create	O
+one	O
+directory	O
+
+please	O
+create	O
+one	O
+folder	O
+
+please	O
+make	O
+a	O
+directory	O
+
+please	O
+make	O
+a	O
+folder	O
+
+please	O
+make	O
+a	O
+new	O
+directory	O
+
+please	O
+make	O
+a	O
+new	O
+folder	O
+
+please	O
+make	O
+one	O
+directory	O
+
+please	O
+make	O
+one	O
+folder	O
+

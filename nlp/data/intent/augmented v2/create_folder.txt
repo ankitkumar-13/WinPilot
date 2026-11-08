@@ -1,0 +1,900 @@
+add a directory called DBMS Project Clients
+add a directory called Project Students
+add a directory called Dashboards
+add a directory called University Responses
+add a directory called Team Exports
+add a directory called D:\Research\Audio Troubleshooting\HR\Semester 4
+add a directory called \\192.168.1.20\teamshare\client files\frontend\Bank Statements
+add a directory called D:\WinPilot\Home Repairs\meeting notes\WinPilot
+add a directory called D:\Data\generated\marketing\Year Contracts
+add a directory called \\FileServer\Departments\generated\Travel Planning\Semester 8
+add a directory named Year Photos
+add a directory named Ambiguous Commands
+add a directory named University - Semester 7
+add a directory named GEHU Forms
+add a directory named Team Drafts
+add a directory named C:\ProgramData\Lab Work\datasets\recordings
+add a directory named C:\Users\Ankit\Downloads\Client A\Lab Work\Year Scripts
+add a directory named D:\Work\Release 1.4
+add a directory named E:\Personal\training data\Network Captures\Project Working
+add a directory named C:\Program Files (x86)\WinPilot\Lab Work\Department Metrics
+add a folder called Payroll Manager Policies
+add a folder called Text Normalisation
+add a folder called University - Responses
+add a folder called Identity Documents
+add a folder called University - Ready to Submit
+add a folder called C:\Users\Ankit\Pictures\Assignments\meeting notes\Teacher Notes
+add a folder called E:\Personal\Travel Planning\NER experiments\Duplicate Review
+add a folder called E:\Incoming\invoices\Device Reports\Warranty Expiry
+add a folder called C:\Users\Ankit\Downloads\Test Results
+add a folder called D:\College\GEHU\backups\To Submit\Year Planning
+add a folder named University Outputs
+add a folder named College Scripts
+add a folder named Help Centre Articles
+add a folder named Placement Preparation
+add a folder named DBMS Project Builds
+add a folder named \\NAS01\Shared\website\validation data\Parser Tests
+add a folder named C:\Dev\Datasets
+add a folder named D:\Data\Release 1.4\finance\Comics
+add a folder named D:\College\GEHU\Driver Backups\Shared Documents\Team Revisions
+add a folder named C:\Users\Ankit\Downloads\Photos
+add a new folder called University - Reports
+add a new folder called College Metrics
+add a new folder called Client Private
+add a new folder called System Recovery
+add a new folder called College - Semester 5
+add a new folder called D:\Work\Travel Planning\presentations\Open Source Tools
+add a new folder called C:\Users\Ankit\Downloads\Projects
+add a new folder called E:\Incoming\docs\photos\Project Archive
+add a new folder called C:\Users\Ankit\Desktop\Videos
+add a new folder called C:\Users\Ankit\OneDrive\family photos\validation data\Personal Finance
+add a new folder named WinPilot - Final Versions
+add a new folder named University - Week 42
+add a new folder named Node Packages
+add a new folder named Payroll Manager - Outputs
+add a new folder named Application Config
+add a new folder named E:\Archive\training data\test results\Operations Team
+add a new folder named C:\Program Files\inventory\Exam Preparation\Client Private
+add a new folder named D:\Research\Certificates\October 2026\Project Reviewed
+add a new folder named D:\WinPilot\Week 42\campaigns\Department Assets
+add a new folder named D:\Staging\client files\Audio Troubleshooting\Rollback Tests
+can you create a folder called Payroll Manager - Deliverables
+can you create a folder called Downloads To Keep
+can you create a folder called University Code
+can you create a folder called DBMS Project - Working Files
+can you create a folder called College - Policies
+can you create a folder called D:\Research\campaigns\database\Department 2025
+can you create a folder called C:\ProgramData\Client A\archives\Junction Tests
+can you create a folder called \\backup-server\weekly\Payroll Manager\photos\Year Policies
+can you create a folder called C:\Users\Ankit\OneDrive\travel\tests\Rental Records
+can you create a folder called E:\College\WinPilot3
+can you make a folder named University - November 2026
+can you make a folder named Household Admin
+can you make a folder named Household Purchases
+can you make a folder named Semester 5
+can you make a folder named College - Current
+can you make a folder named F:\USB Backup\docs\validation data\Department Operations
+can you make a folder named C:\Users\Ankit\Pictures\logs\test results\Department Schedules
+can you make a folder named C:\Dev\generated\design files\Project Releases
+can you make a folder named E:\Archive\test results\screenshots\Team Operations
+can you make a folder named C:\Temp\Sprint 13\presentations\Finance Team
+could you create a directory called Team Version 2
+could you create a directory called Stock Reports
+could you create a directory called DBMS Project Drafts
+could you create a directory called DBMS Project Backups
+could you create a directory called Payroll Manager Responses
+could you create a directory called D:\Research\training data\contracts\Department Cleaned
+could you create a directory called E:\Archive\screenshots\travel\Year Scripts
+could you create a directory called C:\Users\ankit.kumar\Documents\Screenshots
+could you create a directory called D:\Research\Recordings
+could you create a directory called C:\Users\Ankit\Documents\Client A
+could you create a directory named Performance Regression
+could you create a directory named Department Code
+could you create a directory named Project Week 43
+could you create a directory named University - Videos
+could you create a directory named Department Raw
+could you create a directory named C:\Users\Ankit\Pictures\Release 1.4\Network Captures\Client Archive
+could you create a directory named F:\USB Backup\receipts\customer support\Orphaned Files
+could you create a directory named \\OfficePC\Public\website\Home Repairs\Repair Estimates
+could you create a directory named D:\Projects\logs\recordings\TLS Certificates
+could you create a directory named F:\External Drive\invoices\Research Papers\Year Backups
+could you create a folder called University Incoming
+could you create a folder called Team Students
+could you create a folder called WinPilot Releases
+could you create a folder called Screen Captures
+could you create a folder called Risk Register
+could you create a folder called C:\Users\Ankit\Downloads\SQL Scripts
+could you create a folder called C:\Users\Public\Documents\validation data\meeting notes\Client Planning
+could you create a folder called \\OfficePC\Public\Windows Logs\src\Project Audio
+could you create a folder called C:\Users\Ankit\Pictures\database\Exam Preparation\Year Archive
+could you create a folder called C:\Users\Ankit\Desktop\config\tests\Phone Backup
+could you make a directory called Bookings
+could you make a directory called WinPilot Operations
+could you make a directory called Home Maintenance
+could you make a directory called Submitted for Correction
+could you make a directory called Intent Models
+could you make a directory called D:\Research\Source Code
+could you make a directory called D:\Shared\Datasets
+could you make a directory called \\OfficePC\Public\Home Repairs\NER experiments\Entity Labelling
+could you make a directory called C:\Temp\Client A\Release 1.4\WinPilot Documentation
+could you make a directory called D:\Source\config\To Review\Client Schedules
+could you make a directory named Invitations
+could you make a directory named GEHU Tests
+could you make a directory named Documents for Bank
+could you make a directory named 2027 University
+could you make a directory named University - Releases
+could you make a directory named \\FileServer\Departments\Week 42\temp\Entity Pool Rejected
+could you make a directory named E:\Incoming\finance\campaigns\tokenizers
+could you make a directory named C:\Program Files\inventory\datasets\Year Working
+could you make a directory named D:\Work\docs\datasets\VPN Profiles
+could you make a directory named D:\Data\College
+could you make a folder named Operating Systems - Backups
+could you make a folder named University Customers
+could you make a folder named Client Packages
+could you make a folder named GEHU - Final Versions
+could you make a folder named Build Artifacts
+could you make a folder named D:\Source\assets\Reports\Downloads To Delete
+could you make a folder named D:\Work\Travel Planning\docs\Tokenisation
+could you make a folder named \\NAS01\Shared\Projects\Travel Planning\Migrations
+could you make a folder named C:\Temp\WinPilot\Semester 5\Node Packages
+could you make a folder named E:\College\Network Captures\assets\Version 3
+create Payroll Manager - Results directory
+create WinPilot Documents directory
+create University For Review directory
+create WinPilot - Designs directory
+create Payroll Manager Tickets directory
+create Payroll Manager - Research folder
+create Device Manager folder
+create DBMS Project 2026 folder
+create SEO Reports folder
+create Analytics Models folder
+create C:\ProgramData\model outputs\To Submit\Wireframes directory
+create C:\Users\Ankit\Desktop\Archives directory
+create C:\Users\Ankit\Desktop\Finance Team directory
+create E:\Incoming\invoices\test results\Augmentation Runs directory
+create C:\Users\Ankit\Desktop\warehouse\archives\Documents directory
+create \\FileServer\Departments\family photos\Firewall Configs\Team Finance folder
+create D:\Backups\validation data\Personal Finance\Team Revisions folder
+create E:\Archive\Travel folder
+create E:\Personal\docs\To Review\Project Planning folder
+create E:\Incoming\To Review\config\Project Proposals folder
+create a child folder called College Final Versions
+create a child folder called WinPilot - Support
+create a child folder called WinPilot Customers
+create a child folder called DBMS Project - Shared
+create a child folder called GEHU Archived
+create a child folder called \\backup-server\weekly\receipts\Projects\Case Collision Tests
+create a child folder called C:\Users\Ankit\Documents\Network Captures\test results\Client Checkpoints
+create a child folder called C:\Users\Ankit\Downloads\docs\Personal Finance\ETL Jobs
+create a child folder called E:\College\Semester 7
+create a child folder called C:\Users\Ankit\Documents\GEHU
+create a child folder named DBMS Project - History
+create a child folder named Leave Requests
+create a child folder named Client To Submit
+create a child folder named GEHU - Audio
+create a child folder named Weekly Reports
+create a child folder named \\backup-server\weekly\WinPilot\Week 42\Product Roadmap
+create a child folder named C:\Users\Ankit\Downloads\Projects\recordings\Incident Timeline
+create a child folder named C:\Dev\Sprint 13\Audio Troubleshooting\Duplicates for Review
+create a child folder named D:\Work\diagnostics\Semester 5\Certificates
+create a child folder named F:\USB Backup\Windows Logs\recordings\3D Models
+create a directory called Email Attachments
+create a directory called Client Raw
+create a directory called Department Screenshots
+create a directory called DBMS Project - Evaluation
+create a directory called Delete Tests
+create a directory called E:\Media\Certificates\Network Captures\Project Week 42
+create a directory called C:\Users\Ankit\Desktop\WinPilot
+create a directory called C:\Temp\operations\Shared Documents\Client Templates
+create a directory called C:\Temp\Assets
+create a directory called F:\USB Backup\Screenshots
+create a directory named Dataset QA
+create a directory named GEHU - Customers
+create a directory named Operating Systems Tests
+create a directory named Client Clients
+create a directory named DBMS Project Schedules
+create a directory named C:\Users\Ankit\Desktop\engineering\Graphics Troubleshooting\Browser Session Backups
+create a directory named C:\Users\Ankit\Desktop\Assignments
+create a directory named C:\Temp\meeting notes\Device Reports\Team Forms
+create a directory named E:\College\travel\Network Captures\Year Cleaned
+create a directory named D:\Projects\Source Code\meeting notes\Release Notes
+create a directory with the name To Submit
+create a directory with the name Client 2025
+create a directory with the name To Sort
+create a directory with the name College Releases
+create a directory with the name System Logs
+create a directory with the name C:\Users\Ankit\OneDrive\generated\config\Department Q3
+create a directory with the name C:\Users\Ankit\Documents\presentations\Supplier North\Client Checkpoints
+create a directory with the name E:\Media\Research Papers\Travel Planning\Business Continuity
+create a directory with the name E:\Media\Training Data
+create a directory with the name F:\USB Backup\warehouse\October 2026\Year 2025
+create a folder called University - Imports
+create a folder called Project Archive 2026
+create a folder called To Print
+create a folder called Operating Systems Forms
+create a folder called Quality Checks
+create a folder called C:\Users\Ankit\Documents\Graphics Troubleshooting\Personal Finance\Year Packages
+create a folder called E:\Archive\datasets\Sprint 13\Department Processed
+create a folder called D:\Projects\Reports
+create a folder called C:\Users\Ankit\Downloads\College
+create a folder called D:\Staging\src\Release 1.4\Project Requests
+create a folder named Operating Systems - Materials
+create a folder named Client Audio
+create a folder named Project Evidence
+create a folder named Client Receipts
+create a folder named Operating Systems - Videos
+create a folder named D:\Projects\Assignments\config\Android Debugging
+create a folder named D:\Source\Final Versions\Source Code\Company Research
+create a folder named D:\Projects\Photos
+create a folder named G:\Shared\datasets\temp\Short Term Staging
+create a folder named C:\ProgramData\intent models\intent models\Labelled Examples
+create a folder with the name DBMS Project - To Print
+create a folder with the name Browser Extensions
+create a folder with the name Department Approved
+create a folder with the name October 2026
+create a folder with the name Personal Archive
+create a folder with the name C:\Users\Ankit\Documents\Music
+create a folder with the name C:\Program Files (x86)\docs\Projects\Refund Cases
+create a folder with the name E:\College\Archives
+create a folder with the name C:\Users\Ankit\Documents\Final Versions
+create a folder with the name D:\Data\Research Papers\migrations\Contracts
+create a new directory called GEHU Notes
+create a new directory called Team Week 42
+create a new directory called WinPilot - To Move
+create a new directory called recordings
+create a new directory called Supplier Shared Files
+create a new directory called E:\College\validation data\screenshots\Sales Reports
+create a new directory called \\FileServer\Departments\assets\Exam Preparation\Compliance
+create a new directory called \\192.168.1.20\teamshare\travel\warehouse\Accounts Receivable
+create a new directory called D:\Projects\Temporary Exports
+create a new directory called E:\Media\frontend\config\Disk Health
+create a new directory named Q4 2026
+create a new directory named Support Team
+create a new directory named GEHU - To Rename
+create a new directory named Operating Systems - Exports
+create a new directory named Bug Reports
+create a new directory named D:\Research\Research Papers\Course Material\Published
+create a new directory named E:\College\release builds\Reports\VPN Profiles
+create a new directory named E:\Media\Release 1.4
+create a new directory named C:\ProgramData\datasets\inventory\Container Registry
+create a new directory named E:\Archive\Docs
+create a new empty folder called University - Contracts
+create a new empty folder called Project Records
+create a new empty folder called Project Clients
+create a new empty folder called Local Backups
+create a new empty folder called Payroll Manager To Move
+create a new empty folder called D:\Data\Invoices
+create a new empty folder called C:\Temp\meeting notes\database\DNS Exports
+create a new empty folder called G:\Shared\campaigns\Shared Documents\Refund Cases
+create a new empty folder called C:\Dev\Client A\Research Papers\tmp
+create a new empty folder called D:\Source\training data\exports\API Responses
+create a new empty folder named GEHU Students
+create a new empty folder named screenshots
+create a new empty folder named Tax Returns
+create a new empty folder named Department Archive 2026
+create a new empty folder named WinPilot - Archived
+create a new empty folder named C:\Users\Public\Documents\SQL Scripts
+create a new empty folder named C:\Users\Ankit\Desktop\logs\Payroll Manager\Game Capture Clips
+create a new empty folder named D:\Backups\Projects
+create a new empty folder named C:\Users\Ankit\Desktop\backups\Research Papers\Client Drafts
+create a new empty folder named C:\Temp\Recordings
+create a new folder called University Published
+create a new folder called Exam Preparation
+create a new folder called GEHU - Shared
+create a new folder called GEHU - Support
+create a new folder called Frontend
+create a new folder called C:\Dev\photos\warehouse\Team Suppliers
+create a new folder called C:\Users\Ankit\Downloads\Projects\backend\notebooks
+create a new folder called C:\Dev\receipts\Semester 5\Year Private
+create a new folder called C:\Users\Ankit\Pictures\tests\customer support\Insurance
+create a new folder called C:\Users\Ankit\OneDrive\Research Papers\Week 42\Project Photos
+create a new folder named WinPilot - Reports
+create a new folder named Browser Session Backups
+create a new folder named GEHU - Policies
+create a new folder named Team Assets
+create a new folder named GEHU To Print
+create a new folder named C:\Users\Ankit\Desktop\Downloads
+create a new folder named F:\External Drive\generated\warehouse\To Move
+create a new folder named E:\Archive\frontend\validation data\Patch Files
+create a new folder named C:\Program Files (x86)\engineering\To Submit\Permission Boundary Tests
+create a new folder named C:\Users\Ankit\Pictures\October 2026\photos\Family Photos
+create a new subfolder called University - Drafts
+create a new subfolder called Payroll Manager Evidence
+create a new subfolder called GEHU - Resources
+create a new subfolder called DBMS Project - Customers
+create a new subfolder called DBMS Project - Scripts
+create a new subfolder called D:\Research\SQL Scripts
+create a new subfolder called C:\Users\Ankit\OneDrive\Final Versions\Sprint 13\Accounts Receivable
+create a new subfolder called E:\College\assets\finance\Year Invoices
+create a new subfolder called C:\ProgramData\receipts\Research Papers\Department Designs
+create a new subfolder called C:\Users\Ankit\Downloads\frontend\model outputs\Audits
+create a new subfolder named Path Length Tests
+create a new subfolder named Hackathon
+create a new subfolder named GEHU - Videos
+create a new subfolder named University Archived
+create a new subfolder named Client Checkpoints
+create a new subfolder named C:\Program Files (x86)\Assignments\recordings\Client Operations
+create a new subfolder named C:\Users\Ankit\Downloads\Certificates\exports\Department Checkpoints
+create a new subfolder named D:\Source\generated\Device Reports\Safety Records
+create a new subfolder named C:\Program Files (x86)\exports\HR\Documents for HR
+create a new subfolder named D:\Shared\Assets
+create a subfolder called University Tickets
+create a subfolder called University - Manifests
+create a subfolder called WinPilot To Sort
+create a subfolder called DBMS Project Records
+create a subfolder called Department Outputs
+create a subfolder called D:\Backups\Shared Drive
+create a subfolder called C:\Users\Ankit\Pictures\invoices\Audio Troubleshooting\Weekly Reports
+create a subfolder called F:\External Drive\WinPilot\temp\Status Updates
+create a subfolder called C:\Users\Ankit\Desktop\database\Exam Preparation\TLS Certificates
+create a subfolder called D:\WinPilot\inventory\Shared Documents\Pet Care
+create a subfolder named Team Checkpoints
+create a subfolder named GEHU Materials
+create a subfolder named DBMS Project - Data
+create a subfolder named Annotation Guidelines
+create a subfolder named Restore Points
+create a subfolder named D:\Staging\model outputs\To Review\Compliance Evidence
+create a subfolder named C:\Program Files (x86)\engineering\contracts\Open Source
+create a subfolder named C:\Users\Ankit\Desktop\Music
+create a subfolder named C:\Users\Ankit\Videos\Semester 7\generated\Department Scripts
+create a subfolder named C:\Users\Public\Documents\Assignments\Lab Work\Resumes
+create an empty folder called Customer Research
+create an empty folder called Trip Photos
+create an empty folder called Project Contracts
+create an empty folder called Brand Assets
+create an empty folder called Engineering
+create an empty folder called \\FileServer\Departments\invoices\Reports\Data Retention
+create an empty folder called C:\Users\Public\Documents\Validation Data
+create an empty folder called D:\Research\database\To Review\Recovery Codes
+create an empty folder called E:\Incoming\Final Versions\Lab Work\Year Schedules
+create an empty folder called D:\Work\Week 42
+create an empty folder named Meeting Notes
+create an empty folder named Failed Imports
+create an empty folder named Appliance Manuals
+create an empty folder named Client Team B
+create an empty folder named University - Inputs
+create an empty folder named C:\Program Files\recordings\contracts\Videos
+create an empty folder named D:\Backups\Source Code\website\CRM Exports
+create an empty folder named D:\Research\Entity Pools
+create an empty folder named C:\Users\Ankit\Downloads\Temporary Exports
+create an empty folder named F:\External Drive\receipts\backups\Birthdays
+create the GEHU Archives directory
+create the GEHU Documents directory
+create the Department Audits directory
+create the Team Planning directory
+create the Payroll Manager Inventory directory
+create the Client Reviewed folder
+create the Automation Runs folder
+create the Project Revisions folder
+create the Year Final folder
+create the WinPilot Photos folder
+create the D:\Data\Logs directory
+create the D:\Projects\warehouse\Projects\WinPilot User Commands directory
+create the D:\Data\invoices\entity pools\Client Validation directory
+create the D:\College\GEHU\Driver Backups\frontend\Model Experiments directory
+create the E:\Archive\contracts\meeting notes\Dehradun Trip directory
+create the C:\Users\Ankit\AppData\Local\Temp folder
+create the D:\Staging\api tests\meeting notes\Windows Diagnostics folder
+create the D:\Shared\Sprint 13 folder
+create the D:\WinPilot\assets\To Submit\Training Materials folder
+create the D:\Data\Python Projects folder
+generate a directory called DBMS Project Exports
+generate a directory called Fitness Logs
+generate a directory called File Migration
+generate a directory called CAD Drawings
+generate a directory called Entity Pool Sources
+generate a directory called C:\ProgramData\Assignments\entity pools\Team Reviewed
+generate a directory called D:\Backups\Semester 7
+generate a directory called C:\Program Files (x86)\entity pools\intent models\Project Gamma
+generate a directory called E:\Media\backups\backups\Final Versions
+generate a directory called C:\Windows\System32\winevt\Logs
+generate a directory named Internationalisation
+generate a directory named Payroll Manager - For Review
+generate a directory named Client Requests
+generate a directory named Payroll Manager - Videos
+generate a directory named WinPilot Clean Data
+generate a directory named E:\Media\Research Papers\archives\PBL Phase 1
+generate a directory named E:\Archive\Personal Finance\Driver Backups\Client Records
+generate a directory named C:\Users\Ankit\Desktop\invoices\Home Repairs\Department Schedules
+generate a directory named C:\Users\ankit.kumar\Documents\Model Outputs
+generate a directory named E:\Incoming\Release 1.4\NER experiments\Year Working
+generate a folder called Payroll Manager - Builds
+generate a folder called Application Profiles
+generate a folder called Operating Systems Outputs
+generate a folder called GEHU Rejected
+generate a folder called Payroll Manager Current
+generate a folder called C:\Users\Ankit\Videos\October 2026\October 2026\Content Calendar
+generate a folder called C:\Dev\Device Reports\Reports\Team Team B
+generate a folder called D:\Source\config\model outputs\Command History
+generate a folder called D:\Data\Semester 7
+generate a folder called C:\Temp\Engineering Team
+generate a folder named Gaming Backups
+generate a folder named College - Scripts
+generate a folder named DBMS Project - Manifests
+generate a folder named College - Code
+generate a folder named Rejected Files
+generate a folder named D:\Work\Projects
+generate a folder named C:\Users\ankit.kumar\Documents\Training Data
+generate a folder named C:\Dev\Supplier North\Device Reports\Year Support
+generate a folder named D:\Backups\Travel Planning\presentations\Client Working
+generate a folder named D:\Work\engineering\intent models\Year Research
+I need a directory called WinPilot - Templates
+I need a directory called Merge Conflicts
+I need a directory called University - Schedules
+I need a directory called Browser Profiles
+I need a directory called WinPilot To Print
+I need a directory called D:\Research\Reports\design files\Year Tracking
+I need a directory called C:\Users\Public\Documents\marketing\Personal Finance\Phone Restore
+I need a directory called C:\ProgramData\frontend\Release 1.4\Folder Operations
+I need a directory called F:\External Drive\release builds\PBL Phase 2\Revisions
+I need a directory called C:\Temp\Sprint 13\operations\Order Tracking
+I need a directory named Workshop
+I need a directory named Project Raw
+I need a directory named Language Practice
+I need a directory named On-call Handover
+I need a directory named exports
+I need a directory named D:\Shared\Game Saves
+I need a directory named \\192.168.1.20\teamshare\Graphics Troubleshooting\operations\Practical Exam
+I need a directory named D:\Backups\Windows Logs\inventory\Ready to Share
+I need a directory named D:\Shared\WinPilot
+I need a directory named D:\WinPilot\Semester 5\PBL Phase 2\Department Inputs
+I need a folder called Venue
+I need a folder called University - Reference Material
+I need a folder called WinPilot - Documentation
+I need a folder called Payroll Manager Reference Material
+I need a folder called WinPilot - To Print
+I need a folder called E:\Archive\temp\Course Material\Browser Session Backups
+I need a folder called D:\Backups\Final Versions
+I need a folder called C:\Users\ankit.kumar\Documents\To Submit
+I need a folder called \\FileServer\Departments\Semester 5\api tests\Music Playlists
+I need a folder called E:\Media\presentations\Sprint 13\Book Summaries
+I need a folder named Banking Records
+I need a folder named Payroll Manager - Packages
+I need a folder named App Configurations
+I need a folder named Policies
+I need a folder named Payroll Processing
+I need a folder named F:\USB Backup\Old Versions
+I need a folder named D:\Projects\Engineering Team
+I need a folder named D:\Research\WinPilot3
+I need a folder named C:\Dev\exports\Certificates\Restore Tests
+I need a folder named E:\Media\design files\To Submit\Weekly Review
+I need a new folder called College 2027
+I need a new folder called University - Shared
+I need a new folder called Documents for University
+I need a new folder called DBMS Project - To Move
+I need a new folder called University Videos
+I need a new folder called D:\Work\client files\frontend\Client A
+I need a new folder called C:\Temp\Presentations
+I need a new folder called D:\Projects\Windows Logs\Supplier North\Docker
+I need a new folder called C:\Users\Ankit\Desktop\Docs
+I need a new folder called \\backup-server\weekly\Assignments\api tests\Podcast Downloads
+I need a new folder named DBMS Project Final Versions
+I need a new folder named Pending Approval
+I need a new folder named Department Materials
+I need a new folder named Department Imports
+I need a new folder named Payroll Manager Suppliers
+I need a new folder named \\NAS01\Shared\entity pools\receipts\Known Issues
+I need a new folder named D:\Data\HR\imports\Year Documents
+I need a new folder named D:\Data\Source Code\screenshots\Marketing Analytics
+I need a new folder named D:\Research\Course Material\backend\Department Metrics
+I need a new folder named E:\Archive\validation data\recordings\Out-of-Vocabulary Cases
+I need to create a folder called Payroll Manager - Planning
+I need to create a folder called DBMS Project Archived
+I need to create a folder called Label Disagreements
+I need to create a folder called DBMS Project Final Submission
+I need to create a folder called Client Archive
+I need to create a folder called C:\Users\Ankit\Desktop\Game Saves
+I need to create a folder called C:\Users\Ankit\Desktop\datasets\Final Versions\Team Notes
+I need to create a folder called \\192.168.1.20\teamshare\archives\backend\Analytics
+I need to create a folder called D:\Backups\logs\Exam Preparation\Scanned Originals
+I need to create a folder called D:\Backups\website\release builds\recordings
+I need to create a folder named College To Print
+I need to create a folder named entity pools
+I need to create a folder named Container Registry
+I need to create a folder named Project Forms
+I need to create a folder named Game Saves
+I need to create a folder named C:\Users\Ankit\Documents\Presentations
+I need to create a folder named C:\Users\Ankit\Documents\config\assets\Client Suppliers
+I need to create a folder named D:\Projects\Entity Pools
+I need to create a folder named C:\Users\Ankit\Pictures\src\travel\Year Q4
+I need to create a folder named C:\Temp\Assignments\Old Versions\Lecture Recordings
+I need to make a folder called Restricted Documents
+I need to make a folder called GEHU Approved
+I need to make a folder called College Receipts
+I need to make a folder called DBMS Project - Builds
+I need to make a folder called Department Processed
+I need to make a folder called G:\Shared\entity pools\Client A\release
+I need to make a folder called E:\Media\Tests
+I need to make a folder called C:\Users\Ankit\OneDrive\frontend\Release 1.4\Data Retention
+I need to make a folder called E:\Media\Python Projects
+I need to make a folder called F:\External Drive\Driver Backups\src\Project Week 43
+I need to make a folder named DBMS Project - Published
+I need to make a folder named Operating Systems - Imports
+I need to make a folder named GEHU - Sprint 12
+I need to make a folder named Reference Material
+I need to make a folder named College - Evaluation
+I need to make a folder named E:\Personal\Semester 7\Supplier North\To Sort
+I need to make a folder named \\NAS01\Shared\engineering\family photos\Department Inputs
+I need to make a folder named D:\Backups\Sprint 13\screenshots\Gaming Backups
+I need to make a folder named E:\College\src\client files\Marketing Campaigns
+I need to make a folder named D:\Backups\Windows Logs\config\Phone Restore
+I want a directory called Accessibility
+I want a directory called University Validation
+I want a directory called Unicode Names Tests
+I want a directory called Team To Submit
+I want a directory called Service Appointments
+I want a directory called E:\Archive\training data\meeting notes\Department Invoices
+I want a directory called \\FileServer\Departments\intent models\Device Reports\USB Backups
+I want a directory called \\192.168.1.20\teamshare\Windows Logs\client files\Department Templates
+I want a directory called C:\Users\Ankit\OneDrive\Graphics Troubleshooting\Old Versions\Long Path Tests
+I want a directory called D:\Backups\SQL Scripts
+I want a directory named College Assets
+I want a directory named Video Editing Projects
+I want a directory named Operating Systems Raw Data
+I want a directory named Shift Rosters
+I want a directory named College - Pending Review
+I want a directory named D:\Shared\Music
+I want a directory named \\FileServer\Departments\archives\Research Papers\Loan Documents
+I want a directory named G:\Shared\Exam Preparation\Client A\Client Audits
+I want a directory named C:\Users\Ankit\Downloads\engineering\To Submit\Department Metrics
+I want a directory named D:\Data\Config
+I want a folder called Project Packages
+I want a folder called Project Releases
+I want a folder called College - Tickets
+I want a folder called University Support
+I want a folder called Department Old Versions
+I want a folder called D:\Projects\recordings\logs\Company Research
+I want a folder called C:\Users\Ankit\Documents\Semester 7\assets\Feature Requests
+I want a folder called E:\Personal\diagnostics\migrations\WinPilot Voice Pipeline
+I want a folder called D:\College\GEHU\config\release builds\Project Receipts
+I want a folder called E:\College\Finance Team
+I want a folder named 3D Models
+I want a folder named Project Q4
+I want a folder named Client 2026
+I want a folder named Approved Documents
+I want a folder named Payroll Manager - Semester 5
+I want a folder named D:\Backups\Docs
+I want a folder named C:\Users\Ankit\Documents\inventory\Week 42\Project History
+I want a folder named E:\College\inventory\Semester 7\config
+I want a folder named E:\College\config\diagnostics\HR Documents
+I want a folder named C:\Users\Ankit\Pictures\HR\presentations\Monthly Review
+I want a new folder called Shared Drive
+I want a new folder called DBMS Project - To Copy
+I want a new folder called Attendees
+I want a new folder called scripts
+I want a new folder called Department Results
+I want a new folder called F:\USB Backup\NER experiments\PBL Phase 2\Department Test Set
+I want a new folder called D:\Research\College
+I want a new folder called D:\Work\Client B
+I want a new folder called F:\External Drive\finance\release builds\Train Tickets
+I want a new folder called F:\External Drive\client files\Client A\Customer Success
+I want a new folder named Department Inputs
+I want a new folder named Office Admin
+I want a new folder named College - Archives
+I want a new folder named Holiday 2026
+I want a new folder named Operating Systems - Tests
+I want a new folder named C:\Users\Ankit\Desktop\Device Reports\Audio Troubleshooting\Property Documents
+I want a new folder named C:\Users\Ankit\OneDrive\Exam Preparation\archives\Year Inventory
+I want a new folder named D:\Projects\exports\operations\Year Records
+I want a new folder named F:\USB Backup\Music
+I want a new folder named E:\College\test results\Travel Planning\Department Invoices
+I want to create a folder called Recovery Codes
+I want to create a folder called College Data
+I want to create a folder called Payroll Manager Documents
+I want to create a folder called University - Records
+I want to create a folder called WinPilot Documentation
+I want to create a folder called D:\Backups\finance\recordings\Migrations
+I want to create a folder called F:\USB Backup\Videos
+I want to create a folder called \\192.168.1.20\teamshare\Research Papers\Certificates\Year Shared
+I want to create a folder called F:\External Drive\Course Material\Projects\Client Forms
+I want to create a folder called D:\Staging\Home Repairs\docs\Audio Editing
+I want to create a folder named Released
+I want to create a folder named GEHU - Photos
+I want to create a folder named Client Tracking
+I want to create a folder named Project History
+I want to create a folder named Unit 2 Notes
+I want to create a folder named E:\Incoming\Home Repairs\test results\Intent Classification
+I want to create a folder named C:\Users\Ankit\Downloads\migrations\operations\Family Celebrations
+I want to create a folder named C:\Users\Ankit\Videos\website\Personal Finance\Team Records
+I want to create a folder named C:\Users\Ankit\OneDrive\PBL Phase 2\frontend\Analytics Models
+I want to create a folder named C:\ProgramData\entity pools\inventory\Team Backups
+I want to make a folder called University - Validation
+I want to make a folder called Payroll Manager - Validation
+I want to make a folder called checkpoints
+I want to make a folder called College - Working Files
+I want to make a folder called Operating Systems Invoices
+I want to make a folder called D:\Data\Downloads
+I want to make a folder called D:\Work\WinPilot3
+I want to make a folder called C:\Users\Ankit\Documents\Release 1.4\WinPilot\dist
+I want to make a folder called D:\Projects\release builds\Source Code\Household Purchases
+I want to make a folder called E:\College\test results\WinPilot\Scheduled Tasks
+I want to make a folder named Final Submission Package
+I want to make a folder named Year Shared
+I want to make a folder named DBMS Project - Current
+I want to make a folder named College - Engineering
+I want to make a folder named GEHU To Copy
+I want to make a folder named E:\Personal\website\campaigns\Security Alerts
+I want to make a folder named \\192.168.1.20\teamshare\finance\inventory\Lead Management
+I want to make a folder named C:\Dev\Windows Logs\Assignments\Client Receipts
+I want to make a folder named C:\Users\Ankit\Pictures\Sprint 13\presentations\checkpoints
+I want to make a folder named D:\Research\contracts\operations\Phone Backup
+make Intent Training directory
+make Sprint 12 directory
+make WinPilot Deliverables directory
+make DBMS Project Pending Review directory
+make Payroll Manager Incoming directory
+make Maintenance folder
+make Team Shared Files folder
+make Calendar Exports folder
+make University Ready to Submit folder
+make College - Planning folder
+make D:\Data\client files\invoices\Lab Work directory
+make D:\WinPilot\Research Papers\October 2026\Year Research directory
+make D:\Shared\Travel directory
+make E:\College\PBL Phase 2\frontend\Assignments directory
+make C:\Users\Public\Documents\WinPilot directory
+make \\NAS01\Shared\website\temp\Client Releases folder
+make C:\Users\Ankit\Desktop\Device Reports\Home Repairs\Project Research folder
+make C:\Users\Public\Documents\entity pools\Home Repairs\Team Notes folder
+make C:\Dev\generated\marketing\Bookings folder
+make C:\ProgramData\marketing\screenshots\Intent Validation folder
+make a directory called GEHU Engineering
+make a directory called WinPilot - For Approval
+make a directory called Payroll Manager Records
+make a directory called GEHU To Sort
+make a directory called Operating Systems Deliverables
+make a directory called D:\Work\Home Repairs\frontend\Public
+make a directory called C:\Temp\Network Captures\Home Repairs\Database Migrations
+make a directory called D:\Backups\src\test results\Team Working
+make a directory called D:\Data\test results\website\Windows Explorer
+make a directory called D:\Backups\backups\Shared Documents\Project Raw
+make a directory named WinPilot - Requests
+make a directory named University - Evaluation
+make a directory named GEHU Receipts
+make a directory named Invoices
+make a directory named Task History
+make a directory named \\FileServer\Departments\family photos\Network Captures\Text Normalisation
+make a directory named C:\Users\Ankit\Documents\Semester 7
+make a directory named D:\Work\database\invoices\Department Operations
+make a directory named C:\Temp\Semester 5
+make a directory named C:\Dev\Home Repairs\recordings\presentations
+make a directory with the name Operating Systems - Raw Data
+make a directory with the name Payroll Manager - October 2026
+make a directory with the name College References
+make a directory with the name Large Files Review
+make a directory with the name Inbox Zero
+make a directory with the name D:\College\GEHU\Lab Work\Reports\Client Tickets
+make a directory with the name \\FileServer\Departments\Assignments\finance\Supplier Quotes
+make a directory with the name E:\Personal\generated\Semester 7\Feature Engineering
+make a directory with the name D:\Shared\Reports
+make a directory with the name G:\Shared\website\receipts\File Migration
+make a folder called DBMS Project Shared
+make a folder called University Working Files
+make a folder called Department Week 43
+make a folder called DBMS Project Rejected
+make a folder called Fitness Tracking
+make a folder called C:\Dev\Graphics Troubleshooting\marketing\Cloud Computing
+make a folder called C:\Users\Public\Documents\Client A
+make a folder called F:\External Drive\screenshots\Supplier North\Compatibility Matrix
+make a folder called C:\Dev\Videos
+make a folder called F:\USB Backup\contracts\src\Department Templates
+make a folder named Department Documents
+make a folder named Project Finance
+make a folder named Payroll Manager - Finance
+make a folder named Operating Systems Templates
+make a folder named Case Collision Tests
+make a folder named C:\Dev\Semester 5
+make a folder named \\OfficePC\Public\engineering\NER experiments\Merged Pull Requests
+make a folder named D:\Source\Personal Finance\Shared Documents\Work Documents
+make a folder named C:\Program Files\Certificates\Certificates\Semester 3
+make a folder named \\OfficePC\Public\To Submit\Reports\Weekly Review
+make a folder with the name Investment Records
+make a folder with the name Cloud Computing
+make a folder with the name University Engineering
+make a folder with the name Payroll Manager - Published
+make a folder with the name GEHU Pending Review
+make a folder with the name D:\Backups\logs\Shared Documents\Year October
+make a folder with the name D:\Work\Windows Logs\Course Material\Client Audio
+make a folder with the name D:\WinPilot\Driver Backups\Source Code\Generated Records
+make a folder with the name E:\Personal\meeting notes\Assignments\Bills
+make a folder with the name C:\Users\Ankit\OneDrive\Client A\Audio Troubleshooting\Accounts Receivable
+make a new directory called Production Incidents
+make a new directory called Operating Systems Exports
+make a new directory called Router Configs
+make a new directory called GEHU - Exports
+make a new directory called University - Previous
+make a new directory called C:\Program Files\travel\docs\Team Week 42
+make a new directory called C:\Program Files\training data\Semester 7\Project Reports
+make a new directory called C:\Users\Ankit\Downloads\Shared Documents\config\Event Viewer
+make a new directory called D:\Projects\Projects\datasets\Year Scripts
+make a new directory called E:\Media\WinPilot\exports\Salary Records
+make a new directory named Operating Systems - Forms
+make a new directory named WinPilot Temporary Files
+make a new directory named Online Shopping
+make a new directory named Payroll Manager - Current
+make a new directory named University To Rename
+make a new directory named C:\Users\Ankit\Documents\Sprint 13
+make a new directory named \\NAS01\Shared\model outputs\campaigns\Department Files
+make a new directory named E:\Incoming\Certificates\Week 42\Department Invoices
+make a new directory named C:\Temp\Travel
+make a new directory named D:\Work\Shared Drive
+make a new empty folder called Payroll Manager - To Rename
+make a new empty folder called University Contracts
+make a new empty folder called Department Designs
+make a new empty folder called Photo Library
+make a new empty folder called College Reports
+make a new empty folder called \\backup-server\weekly\diagnostics\presentations\Branches
+make a new empty folder called \\FileServer\Departments\receipts\backend\Hidden File Tests
+make a new empty folder called F:\External Drive\campaigns\archives\Move Tests
+make a new empty folder called C:\Users\Ankit\OneDrive\Driver Backups\Old Versions\Team Code
+make a new empty folder called E:\Media\Projects
+make a new empty folder named Operating Systems - Audio
+make a new empty folder named College Clean Data
+make a new empty folder named Music Playlists
+make a new empty folder named Client Data
+make a new empty folder named Team Releases
+make a new empty folder named C:\Temp\Training Data
+make a new empty folder named C:\Users\Public\Documents\HR\assets\Emulator Configuration
+make a new empty folder named E:\Personal\operations\database\Project Tracking
+make a new empty folder named D:\WinPilot\photos\Exam Preparation\Department Private
+make a new empty folder named \\NAS01\Shared\migrations\receipts\Year Validation
+make a new folder called Department Tickets
+make a new folder called Hindi
+make a new folder called WinPilot - To Rename
+make a new folder called College - Reference Material
+make a new folder called Personal Learning
+make a new folder called D:\Backups\Client B
+make a new folder called E:\Personal\PBL Phase 2\Source Code\Client Builds
+make a new folder called E:\Personal\Graphics Troubleshooting\Course Material\Application Profiles
+make a new folder called F:\USB Backup\SQL Scripts
+make a new folder called E:\College\generated\client files\Automation Runs
+make a new folder named GEHU - Semester 7
+make a new folder named Incoming Files
+make a new folder named College - Builds
+make a new folder named Certificates
+make a new folder named University - Deliverables
+make a new folder named C:\Users\Ankit\Desktop\intent models\Lab Work\Temporary Working
+make a new folder named C:\Users\Ankit\Documents\client files\test results\Benchmark Datasets
+make a new folder named C:\Users\Ankit\OneDrive\marketing\inventory\Marketing Analytics
+make a new folder named F:\USB Backup\Temporary Exports
+make a new folder named C:\Temp\Client B
+make a subfolder called College
+make a subfolder called DBMS Project To Sort
+make a subfolder called GEHU - November 2026
+make a subfolder called WinPilot - Week 42
+make a subfolder called Team Videos
+make a subfolder called C:\Temp\Test Results
+make a subfolder called C:\Users\Public\Documents\Shared Drive
+make a subfolder called D:\Work\Client A
+make a subfolder called D:\Data\intent models\frontend\Department Responses
+make a subfolder called \\backup-server\weekly\Audio Troubleshooting\Payroll Manager\Android Logs
+make a subfolder named Phone Transfer
+make a subfolder named WinPilot - Scripts
+make a subfolder named College - Approved
+make a subfolder named Payroll Manager Team Shared
+make a subfolder named Project Alpha
+make a subfolder named E:\Archive\design files\model outputs\Version 2
+make a subfolder named C:\Temp\Photos
+make a subfolder named \\NAS01\Shared\Graphics Troubleshooting\Final Versions\Client Team A
+make a subfolder named C:\Users\Ankit\OneDrive\Home Repairs\Sprint 13\Client Shared
+make a subfolder named F:\USB Backup\NER experiments\docs\scripts
+make an empty folder called Department Inventory
+make an empty folder called Package Locks
+make an empty folder called Payroll Manager - Releases
+make an empty folder called WinPilot Audio
+make an empty folder called NDAs
+make an empty folder called C:\ProgramData\finance\engineering\Accounts Payable
+make an empty folder called E:\College\Assets
+make an empty folder called D:\Work\To Review\assets\Pet Records
+make an empty folder called C:\Users\Ankit\Pictures\migrations\PBL Phase 2\Department Checkpoints
+make an empty folder called D:\Data\screenshots\docs\Department Imports
+make an empty folder named College Tickets
+make an empty folder named Conference
+make an empty folder named University Designs
+make an empty folder named University - To Copy
+make an empty folder named Building Maintenance
+make an empty folder named C:\Users\Ankit\Documents\presentations\training data\Purchase Approvals
+make an empty folder named E:\Personal\design files\docs\Department Evidence
+make an empty folder named C:\Users\Ankit\Videos\Course Material\Device Reports\Subtitles
+make an empty folder named D:\Staging\design files\finance\Previous Year Questions
+make an empty folder named F:\External Drive\Client A\Old Versions\Quarantine
+make the Payroll Manager Shared directory
+make the WinPilot - Operations directory
+make the DBMS Project Evaluation directory
+make the Pokemon Saves directory
+make the Project Plans directory
+make the Client Invoices folder
+make the Community folder
+make the WinPilot Rejected folder
+make the GEHU Photos folder
+make the Team Results folder
+make the \\NAS01\Shared\Semester 7\exports\Payroll Reports directory
+make the D:\Work\intent models\Course Material\Client Records directory
+make the C:\Users\Ankit\Desktop\Semester 5 directory
+make the C:\ProgramData\imports\temp\Accounts Payable directory
+make the E:\Incoming\datasets\Payroll Manager\Read Only Tests directory
+make the C:\Users\Ankit\Desktop\To Review folder
+make the D:\Backups\Game Saves folder
+make the C:\ProgramData\Personal Finance\Certificates\Department Screenshots folder
+make the D:\Data\campaigns\design files\Semester 3 folder
+make the C:\Temp\datasets\imports\Portfolio folder
+please create a directory called University Training
+please create a directory called Windows Update
+please create a directory called DBMS Project Private
+please create a directory called Annotation Review
+please create a directory called College - Previous
+please create a directory called \\backup-server\weekly\Research Papers\Course Material\Documents for Travel
+please create a directory called \\OfficePC\Public\presentations\Sprint 13\Client Working
+please create a directory called C:\Users\Ankit\Documents\contracts\Driver Backups\Previous Semester
+please create a directory called \\NAS01\Shared\Course Material\To Submit\Rental Records
+please create a directory called \\192.168.1.20\teamshare\Old Versions\docs\Game Assets
+please create a directory named Bug Triage
+please create a directory named WinPilot - Outputs
+please create a directory named Team Q3
+please create a directory named DBMS Project Old Versions
+please create a directory named Intent Classification
+please create a directory named C:\Users\Ankit\Downloads\Research
+please create a directory named C:\Users\ankit.kumar\Documents\Old Versions
+please create a directory named E:\Archive\Certificates\meeting notes\Warehouse
+please create a directory named C:\Users\Ankit\Downloads\training data\Final Versions\Maintenance
+please create a directory named D:\Work\Sprint 13
+please create a folder called DBMS Project Notes
+please create a folder called Localization
+please create a folder called University Notes
+please create a folder called GEHU 2027
+please create a folder called USB Transfer
+please create a folder called C:\Users\Ankit\Downloads\Client B
+please create a folder called D:\Data\temp\meeting notes\Failed Imports
+please create a folder called C:\Users\Ankit\Downloads\src\imports\imports
+please create a folder called C:\Users\Ankit\Documents\Photos
+please create a folder called E:\Media\To Submit
+please create a folder named DBMS Project Inventory
+please create a folder named Quarantine
+please create a folder named GEHU Tickets
+please create a folder named University Audits
+please create a folder named Project Tracking
+please create a folder named \\backup-server\weekly\Week 42\invoices\Team Revisions
+please create a folder named D:\Shared\Presentations
+please create a folder named C:\Users\Ankit\Videos\client files\Semester 7\Calendar Exports
+please create a folder named C:\Users\Public\Documents\inventory\HR\Team October
+please create a folder named D:\Staging\customer support\Windows Logs\Empty Folders Review
+please make a directory called Command Templates
+please make a directory called Portable Utilities
+please make a directory called DBMS Project - Responses
+please make a directory called Cloud Operations
+please make a directory called DBMS Project - Clients
+please make a directory called F:\USB Backup\inventory\Old Versions\Client Audio
+please make a directory called E:\Archive\PBL Phase 2\presentations\Tax Documents
+please make a directory called E:\Personal\Device Reports\Release 1.4\Restricted Documents
+please make a directory called E:\College\Sprint 13\entity pools\Year Raw
+please make a directory called C:\ProgramData\Reports\generated\Resumes
+please make a directory named University Reports
+please make a directory named Department Q4
+please make a directory named College - Assets
+please make a directory named Payroll Manager Approved
+please make a directory named DBMS Project - Incoming
+please make a directory named F:\USB Backup\To Submit\Driver Backups\Year Processed
+please make a directory named C:\Users\Ankit\Desktop\Windows Logs\meeting notes\Year Working
+please make a directory named D:\WinPilot\database\Source Code\Department November
+please make a directory named E:\Archive\Semester 7\Supplier North\Sprint 13
+please make a directory named D:\Shared\Semester 7
+please make a folder called Team Notes
+please make a folder called University - Clean Data
+please make a folder called Payroll Manager Processed Data
+please make a folder called GEHU Private
+please make a folder called presentations
+please make a folder called F:\USB Backup\Certificates\October 2026\Project Manifests
+please make a folder called D:\Data\Test Results
+please make a folder called \\NAS01\Shared\config\database\Project Imports
+please make a folder called \\OfficePC\Public\screenshots\NER experiments\Signed Documents
+please make a folder called C:\Users\Public\Documents\Home Repairs\Travel Planning\Utility Payments
+please make a folder named Semester 1
+please make a folder named resources
+please make a folder named Augmentation Output
+please make a folder named Portfolio
+please make a folder named Payroll Manager Backups
+please make a folder named D:\Projects\archives\archives\Semester 3
+please make a folder named D:\Projects\To Review
+please make a folder named \\OfficePC\Public\Course Material\test results\Year Drafts
+please make a folder named E:\Incoming\operations\To Submit\Team Videos
+please make a folder named C:\Program Files\To Submit\database\Team Tickets

@@ -1,0 +1,28 @@
+{
+  "tag_to_id": {
+    "B-APP": 0,
+    "B-FILE": 1,
+    "B-FOLDER": 2,
+    "B-PATH_DIR": 3,
+    "B-PATH_FILE": 4,
+    "I-APP": 5,
+    "I-FILE": 6,
+    "I-FOLDER": 7,
+    "I-PATH_DIR": 8,
+    "I-PATH_FILE": 9,
+    "O": 10
+  },
+  "id_to_tag": {
+    "0": "B-APP",
+    "1": "B-FILE",
+    "2": "B-FOLDER",
+    "3": "B-PATH_DIR",
+    "4": "B-PATH_FILE",
+    "5": "I-APP",
+    "6": "I-FILE",
+    "7": "I-FOLDER",
+    "8": "I-PATH_DIR",
+    "9": "I-PATH_FILE",
+    "10": "O"
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "can you create a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "can you create a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "can you create a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "can you create a text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "can you make a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "can you make a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "can you make a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "can you make a text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "could you create a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "could you create a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "could you create a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "could you create a text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "could you make a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "could you make a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "could you make a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "could you make a text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a blank file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a blank text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a file for me"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a fresh file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a new blank document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a new document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a new file for me"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a new text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create a text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create an empty document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create an empty file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create an empty text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create one file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create one new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "create something as a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need a blank document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need a new document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need a new text document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need an empty file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need to create a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need to create a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need to make a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need to make a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need you to create a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I need you to make a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I want to create a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I want to create a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I want to create a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I want to make a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I want to make a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I want to make a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I want you to create a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "I want you to make a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a blank file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a blank text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a file for me"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a fresh file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a new blank document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a new document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a new file for me"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a new text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make a text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make an empty document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make an empty file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make an empty text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make one file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make one new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "make something into a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please create a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please create a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please create a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please create a text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please create one file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please make a document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please make a file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please make a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please make a text file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "please make one file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "start a new document"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "start a new file"
+    },
+    {
+      "dataset": "create_file",
+      "intent": "create_file",
+      "text": "start a text file"
+    }
+  ]
+}

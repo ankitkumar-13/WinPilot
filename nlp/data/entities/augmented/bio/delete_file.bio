@@ -1,0 +1,6483 @@
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+customer	B-FILE
+records.csv	I-FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+product	B-FILE
+catalogue.xlsx	I-FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+sales	B-FILE
+summary.xlsx	I-FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+attendance	B-FILE
+sheet.xlsx	I-FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+payroll	B-FILE
+summary.xlsx	I-FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+monthly	B-FILE
+expenses.xlsx	I-FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+C:\Work\Team	B-PATH_FILE
+Files\blue	I-PATH_FILE
+brief.txt	I-PATH_FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+D:\Archive\Current\blue	B-PATH_FILE
+memo.csv	I-PATH_FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+D:\Archive\Previous\blue	B-PATH_FILE
+record.json	I-PATH_FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+D:\Research\Notes\blue	B-PATH_FILE
+snapshot.md	I-PATH_FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+D:\Research\Results\blue	B-PATH_FILE
+outline.log	I-PATH_FILE
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+called	O
+E:\Shared\Operations\blue	B-PATH_FILE
+register.py	I-PATH_FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+annual	B-FILE
+budget.xlsx	I-FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+bank	B-FILE
+statement.pdf	I-FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+utility	B-FILE
+bill.pdf	I-FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+rent	B-FILE
+receipt.pdf	I-FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+insurance	B-FILE
+policy.pdf	I-FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+tax	B-FILE
+summary.pdf	I-FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+E:\Shared\Finance\blue	B-PATH_FILE
+summary.sql	I-PATH_FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+F:\Records\Personal\blue	B-PATH_FILE
+checklist.pdf	I-PATH_FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+F:\Records\Business\blue	B-PATH_FILE
+notice.docx	I-PATH_FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+F:\Backup\Monthly\brisk	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+F:\Backup\Projects\brisk	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+C:\Projects\Greenfield\brisk	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+loan	B-FILE
+statement.pdf	I-FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+warranty	B-FILE
+card.pdf	I-FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+support	B-FILE
+request.docx	I-FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+feedback	B-FILE
+form.docx	I-FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+survey	B-FILE
+results.xlsx	I-FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+case	B-FILE
+study.pdf	I-FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+C:\Projects\Harbour	B-PATH_FILE
+View\brisk	I-PATH_FILE
+record.md	I-PATH_FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+D:\Development\Tools\brisk	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+E:\University\Coursework\brisk	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+C:\Data\Incoming\brisk	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+C:\Data\Exports\brisk	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+could	O
+you	O
+delete	O
+project	B-FILE
+proposal.docx	I-FILE
+
+could	O
+you	O
+delete	O
+design	B-FILE
+document.pdf	I-FILE
+
+could	O
+you	O
+delete	O
+technical	B-FILE
+guide.pdf	I-FILE
+
+could	O
+you	O
+delete	O
+user	B-FILE
+manual.pdf	I-FILE
+
+could	O
+you	O
+delete	O
+setup	B-FILE
+instructions.txt	I-FILE
+
+could	O
+you	O
+delete	O
+installation	B-FILE
+guide.pdf	I-FILE
+
+could	O
+you	O
+delete	O
+C:\Work\Team	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+could	O
+you	O
+delete	O
+D:\Archive\Current\cedar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+could	O
+you	O
+delete	O
+D:\Archive\Previous\cedar	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+could	O
+you	O
+delete	O
+D:\Research\Notes\cedar	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+could	O
+you	O
+delete	O
+D:\Research\Results\cedar	B-PATH_FILE
+record.md	I-PATH_FILE
+
+could	O
+you	O
+delete	O
+E:\Shared\Operations\cedar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+deployment	B-FILE
+notes.md	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+release	B-FILE
+notes.md	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+change	B-FILE
+history.txt	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+error	B-FILE
+report.log	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+server	B-FILE
+activity.log	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+access	B-FILE
+record.log	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+E:\Shared\Finance\cedar	B-PATH_FILE
+outline.py	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+F:\Records\Personal\cedar	B-PATH_FILE
+register.sql	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+F:\Records\Business\cedar	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+F:\Backup\Monthly\cedar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+F:\Backup\Projects\cedar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+C:\Projects\Greenfield\clear	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+debug	B-FILE
+output.log	I-FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+system	B-FILE
+report.txt	I-FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+backup	B-FILE
+manifest.json	I-FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+archive	B-FILE
+index.json	I-FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+database	B-FILE
+schema.sql	I-FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+migration	B-FILE
+script.sql	I-FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+C:\Projects\Harbour	B-PATH_FILE
+View\clear	I-PATH_FILE
+brief.csv	I-PATH_FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+D:\Development\Tools\clear	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+E:\University\Coursework\clear	B-PATH_FILE
+record.md	I-PATH_FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+C:\Data\Incoming\clear	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+C:\Data\Exports\clear	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+C:\Work\Client	B-PATH_FILE
+Files\clear	I-PATH_FILE
+register.sql	I-PATH_FILE
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+query	B-FILE
+collection.sql	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+seed	B-FILE
+records.sql	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+data	B-FILE
+dictionary.pdf	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+table	B-FILE
+reference.pdf	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+api	B-FILE
+reference.md	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+developer	B-FILE
+guide.md	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\clear	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Archive\Current\clear	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Archive\Previous\clear	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Research\Notes\copper	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Research\Results\copper	B-PATH_FILE
+brief.csv	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+E:\Shared\Operations\copper	B-PATH_FILE
+memo.json	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+configuration	B-FILE
+notes.txt	I-FILE
+
+could	O
+you	O
+remove	O
+application	B-FILE
+settings.json	I-FILE
+
+could	O
+you	O
+remove	O
+workspace	B-FILE
+settings.json	I-FILE
+
+could	O
+you	O
+remove	O
+user	B-FILE
+preferences.json	I-FILE
+
+could	O
+you	O
+remove	O
+environment	B-FILE
+details.json	I-FILE
+
+could	O
+you	O
+remove	O
+package	B-FILE
+manifest.json	I-FILE
+
+could	O
+you	O
+remove	O
+E:\Shared\Finance\copper	B-PATH_FILE
+record.md	I-PATH_FILE
+
+could	O
+you	O
+remove	O
+F:\Records\Personal\copper	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+could	O
+you	O
+remove	O
+F:\Records\Business\copper	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+could	O
+you	O
+remove	O
+F:\Backup\Monthly\copper	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+could	O
+you	O
+remove	O
+F:\Backup\Projects\copper	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+could	O
+you	O
+remove	O
+C:\Projects\Greenfield\copper	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+dependency	B-FILE
+list.txt	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+build	B-FILE
+report.txt	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+test	B-FILE
+plan.docx	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+test	B-FILE
+cases.xlsx	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+test	B-FILE
+results.xlsx	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+quality	B-FILE
+report.pdf	I-FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\copper	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+D:\Development\Tools\crystal	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+E:\University\Coursework\crystal	B-PATH_FILE
+brief.csv	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+C:\Data\Incoming\crystal	B-PATH_FILE
+memo.json	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+C:\Data\Exports\crystal	B-PATH_FILE
+record.md	I-PATH_FILE
+for	O
+me	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+for	O
+me	O
+
+delete	O
+performance	B-FILE
+review.pdf	I-FILE
+
+delete	O
+benchmark	B-FILE
+results.csv	I-FILE
+
+delete	O
+evaluation	B-FILE
+report.pdf	I-FILE
+
+delete	O
+model	B-FILE
+summary.json	I-FILE
+
+delete	O
+training	B-FILE
+records.csv	I-FILE
+
+delete	O
+validation	B-FILE
+results.csv	I-FILE
+
+delete	O
+C:\Work\Team	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+D:\Archive\Current\crystal	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+D:\Archive\Previous\crystal	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+D:\Research\Notes\crystal	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+D:\Research\Results\crystal	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+E:\Shared\Operations\dawn	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+called	O
+prediction	B-FILE
+results.csv	I-FILE
+
+delete	O
+a	O
+file	O
+called	O
+feature	B-FILE
+list.json	I-FILE
+
+delete	O
+a	O
+file	O
+called	O
+label	B-FILE
+mapping.json	I-FILE
+
+delete	O
+a	O
+file	O
+called	O
+entity	B-FILE
+mapping.json	I-FILE
+
+delete	O
+a	O
+file	O
+called	O
+intent	B-FILE
+mapping.json	I-FILE
+
+delete	O
+a	O
+file	O
+called	O
+vocabulary	B-FILE
+list.json	I-FILE
+
+delete	O
+a	O
+file	O
+called	O
+E:\Shared\Finance\dawn	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+called	O
+F:\Records\Personal\dawn	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+called	O
+F:\Records\Business\dawn	B-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+called	O
+F:\Backup\Monthly\dawn	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+called	O
+F:\Backup\Projects\dawn	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+called	O
+C:\Projects\Greenfield\dawn	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+named	O
+annotation	B-FILE
+guide.pdf	I-FILE
+
+delete	O
+a	O
+file	O
+named	O
+review	B-FILE
+notes.txt	I-FILE
+
+delete	O
+a	O
+file	O
+named	O
+error	B-FILE
+analysis.pdf	I-FILE
+
+delete	O
+a	O
+file	O
+named	O
+experiment	B-FILE
+log.txt	I-FILE
+
+delete	O
+a	O
+file	O
+named	O
+research	B-FILE
+diary.docx	I-FILE
+
+delete	O
+a	O
+file	O
+named	O
+field	B-FILE
+observations.csv	I-FILE
+
+delete	O
+a	O
+file	O
+named	O
+C:\Projects\Harbour	B-PATH_FILE
+View\dawn	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+named	O
+D:\Development\Tools\dawn	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+named	O
+E:\University\Coursework\dawn	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+named	O
+C:\Data\Incoming\eastern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+named	O
+C:\Data\Exports\eastern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+a	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+file	O
+survey	B-FILE
+form.docx	I-FILE
+
+delete	O
+file	O
+sample	B-FILE
+records.json	I-FILE
+
+delete	O
+file	O
+raw	B-FILE
+measurements.csv	I-FILE
+
+delete	O
+file	O
+clean	B-FILE
+measurements.csv	I-FILE
+
+delete	O
+file	O
+processed	B-FILE
+results.csv	I-FILE
+
+delete	O
+file	O
+weather	B-FILE
+log.csv	I-FILE
+
+delete	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+file	O
+D:\Archive\Current\eastern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+file	O
+D:\Archive\Previous\eastern	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+file	O
+D:\Research\Notes\eastern	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+file	O
+D:\Research\Results\eastern	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+file	O
+E:\Shared\Operations\eastern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+the	O
+document	O
+sensor	B-FILE
+readings.csv	I-FILE
+
+delete	O
+the	O
+document	O
+forecast	B-FILE
+report.pdf	I-FILE
+
+delete	O
+the	O
+document	O
+trend	B-FILE
+analysis.xlsx	I-FILE
+
+delete	O
+the	O
+document	O
+market	B-FILE
+summary.pdf	I-FILE
+
+delete	O
+the	O
+document	O
+sales	B-FILE
+forecast.xlsx	I-FILE
+
+delete	O
+the	O
+document	O
+inventory	B-FILE
+report.xlsx	I-FILE
+
+delete	O
+the	O
+document	O
+E:\Shared\Finance\eastern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+the	O
+document	O
+F:\Records\Personal\forest	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+the	O
+document	O
+F:\Records\Business\forest	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+the	O
+document	O
+F:\Backup\Monthly\forest	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+the	O
+document	O
+F:\Backup\Projects\forest	B-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+the	O
+document	O
+C:\Projects\Greenfield\forest	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+order	B-FILE
+history.csv	I-FILE
+
+delete	O
+the	O
+file	O
+shipping	B-FILE
+details.csv	I-FILE
+
+delete	O
+the	O
+file	O
+delivery	B-FILE
+record.pdf	I-FILE
+
+delete	O
+the	O
+file	O
+return	B-FILE
+request.docx	I-FILE
+
+delete	O
+the	O
+file	O
+purchase	B-FILE
+order.pdf	I-FILE
+
+delete	O
+the	O
+file	O
+quotation	B-FILE
+sheet.xlsx	I-FILE
+
+delete	O
+the	O
+file	O
+contract	B-FILE
+draft.docx	I-FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+service	B-FILE
+agreement.pdf	I-FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+privacy	B-FILE
+notice.pdf	I-FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+security	B-FILE
+policy.pdf	I-FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+access	B-FILE
+policy.pdf	I-FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+incident	B-FILE
+report.pdf	I-FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\forest	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+D:\Development\Tools\forest	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+E:\University\Coursework\forest	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+C:\Data\Incoming\forest	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+C:\Data\Exports\forest	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\golden	I-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\golden	I-PATH_FILE
+brief.csv	I-PATH_FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+D:\Archive\Current\golden	B-PATH_FILE
+memo.json	I-PATH_FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+D:\Archive\Previous\golden	B-PATH_FILE
+record.md	I-PATH_FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+D:\Research\Notes\golden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+D:\Research\Results\golden	B-PATH_FILE
+outline.py	I-PATH_FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+E:\Shared\Operations\golden	B-PATH_FILE
+register.sql	I-PATH_FILE
+for	O
+me	O
+
+delete	O
+the	O
+file	O
+called	O
+maintenance	B-FILE
+record.xlsx	I-FILE
+
+delete	O
+the	O
+file	O
+called	O
+inspection	B-FILE
+report.pdf	I-FILE
+
+delete	O
+the	O
+file	O
+called	O
+audit	B-FILE
+trail.csv	I-FILE
+
+delete	O
+the	O
+file	O
+called	O
+event	B-FILE
+schedule.xlsx	I-FILE
+
+delete	O
+the	O
+file	O
+called	O
+conference	B-FILE
+agenda.docx	I-FILE
+
+delete	O
+the	O
+file	O
+called	O
+meeting	B-FILE
+summary.docx	I-FILE
+
+delete	O
+the	O
+file	O
+called	O
+E:\Shared\Finance\golden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+called	O
+F:\Records\Personal\golden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+called	O
+F:\Records\Business\golden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+called	O
+F:\Backup\Monthly\harbour	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+called	O
+F:\Backup\Projects\harbour	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+called	O
+C:\Projects\Greenfield\harbour	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+named	O
+speaker	B-FILE
+notes.docx	I-FILE
+
+delete	O
+the	O
+file	O
+named	O
+presentation	B-FILE
+outline.pptx	I-FILE
+
+delete	O
+the	O
+file	O
+named	O
+project	B-FILE
+slides.pptx	I-FILE
+
+delete	O
+the	O
+file	O
+named	O
+poster	B-FILE
+design.pptx	I-FILE
+
+delete	O
+the	O
+file	O
+named	O
+course	B-FILE
+presentation.pptx	I-FILE
+
+delete	O
+the	O
+file	O
+named	O
+lecture	B-FILE
+summary.docx	I-FILE
+
+delete	O
+the	O
+file	O
+named	O
+C:\Projects\Harbour	B-PATH_FILE
+View\harbour	I-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+named	O
+D:\Development\Tools\harbour	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+named	O
+E:\University\Coursework\harbour	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+named	O
+C:\Data\Incoming\harbour	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+named	O
+C:\Data\Exports\harbour	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+the	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+the	O
+image	O
+semester	B-FILE
+report.pdf	I-FILE
+
+delete	O
+the	O
+image	O
+semester	B-FILE
+results.xlsx	I-FILE
+
+delete	O
+the	O
+image	O
+question	B-FILE
+bank.docx	I-FILE
+
+delete	O
+the	O
+image	O
+answer	B-FILE
+key.pdf	I-FILE
+
+delete	O
+the	O
+image	O
+practical	B-FILE
+record.docx	I-FILE
+
+delete	O
+the	O
+image	O
+lab	B-FILE
+schedule.xlsx	I-FILE
+
+delete	O
+the	O
+image	O
+C:\Work\Team	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+the	O
+image	O
+D:\Archive\Current\hidden	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+the	O
+image	O
+D:\Archive\Previous\hidden	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+the	O
+image	O
+D:\Research\Notes\hidden	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+the	O
+image	O
+D:\Research\Results\hidden	B-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+the	O
+image	O
+E:\Shared\Operations\hidden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+the	O
+PDF	O
+class	B-FILE
+timetable.xlsx	I-FILE
+
+delete	O
+the	O
+PDF	O
+study	B-FILE
+plan.docx	I-FILE
+
+delete	O
+the	O
+PDF	O
+exam	B-FILE
+preparation.txt	I-FILE
+
+delete	O
+the	O
+PDF	O
+course	B-FILE
+material.pdf	I-FILE
+
+delete	O
+the	O
+PDF	O
+chapter	B-FILE
+summary.docx	I-FILE
+
+delete	O
+the	O
+PDF	O
+reference	B-FILE
+notes.md	I-FILE
+
+delete	O
+the	O
+PDF	O
+E:\Shared\Finance\hidden	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+the	O
+PDF	O
+F:\Records\Personal\hidden	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+the	O
+PDF	O
+F:\Records\Business\hidden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+the	O
+PDF	O
+F:\Backup\Monthly\hidden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+the	O
+PDF	O
+F:\Backup\Projects\hidden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+the	O
+PDF	O
+C:\Projects\Greenfield\lunar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+the	O
+selected	O
+file	O
+book	B-FILE
+catalogue.csv	I-FILE
+
+delete	O
+the	O
+selected	O
+file	O
+library	B-FILE
+records.csv	I-FILE
+
+delete	O
+the	O
+selected	O
+file	O
+borrower	B-FILE
+list.csv	I-FILE
+
+delete	O
+the	O
+selected	O
+file	O
+membership	B-FILE
+form.pdf	I-FILE
+
+delete	O
+the	O
+selected	O
+file	O
+registration	B-FILE
+form.pdf	I-FILE
+
+delete	O
+the	O
+selected	O
+file	O
+application	B-FILE
+form.pdf	I-FILE
+
+delete	O
+the	O
+selected	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\lunar	I-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+the	O
+selected	O
+file	O
+D:\Development\Tools\lunar	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+the	O
+selected	O
+file	O
+E:\University\Coursework\lunar	B-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+the	O
+selected	O
+file	O
+C:\Data\Incoming\lunar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+the	O
+selected	O
+file	O
+C:\Data\Exports\lunar	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+the	O
+selected	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+the	O
+specified	O
+file	O
+admission	B-FILE
+letter.docx	I-FILE
+
+delete	O
+the	O
+specified	O
+file	O
+certificate	B-FILE
+copy.pdf	I-FILE
+
+delete	O
+the	O
+specified	O
+file	O
+identity	B-FILE
+proof.pdf	I-FILE
+
+delete	O
+the	O
+specified	O
+file	O
+passport	B-FILE
+scan.pdf	I-FILE
+
+delete	O
+the	O
+specified	O
+file	O
+visa	B-FILE
+document.pdf	I-FILE
+
+delete	O
+the	O
+specified	O
+file	O
+travel	B-FILE
+booking.pdf	I-FILE
+
+delete	O
+the	O
+specified	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+the	O
+specified	O
+file	O
+D:\Archive\Current\lunar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+the	O
+specified	O
+file	O
+D:\Archive\Previous\lunar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+the	O
+specified	O
+file	O
+D:\Research\Notes\maple	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+the	O
+specified	O
+file	O
+D:\Research\Results\maple	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+the	O
+specified	O
+file	O
+E:\Shared\Operations\maple	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+the	O
+text	O
+file	O
+hotel	B-FILE
+reservation.pdf	I-FILE
+
+delete	O
+the	O
+text	O
+file	O
+flight	B-FILE
+details.pdf	I-FILE
+
+delete	O
+the	O
+text	O
+file	O
+train	B-FILE
+ticket.pdf	I-FILE
+
+delete	O
+the	O
+text	O
+file	O
+event	B-FILE
+ticket.pdf	I-FILE
+
+delete	O
+the	O
+text	O
+file	O
+parking	B-FILE
+receipt.pdf	I-FILE
+
+delete	O
+the	O
+text	O
+file	O
+vehicle	B-FILE
+record.xlsx	I-FILE
+
+delete	O
+the	O
+text	O
+file	O
+E:\Shared\Finance\maple	B-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+the	O
+text	O
+file	O
+F:\Records\Personal\maple	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+the	O
+text	O
+file	O
+F:\Records\Business\maple	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+the	O
+text	O
+file	O
+F:\Backup\Monthly\maple	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+the	O
+text	O
+file	O
+F:\Backup\Projects\maple	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+the	O
+text	O
+file	O
+C:\Projects\Greenfield\maple	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+service	B-FILE
+history.pdf	I-FILE
+
+delete	O
+this	O
+file	O
+repair	B-FILE
+estimate.pdf	I-FILE
+
+delete	O
+this	O
+file	O
+maintenance	B-FILE
+schedule.xlsx	I-FILE
+
+delete	O
+this	O
+file	O
+home	B-FILE
+inventory.xlsx	I-FILE
+
+delete	O
+this	O
+file	O
+garden	B-FILE
+plan.docx	I-FILE
+
+delete	O
+this	O
+file	O
+meal	B-FILE
+planner.xlsx	I-FILE
+
+delete	O
+this	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\maple	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+D:\Development\Tools\misty	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+E:\University\Coursework\misty	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+C:\Data\Incoming\misty	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+C:\Data\Exports\misty	B-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\misty	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+called	O
+fitness	B-FILE
+routine.docx	I-FILE
+
+delete	O
+this	O
+file	O
+called	O
+daily	B-FILE
+journal.txt	I-FILE
+
+delete	O
+this	O
+file	O
+called	O
+personal	B-FILE
+notes.md	I-FILE
+
+delete	O
+this	O
+file	O
+called	O
+photo	B-FILE
+index.csv	I-FILE
+
+delete	O
+this	O
+file	O
+called	O
+image	B-FILE
+catalogue.csv	I-FILE
+
+delete	O
+this	O
+file	O
+called	O
+design	B-FILE
+assets.json	I-FILE
+
+delete	O
+this	O
+file	O
+called	O
+C:\Work\Team	B-PATH_FILE
+Files\misty	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+called	O
+D:\Archive\Current\misty	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+called	O
+D:\Archive\Previous\misty	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+called	O
+D:\Research\Notes\misty	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+called	O
+D:\Research\Results\misty	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+called	O
+E:\Shared\Operations\northern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+named	O
+logo	B-FILE
+draft.svg	I-FILE
+
+delete	O
+this	O
+file	O
+named	O
+colour	B-FILE
+palette.json	I-FILE
+
+delete	O
+this	O
+file	O
+named	O
+wireframe	B-FILE
+notes.docx	I-FILE
+
+delete	O
+this	O
+file	O
+named	O
+interface	B-FILE
+mockup.pdf	I-FILE
+
+delete	O
+this	O
+file	O
+named	O
+network	B-FILE
+diagram.svg	I-FILE
+
+delete	O
+this	O
+file	O
+named	O
+system	B-FILE
+architecture.pdf	I-FILE
+
+delete	O
+this	O
+file	O
+named	O
+E:\Shared\Finance\northern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+named	O
+F:\Records\Personal\northern	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+named	O
+F:\Records\Business\northern	B-PATH_FILE
+record.md	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+named	O
+F:\Backup\Monthly\northern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+named	O
+F:\Backup\Projects\northern	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+delete	O
+this	O
+file	O
+named	O
+C:\Projects\Greenfield\northern	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+a.txt	B-FILE
+
+get	O
+rid	O
+of	O
+x1.txt	B-FILE
+
+get	O
+rid	O
+of	O
+v2_notes.md	B-FILE
+
+get	O
+rid	O
+of	O
+Q4_summary.xlsx	B-FILE
+
+get	O
+rid	O
+of	O
+log7.txt	B-FILE
+
+get	O
+rid	O
+of	O
+test-1.csv	B-FILE
+
+get	O
+rid	O
+of	O
+C:\Projects\Harbour	B-PATH_FILE
+View\northern	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+D:\Development\Tools\northern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+E:\University\Coursework\northern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+C:\Data\Incoming\quiet	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+C:\Data\Exports\quiet	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+C:\Work\Client	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+memo.json	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+notes_2.txt	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+2026_report.pdf	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+backup	B-FILE
+(1).zip	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+final!.txt	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+C++	B-FILE
+notes.txt	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+3D	B-FILE
+model.obj	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+README.md	B-FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+API_v3.json	B-FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+todo!.txt	B-FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+draft#2.docx	B-FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+img_07.png	B-FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+part-3.pdf	B-FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+record.md	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Archive\Current\quiet	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Archive\Previous\quiet	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Research\Notes\quiet	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Research\Results\quiet	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+E:\Shared\Operations\quiet	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+E:\Shared\Finance\quiet	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+F:\Records\Personal\silver	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+F:\Records\Business\silver	B-PATH_FILE
+brief.csv	I-PATH_FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+F:\Backup\Monthly\silver	B-PATH_FILE
+memo.json	I-PATH_FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+F:\Backup\Projects\silver	B-PATH_FILE
+record.md	I-PATH_FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+C:\Projects\Greenfield\silver	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+for	O
+me	O
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+r2d2.txt	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+x9.csv	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+data@home.csv	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+build_v4.log	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+week_5.xlsx	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+report.pdf	B-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+C:\Projects\Harbour	B-PATH_FILE
+View\silver	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+D:\Development\Tools\silver	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+E:\University\Coursework\silver	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+C:\Data\Incoming\silver	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+C:\Data\Exports\silver	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+called	O
+C:\Data\Incoming\amber	B-PATH_FILE
+ledger.pdf	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+meeting	B-FILE
+notes.docx	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+budget	B-FILE
+plan.xlsx	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+project	B-FILE
+overview.pdf	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+class	B-FILE
+notes.txt	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+travel	B-FILE
+itinerary.docx	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+invoice	B-FILE
+record.pdf	I-FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+C:\Data\Exports\amber	B-PATH_FILE
+brief.docx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\amber	I-PATH_FILE
+memo.xlsx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+C:\Work\Team	B-PATH_FILE
+Files\amber	I-PATH_FILE
+record.txt	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+D:\Archive\Current\amber	B-PATH_FILE
+snapshot.csv	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+D:\Archive\Previous\amber	B-PATH_FILE
+outline.json	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+the	O
+file	O
+named	O
+D:\Research\Notes\amber	B-PATH_FILE
+register.md	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+expense	B-FILE
+summary.xlsx	I-FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+research	B-FILE
+paper.pdf	I-FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+lab	B-FILE
+report.docx	I-FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+assignment	B-FILE
+brief.docx	I-FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+course	B-FILE
+outline.pdf	I-FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+exam	B-FILE
+schedule.pdf	I-FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+D:\Research\Results\amber	B-PATH_FILE
+summary.log	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+E:\Shared\Operations\amber	B-PATH_FILE
+checklist.py	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+E:\Shared\Finance\amber	B-PATH_FILE
+notice.sql	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+F:\Records\Personal\autumn	B-PATH_FILE
+ledger.docx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+F:\Records\Business\autumn	B-PATH_FILE
+brief.xlsx	I-PATH_FILE
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+F:\Backup\Monthly\autumn	B-PATH_FILE
+memo.txt	I-PATH_FILE
+
+I	O
+need	O
+to	O
+delete	O
+reading	B-FILE
+list.txt	I-FILE
+
+I	O
+need	O
+to	O
+delete	O
+shopping	B-FILE
+list.txt	I-FILE
+
+I	O
+need	O
+to	O
+delete	O
+recipe	B-FILE
+collection.docx	I-FILE
+
+I	O
+need	O
+to	O
+delete	O
+movie	B-FILE
+list.txt	I-FILE
+
+I	O
+need	O
+to	O
+delete	O
+music	B-FILE
+archive.csv	I-FILE
+
+I	O
+need	O
+to	O
+delete	O
+contact	B-FILE
+list.csv	I-FILE
+
+I	O
+need	O
+to	O
+delete	O
+F:\Backup\Projects\autumn	B-PATH_FILE
+record.csv	I-PATH_FILE
+
+I	O
+need	O
+to	O
+delete	O
+C:\Projects\Greenfield\autumn	B-PATH_FILE
+snapshot.json	I-PATH_FILE
+
+I	O
+need	O
+to	O
+delete	O
+C:\Projects\Harbour	B-PATH_FILE
+View\autumn	I-PATH_FILE
+outline.md	I-PATH_FILE
+
+I	O
+need	O
+to	O
+delete	O
+D:\Development\Tools\autumn	B-PATH_FILE
+register.log	I-PATH_FILE
+
+I	O
+need	O
+to	O
+delete	O
+E:\University\Coursework\autumn	B-PATH_FILE
+summary.py	I-PATH_FILE
+
+I	O
+need	O
+to	O
+delete	O
+C:\Data\Incoming\autumn	B-PATH_FILE
+checklist.sql	I-PATH_FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+student	B-FILE
+records.csv	I-FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+employee	B-FILE
+details.xlsx	I-FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+customer	B-FILE
+records.csv	I-FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+product	B-FILE
+catalogue.xlsx	I-FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+sales	B-FILE
+summary.xlsx	I-FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+attendance	B-FILE
+sheet.xlsx	I-FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+C:\Data\Exports\autumn	B-PATH_FILE
+notice.pdf	I-PATH_FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+C:\Work\Client	B-PATH_FILE
+Files\blue	I-PATH_FILE
+ledger.xlsx	I-PATH_FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+C:\Work\Team	B-PATH_FILE
+Files\blue	I-PATH_FILE
+brief.txt	I-PATH_FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+D:\Archive\Current\blue	B-PATH_FILE
+memo.csv	I-PATH_FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+D:\Archive\Previous\blue	B-PATH_FILE
+record.json	I-PATH_FILE
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+D:\Research\Notes\blue	B-PATH_FILE
+snapshot.md	I-PATH_FILE
+
+I	O
+need	O
+to	O
+remove	O
+payroll	B-FILE
+summary.xlsx	I-FILE
+
+I	O
+need	O
+to	O
+remove	O
+monthly	B-FILE
+expenses.xlsx	I-FILE
+
+I	O
+need	O
+to	O
+remove	O
+annual	B-FILE
+budget.xlsx	I-FILE
+
+I	O
+need	O
+to	O
+remove	O
+bank	B-FILE
+statement.pdf	I-FILE
+
+I	O
+need	O
+to	O
+remove	O
+utility	B-FILE
+bill.pdf	I-FILE
+
+I	O
+need	O
+to	O
+remove	O
+rent	B-FILE
+receipt.pdf	I-FILE
+
+I	O
+need	O
+to	O
+remove	O
+D:\Research\Results\blue	B-PATH_FILE
+outline.log	I-PATH_FILE
+
+I	O
+need	O
+to	O
+remove	O
+E:\Shared\Operations\blue	B-PATH_FILE
+register.py	I-PATH_FILE
+
+I	O
+need	O
+to	O
+remove	O
+E:\Shared\Finance\blue	B-PATH_FILE
+summary.sql	I-PATH_FILE
+
+I	O
+need	O
+to	O
+remove	O
+F:\Records\Personal\blue	B-PATH_FILE
+checklist.pdf	I-PATH_FILE
+
+I	O
+need	O
+to	O
+remove	O
+F:\Records\Business\blue	B-PATH_FILE
+notice.docx	I-PATH_FILE
+
+I	O
+need	O
+to	O
+remove	O
+F:\Backup\Monthly\brisk	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+insurance	B-FILE
+policy.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+tax	B-FILE
+summary.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+loan	B-FILE
+statement.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+warranty	B-FILE
+card.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+support	B-FILE
+request.docx	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+feedback	B-FILE
+form.docx	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+F:\Backup\Projects\brisk	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+C:\Projects\Greenfield\brisk	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+C:\Projects\Harbour	B-PATH_FILE
+View\brisk	I-PATH_FILE
+record.md	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+D:\Development\Tools\brisk	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+E:\University\Coursework\brisk	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+delete	O
+C:\Data\Incoming\brisk	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+survey	B-FILE
+results.xlsx	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+case	B-FILE
+study.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+project	B-FILE
+proposal.docx	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+design	B-FILE
+document.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+technical	B-FILE
+guide.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+user	B-FILE
+manual.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+C:\Data\Exports\brisk	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+C:\Work\Client	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+C:\Work\Team	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+D:\Archive\Current\cedar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+D:\Archive\Previous\cedar	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+D:\Research\Notes\cedar	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+setup	B-FILE
+instructions.txt	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+installation	B-FILE
+guide.pdf	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+deployment	B-FILE
+notes.md	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+release	B-FILE
+notes.md	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+change	B-FILE
+history.txt	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+error	B-FILE
+report.log	I-FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+D:\Research\Results\cedar	B-PATH_FILE
+record.md	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+E:\Shared\Operations\cedar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+E:\Shared\Finance\cedar	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+F:\Records\Personal\cedar	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+F:\Records\Business\cedar	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+I	O
+need	O
+you	O
+to	O
+remove	O
+F:\Backup\Monthly\cedar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+I	O
+want	O
+to	O
+delete	O
+server	B-FILE
+activity.log	I-FILE
+
+I	O
+want	O
+to	O
+delete	O
+access	B-FILE
+record.log	I-FILE
+
+I	O
+want	O
+to	O
+delete	O
+debug	B-FILE
+output.log	I-FILE
+
+I	O
+want	O
+to	O
+delete	O
+system	B-FILE
+report.txt	I-FILE
+
+I	O
+want	O
+to	O
+delete	O
+backup	B-FILE
+manifest.json	I-FILE
+
+I	O
+want	O
+to	O
+delete	O
+archive	B-FILE
+index.json	I-FILE
+
+I	O
+want	O
+to	O
+delete	O
+F:\Backup\Projects\cedar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+I	O
+want	O
+to	O
+delete	O
+C:\Projects\Greenfield\clear	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+I	O
+want	O
+to	O
+delete	O
+C:\Projects\Harbour	B-PATH_FILE
+View\clear	I-PATH_FILE
+brief.csv	I-PATH_FILE
+
+I	O
+want	O
+to	O
+delete	O
+D:\Development\Tools\clear	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+I	O
+want	O
+to	O
+delete	O
+E:\University\Coursework\clear	B-PATH_FILE
+record.md	I-PATH_FILE
+
+I	O
+want	O
+to	O
+delete	O
+C:\Data\Incoming\clear	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+database	B-FILE
+schema.sql	I-FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+migration	B-FILE
+script.sql	I-FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+query	B-FILE
+collection.sql	I-FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+seed	B-FILE
+records.sql	I-FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+data	B-FILE
+dictionary.pdf	I-FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+table	B-FILE
+reference.pdf	I-FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+C:\Data\Exports\clear	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+C:\Work\Client	B-PATH_FILE
+Files\clear	I-PATH_FILE
+register.sql	I-PATH_FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+C:\Work\Team	B-PATH_FILE
+Files\clear	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+D:\Archive\Current\clear	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+D:\Archive\Previous\clear	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+D:\Research\Notes\copper	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+I	O
+want	O
+to	O
+remove	O
+api	B-FILE
+reference.md	I-FILE
+
+I	O
+want	O
+to	O
+remove	O
+developer	B-FILE
+guide.md	I-FILE
+
+I	O
+want	O
+to	O
+remove	O
+configuration	B-FILE
+notes.txt	I-FILE
+
+I	O
+want	O
+to	O
+remove	O
+application	B-FILE
+settings.json	I-FILE
+
+I	O
+want	O
+to	O
+remove	O
+workspace	B-FILE
+settings.json	I-FILE
+
+I	O
+want	O
+to	O
+remove	O
+user	B-FILE
+preferences.json	I-FILE
+
+I	O
+want	O
+to	O
+remove	O
+D:\Research\Results\copper	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+I	O
+want	O
+to	O
+remove	O
+E:\Shared\Operations\copper	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+I	O
+want	O
+to	O
+remove	O
+E:\Shared\Finance\copper	B-PATH_FILE
+record.md	I-PATH_FILE
+
+I	O
+want	O
+to	O
+remove	O
+F:\Records\Personal\copper	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+I	O
+want	O
+to	O
+remove	O
+F:\Records\Business\copper	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+I	O
+want	O
+to	O
+remove	O
+F:\Backup\Monthly\copper	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+environment	B-FILE
+details.json	I-FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+package	B-FILE
+manifest.json	I-FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+dependency	B-FILE
+list.txt	I-FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+build	B-FILE
+report.txt	I-FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+test	B-FILE
+plan.docx	I-FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+test	B-FILE
+cases.xlsx	I-FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+F:\Backup\Projects\copper	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+C:\Projects\Greenfield\copper	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+C:\Projects\Harbour	B-PATH_FILE
+View\copper	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+D:\Development\Tools\crystal	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+E:\University\Coursework\crystal	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+I’d	O
+like	O
+this	O
+file	O
+deleted:	O
+C:\Data\Incoming\crystal	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+test	B-FILE
+results.xlsx	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+quality	B-FILE
+report.pdf	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+performance	B-FILE
+review.pdf	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+benchmark	B-FILE
+results.csv	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+evaluation	B-FILE
+report.pdf	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+model	B-FILE
+summary.json	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+C:\Data\Exports\crystal	B-PATH_FILE
+record.md	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+C:\Work\Client	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+C:\Work\Team	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+D:\Archive\Current\crystal	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+D:\Archive\Previous\crystal	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+delete	O
+D:\Research\Notes\crystal	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+training	B-FILE
+records.csv	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+validation	B-FILE
+results.csv	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+prediction	B-FILE
+results.csv	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+feature	B-FILE
+list.json	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+label	B-FILE
+mapping.json	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+entity	B-FILE
+mapping.json	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+D:\Research\Results\crystal	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+E:\Shared\Operations\dawn	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+E:\Shared\Finance\dawn	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+F:\Records\Personal\dawn	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+F:\Records\Business\dawn	B-PATH_FILE
+record.md	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+get	O
+rid	O
+of	O
+F:\Backup\Monthly\dawn	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+intent	B-FILE
+mapping.json	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+vocabulary	B-FILE
+list.json	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+annotation	B-FILE
+guide.pdf	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+review	B-FILE
+notes.txt	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+error	B-FILE
+analysis.pdf	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+experiment	B-FILE
+log.txt	I-FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+F:\Backup\Projects\dawn	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+C:\Projects\Greenfield\dawn	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+C:\Projects\Harbour	B-PATH_FILE
+View\dawn	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+D:\Development\Tools\dawn	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+E:\University\Coursework\dawn	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+I’d	O
+like	O
+you	O
+to	O
+remove	O
+C:\Data\Incoming\eastern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+please	O
+delete	O
+research	B-FILE
+diary.docx	I-FILE
+
+please	O
+delete	O
+field	B-FILE
+observations.csv	I-FILE
+
+please	O
+delete	O
+survey	B-FILE
+form.docx	I-FILE
+
+please	O
+delete	O
+sample	B-FILE
+records.json	I-FILE
+
+please	O
+delete	O
+raw	B-FILE
+measurements.csv	I-FILE
+
+please	O
+delete	O
+clean	B-FILE
+measurements.csv	I-FILE
+
+please	O
+delete	O
+C:\Data\Exports\eastern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+please	O
+delete	O
+C:\Work\Client	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+memo.json	I-PATH_FILE
+
+please	O
+delete	O
+C:\Work\Team	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+record.md	I-PATH_FILE
+
+please	O
+delete	O
+D:\Archive\Current\eastern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+please	O
+delete	O
+D:\Archive\Previous\eastern	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+please	O
+delete	O
+D:\Research\Notes\eastern	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+processed	B-FILE
+results.csv	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+weather	B-FILE
+log.csv	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+sensor	B-FILE
+readings.csv	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+forecast	B-FILE
+report.pdf	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+trend	B-FILE
+analysis.xlsx	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+market	B-FILE
+summary.pdf	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+D:\Research\Results\eastern	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+E:\Shared\Operations\eastern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+E:\Shared\Finance\eastern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+F:\Records\Personal\forest	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+F:\Records\Business\forest	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+F:\Backup\Monthly\forest	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+sales	B-FILE
+forecast.xlsx	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+inventory	B-FILE
+report.xlsx	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+order	B-FILE
+history.csv	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+shipping	B-FILE
+details.csv	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+delivery	B-FILE
+record.pdf	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+return	B-FILE
+request.docx	I-FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+F:\Backup\Projects\forest	B-PATH_FILE
+record.md	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+C:\Projects\Greenfield\forest	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+C:\Projects\Harbour	B-PATH_FILE
+View\forest	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+D:\Development\Tools\forest	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+E:\University\Coursework\forest	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+please	O
+delete	O
+the	O
+file	O
+called	O
+C:\Data\Incoming\forest	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+purchase	B-FILE
+order.pdf	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+quotation	B-FILE
+sheet.xlsx	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+contract	B-FILE
+draft.docx	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+service	B-FILE
+agreement.pdf	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+privacy	B-FILE
+notice.pdf	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+security	B-FILE
+policy.pdf	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+C:\Data\Exports\forest	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+C:\Work\Client	B-PATH_FILE
+Files\golden	I-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+C:\Work\Team	B-PATH_FILE
+Files\golden	I-PATH_FILE
+brief.csv	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+D:\Archive\Current\golden	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+D:\Archive\Previous\golden	B-PATH_FILE
+record.md	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+D:\Research\Notes\golden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+access	B-FILE
+policy.pdf	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+incident	B-FILE
+report.pdf	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+maintenance	B-FILE
+record.xlsx	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+inspection	B-FILE
+report.pdf	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+audit	B-FILE
+trail.csv	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+event	B-FILE
+schedule.xlsx	I-FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+D:\Research\Results\golden	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+E:\Shared\Operations\golden	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+E:\Shared\Finance\golden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+F:\Records\Personal\golden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+F:\Records\Business\golden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+F:\Backup\Monthly\harbour	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+please	O
+remove	O
+conference	B-FILE
+agenda.docx	I-FILE
+
+please	O
+remove	O
+meeting	B-FILE
+summary.docx	I-FILE
+
+please	O
+remove	O
+speaker	B-FILE
+notes.docx	I-FILE
+
+please	O
+remove	O
+presentation	B-FILE
+outline.pptx	I-FILE
+
+please	O
+remove	O
+project	B-FILE
+slides.pptx	I-FILE
+
+please	O
+remove	O
+poster	B-FILE
+design.pptx	I-FILE
+
+please	O
+remove	O
+F:\Backup\Projects\harbour	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+please	O
+remove	O
+C:\Projects\Greenfield\harbour	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+please	O
+remove	O
+C:\Projects\Harbour	B-PATH_FILE
+View\harbour	I-PATH_FILE
+record.md	I-PATH_FILE
+
+please	O
+remove	O
+D:\Development\Tools\harbour	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+please	O
+remove	O
+E:\University\Coursework\harbour	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+please	O
+remove	O
+C:\Data\Incoming\harbour	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+course	B-FILE
+presentation.pptx	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+lecture	B-FILE
+summary.docx	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+semester	B-FILE
+report.pdf	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+semester	B-FILE
+results.xlsx	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+question	B-FILE
+bank.docx	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+answer	B-FILE
+key.pdf	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+C:\Data\Exports\harbour	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+D:\Archive\Current\hidden	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+D:\Archive\Previous\hidden	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+D:\Research\Notes\hidden	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+practical	B-FILE
+record.docx	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+lab	B-FILE
+schedule.xlsx	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+class	B-FILE
+timetable.xlsx	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+study	B-FILE
+plan.docx	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+exam	B-FILE
+preparation.txt	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+course	B-FILE
+material.pdf	I-FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+D:\Research\Results\hidden	B-PATH_FILE
+record.md	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+E:\Shared\Operations\hidden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+E:\Shared\Finance\hidden	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+F:\Records\Personal\hidden	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+F:\Records\Business\hidden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+please	O
+remove	O
+the	O
+file	O
+named	O
+F:\Backup\Monthly\hidden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+remove	O
+chapter	B-FILE
+summary.docx	I-FILE
+
+remove	O
+reference	B-FILE
+notes.md	I-FILE
+
+remove	O
+book	B-FILE
+catalogue.csv	I-FILE
+
+remove	O
+library	B-FILE
+records.csv	I-FILE
+
+remove	O
+borrower	B-FILE
+list.csv	I-FILE
+
+remove	O
+membership	B-FILE
+form.pdf	I-FILE
+
+remove	O
+F:\Backup\Projects\hidden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+remove	O
+C:\Projects\Greenfield\lunar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+remove	O
+C:\Projects\Harbour	B-PATH_FILE
+View\lunar	I-PATH_FILE
+brief.csv	I-PATH_FILE
+
+remove	O
+D:\Development\Tools\lunar	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+remove	O
+E:\University\Coursework\lunar	B-PATH_FILE
+record.md	I-PATH_FILE
+
+remove	O
+C:\Data\Incoming\lunar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+called	O
+registration	B-FILE
+form.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+called	O
+application	B-FILE
+form.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+called	O
+admission	B-FILE
+letter.docx	I-FILE
+
+remove	O
+a	O
+file	O
+called	O
+certificate	B-FILE
+copy.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+called	O
+identity	B-FILE
+proof.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+called	O
+passport	B-FILE
+scan.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+called	O
+C:\Data\Exports\lunar	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+called	O
+C:\Work\Client	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+register.sql	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+called	O
+C:\Work\Team	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+called	O
+D:\Archive\Current\lunar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+called	O
+D:\Archive\Previous\lunar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+called	O
+D:\Research\Notes\maple	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+named	O
+visa	B-FILE
+document.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+named	O
+travel	B-FILE
+booking.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+named	O
+hotel	B-FILE
+reservation.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+named	O
+flight	B-FILE
+details.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+named	O
+train	B-FILE
+ticket.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+named	O
+event	B-FILE
+ticket.pdf	I-FILE
+
+remove	O
+a	O
+file	O
+named	O
+D:\Research\Results\maple	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+named	O
+E:\Shared\Operations\maple	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+named	O
+E:\Shared\Finance\maple	B-PATH_FILE
+record.md	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+named	O
+F:\Records\Personal\maple	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+named	O
+F:\Records\Business\maple	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+remove	O
+a	O
+file	O
+named	O
+F:\Backup\Monthly\maple	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+remove	O
+file	O
+parking	B-FILE
+receipt.pdf	I-FILE
+
+remove	O
+file	O
+vehicle	B-FILE
+record.xlsx	I-FILE
+
+remove	O
+file	O
+service	B-FILE
+history.pdf	I-FILE
+
+remove	O
+file	O
+repair	B-FILE
+estimate.pdf	I-FILE
+
+remove	O
+file	O
+maintenance	B-FILE
+schedule.xlsx	I-FILE
+
+remove	O
+file	O
+home	B-FILE
+inventory.xlsx	I-FILE
+
+remove	O
+file	O
+F:\Backup\Projects\maple	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+remove	O
+file	O
+C:\Projects\Greenfield\maple	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+remove	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\maple	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+remove	O
+file	O
+D:\Development\Tools\misty	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+remove	O
+file	O
+E:\University\Coursework\misty	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+remove	O
+file	O
+C:\Data\Incoming\misty	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+remove	O
+the	O
+document	O
+garden	B-FILE
+plan.docx	I-FILE
+
+remove	O
+the	O
+document	O
+meal	B-FILE
+planner.xlsx	I-FILE
+
+remove	O
+the	O
+document	O
+fitness	B-FILE
+routine.docx	I-FILE
+
+remove	O
+the	O
+document	O
+daily	B-FILE
+journal.txt	I-FILE
+
+remove	O
+the	O
+document	O
+personal	B-FILE
+notes.md	I-FILE
+
+remove	O
+the	O
+document	O
+photo	B-FILE
+index.csv	I-FILE
+
+remove	O
+the	O
+document	O
+C:\Data\Exports\misty	B-PATH_FILE
+record.md	I-PATH_FILE
+
+remove	O
+the	O
+document	O
+C:\Work\Client	B-PATH_FILE
+Files\misty	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+remove	O
+the	O
+document	O
+C:\Work\Team	B-PATH_FILE
+Files\misty	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+remove	O
+the	O
+document	O
+D:\Archive\Current\misty	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+remove	O
+the	O
+document	O
+D:\Archive\Previous\misty	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+remove	O
+the	O
+document	O
+D:\Research\Notes\misty	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+image	B-FILE
+catalogue.csv	I-FILE
+
+remove	O
+the	O
+file	O
+design	B-FILE
+assets.json	I-FILE
+
+remove	O
+the	O
+file	O
+logo	B-FILE
+draft.svg	I-FILE
+
+remove	O
+the	O
+file	O
+colour	B-FILE
+palette.json	I-FILE
+
+remove	O
+the	O
+file	O
+wireframe	B-FILE
+notes.docx	I-FILE
+
+remove	O
+the	O
+file	O
+interface	B-FILE
+mockup.pdf	I-FILE
+
+remove	O
+the	O
+file	O
+network	B-FILE
+diagram.svg	I-FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+system	B-FILE
+architecture.pdf	I-FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+a.txt	B-FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+x1.txt	B-FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+v2_notes.md	B-FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+Q4_summary.xlsx	B-FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+D:\Research\Results\misty	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+E:\Shared\Operations\northern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+E:\Shared\Finance\northern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+F:\Records\Personal\northern	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+F:\Records\Business\northern	B-PATH_FILE
+record.md	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+F:\Backup\Monthly\northern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+F:\Backup\Projects\northern	B-PATH_FILE
+outline.py	I-PATH_FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+C:\Projects\Greenfield\northern	B-PATH_FILE
+register.sql	I-PATH_FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\northern	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+D:\Development\Tools\northern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+E:\University\Coursework\northern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+C:\Data\Incoming\quiet	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+for	O
+me	O
+
+remove	O
+the	O
+file	O
+called	O
+log7.txt	B-FILE
+
+remove	O
+the	O
+file	O
+called	O
+test-1.csv	B-FILE
+
+remove	O
+the	O
+file	O
+called	O
+notes_2.txt	B-FILE
+
+remove	O
+the	O
+file	O
+called	O
+2026_report.pdf	B-FILE
+
+remove	O
+the	O
+file	O
+called	O
+backup	B-FILE
+(1).zip	I-FILE
+
+remove	O
+the	O
+file	O
+called	O
+final!.txt	B-FILE
+
+remove	O
+the	O
+file	O
+called	O
+C:\Data\Exports\quiet	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+called	O
+C:\Work\Client	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+memo.json	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+called	O
+C:\Work\Team	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+record.md	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+called	O
+D:\Archive\Current\quiet	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+called	O
+D:\Archive\Previous\quiet	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+called	O
+D:\Research\Notes\quiet	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+named	O
+C++	B-FILE
+notes.txt	I-FILE
+
+remove	O
+the	O
+file	O
+named	O
+3D	B-FILE
+model.obj	I-FILE
+
+remove	O
+the	O
+file	O
+named	O
+README.md	B-FILE
+
+remove	O
+the	O
+file	O
+named	O
+API_v3.json	B-FILE
+
+remove	O
+the	O
+file	O
+named	O
+todo!.txt	B-FILE
+
+remove	O
+the	O
+file	O
+named	O
+draft#2.docx	B-FILE
+
+remove	O
+the	O
+file	O
+named	O
+D:\Research\Results\quiet	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+named	O
+E:\Shared\Operations\quiet	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+named	O
+E:\Shared\Finance\quiet	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+named	O
+F:\Records\Personal\silver	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+named	O
+F:\Records\Business\silver	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+remove	O
+the	O
+file	O
+named	O
+F:\Backup\Monthly\silver	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+remove	O
+the	O
+image	O
+img_07.png	B-FILE
+
+remove	O
+the	O
+image	O
+part-3.pdf	B-FILE
+
+remove	O
+the	O
+image	O
+r2d2.txt	B-FILE
+
+remove	O
+the	O
+image	O
+x9.csv	B-FILE
+
+remove	O
+the	O
+image	O
+data@home.csv	B-FILE
+
+remove	O
+the	O
+image	O
+build_v4.log	B-FILE
+
+remove	O
+the	O
+image	O
+F:\Backup\Projects\silver	B-PATH_FILE
+record.md	I-PATH_FILE
+
+remove	O
+the	O
+image	O
+C:\Projects\Greenfield\silver	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+remove	O
+the	O
+image	O
+C:\Projects\Harbour	B-PATH_FILE
+View\silver	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+remove	O
+the	O
+image	O
+D:\Development\Tools\silver	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+remove	O
+the	O
+image	O
+E:\University\Coursework\silver	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+remove	O
+the	O
+image	O
+C:\Data\Incoming\silver	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+remove	O
+the	O
+PDF	O
+week_5.xlsx	B-FILE
+
+remove	O
+the	O
+PDF	O
+report.pdf	B-FILE
+
+remove	O
+the	O
+PDF	O
+meeting	B-FILE
+notes.docx	I-FILE
+
+remove	O
+the	O
+PDF	O
+budget	B-FILE
+plan.xlsx	I-FILE
+
+remove	O
+the	O
+PDF	O
+project	B-FILE
+overview.pdf	I-FILE
+
+remove	O
+the	O
+PDF	O
+class	B-FILE
+notes.txt	I-FILE
+
+remove	O
+the	O
+PDF	O
+C:\Data\Exports\silver	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+remove	O
+the	O
+PDF	O
+C:\Data\Incoming\amber	B-PATH_FILE
+ledger.pdf	I-PATH_FILE
+
+remove	O
+the	O
+PDF	O
+C:\Data\Exports\amber	B-PATH_FILE
+brief.docx	I-PATH_FILE
+
+remove	O
+the	O
+PDF	O
+C:\Work\Client	B-PATH_FILE
+Files\amber	I-PATH_FILE
+memo.xlsx	I-PATH_FILE
+
+remove	O
+the	O
+PDF	O
+C:\Work\Team	B-PATH_FILE
+Files\amber	I-PATH_FILE
+record.txt	I-PATH_FILE
+
+remove	O
+the	O
+PDF	O
+D:\Archive\Current\amber	B-PATH_FILE
+snapshot.csv	I-PATH_FILE
+
+remove	O
+the	O
+selected	O
+file	O
+travel	B-FILE
+itinerary.docx	I-FILE
+
+remove	O
+the	O
+selected	O
+file	O
+invoice	B-FILE
+record.pdf	I-FILE
+
+remove	O
+the	O
+selected	O
+file	O
+expense	B-FILE
+summary.xlsx	I-FILE
+
+remove	O
+the	O
+selected	O
+file	O
+research	B-FILE
+paper.pdf	I-FILE
+
+remove	O
+the	O
+selected	O
+file	O
+lab	B-FILE
+report.docx	I-FILE
+
+remove	O
+the	O
+selected	O
+file	O
+assignment	B-FILE
+brief.docx	I-FILE
+
+remove	O
+the	O
+selected	O
+file	O
+D:\Archive\Previous\amber	B-PATH_FILE
+outline.json	I-PATH_FILE
+
+remove	O
+the	O
+selected	O
+file	O
+D:\Research\Notes\amber	B-PATH_FILE
+register.md	I-PATH_FILE
+
+remove	O
+the	O
+selected	O
+file	O
+D:\Research\Results\amber	B-PATH_FILE
+summary.log	I-PATH_FILE
+
+remove	O
+the	O
+selected	O
+file	O
+E:\Shared\Operations\amber	B-PATH_FILE
+checklist.py	I-PATH_FILE
+
+remove	O
+the	O
+selected	O
+file	O
+E:\Shared\Finance\amber	B-PATH_FILE
+notice.sql	I-PATH_FILE
+
+remove	O
+the	O
+selected	O
+file	O
+F:\Records\Personal\autumn	B-PATH_FILE
+ledger.docx	I-PATH_FILE
+
+remove	O
+the	O
+specified	O
+file	O
+course	B-FILE
+outline.pdf	I-FILE
+
+remove	O
+the	O
+specified	O
+file	O
+exam	B-FILE
+schedule.pdf	I-FILE
+
+remove	O
+the	O
+specified	O
+file	O
+reading	B-FILE
+list.txt	I-FILE
+
+remove	O
+the	O
+specified	O
+file	O
+shopping	B-FILE
+list.txt	I-FILE
+
+remove	O
+the	O
+specified	O
+file	O
+recipe	B-FILE
+collection.docx	I-FILE
+
+remove	O
+the	O
+specified	O
+file	O
+movie	B-FILE
+list.txt	I-FILE
+
+remove	O
+the	O
+specified	O
+file	O
+F:\Records\Business\autumn	B-PATH_FILE
+brief.xlsx	I-PATH_FILE
+
+remove	O
+the	O
+specified	O
+file	O
+F:\Backup\Monthly\autumn	B-PATH_FILE
+memo.txt	I-PATH_FILE
+
+remove	O
+the	O
+specified	O
+file	O
+F:\Backup\Projects\autumn	B-PATH_FILE
+record.csv	I-PATH_FILE
+
+remove	O
+the	O
+specified	O
+file	O
+C:\Projects\Greenfield\autumn	B-PATH_FILE
+snapshot.json	I-PATH_FILE
+
+remove	O
+the	O
+specified	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\autumn	I-PATH_FILE
+outline.md	I-PATH_FILE
+
+remove	O
+the	O
+specified	O
+file	O
+D:\Development\Tools\autumn	B-PATH_FILE
+register.log	I-PATH_FILE
+
+remove	O
+the	O
+text	O
+file	O
+music	B-FILE
+archive.csv	I-FILE
+
+remove	O
+the	O
+text	O
+file	O
+contact	B-FILE
+list.csv	I-FILE
+
+remove	O
+the	O
+text	O
+file	O
+student	B-FILE
+records.csv	I-FILE
+
+remove	O
+the	O
+text	O
+file	O
+employee	B-FILE
+details.xlsx	I-FILE
+
+remove	O
+the	O
+text	O
+file	O
+customer	B-FILE
+records.csv	I-FILE
+
+remove	O
+the	O
+text	O
+file	O
+product	B-FILE
+catalogue.xlsx	I-FILE
+
+remove	O
+the	O
+text	O
+file	O
+E:\University\Coursework\autumn	B-PATH_FILE
+summary.py	I-PATH_FILE
+
+remove	O
+the	O
+text	O
+file	O
+C:\Data\Incoming\autumn	B-PATH_FILE
+checklist.sql	I-PATH_FILE
+
+remove	O
+the	O
+text	O
+file	O
+C:\Data\Exports\autumn	B-PATH_FILE
+notice.pdf	I-PATH_FILE
+
+remove	O
+the	O
+text	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\blue	I-PATH_FILE
+ledger.xlsx	I-PATH_FILE
+
+remove	O
+the	O
+text	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\blue	I-PATH_FILE
+brief.txt	I-PATH_FILE
+
+remove	O
+the	O
+text	O
+file	O
+D:\Archive\Current\blue	B-PATH_FILE
+memo.csv	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+sales	B-FILE
+summary.xlsx	I-FILE
+
+remove	O
+this	O
+file	O
+attendance	B-FILE
+sheet.xlsx	I-FILE
+
+remove	O
+this	O
+file	O
+payroll	B-FILE
+summary.xlsx	I-FILE
+
+remove	O
+this	O
+file	O
+monthly	B-FILE
+expenses.xlsx	I-FILE
+
+remove	O
+this	O
+file	O
+annual	B-FILE
+budget.xlsx	I-FILE
+
+remove	O
+this	O
+file	O
+bank	B-FILE
+statement.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+D:\Archive\Previous\blue	B-PATH_FILE
+record.json	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+D:\Research\Notes\blue	B-PATH_FILE
+snapshot.md	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+D:\Research\Results\blue	B-PATH_FILE
+outline.log	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+E:\Shared\Operations\blue	B-PATH_FILE
+register.py	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+E:\Shared\Finance\blue	B-PATH_FILE
+summary.sql	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+F:\Records\Personal\blue	B-PATH_FILE
+checklist.pdf	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+called	O
+utility	B-FILE
+bill.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+called	O
+rent	B-FILE
+receipt.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+called	O
+insurance	B-FILE
+policy.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+called	O
+tax	B-FILE
+summary.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+called	O
+loan	B-FILE
+statement.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+called	O
+warranty	B-FILE
+card.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+called	O
+F:\Records\Business\blue	B-PATH_FILE
+notice.docx	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+called	O
+F:\Backup\Monthly\brisk	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+called	O
+F:\Backup\Projects\brisk	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+called	O
+C:\Projects\Greenfield\brisk	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+called	O
+C:\Projects\Harbour	B-PATH_FILE
+View\brisk	I-PATH_FILE
+record.md	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+called	O
+D:\Development\Tools\brisk	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+named	O
+support	B-FILE
+request.docx	I-FILE
+
+remove	O
+this	O
+file	O
+named	O
+feedback	B-FILE
+form.docx	I-FILE
+
+remove	O
+this	O
+file	O
+named	O
+survey	B-FILE
+results.xlsx	I-FILE
+
+remove	O
+this	O
+file	O
+named	O
+case	B-FILE
+study.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+named	O
+project	B-FILE
+proposal.docx	I-FILE
+
+remove	O
+this	O
+file	O
+named	O
+design	B-FILE
+document.pdf	I-FILE
+
+remove	O
+this	O
+file	O
+named	O
+E:\University\Coursework\brisk	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+named	O
+C:\Data\Incoming\brisk	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+named	O
+C:\Data\Exports\brisk	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+named	O
+C:\Work\Team	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+remove	O
+this	O
+file	O
+named	O
+D:\Archive\Current\cedar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+can	O
+you	O
+delete	O
+a	O
+file	O
+
+can	O
+you	O
+delete	O
+the	O
+file	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+
+can	O
+you	O
+remove	O
+a	O
+file	O
+
+can	O
+you	O
+remove	O
+the	O
+file	O
+
+could	O
+you	O
+delete	O
+a	O
+file	O
+
+could	O
+you	O
+delete	O
+the	O
+file	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+
+could	O
+you	O
+remove	O
+a	O
+file	O
+
+could	O
+you	O
+remove	O
+the	O
+file	O
+
+delete	O
+a	O
+file	O
+
+delete	O
+a	O
+new	O
+file	O
+
+delete	O
+an	O
+old	O
+file	O
+
+delete	O
+file	O
+
+delete	O
+my	O
+document	O
+
+delete	O
+my	O
+file	O
+
+delete	O
+one	O
+file	O
+
+delete	O
+that	O
+document	O
+
+delete	O
+that	O
+file	O
+
+delete	O
+the	O
+file	O
+from	O
+here	O
+
+delete	O
+the	O
+old	O
+file	O
+
+delete	O
+the	O
+selected	O
+document	O
+
+delete	O
+the	O
+selected	O
+file	O
+
+delete	O
+the	O
+temporary	O
+file	O
+
+delete	O
+the	O
+unwanted	O
+file	O
+
+delete	O
+this	O
+document	O
+
+delete	O
+this	O
+file	O
+
+get	O
+rid	O
+of	O
+that	O
+document	O
+
+get	O
+rid	O
+of	O
+that	O
+file	O
+
+get	O
+rid	O
+of	O
+this	O
+document	O
+
+get	O
+rid	O
+of	O
+this	O
+file	O
+
+I	O
+need	O
+the	O
+file	O
+removed	O
+
+I	O
+need	O
+to	O
+delete	O
+a	O
+file	O
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+
+I	O
+need	O
+to	O
+remove	O
+a	O
+file	O
+
+I	O
+want	O
+the	O
+file	O
+deleted	O
+
+I	O
+want	O
+to	O
+delete	O
+a	O
+file	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+
+I	O
+want	O
+to	O
+remove	O
+a	O
+file	O
+
+please	O
+delete	O
+a	O
+file	O
+
+please	O
+delete	O
+one	O
+file	O
+
+please	O
+delete	O
+the	O
+file	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+file	O
+
+please	O
+remove	O
+a	O
+file	O
+
+please	O
+remove	O
+one	O
+file	O
+
+please	O
+remove	O
+the	O
+file	O
+
+remove	O
+a	O
+file	O
+
+remove	O
+a	O
+new	O
+file	O
+
+remove	O
+an	O
+old	O
+file	O
+
+remove	O
+file	O
+
+remove	O
+my	O
+document	O
+
+remove	O
+my	O
+file	O
+
+remove	O
+one	O
+file	O
+
+remove	O
+that	O
+document	O
+
+remove	O
+that	O
+file	O
+
+remove	O
+the	O
+file	O
+from	O
+here	O
+
+remove	O
+the	O
+old	O
+file	O
+
+remove	O
+the	O
+selected	O
+document	O
+
+remove	O
+the	O
+selected	O
+file	O
+
+remove	O
+the	O
+temporary	O
+file	O
+
+remove	O
+the	O
+unwanted	O
+file	O
+
+remove	O
+this	O
+document	O
+
+remove	O
+this	O
+file	O
+

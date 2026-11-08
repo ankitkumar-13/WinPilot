@@ -1,0 +1,428 @@
+rename project schedule.xlsx
+rename expense report.xlsx
+rename sales data.xlsx
+rename employee_data.csv
+rename C:\Users\Public\Documents\shared report.pdf
+rename D:\Projects\WinPilot\src\main.py
+rename D:\College\Semester 5\Notes\os notes.pdf
+rename D:\Work\Reports\annual report.xlsx
+rename student_data.csv to contact_list.csv
+rename transaction_data.csv to attendance.csv
+rename main.py to app.py
+rename server.py to client.py
+rename D:\Backup\Database\database backup.sql to E:\Research\Reports\research paper.pdf
+rename E:\Media\Videos\lecture recording.mp4 to Projects\main.py
+rename Projects\app.py to Projects\project report.pdf
+rename Projects\README.md to Projects\data.csv
+rename automation.py to final_report.pdf
+rename data processing.py to final_report.pdf
+rename database.py to final_report.pdf
+rename configuration.py to final_report.pdf
+rename Projects\config.json to final_report.pdf
+rename Projects\Source\main.cpp to final_report.pdf
+rename Projects\Source\helper.cpp to final_report.pdf
+rename Projects\Docs\project guide.pdf to final_report.pdf
+rename file utility functions.py to test.py
+rename file main.cpp to program.cpp
+rename file source.cpp to calculator.cpp
+rename file student management.cpp to file manager.cpp
+rename file Projects\Backup\project backup.zip to College\Assignments\os assignment.pdf
+rename file College\Assignments\dbms assignment.docx to College\Notes\operating systems.pdf
+rename file College\Notes\machine learning notes.pdf to College\Projects\file manager.cpp
+rename file College\Projects\final report.docx to College\Semester 5\schedule.xlsx
+rename the file main.c to helper.c
+rename the file header.h to Main.java
+rename the file Student.java to DatabaseManager.java
+rename the file script.js to app.js
+rename the file College\Semester 5\syllabus.pdf to Work\Reports\annual report.pdf
+rename the file Work\Reports\monthly report.xlsx to Work\Projects\website\index.html
+rename the file Work\Projects\website\style.css to Work\Projects\application\server.py
+rename the file Work\Projects\application\config.json to Personal\Photos\profile photo.jpg
+rename index.html as login.html
+rename dashboard.html as style.css
+rename main.css as config.json
+rename package.json as user data.json
+rename Personal\Photos\family photo.jpg as Personal\Documents\resume.pdf
+rename Personal\Documents\cover letter.docx as Personal\Backup\personal files.zip
+rename Shared\Projects\source code.zip as Shared\Projects\project data.xlsx
+rename Shared\Reports\team report.pdf as Data\Raw\student data.csv
+change application settings.json name to database backup.json
+change data.xml name to configuration.xml
+change settings.yaml name to docker-compose.yml
+change database.sql name to schema.sql
+change Data\Processed\student results.csv name to Data\Reports\analysis report.xlsx
+change Data\Reports\final analysis.pdf name to Data\Exports\monthly results.csv
+change Archive\2025\project backup.zip name to Archive\2026\final report.pdf
+change Backup\Projects\database backup.sql name to Backup\Reports\old report.pdf
+change the name of create tables.sql to backup database.sql
+change the name of database.db to application.db
+change the name of records.sqlite to local database.sqlite
+change the name of backup.bak to archive.zip
+change the name of Media\Images\project diagram.png to Media\Images\company logo.svg
+change the name of Media\Videos\lecture recording.mp4 to Media\Audio\voice recording.wav
+change the name of Research\Machine Learning\research paper.pdf to Research\Machine Learning\training data.csv
+change the name of Research\Reports\experiment results.xlsx to Research\Reports\final paper.docx
+change file name project backup.zip to documents archive.zip
+change file name backup files.rar to project files.7z
+change file name photo.jpg to profile photo.jpg
+change file name family photo.jpg to screenshot.png
+change file name Source\Python\automation.py to Source\Python\configuration.py
+change file name Source\Cpp\file manager.cpp to Source\Java\DatabaseManager.java
+change file name Source\Web\index.html to Source\Web\login.html
+change file name Reports\2026\January\monthly report.pdf to Reports\2026\March\expense report.xlsx
+change filename project diagram.png to company logo.svg
+change filename scanned document.jpeg to presentation.pptx
+change filename project presentation.pptx to final presentation.pptx
+change filename seminar slides.ppt to lecture recording.mp4
+change filename Reports\2026\September\project summary.docx to Semester 5\OS\unit 1 notes.pdf
+change filename Semester 5\DBMS\unit 2 notes.pdf to Semester 5\Projects\database project.sql
+change filename Semester 5\Projects\final presentation.pptx to My Files\Important Documents\passport copy.pdf
+change filename My Files\Projects\WinPilot\main.py to My Files\Projects\WinPilot\project report.pdf
+give tutorial video.mp4 a new name
+give music collection.mp3 a new name
+give voice recording.wav a new name
+give project image.webp a new name
+give My Files\College\Assignments\assignment submission.docx a new name
+give Client Work\Website\src\index.html a new name
+give Client Work\Website\assets\company logo.png a new name
+give Client Work\Reports\client report.pdf a new name
+make Dockerfile Makefile
+make LICENSE .gitignore
+make .env configuration.ini
+make application.cfg startup.bat
+make Client Work\Invoices\payment receipt.pdf Project Alpha\Source Code\main.py
+make Project Alpha\Documentation\user manual.pdf Project Alpha\Test Data\sample data.csv
+make Project Alpha\Releases\application installer.zip Project Beta\Reports\final report.docx
+make Project Beta\Database\schema.sql Project Beta\Assets\project image.png
+please rename install script.ps1
+please rename setup.exe
+please rename application installer.msi
+please rename library.dll
+please rename Machine Learning\Models\trained model.pkl
+please rename Machine Learning\Data\training dataset.csv
+please rename Machine Learning\Reports\model results.xlsx
+please rename Machine Learning\Documentation\project documentation.pdf
+please rename system backup.img to virtual machine.iso
+please rename notes.txt to todo.txt
+please rename readme.txt to summary.txt
+please rename draft.txt to final notes.txt
+please rename Python Projects\Web App\app.py to Python Projects\Web App\requirements.txt
+please rename Python Projects\Web App\templates\index.html to Python Projects\Web App\static\style.css
+please rename File Manager\Source\file_manager.cpp to File Manager\Documentation\project report.pdf
+please rename File Manager\Test Files\sample document.txt to Test Data\Input\input file.csv
+please rename the file project notes.txt to meeting notes.txt
+please rename the file college notes.txt to semester notes.txt
+please rename the file personal notes.txt to work notes.txt
+please rename the file daily tasks.txt to important information.txt
+please rename the file Test Data\Output\expected results.csv to Test Data\Reports\test report.pdf
+please rename the file New Folder\project notes.txt to New Folder\backup files.zip
+please rename the file 2026\Projects\annual project report.pdf to 2026\College\semester results.xlsx
+please rename the file 2026\Personal\expense report.xlsx to 2026\Work\meeting notes.docx
+please change contact list.txt to error.log
+please change application log.log to debug log.log
+please change access log.log to system log.log
+please change changelog.md to project documentation.md
+please change .\report.pdf to .\project report.docx
+please change .\Projects\main.py to .\Projects\data\results.csv
+please change .\College\Notes\exam notes.pdf to ..\report.pdf
+please change ..\Documents\resume.pdf to ..\Projects\main.py
+can you rename README.md
+can you rename getting started.md
+can you rename project report.pdf
+can you rename final project report.pdf
+can you rename ..\Backup\project backup.zip
+can you rename C:\Users\Ankit\Documents\report.pdf
+can you rename C:\Users\Ankit\Projects\WinPilot\main.py
+can you rename C:\Users\Ankit\College\Assignments\dbms assignment.docx
+can you rename college assignment.pdf to research paper.pdf
+can you rename annual report.pdf to user manual.pdf
+can you rename software guide.pdf to project proposal.pdf
+can you rename resume.pdf to updated resume.pdf
+can you rename C:\Users\Ankit\Pictures\project diagram.png to C:\Users\Ankit\Desktop\Projects\final report.pdf
+can you rename C:\Users\Ankit\OneDrive\Projects\project notes.txt to C:\Users\Public\Documents\shared report.pdf
+can you rename D:\Projects\WinPilot\src\main.py to D:\College\Semester 5\Notes\os notes.pdf
+can you rename D:\Work\Reports\annual report.xlsx to D:\Backup\Database\database backup.sql
+can you rename the file invoice.pdf
+can you rename the file payment receipt.pdf
+can you rename the file certificate.pdf
+can you rename the file course syllabus.pdf
+can you rename the file E:\Research\Reports\research paper.pdf
+can you rename the file E:\Media\Videos\lecture recording.mp4
+can you rename the file Projects\main.py
+can you rename the file Projects\app.py
+can you change question paper.pdf to exam schedule.pdf
+can you change report.docx to project report.docx
+can you change final project report.docx to college assignment.docx
+can you change assignment submission.docx to meeting notes.docx
+can you change Projects\project report.pdf to Projects\README.md
+can you change Projects\data.csv to Projects\config.json
+can you change Projects\Source\main.cpp to Projects\Source\helper.cpp
+can you change Projects\Docs\project guide.pdf to Projects\Backup\project backup.zip
+could you rename project proposal.docx
+could you rename application letter.docx
+could you rename cover letter.docx
+could you rename resume.docx
+could you rename College\Assignments\os assignment.pdf
+could you rename College\Assignments\dbms assignment.docx
+could you rename College\Notes\operating systems.pdf
+could you rename College\Notes\machine learning notes.pdf
+could you rename student details.docx to budget.xlsx
+could you rename monthly budget.xlsx to annual budget.xlsx
+could you rename student marks.xlsx to attendance record.xlsx
+could you rename employee details.xlsx to project schedule.xlsx
+could you rename College\Projects\file manager.cpp to College\Projects\final report.docx
+could you rename College\Semester 5\schedule.xlsx to College\Semester 5\syllabus.pdf
+could you rename Work\Reports\annual report.pdf to Work\Reports\monthly report.xlsx
+could you rename Work\Projects\website\index.html to Work\Projects\website\style.css
+could you change expense report.xlsx to sales data.xlsx
+could you change employee_data.csv to student_data.csv
+could you change contact_list.csv to transaction_data.csv
+could you change attendance.csv to main.py
+could you change Work\Projects\application\server.py to Work\Projects\application\config.json
+could you change Personal\Photos\profile photo.jpg to Personal\Photos\family photo.jpg
+could you change Personal\Documents\resume.pdf to Personal\Documents\cover letter.docx
+could you change Personal\Backup\personal files.zip to Shared\Projects\source code.zip
+I want to rename app.py
+I want to rename server.py
+I want to rename client.py
+I want to rename automation.py
+I want to rename Shared\Projects\project data.xlsx
+I want to rename Shared\Reports\team report.pdf
+I want to rename Data\Raw\student data.csv
+I want to rename Data\Processed\student results.csv
+I want to rename data processing.py to database.py
+I want to rename configuration.py to utility functions.py
+I want to rename test.py to main.cpp
+I want to rename program.cpp to source.cpp
+I want to rename Data\Reports\analysis report.xlsx to Data\Reports\final analysis.pdf
+I want to rename Data\Exports\monthly results.csv to Archive\2025\project backup.zip
+I want to rename Archive\2026\final report.pdf to Backup\Projects\database backup.sql
+I want to rename Backup\Reports\old report.pdf to Media\Images\project diagram.png
+I need to rename calculator.cpp
+I need to rename student management.cpp
+I need to rename file manager.cpp
+I need to rename main.c
+I need to rename Media\Images\company logo.svg
+I need to rename Media\Videos\lecture recording.mp4
+I need to rename Media\Audio\voice recording.wav
+I need to rename Research\Machine Learning\research paper.pdf
+I need to rename helper.c to header.h
+I need to rename Main.java to Student.java
+I need to rename DatabaseManager.java to script.js
+I need to rename app.js to index.html
+I need to rename Research\Machine Learning\training data.csv to Research\Reports\experiment results.xlsx
+I need to rename Research\Reports\final paper.docx to Source\Python\automation.py
+I need to rename Source\Python\configuration.py to Source\Cpp\file manager.cpp
+I need to rename Source\Java\DatabaseManager.java to Source\Web\index.html
+rename the file called login.html
+rename the file called dashboard.html
+rename the file called style.css
+rename the file called main.css
+rename the file called Source\Web\login.html
+rename the file called Reports\2026\January\monthly report.pdf
+rename the file called Reports\2026\March\expense report.xlsx
+rename the file called Reports\2026\September\project summary.docx
+rename the file named config.json
+rename the file named package.json
+rename the file named user data.json
+rename the file named application settings.json
+rename the file named Semester 5\OS\unit 1 notes.pdf
+rename the file named Semester 5\DBMS\unit 2 notes.pdf
+rename the file named Semester 5\Projects\database project.sql
+rename the file named Semester 5\Projects\final presentation.pptx
+rename a file called database backup.json
+rename a file called data.xml
+rename a file called configuration.xml
+rename a file called settings.yaml
+rename a file called My Files\Important Documents\passport copy.pdf
+rename a file called My Files\Projects\WinPilot\main.py
+rename a file called My Files\Projects\WinPilot\project report.pdf
+rename a file called My Files\College\Assignments\assignment submission.docx
+rename a file named docker-compose.yml
+rename a file named database.sql
+rename a file named schema.sql
+rename a file named create tables.sql
+rename a file named Client Work\Website\src\index.html
+rename a file named Client Work\Website\assets\company logo.png
+rename a file named Client Work\Reports\client report.pdf
+rename a file named Client Work\Invoices\payment receipt.pdf
+rename my file backup database.sql
+rename my file database.db
+rename my file application.db
+rename my file records.sqlite
+rename my file Project Alpha\Source Code\main.py
+rename my file Project Alpha\Documentation\user manual.pdf
+rename my file Project Alpha\Test Data\sample data.csv
+rename my file Project Alpha\Releases\application installer.zip
+rename my local database.sqlite
+rename my backup.bak
+rename my archive.zip
+rename my project backup.zip
+rename my Project Beta\Reports\final report.docx
+rename my Project Beta\Database\schema.sql
+rename my Project Beta\Assets\project image.png
+rename my Machine Learning\Models\trained model.pkl
+rename the file from documents archive.zip to backup files.rar
+rename the file from project files.7z to photo.jpg
+rename the file from profile photo.jpg to family photo.jpg
+rename the file from screenshot.png to project diagram.png
+rename the file from Machine Learning\Data\training dataset.csv to Machine Learning\Reports\model results.xlsx
+rename the file from Machine Learning\Documentation\project documentation.pdf to Python Projects\Web App\app.py
+rename the file from Python Projects\Web App\requirements.txt to Python Projects\Web App\templates\index.html
+rename the file from Python Projects\Web App\static\style.css to File Manager\Source\file_manager.cpp
+rename company logo.svg from old name to new name
+rename scanned document.jpeg from old name to new name
+rename presentation.pptx from old name to new name
+rename project presentation.pptx from old name to new name
+rename File Manager\Documentation\project report.pdf from old name to new name
+rename File Manager\Test Files\sample document.txt from old name to new name
+rename Test Data\Input\input file.csv from old name to new name
+rename Test Data\Output\expected results.csv from old name to new name
+rename my final presentation.pptx to seminar slides.ppt
+rename my lecture recording.mp4 to tutorial video.mp4
+rename my music collection.mp3 to voice recording.wav
+rename my project image.webp to Dockerfile
+rename my Test Data\Reports\test report.pdf to New Folder\project notes.txt
+rename my New Folder\backup files.zip to 2026\Projects\annual project report.pdf
+rename my 2026\College\semester results.xlsx to 2026\Personal\expense report.xlsx
+rename my 2026\Work\meeting notes.docx to .\report.pdf
+please change the name of Makefile
+please change the name of LICENSE
+please change the name of .gitignore
+please change the name of .env
+please change the name of .\project report.docx
+please change the name of .\Projects\main.py
+please change the name of .\Projects\data\results.csv
+please change the name of .\College\Notes\exam notes.pdf
+change the name of configuration.ini
+change the name of application.cfg
+change the name of startup.bat
+change the name of install script.ps1
+change the name of ..\report.pdf
+change the name of ..\Documents\resume.pdf
+change the name of ..\Projects\main.py
+change the name of ..\Backup\project backup.zip
+rename the file to setup.exe
+rename the file to application installer.msi
+rename the file to library.dll
+rename the file to system backup.img
+rename the file to C:\Users\Ankit\Documents\report.pdf
+rename the file to C:\Users\Ankit\Projects\WinPilot\main.py
+rename the file to C:\Users\Ankit\College\Assignments\dbms assignment.docx
+rename the file to C:\Users\Ankit\Pictures\project diagram.png
+rename the document to virtual machine.iso
+rename the document to notes.txt
+rename the document to todo.txt
+rename the document to readme.txt
+rename the document to C:\Users\Ankit\Desktop\Projects\final report.pdf
+rename the document to C:\Users\Ankit\OneDrive\Projects\project notes.txt
+rename the document to C:\Users\Public\Documents\shared report.pdf
+rename the document to D:\Projects\WinPilot\src\main.py
+rename the file as summary.txt
+rename the file as draft.txt
+rename the file as final notes.txt
+rename the file as project notes.txt
+rename the file as D:\College\Semester 5\Notes\os notes.pdf
+rename the file as D:\Work\Reports\annual report.xlsx
+rename the file as D:\Backup\Database\database backup.sql
+rename the file as E:\Research\Reports\research paper.pdf
+change the file name to meeting notes.txt
+change the file name to college notes.txt
+change the file name to semester notes.txt
+change the file name to personal notes.txt
+change the file name to E:\Media\Videos\lecture recording.mp4
+change the file name to Projects\main.py
+change the file name to Projects\app.py
+change the file name to Projects\project report.pdf
+give the file the name work notes.txt
+give the file the name daily tasks.txt
+give the file the name important information.txt
+give the file the name contact list.txt
+give the file the name Projects\README.md
+give the file the name Projects\data.csv
+give the file the name Projects\config.json
+give the file the name Projects\Source\main.cpp
+rename a file in Database
+rename a file in Databases
+rename a file in SQL
+rename a file in MySQL
+rename a file in MyFiles\Work
+rename a file in MyFiles\ImportantDocuments
+rename a file in 2026
+rename a file in 2026\January
+rename the file in PostgreSQL
+rename the file in Oracle
+rename the file in Server
+rename the file in Client
+rename the file in 2026\March
+rename the file in 2026\September
+rename the file in 2026\October
+rename the file in 2026\Projects
+rename error.log in Network
+rename application log.log in Security
+rename debug log.log in Systems
+rename access log.log in Applications
+rename system log.log in Software
+rename changelog.md in Tools
+rename project documentation.md in Utilities
+rename README.md in Resources
+rename getting started.md in 2026\Reports
+rename project report.pdf in TestData\Input
+rename final project report.pdf in TestData\Output
+rename college assignment.pdf in TestData\ExpectedResults
+change the filename in Projects2025
+change the filename in Completed
+change the filename in Pending
+change the filename in Temporary
+change the filename in .\Projects
+change the filename in .\Projects\Source
+change the filename in .\College\Notes
+change the filename in .\Work\Reports
+change the name of a file in OldFiles
+change the name of a file in NewFiles
+change the name of a file in Important
+change the name of a file in Shared
+change the name of a file in .\Data\Processed
+change the name of a file in ..\Projects
+change the name of a file in ..\Documents
+change the name of a file in ..\Backup
+rename a file
+rename file
+rename the file
+rename a document
+rename the document
+change the name of a file
+change the file name
+change the filename
+change a file name
+give the file a new name
+give a file a new name
+give the old file a new name
+give the document a new name
+please rename the file
+please change the file name
+please give the file a new name
+can you rename the file
+can you change the file name
+could you rename the file
+could you change the file name
+I want to rename the file
+I need to rename the file
+I need to change the file name
+rename the old file
+rename the new file
+rename this file
+rename that file
+change the name of this file
+change the name of that file
+rename my report file
+rename my document
+rename the report
+rename the notes file
+rename the project file
+rename the assignment file
+rename one file
+rename a single file
+rename one of my files
+change the name of one file
+give one file a new name

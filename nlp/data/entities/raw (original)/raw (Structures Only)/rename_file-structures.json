@@ -1,0 +1,678 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "rename_file",
+      "pattern": "can you change {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "can you change {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "can you rename {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "can you rename {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "can you rename {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "can you rename {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "can you rename the file {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "can you rename the file {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change {FILE} name to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change {PATH_FILE} name to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change file name {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change file name {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change filename {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change filename {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the file name to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the file name to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the filename in {FOLDER}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the filename in {PATH_DIR}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the name of {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the name of {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the name of {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the name of {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the name of a file in {FOLDER}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "change the name of a file in {PATH_DIR}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "could you change {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "could you change {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "could you rename {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "could you rename {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "could you rename {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "could you rename {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "give {FILE} a new name",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "give {PATH_FILE} a new name",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "give the file the name {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "give the file the name {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "I need to rename {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "I need to rename {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "I need to rename {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "I need to rename {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "I want to rename {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "I want to rename {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "I want to rename {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "I want to rename {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "make {FILE} {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "make {PATH_FILE} {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please change {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please change {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please change the name of {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please change the name of {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please rename {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please rename {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please rename {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please rename {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please rename the file {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "please rename the file {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {FILE} as {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {FILE} from old name to new name",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {FILE} in {FOLDER}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {FILE} in {PATH_DIR}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {FILE} to final_report.pdf",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {PATH_FILE} as {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {PATH_FILE} from old name to new name",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename {PATH_FILE} to final_report.pdf",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename a file called {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename a file called {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename a file in {FOLDER}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename a file in {PATH_DIR}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename a file named {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename a file named {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename file {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename file {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename my {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename my {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename my {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename my {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename my file {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename my file {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the document to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the document to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file as {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file as {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file called {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file called {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file from {FILE} to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file from {PATH_FILE} to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file in {FOLDER}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file in {PATH_DIR}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file named {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file named {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file to {FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    },
+    {
+      "dataset": "rename_file",
+      "pattern": "rename the file to {PATH_FILE}",
+      "intents": [
+        "rename_file"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "format": "winpilot-command-library",
+  "version": 1,
+  "commands": [
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "can you change the file name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "can you rename the file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "change a file name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "change the file name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "change the filename"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "change the name of a file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "change the name of one file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "change the name of that file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "change the name of this file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "could you change the file name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "could you rename the file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "give a file a new name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "give one file a new name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "give the document a new name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "give the file a new name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "give the old file a new name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "I need to change the file name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "I need to rename the file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "I want to rename the file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "please change the file name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "please give the file a new name"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "please rename the file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename a document"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename a file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename a single file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename my document"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename my report file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename one file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename one of my files"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename that file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename the assignment file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename the document"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename the file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename the new file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename the notes file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename the old file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename the project file"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename the report"
+    },
+    {
+      "dataset": "rename_file",
+      "intent": "rename_file",
+      "text": "rename this file"
+    }
+  ]
+}

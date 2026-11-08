@@ -1,0 +1,6465 @@
+can	O
+you	O
+create	O
+regression_suite_draft.inf	B-FILE
+
+can	O
+you	O
+create	O
+terrain_heightmap.exr	B-FILE
+
+can	O
+you	O
+create	O
+annual_report.yml	B-FILE
+
+can	O
+you	O
+create	O
+usb_contents.txt	B-FILE
+
+can	O
+you	O
+create	O
+unit_test_report_2026_10.gif	B-FILE
+
+can	O
+you	O
+create	O
+C:\Users\Ankit\Videos\Assignments\receipt_cafe.png	B-PATH_FILE
+
+can	O
+you	O
+create	O
+C:\Temp\Travel\rollback_test_results.xlsx	B-PATH_FILE
+
+can	O
+you	O
+create	O
+D:\Source\training	B-PATH_FILE
+data\exports\analytics_export.json	I-PATH_FILE
+
+can	O
+you	O
+create	O
+C:\Dev\Receipts\inventory_tracker.xlsx	B-PATH_FILE
+
+can	O
+you	O
+create	O
+C:\Temp\warehouse\Firewall	B-PATH_FILE
+Configs\assignment_submission_revised.pdf	I-PATH_FILE
+
+can	O
+you	O
+make	O
+privacy_assessment.bin	B-FILE
+
+can	O
+you	O
+make	O
+timesheet_week42.xlsx	B-FILE
+
+can	O
+you	O
+make	O
+campus_wifi_issue_log.csv	B-FILE
+
+can	O
+you	O
+make	O
+privacy_assessment_draft.7z	B-FILE
+
+can	O
+you	O
+make	O
+grant_spend_tracker.xlsx	B-FILE
+
+can	O
+you	O
+make	O
+D:\College\GEHU\config\marketing\setup_installer.exe	B-PATH_FILE
+
+can	O
+you	O
+make	O
+F:\USB	B-PATH_FILE
+Backup\Source	I-PATH_FILE
+Code\backend\invoice_scan_001.tiff	I-PATH_FILE
+
+can	O
+you	O
+make	O
+C:\Users\Ankit\Downloads\finance\customer	B-PATH_FILE
+support\license_inventory.csv	I-PATH_FILE
+
+can	O
+you	O
+make	O
+\\192.168.1.20\teamshare\Assignments\warehouse\bus_ticket_dehradun_delhi.pdf	B-PATH_FILE
+
+can	O
+you	O
+make	O
+E:\College\Training	B-PATH_FILE
+Data\download_sorting_rules.json	I-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+entity_span_errors.csv	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+oauth_scope_review.xlsx	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+stock_reconciliation_2026_10.pfx	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+conftest.py	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+course_completion_certificate.pdf	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+E:\Personal\Source	B-PATH_FILE
+Code\exports\release_candidate_1.4.0.zip	I-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+D:\Backups\Research\course_progress_export.csv	B-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+C:\Users\ankit.kumar\Documents\Backups\virtualbox_vm_list.csv	B-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+D:\Projects\tests\screenshots\project_archive_2024.zip	B-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+called	O
+D:\Work\Photos\draft_invoice.pptx	B-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+integration_test_draft.vcf	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+accessibility_audit_2026_10.webm	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+service_health_final.pt	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+fleet_fuel_summary.xlsx	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+browser_matrix.ics	B-FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+D:\Backups\Backups\driver_install_notes.md	B-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\Desktop\Assignments\student_fee_statement.pdf	B-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+C:\Users\Public\Documents\assets\customer	B-PATH_FILE
+support\onedrive_sync_errors.csv	I-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\OneDrive\family	B-PATH_FILE
+photos\website\product_manual_vacuum.pdf	I-PATH_FILE
+
+could	O
+you	O
+create	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\Downloads\Research\data_cleanup_actions.md	B-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+plant_watering_log.csv	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+backup_before_update_20261019.zip	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+uptime_summary_revised.etl	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+database_snapshot.tiff	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+latency_benchmark_approved.csv	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+C:\Dev\Client	B-PATH_FILE
+A\Research	I-PATH_FILE
+Papers\draft_backup.txt	I-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+C:\Temp\Audio	B-PATH_FILE
+Troubleshooting\src\vehicle_registration_scan.pdf	I-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+G:\Shared\Client	B-PATH_FILE
+A\HR\newsletter_header.png	I-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+D:\Research\Supplier	B-PATH_FILE
+North\Release	I-PATH_FILE
+1.4\phishing_simulation_results.xlsx	I-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+called	O
+\\backup-server\weekly\Audio	B-PATH_FILE
+Troubleshooting\Payroll	I-PATH_FILE
+Manager\draft_budget.svg	I-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+backup_verification.csv	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+vpn_configuration_v2.obj	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+lead_import_errors.csv	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+vulnerability_report.ini	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+equipment_register.rar	B-FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\OneDrive\Client	B-PATH_FILE
+A\Audio	I-PATH_FILE
+Troubleshooting\source_archive.tar.gz	I-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\Documents\docs\imports\crash_dump_index.csv	B-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+D:\WinPilot\Home	B-PATH_FILE
+Repairs\archives\cash_flow_forecast.xlsx	I-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+D:\College\GEHU\Reports\pet_vaccination_reminder.ics	B-PATH_FILE
+
+could	O
+you	O
+make	O
+a	O
+file	O
+named	O
+D:\Backups\Travel\wedding_invitation_sample.png	B-PATH_FILE
+
+create	O
+migration_plan_v2.xml	B-FILE
+
+create	O
+database_snapshot_backup.err	B-FILE
+
+create	O
+api_response_401.json	B-FILE
+
+create	O
+localisation_strings.tiff	B-FILE
+
+create	O
+training_curve.svg	B-FILE
+
+create	O
+E:\Media\WinPilot\exports\air_quality_sensor_export.json	B-PATH_FILE
+
+create	O
+E:\College\datasets\contracts\insurance_claim_photos.zip	B-PATH_FILE
+
+create	O
+E:\Personal\website\datasets\mutual_fund_statement_october.pdf	B-PATH_FILE
+
+create	O
+D:\Work\database\model	B-PATH_FILE
+outputs\project_archive_2024.zip	I-PATH_FILE
+
+create	O
+\\OfficePC\Public\tests\api	B-PATH_FILE
+tests\tuition_receipt.pdf	I-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+uptime_summary.properties	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+uptime_summary_2026_10.bak	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+attendance_sheet_reviewed.html	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+draft_vehicle.xlsx	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+society_notice_october.pdf	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+E:\Media\Photos\work_order_00817.pdf	B-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+D:\Staging\Release	B-PATH_FILE
+1.4\Course	I-PATH_FILE
+Material\linux_package_list.txt	I-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+D:\Staging\tests\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\meeting_room_booking.ics	I-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+D:\Staging\backend\assets\professional_certification_plan.xlsx	B-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+called	O
+C:\Program	B-PATH_FILE
+Files\api	I-PATH_FILE
+tests\presentations\football_training_log.xlsx	I-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+shopping_comparison_october.xlsx	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+cash_flow_v3.pcap	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+emulator_notes.md	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+home_network_diagram.drawio	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+price_comparison_v2.toml	B-FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+C:\Users\ankit.kumar\Documents\Documents\final_reviewed.docx	B-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+C:\Users\Public\Documents\Photos\IMG_20261018_174233.jpg	B-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+E:\College\Assignments\hotel_checkin_instructions.pdf	B-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+D:\Projects\Invoices\disk_partition_map.png	B-PATH_FILE
+
+create	O
+a	O
+blank	O
+file	O
+named	O
+C:\Users\Public\Documents\Model	B-PATH_FILE
+Outputs\draft_course.json	I-PATH_FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+handoff_package_manifest.json	B-FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+audio_device_test.wav	B-FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+dism_restore_health.log	B-FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+product_catalog.py	B-FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+offer_negotiation_notes.md	B-FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+\\backup-server\weekly\contracts\inventory\case_sensitive_collision_report.csv	B-PATH_FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+F:\USB	B-PATH_FILE
+Backup\Final	I-PATH_FILE
+Versions\Personal	I-PATH_FILE
+Finance\warehouse_picklist.pdf	I-PATH_FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+D:\Projects\WinPilot\api	B-PATH_FILE
+tests\powercfg_energy_report.html	I-PATH_FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+C:\Dev\Lab	B-PATH_FILE
+Work\logs\intent_dataset_test.jsonl	I-PATH_FILE
+
+create	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+E:\Media\WinPilot\visa_application.pdf	B-PATH_FILE
+
+create	O
+a	O
+document	O
+called	O
+cash_flow.3mf	B-FILE
+
+create	O
+a	O
+document	O
+called	O
+cash_flow.mp4	B-FILE
+
+create	O
+a	O
+document	O
+called	O
+warranty_expiry_tracker.xlsx	B-FILE
+
+create	O
+a	O
+document	O
+called	O
+webpack.config.js	B-FILE
+
+create	O
+a	O
+document	O
+called	O
+project_charter.vhdx	B-FILE
+
+create	O
+a	O
+document	O
+called	O
+C:\Users\Ankit\Desktop\To	B-PATH_FILE
+Review\Course	I-PATH_FILE
+Material\old_versions_do_not_delete.zip	I-PATH_FILE
+
+create	O
+a	O
+document	O
+called	O
+F:\External	B-PATH_FILE
+Drive\presentations\database\water_quality_report.xlsx	I-PATH_FILE
+
+create	O
+a	O
+document	O
+called	O
+D:\Backups\finance\Audio	B-PATH_FILE
+Troubleshooting\Makefile	I-PATH_FILE
+
+create	O
+a	O
+document	O
+called	O
+F:\External	B-PATH_FILE
+Drive\release	I-PATH_FILE
+builds\PBL	I-PATH_FILE
+Phase	I-PATH_FILE
+2\coding_round_results.xlsx	I-PATH_FILE
+
+create	O
+a	O
+document	O
+called	O
+C:\Users\Ankit\Pictures\Reports\tax_return_acknowledgement.pdf	B-PATH_FILE
+
+create	O
+a	O
+document	O
+named	O
+alembic_revision_map.txt	B-FILE
+
+create	O
+a	O
+document	O
+named	O
+gst_return_working.xlsx	B-FILE
+
+create	O
+a	O
+document	O
+named	O
+support_tickets.csv	B-FILE
+
+create	O
+a	O
+document	O
+named	O
+luggage_tag_print.pdf	B-FILE
+
+create	O
+a	O
+document	O
+named	O
+intent_dataset_test.jsonl	B-FILE
+
+create	O
+a	O
+document	O
+named	O
+\\192.168.1.20\teamshare\generated\engineering\package.json	B-PATH_FILE
+
+create	O
+a	O
+document	O
+named	O
+D:\Projects\Source	B-PATH_FILE
+Code\Semester	I-PATH_FILE
+7\product_batch_traceability.csv	I-PATH_FILE
+
+create	O
+a	O
+document	O
+named	O
+D:\Source\Shared	B-PATH_FILE
+Documents\exports\rename_file_edge_cases.jsonl	I-PATH_FILE
+
+create	O
+a	O
+document	O
+named	O
+D:\Source\inventory\Travel	B-PATH_FILE
+Planning\task_run_history.jsonl	I-PATH_FILE
+
+create	O
+a	O
+document	O
+named	O
+E:\Archive\Driver	B-PATH_FILE
+Backups\training	I-PATH_FILE
+data\update_channel_config.yaml	I-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+travel_itinerary_october.docx	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+annual_report_final.pdf	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+hostel_allocation_letter.pdf	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+lab_viva_schedule.pdf	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+integration_test_v2.cfg	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+D:\WinPilot\Receipts\python_environment_freeze.txt	B-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+C:\Users\Public\Documents\Downloads\orphaned_files_scan.csv	B-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+E:\College\travel\Network	B-PATH_FILE
+Captures\income_tax_computation_2026.xlsx	I-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+D:\Projects\To	B-PATH_FILE
+Review\Driver	I-PATH_FILE
+Backups\temporary_file_retention.csv	I-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+E:\Archive\logs\contracts\research_data_dictionary.md	B-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+meeting_agenda_2026_10.lock	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+shipment_tracking.rs	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+meeting_followup_actions.md	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+product_catalog_revised.vmdk	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+draft_support.zip	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+E:\College\intent	B-PATH_FILE
+models\src\label_frequency_report.csv	I-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+C:\Users\Ankit\OneDrive\logs\datasets\pet_adoption_form.pdf	B-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+C:\Users\Ankit\OneDrive\generated\config\loss_history.csv	B-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+D:\Research\Travel\workshop_attendance.csv	B-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+college	O
+D:\Work\api	B-PATH_FILE
+tests\Release	I-PATH_FILE
+1.4\parking_receipt.pdf	I-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+contract_draft_backup.bin	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+practical_file_index.xlsx	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+subscription_bills_october.pdf	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+instrument_readings_20261020.csv	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+video_subtitle_alignment.csv	B-FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+C:\Users\Ankit\OneDrive\finance\operations\salary_slip_october.pdf	B-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+F:\External	B-PATH_FILE
+Drive\Reports\src\concert_booking_confirmation.pdf	I-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+D:\WinPilot\photos\Exam	B-PATH_FILE
+Preparation\household_receipt_bundle.zip	I-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+C:\Users\ankit.kumar\Documents\Data\tax_return_acknowledgement.pdf	B-PATH_FILE
+
+create	O
+a	O
+file	O
+called	O
+my	O
+E:\College\diagnostics\Home	B-PATH_FILE
+Repairs\expense_split_october.xlsx	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+proxy_settings.reg	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+course_registration_override.pdf	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+recipe_notes_week42.md	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+load_test_report_approved.properties	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+receipt_fuel.jpg	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+C:\Dev\imports\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\model_evaluation_holdout.csv	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+D:\Source\Shared	B-PATH_FILE
+Documents\October	I-PATH_FILE
+2026\scan_20261020_0930.pdf	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+D:\Projects\photos\Network	B-PATH_FILE
+Captures\Thumbs.db	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+D:\Backups\customer	B-PATH_FILE
+support\migrations\subtitle_track.srt	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\Documents\validation	B-PATH_FILE
+data\WinPilot\travel_itinerary_october.docx	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+latency_benchmark_draft.ipynb	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+dataset_v3.jsonl	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+quarterly_review_reviewed.jsonl	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+dependency_audit_v3.svg	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+camera_raw_20261018.cr3	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+G:\Shared\tests\Network	B-PATH_FILE
+Captures\game_manual.pdf	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+D:\Work\Exam	B-PATH_FILE
+Preparation\Personal	I-PATH_FILE
+Finance\privacy_cookie_inventory.xlsx	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+\\FileServer\Departments\HR\meeting	B-PATH_FILE
+notes\disk_encryption_status.csv	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+C:\Program	B-PATH_FILE
+Files\Network	I-PATH_FILE
+Captures\Supplier	I-PATH_FILE
+North\router_speed_test.png	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+college	O
+\\FileServer\Departments\training	B-PATH_FILE
+data\engineering\air_conditioner_service_record.pdf	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+container_scan_summary.html	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+backup_manifest_20261020.json	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+firewall_audit_final.sav	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+network_drive_mapping.ps1	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+campaign_calendar.xlsm	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+D:\Source\archives\Old	B-PATH_FILE
+Versions\queue_depth_metrics.csv	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+\\OfficePC\Public\datasets\Shared	B-PATH_FILE
+Documents\supplier_quotes.xlsx	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+G:\Shared\operations\assets\delivery_route_plan.gpx	B-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+D:\Data\Exam	B-PATH_FILE
+Preparation\Course	I-PATH_FILE
+Material\voice_memo_12.aac	I-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+my	O
+C:\Users\Ankit\Desktop\Receipts\cross_browser_screenshots.zip	B-PATH_FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+vpn_configuration.tsv	B-FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+backup_manifest.json	B-FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+migration_plan_approved.weights	B-FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+desktop_shortcut_inventory.csv	B-FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+scheduler_debug.log	B-FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\Reports\Firewall	I-PATH_FILE
+Configs\duplicate_structure_candidates.csv	I-PATH_FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+C:\ProgramData\Payroll	B-PATH_FILE
+Manager\client	I-PATH_FILE
+files\final_reviewed.docx	I-PATH_FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+D:\Projects\temp\campaigns\folder_redirection_policy.docx	B-PATH_FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+E:\College\Data\loss_history.csv	B-PATH_FILE
+
+create	O
+a	O
+file	O
+with	O
+the	O
+name	O
+D:\Source\config\model	B-PATH_FILE
+outputs\pyinstaller_build.spec	I-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+regression_suite_backup.gif	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+data_validation_failures.csv	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+database_connection_errors.log	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+meeting_room_av_checklist.pdf	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+commit_history_export.txt	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+C:\Users\Ankit\OneDrive\Personal	B-PATH_FILE
+Finance\Course	I-PATH_FILE
+Material\journal_proof_corrections.pdf	I-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+C:\Dev\Archive\ad_spend_report_october.csv	B-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+C:\Program	B-PATH_FILE
+Files\inventory\datasets\research_group_minutes.docx	I-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+\\OfficePC\Public\training	B-PATH_FILE
+data\Research	I-PATH_FILE
+Papers\device_manager_export.txt	I-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+called	O
+D:\WinPilot\datasets\generated\records_batch_03.jsonl	B-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+annual_report.sys	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+preprocess_data.py	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+accounting_reconciliation.xlsx	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+ner_error_analysis.xlsx	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+slow_query_analysis.etl	B-FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+E:\Media\Travel\training_curve.svg	B-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+E:\College\exports\Lab	B-PATH_FILE
+Work\mobile_app_logs.zip	I-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+D:\Backups\validation	B-PATH_FILE
+data\training	I-PATH_FILE
+data\app.js	I-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+C:\Users\Ankit\Documents\Exam	B-PATH_FILE
+Preparation\Certificates\customs_declaration.pdf	I-PATH_FILE
+
+create	O
+a	O
+new	O
+document	O
+named	O
+D:\College\GEHU\Research	B-PATH_FILE
+Papers\Audio	I-PATH_FILE
+Troubleshooting\font_rendering_test.png	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+database_schema.js	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+resume_ankit.pdf	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+expense_claim_backup.rs	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+container_inventory.sav	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+coding_challenge_submission.zip	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+C:\ProgramData\photos\validation	B-PATH_FILE
+data\volunteer_shift_plan.xlsx	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\NER	I-PATH_FILE
+experiments\diagnostics\architecture_overview.vsdx	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+C:\ProgramData\Graphics	B-PATH_FILE
+Troubleshooting\invoices\course_progress_export.csv	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+F:\USB	B-PATH_FILE
+Backup\family	I-PATH_FILE
+photos\Research	I-PATH_FILE
+Papers\student_club_minutes.docx	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+called	O
+\\backup-server\weekly\customer	B-PATH_FILE
+support\To	I-PATH_FILE
+Review\generated_records_batch_01.jsonl	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+home_renovation_estimate.xlsx	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+ideas_inbox.md	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+database_snapshot.tmp	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+mypy.ini	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+expenses_q3.xlsx	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+\\OfficePC\Public\Home	B-PATH_FILE
+Repairs\marketing\rename_conflict_samples.jsonl	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+F:\USB	B-PATH_FILE
+Backup\receipts\customer	I-PATH_FILE
+support\fuel_card_statement.pdf	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+D:\Projects\HR\datasets\pet_food_schedule.xlsx	B-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+\\FileServer\Departments\Old	B-PATH_FILE
+Versions\Network	I-PATH_FILE
+Captures\draft_security.json	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+named	O
+C:\Dev\Invoices\inference_latency_benchmark.csv	B-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+ad_spend_report_october.csv	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+fire_extinguisher_inspection.pdf	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+resume_for_python_role.pdf	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+production_batch_traceability.csv	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+browser_bookmarks_2026.html	B-FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+C:\Dev\Downloads\call_summary_20261020.md	B-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+E:\College\generated\frontend\CHANGELOG.md	B-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+C:\Users\Public\Documents\Personal	B-PATH_FILE
+Finance\invoices\translation_memory.tmx	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+C:\Users\Public\Documents\Semester	B-PATH_FILE
+5\IMG_20261018_174233.jpg	I-PATH_FILE
+
+create	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+E:\Archive\design	B-PATH_FILE
+files\model	I-PATH_FILE
+outputs\rejected_records_import.csv	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+travel_claim_receipts.zip	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+controller_mapping.json	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+privacy_assessment.tiff	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+debug_output.txt	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+budget_forecast_v3.pdf	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+C:\Users\Ankit\Documents\Assignments\HR\newsletter_october.pdf	B-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+C:\Users\Ankit\OneDrive\docs\intent	B-PATH_FILE
+models\bike_service_receipt.pdf	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+D:\Backups\website\release	B-PATH_FILE
+builds\query_practice.sql	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+E:\Archive\migrations\Old	B-PATH_FILE
+Versions\webhook_delivery_log.csv	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+document	O
+named	O
+D:\Source\release	B-PATH_FILE
+builds\WinPilot\exam_revaluation_request.docx	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+campaign_calendar.webm	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+faculty_feedback_semester_5.xlsx	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+quarterly_review_revised.example	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+sqlite_integrity_check.txt	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+price_comparison_v3.wav	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+\\NAS01\Shared\invoices\Supplier	B-PATH_FILE
+North\desk_allocation_plan.png	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+\\backup-server\weekly\receipts\Projects\family_calendar_export.ics	B-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+\\backup-server\weekly\temp\intent	B-PATH_FILE
+models\battery_cycle_report.csv	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+F:\USB	B-PATH_FILE
+Backup\Research\water_quality_report.xlsx	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+called	O
+C:\Users\Ankit\Downloads\Assignments\benefits_enrolment_form.pdf	B-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+recipe_collection.epub	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+invoice_register.parquet	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+color_contrast_report.csv	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+label_frequency_report.csv	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+monthly_summary.example	B-FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+C:\Users\Ankit\Videos\WinPilot\container_image_list.csv	B-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+C:\Users\Public\Documents\website\design	B-PATH_FILE
+files\move_folder_edge_cases.jsonl	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+C:\Users\Ankit\Desktop\To	B-PATH_FILE
+Submit\warehouse\Procfile	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+C:\Users\Ankit\Downloads\training	B-PATH_FILE
+data\Travel	I-PATH_FILE
+Planning\local_llm_response_cache.jsonl	I-PATH_FILE
+
+create	O
+a	O
+new	O
+text	O
+file	O
+named	O
+D:\Projects\release	B-PATH_FILE
+builds\Source	I-PATH_FILE
+Code\luggage_inventory.xlsx	I-PATH_FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+unit_test_report.pdf	B-FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+vpn_configuration_final.key	B-FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+visa_supporting_documents.zip	B-FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+vulnerability_report.jsonl	B-FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+scanner_calibration_report.pdf	B-FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+C:\Users\Ankit\Videos\Meeting	B-PATH_FILE
+Notes\security_guard_roster.xlsx	I-PATH_FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+C:\Dev\Reports\grant_application_draft.docx	B-PATH_FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+E:\Personal\imports\database\bug_triage.xlsx	B-PATH_FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+C:\Users\Ankit\Documents\engineering\Lab	B-PATH_FILE
+Work\club_event_poster.jpg	I-PATH_FILE
+
+create	O
+a	O
+text	O
+document	O
+named	O
+C:\Projects\Training	B-PATH_FILE
+Data\school_timetable_october.pdf	I-PATH_FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+payroll_register_backup.tar.gz	B-FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+firewall_audit_v2.xz	B-FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+petty_cash_log.csv	B-FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+generated_records_batch_02.jsonl	B-FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+service_uptime_report.csv	B-FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+C:\Users\Ankit\Desktop\invoices\Home	B-PATH_FILE
+Repairs\Telegram	I-PATH_FILE
+Desktop	I-PATH_FILE
+2026-10-17	I-PATH_FILE
+21-08-44.jpg	I-PATH_FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+C:\ProgramData\training	B-PATH_FILE
+data\assets\accreditation_evidence_index.pdf	I-PATH_FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+D:\Research\Old	B-PATH_FILE
+Versions\tests\client_logo.svg	I-PATH_FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+D:\WinPilot\Semester	B-PATH_FILE
+7\operations\accessibility_audit.pdf	I-PATH_FILE
+
+create	O
+a	O
+text	O
+file	O
+called	O
+\\FileServer\Departments\family	B-PATH_FILE
+photos\Network	I-PATH_FILE
+Captures\quality_control_photos.zip	I-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+vehicle_logbook.xlsx	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+work_order_00817.pdf	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+product_catalog_v3.tsx	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+restore_test.gradle	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+translation_review_2026_10.stl	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+E:\Media\Screenshots\appliance_warranty_claim.docx	B-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+C:\Temp\Certificates\migrations\logo_final.svg	B-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+D:\Shared\Data\draft_dataset.docx	B-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+D:\Work\entity	B-PATH_FILE
+pools\meeting	I-PATH_FILE
+notes\rejected_records_import.csv	I-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+called	O
+C:\Projects\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\driver_package.msi	I-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+compatibility_test_results.csv	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+budget_forecast_draft.tiff	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+lab_safety_training.pdf	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+meeting_agenda_v2.example	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+dbms_mini_project.pdf	B-FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+G:\Shared\intent	B-PATH_FILE
+models\exports\cover_letter_internship.docx	I-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+G:\Shared\website\Audio	B-PATH_FILE
+Troubleshooting\contractor_nda_signed.pdf	I-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+D:\Shared\Source\lecture_recording.mp4	B-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+C:\Users\Ankit\Documents\frontend\test	B-PATH_FILE
+results\ideas_inbox.md	I-PATH_FILE
+
+create	O
+an	O
+empty	O
+file	O
+named	O
+D:\Staging\To	B-PATH_FILE
+Submit\frontend\model_evaluation_holdout.csv	I-PATH_FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+purchase_ledger.csv	B-FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+packing_list_20261020.pdf	B-FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+latency_benchmark_revised.jsonl	B-FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+network_capture.pcapng	B-FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+localisation_strings.rar	B-FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+D:\Work\client	B-PATH_FILE
+files\frontend\hotfix_notes_october.md	I-PATH_FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+D:\Backups\finance\finance\refund_request_8831.pdf	B-PATH_FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+C:\Users\Public\Documents\WinPilot\newsletter_october.pdf	B-PATH_FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+C:\Users\Ankit\Downloads\Receipts\personal_development_plan.md	B-PATH_FILE
+
+create	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+\\NAS01\Shared\website\temp\hotfix_2026_10_20.patch	B-PATH_FILE
+
+create	O
+file	O
+blue_screen_minidump_1020.dmp	B-FILE
+
+create	O
+file	O
+postmortem_v2.ts	B-FILE
+
+create	O
+file	O
+powershell_profile.ps1	B-FILE
+
+create	O
+file	O
+font_license_inventory.csv	B-FILE
+
+create	O
+file	O
+rollback_test_results.xlsx	B-FILE
+
+create	O
+file	O
+C:\Users\Ankit\Downloads\Downloads\archive_integrity_check.txt	B-PATH_FILE
+
+create	O
+file	O
+D:\Staging\To	B-PATH_FILE
+Submit\api	I-PATH_FILE
+tests\folder_redirection_policy.docx	I-PATH_FILE
+
+create	O
+file	O
+D:\Data\screenshots\docs\index_rebuild_history.csv	B-PATH_FILE
+
+create	O
+file	O
+\\192.168.1.20\teamshare\Assignments\Shared	B-PATH_FILE
+Documents\foreground_window_history.csv	I-PATH_FILE
+
+create	O
+file	O
+D:\College\GEHU\Assignments\draft_backup.txt	B-PATH_FILE
+
+create	O
+the	O
+file	O
+database_snapshot_final.c	B-FILE
+
+create	O
+the	O
+file	O
+cron_migration_notes.md	B-FILE
+
+create	O
+the	O
+file	O
+weekly_update_reviewed.example	B-FILE
+
+create	O
+the	O
+file	O
+product_walkthrough.mp4	B-FILE
+
+create	O
+the	O
+file	O
+placement_drive_notice.pdf	B-FILE
+
+create	O
+the	O
+file	O
+C:\Users\Ankit\Documents\Invoices\property_tax_receipt.pdf	B-PATH_FILE
+
+create	O
+the	O
+file	O
+C:\Dev\generated\design	B-PATH_FILE
+files\press_release.docx	I-PATH_FILE
+
+create	O
+the	O
+file	O
+C:\Dev\Screenshots\docker-compose.yml	B-PATH_FILE
+
+create	O
+the	O
+file	O
+D:\Staging\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\datasets\known_hosts_backup.txt	I-PATH_FILE
+
+create	O
+the	O
+file	O
+D:\WinPilot\tests\tests\project_demo_capture.mp4	B-PATH_FILE
+
+create	O
+the	O
+file	O
+called	O
+equipment_hire_agreement.pdf	B-FILE
+
+create	O
+the	O
+file	O
+called	O
+explorer_window_state.csv	B-FILE
+
+create	O
+the	O
+file	O
+called	O
+bank_reconciliation.model	B-FILE
+
+create	O
+the	O
+file	O
+called	O
+disaster_recovery_backup.ttf	B-FILE
+
+create	O
+the	O
+file	O
+called	O
+hyperv_switch_config.json	B-FILE
+
+create	O
+the	O
+file	O
+called	O
+C:\Users\Ankit\Desktop\Photos\offline_files_status.csv	B-PATH_FILE
+
+create	O
+the	O
+file	O
+called	O
+E:\Incoming\src\Certificates\class_representative_notes.txt	B-PATH_FILE
+
+create	O
+the	O
+file	O
+called	O
+D:\Data\backend\Personal	B-PATH_FILE
+Finance\capstone_demo_slides.pptx	I-PATH_FILE
+
+create	O
+the	O
+file	O
+called	O
+C:\Dev\Graphics	B-PATH_FILE
+Troubleshooting\recordings\temporary_file_retention.csv	I-PATH_FILE
+
+create	O
+the	O
+file	O
+called	O
+C:\Users\Ankit\Pictures\Reports\sample_payload.json	B-PATH_FILE
+
+create	O
+the	O
+file	O
+named	O
+ssd_migration_checklist.pdf	B-FILE
+
+create	O
+the	O
+file	O
+named	O
+maintenance_log.sav	B-FILE
+
+create	O
+the	O
+file	O
+named	O
+homepage_wireframe.fig	B-FILE
+
+create	O
+the	O
+file	O
+named	O
+hotel_invoice_20261018.pdf	B-FILE
+
+create	O
+the	O
+file	O
+named	O
+battery_health_export.html	B-FILE
+
+create	O
+the	O
+file	O
+named	O
+\\192.168.1.20\teamshare\Shared	B-PATH_FILE
+Documents\Reports\portfolio_homepage_mockup.fig	I-PATH_FILE
+
+create	O
+the	O
+file	O
+named	O
+\\FileServer\Departments\design	B-PATH_FILE
+files\Reports\monthly_summary_october.pdf	I-PATH_FILE
+
+create	O
+the	O
+file	O
+named	O
+D:\Projects\src\release	B-PATH_FILE
+builds\event_pass_2026.png	I-PATH_FILE
+
+create	O
+the	O
+file	O
+named	O
+\\OfficePC\Public\assets\Research	B-PATH_FILE
+Papers\soil_ph_readings.csv	I-PATH_FILE
+
+create	O
+the	O
+file	O
+named	O
+D:\WinPilot\Reports\Device	B-PATH_FILE
+Reports\campaign_calendar.xlsx	I-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+banner_design.psd	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+security_baseline_checklist.xlsx	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+attendance_sheet_v3.etl	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+migration_results_approved.tar.gz	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+risk_register_v2.webp	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+C:\Dev\Travel\transcript_meeting.txt	B-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+C:\Users\Ankit\OneDrive\Model	B-PATH_FILE
+Outputs\wedding_invitation_sample.png	I-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+C:\Users\Ankit\OneDrive\invoices\Network	B-PATH_FILE
+Captures\ram_test_summary.html	I-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+D:\Work\migrations\Semester	B-PATH_FILE
+7\tox.ini	I-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+called	O
+D:\Data\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\CHANGELOG.md	I-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+browser_matrix_2026_10.weights	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+pbl_phase2_report.docx	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+restore_test_final.md	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+migration_004.sql	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+maintenance_log_draft.c	B-FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+\\OfficePC\Public\docs\Certificates\local_map_export.pdf	B-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\finance\Projects\draft_performance.md	I-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+D:\College\GEHU\generated\Supplier	B-PATH_FILE
+North\vpc_network_diagram.drawio	I-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+D:\Data\Firewall	B-PATH_FILE
+Configs\config\returns_register.xlsx	I-PATH_FILE
+
+create	O
+the	O
+new	O
+file	O
+named	O
+C:\Users\Ankit\Documents\Downloads\access_review_2026.xlsx	B-PATH_FILE
+
+generate	O
+a	O
+document	O
+called	O
+database_schema_draft.onnx	B-FILE
+
+generate	O
+a	O
+document	O
+called	O
+automation_run_history.jsonl	B-FILE
+
+generate	O
+a	O
+document	O
+called	O
+network_topology_2026_10.ics	B-FILE
+
+generate	O
+a	O
+document	O
+called	O
+tyre_pressure_log.csv	B-FILE
+
+generate	O
+a	O
+document	O
+called	O
+contract_draft_v2.jar	B-FILE
+
+generate	O
+a	O
+document	O
+called	O
+F:\External	B-PATH_FILE
+Drive\client	I-PATH_FILE
+files\Client	I-PATH_FILE
+A\switch_port_inventory.xlsx	I-PATH_FILE
+
+generate	O
+a	O
+document	O
+called	O
+E:\Personal\website\campaigns\installed_apps_export.csv	B-PATH_FILE
+
+generate	O
+a	O
+document	O
+called	O
+D:\Research\Reports\design	B-PATH_FILE
+files\interview_transcripts_anonymised.zip	I-PATH_FILE
+
+generate	O
+a	O
+document	O
+called	O
+C:\Users\Ankit\Documents\Release	B-PATH_FILE
+1.4\WinPilot\holiday_video.mp4	I-PATH_FILE
+
+generate	O
+a	O
+document	O
+called	O
+C:\ProgramData\frontend\Release	B-PATH_FILE
+1.4\final_revised.docx	I-PATH_FILE
+
+generate	O
+a	O
+document	O
+named	O
+contact_form_test_results.csv	B-FILE
+
+generate	O
+a	O
+document	O
+named	O
+tax_computation.feather	B-FILE
+
+generate	O
+a	O
+document	O
+named	O
+network_topology.md	B-FILE
+
+generate	O
+a	O
+document	O
+named	O
+transport_pickup_plan.xlsx	B-FILE
+
+generate	O
+a	O
+document	O
+named	O
+privileged_access_review.xlsx	B-FILE
+
+generate	O
+a	O
+document	O
+named	O
+D:\Research\design	B-PATH_FILE
+files\Reports\placement_drive_notice.pdf	I-PATH_FILE
+
+generate	O
+a	O
+document	O
+named	O
+D:\Projects\Model	B-PATH_FILE
+Outputs\tls_expiry_monitor.csv	I-PATH_FILE
+
+generate	O
+a	O
+document	O
+named	O
+E:\College\photos\To	B-PATH_FILE
+Review\meal_plan.docx	I-PATH_FILE
+
+generate	O
+a	O
+document	O
+named	O
+D:\WinPilot\Certificates\training	B-PATH_FILE
+data\career_fair_map.png	I-PATH_FILE
+
+generate	O
+a	O
+document	O
+named	O
+F:\USB	B-PATH_FILE
+Backup\finance\database\homework_tracker.xlsx	I-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+integration_test_v3.blend	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+product_analytics_events.csv	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+asset_inventory_reviewed.txt	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+update_channel_config.yaml	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+electricity_consumption_october.csv	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+C:\Users\Ankit\Downloads\Meeting	B-PATH_FILE
+Notes\product_catalog.pdf	I-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+D:\Research\Semester	B-PATH_FILE
+5\venue_floor_plan.pdf	I-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+C:\Dev\src\src\faculty_feedback_semester_5.xlsx	B-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+C:\Users\Ankit\OneDrive\tests\client	B-PATH_FILE
+files\tfidf_vectorizer.pkl	I-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+called	O
+\\192.168.1.20\teamshare\archives\backend\family_calendar_export.ics	B-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+cloud_cost_report_v3.obj	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+audit_evidence_v3.model	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+delivery_manifest.ps1	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+slow_query_analysis.err	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+draft_lab.xlsx	B-FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+C:\Users\Public\Documents\Data\query_practice.sql	B-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+C:\Dev\Windows	B-PATH_FILE
+Logs\photos\translation_vendor_quote.pdf	I-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+D:\Shared\Backups\online_order_history.csv	B-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+D:\Shared\Training	B-PATH_FILE
+Data\authentication_failure_log.csv	I-PATH_FILE
+
+generate	O
+a	O
+new	O
+file	O
+named	O
+C:\Users\Ankit\Pictures\Exam	B-PATH_FILE
+Preparation\Client	I-PATH_FILE
+A\medical_claim_form.pdf	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+printer_scan_20261020.pdf	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+benchmark_cpu_profile.prof	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+references_zotero.rdf	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+gym_progress_photos.zip	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+experiment_config.yaml	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+C:\Program	B-PATH_FILE
+Files\engineering\photos\staff_schedule_week43.xlsx	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+C:\Projects\Training	B-PATH_FILE
+Data\microscope_capture_004.tif	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+D:\Work\To	B-PATH_FILE
+Review\campaigns\translation_vendor_quote.pdf	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+C:\Users\Public\Documents\Windows	B-PATH_FILE
+Logs\Driver	I-PATH_FILE
+Backups\technical_round_notes.md	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+called	O
+F:\USB	B-PATH_FILE
+Backup\WinPilot\accessibility_test_run.xml	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+loss_history.csv	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+compliance_review_reviewed.pfx	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+seo_crawl_findings.csv	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+browser_matrix.toml	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+price_comparison.mp4	B-FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+C:\Users\Public\Documents\Week	B-PATH_FILE
+42\client	I-PATH_FILE
+files\portfolio_project_readme.md	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+C:\Users\Ankit\Documents\Training	B-PATH_FILE
+Data\subscription_renewal_list.csv	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+D:\Work\To	B-PATH_FILE
+Submit\invoices\travel_itinerary.pdf	I-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+D:\Research\website\frontend\voice_note.m4a	B-PATH_FILE
+
+generate	O
+a	O
+text	O
+file	O
+named	O
+D:\Work\Screenshots\newsletter_template.html	B-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+vpn_configuration.log	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+github_actions_run.log	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+meeting_minutes_approved.reg	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+localisation_strings.iso	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+meeting_minutes_final.properties	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+D:\College\GEHU\Personal	B-PATH_FILE
+Finance\Sprint	I-PATH_FILE
+13\homework_tracker.xlsx	I-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+C:\ProgramData\exports\generated\fitness_log.csv	B-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+\\FileServer\Departments\assets\Payroll	B-PATH_FILE
+Manager\draft_security.json	I-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+C:\Users\Ankit\Documents\Home	B-PATH_FILE
+Repairs\travel\pbl_phase2_report.docx	I-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+called	O
+D:\WinPilot\assets\To	B-PATH_FILE
+Submit\workplace_safety_observation.csv	I-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+profile_picture.jpg	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+linkedin_banner.png	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+migration_plan_reviewed.msi	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+asset_inventory_2026_10.srt	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+product_catalog.sys	B-FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+D:\Staging\release	B-PATH_FILE
+builds\engineering\performance_profile.prof	I-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+E:\Media\Archive\Procfile	B-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+E:\Archive\training	B-PATH_FILE
+data\test	I-PATH_FILE
+results\aws_lab_completion.pdf	I-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\Desktop\Semester	B-PATH_FILE
+5\pet_photo_20261018.jpg	I-PATH_FILE
+
+I	O
+need	O
+a	O
+file	O
+named	O
+D:\Backups\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\To	I-PATH_FILE
+Review\render_preview.png	I-PATH_FILE
+
+I	O
+need	O
+to	O
+create	O
+accessibility_audit_revised.tiff	B-FILE
+
+I	O
+need	O
+to	O
+create	O
+ner_validation_examples.jsonl	B-FILE
+
+I	O
+need	O
+to	O
+create	O
+incident_report.go	B-FILE
+
+I	O
+need	O
+to	O
+create	O
+browser_matrix_reviewed.pow	B-FILE
+
+I	O
+need	O
+to	O
+create	O
+price_comparison_2026_10.crt	B-FILE
+
+I	O
+need	O
+to	O
+create	O
+C:\Users\Ankit\Downloads\Semester	B-PATH_FILE
+5\habit_tracker.xlsx	I-PATH_FILE
+
+I	O
+need	O
+to	O
+create	O
+C:\Users\Ankit\Pictures\src\travel\wsl_distribution_export.tar	B-PATH_FILE
+
+I	O
+need	O
+to	O
+create	O
+\\NAS01\Shared\presentations\Course	B-PATH_FILE
+Material\social_post_template.psd	I-PATH_FILE
+
+I	O
+need	O
+to	O
+create	O
+D:\WinPilot\entity_pools\FILE.json	B-PATH_FILE
+
+I	O
+need	O
+to	O
+create	O
+E:\Incoming\Lab	B-PATH_FILE
+Work\Driver	I-PATH_FILE
+Backups\bluetooth_adapter_report.txt	I-PATH_FILE
+
+I	O
+need	O
+to	O
+make	O
+student_council_minutes.docx	B-FILE
+
+I	O
+need	O
+to	O
+make	O
+staging_export_20261020.zip	B-FILE
+
+I	O
+need	O
+to	O
+make	O
+meeting_agenda_v3.tsv	B-FILE
+
+I	O
+need	O
+to	O
+make	O
+contact_list.php	B-FILE
+
+I	O
+need	O
+to	O
+make	O
+maintenance_log.ts	B-FILE
+
+I	O
+need	O
+to	O
+make	O
+D:\Research\tests\training	B-PATH_FILE
+data\product_release_checklist.docx	I-PATH_FILE
+
+I	O
+need	O
+to	O
+make	O
+E:\College\src\Research	B-PATH_FILE
+Papers\income_tax_computation_2026.xlsx	I-PATH_FILE
+
+I	O
+need	O
+to	O
+make	O
+C:\Users\Ankit\Downloads\engineering\Home	B-PATH_FILE
+Repairs\tls_certificate.cer	I-PATH_FILE
+
+I	O
+need	O
+to	O
+make	O
+F:\USB	B-PATH_FILE
+Backup\frontend\migrations\purchase_fraud_review.csv	I-PATH_FILE
+
+I	O
+need	O
+to	O
+make	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\docs\HR\training_data_audit.pdf	I-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+browser_matrix_approved.mov	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+project_scope.pt	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+teaching_assistant_roster.csv	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+intent_dataset_train.jsonl	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+disaster_recovery_revised.blend	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+C:\Users\Ankit\OneDrive\Data\branch_cleanup_list.csv	B-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+D:\Source\Lab	B-PATH_FILE
+Work\Final	I-PATH_FILE
+Versions\survey_questionnaire_v3.docx	I-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+C:\Users\Ankit\Videos\Travel	B-PATH_FILE
+Planning\NER	I-PATH_FILE
+experiments\unsorted_downloads.zip	I-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+C:\Program	B-PATH_FILE
+Files\Lab	I-PATH_FILE
+Work\Projects\renewal_forecast.xlsx	I-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+called	O
+D:\Projects\Reports\archive_catalog_2026.csv	B-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+shift_schedule_v2.jsx	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+vaccination_due_notice.pdf	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+contractor_bill_verification.xlsx	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+vpn_configuration.3mf	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+license_register.dll	B-FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+D:\College\GEHU\Backups\accounting_reconciliation.xlsx	B-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+C:\Program	B-PATH_FILE
+Files\Device	I-PATH_FILE
+Reports\validation	I-PATH_FILE
+data\offer_letter_template.docx	I-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+E:\Incoming\Device	B-PATH_FILE
+Reports\Shared	I-PATH_FILE
+Documents\entity_label_guidelines.pdf	I-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+D:\Research\Data\responsive_layout_checks.pdf	B-PATH_FILE
+
+I	O
+want	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\Downloads\Firewall	B-PATH_FILE
+Configs\Firewall	I-PATH_FILE
+Configs\browser_profile_backup.zip	I-PATH_FILE
+
+I	O
+want	O
+to	O
+create	O
+hotel_cancellation_receipt.pdf	B-FILE
+
+I	O
+want	O
+to	O
+create	O
+animated_logo.gif	B-FILE
+
+I	O
+want	O
+to	O
+create	O
+vpn_configuration_approved.css	B-FILE
+
+I	O
+want	O
+to	O
+create	O
+network_topology.arrow	B-FILE
+
+I	O
+want	O
+to	O
+create	O
+dns_records.obj	B-FILE
+
+I	O
+want	O
+to	O
+create	O
+D:\Research\Audio	B-PATH_FILE
+Troubleshooting\HR\lecture_capture_week8.mkv	I-PATH_FILE
+
+I	O
+want	O
+to	O
+create	O
+D:\College\GEHU\Reports\voice_memo_12.aac	B-PATH_FILE
+
+I	O
+want	O
+to	O
+create	O
+F:\USB	B-PATH_FILE
+Backup\Driver	I-PATH_FILE
+Backups\model	I-PATH_FILE
+outputs\reading_queue.json	I-PATH_FILE
+
+I	O
+want	O
+to	O
+create	O
+D:\Research\Semester	B-PATH_FILE
+7\Lab	I-PATH_FILE
+Work\delivery_route_plan.gpx	I-PATH_FILE
+
+I	O
+want	O
+to	O
+create	O
+D:\Data\exports\marketing\delivery_note.pdf	B-PATH_FILE
+
+I	O
+want	O
+to	O
+make	O
+risk_register.aab	B-FILE
+
+I	O
+want	O
+to	O
+make	O
+plugin_capability_matrix.csv	B-FILE
+
+I	O
+want	O
+to	O
+make	O
+project_guide_comments.docx	B-FILE
+
+I	O
+want	O
+to	O
+make	O
+queue_retry_analysis.ipynb	B-FILE
+
+I	O
+want	O
+to	O
+make	O
+default_programs_export.xml	B-FILE
+
+I	O
+want	O
+to	O
+make	O
+C:\Temp\Supplier	B-PATH_FILE
+North\inventory\compost_schedule.txt	I-PATH_FILE
+
+I	O
+want	O
+to	O
+make	O
+C:\Dev\Training	B-PATH_FILE
+Data\queue_retry_analysis.ipynb	I-PATH_FILE
+
+I	O
+want	O
+to	O
+make	O
+D:\Projects\Backups\architecture_overview.vsdx	B-PATH_FILE
+
+I	O
+want	O
+to	O
+make	O
+C:\Users\Ankit\Desktop\Graphics	B-PATH_FILE
+Troubleshooting\release	I-PATH_FILE
+builds\license_inventory.csv	I-PATH_FILE
+
+I	O
+want	O
+to	O
+make	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\client	I-PATH_FILE
+files\Audio	I-PATH_FILE
+Troubleshooting\failed_login_summary.csv	I-PATH_FILE
+
+make	O
+localization_review.xlsx	B-FILE
+
+make	O
+pbl_phase2_presentation.pptx	B-FILE
+
+make	O
+capacity_planning_model.xlsx	B-FILE
+
+make	O
+handover_certificate.pdf	B-FILE
+
+make	O
+cash_flow_2026_10.fbx	B-FILE
+
+make	O
+E:\College\Photos\api_latency_report.xlsx	B-PATH_FILE
+
+make	O
+F:\External	B-PATH_FILE
+Drive\design	I-PATH_FILE
+files\photos\keyboard_shortcut_map.json	I-PATH_FILE
+
+make	O
+F:\USB	B-PATH_FILE
+Backup\receipts\Network	I-PATH_FILE
+Captures\project_evaluation_rubric.pdf	I-PATH_FILE
+
+make	O
+E:\Personal\Semester	B-PATH_FILE
+7\Supplier	I-PATH_FILE
+North\research_participant_schedule.ics	I-PATH_FILE
+
+make	O
+C:\Users\Ankit\Downloads\warehouse\NER	B-PATH_FILE
+experiments\db_dump_2026_10_20.sql	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+dependency_audit.err	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+windows_defender_history.csv	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+student_club_budget.xlsx	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+build_manifest_2026_10.mkv	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+local_map_export.pdf	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+F:\USB	B-PATH_FILE
+Backup\Old	I-PATH_FILE
+Versions\Final	I-PATH_FILE
+Versions\scene_export.fbx	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+E:\Archive\Client	B-PATH_FILE
+A\Research	I-PATH_FILE
+Papers\logistic_regression_model.pkl	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+C:\Users\Ankit\Documents\Downloads\onboarding_guide.pdf	B-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+C:\Users\Ankit\Videos\Training	B-PATH_FILE
+Data\security_guard_roster.xlsx	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+called	O
+D:\Backups\Travel\routes.py	B-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+old_laptop_backup.zip	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+lab_calibration_schedule.ics	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+browser_matrix_draft.srt	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+club_event_poster.jpg	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+container_inventory_approved.xlsx	B-FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+E:\Media\Training	B-PATH_FILE
+Data\water_filter_change_log.xlsx	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+\\NAS01\Shared\Payroll	B-PATH_FILE
+Manager\Release	I-PATH_FILE
+1.4\print_to_pdf_test.docx	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+C:\Users\Ankit\OneDrive\test	B-PATH_FILE
+results\backups\data_lake_inventory.xlsx	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+C:\Dev\NER	B-PATH_FILE
+experiments\Client	I-PATH_FILE
+A\temporary_export.tmp	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+file	O
+named	O
+D:\WinPilot\database\Source	B-PATH_FILE
+Code\campaign_utm_inventory.xlsx	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+query_results_revised.iso	B-FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+database_snapshot.sav	B-FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+known_hosts_backup.txt	B-FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+packing_station_checklist.pdf	B-FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+predictions_output.csv	B-FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+D:\Staging\client	B-PATH_FILE
+files\Audio	I-PATH_FILE
+Troubleshooting\packet_loss_measurements.csv	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+D:\Shared\Reports\save_slot_03.sav	B-PATH_FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+C:\Users\Ankit\Videos\model	B-PATH_FILE
+outputs\training	I-PATH_FILE
+data\backup_2026_10_19.zip	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+\\FileServer\Departments\validation	B-PATH_FILE
+data\engineering\transport_pickup_plan.xlsx	I-PATH_FILE
+
+make	O
+a	O
+blank	O
+text	O
+file	O
+named	O
+E:\Archive\Documents\disk_health_report.html	B-PATH_FILE
+
+make	O
+a	O
+document	O
+called	O
+warehouse_stock_v2.ini	B-FILE
+
+make	O
+a	O
+document	O
+called	O
+weekly_update.ost	B-FILE
+
+make	O
+a	O
+document	O
+called	O
+sports_facility_booking.ics	B-FILE
+
+make	O
+a	O
+document	O
+called	O
+styles.css	B-FILE
+
+make	O
+a	O
+document	O
+called	O
+tenant_deposit_return.xlsx	B-FILE
+
+make	O
+a	O
+document	O
+called	O
+C:\Users\Ankit\OneDrive\Photos\pet_vet_receipt.pdf	B-PATH_FILE
+
+make	O
+a	O
+document	O
+called	O
+D:\Research\campaigns\database\save_backup_2026_10_18.zip	B-PATH_FILE
+
+make	O
+a	O
+document	O
+called	O
+E:\Media\WinPilot\website\external_drive_inventory.csv	B-PATH_FILE
+
+make	O
+a	O
+document	O
+called	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\October	I-PATH_FILE
+2026\invoices\bookmark_backup.html	I-PATH_FILE
+
+make	O
+a	O
+document	O
+called	O
+D:\Data\invoices\entity	B-PATH_FILE
+pools\app_icon.png	I-PATH_FILE
+
+make	O
+a	O
+document	O
+named	O
+paper_draft.docx	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+database_schema.evtx	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+voice_note.m4a	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+library_catalog_export.csv	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+manufacturing_work_order.pdf	B-FILE
+
+make	O
+a	O
+document	O
+named	O
+C:\Dev\Supplier	B-PATH_FILE
+North\Device	I-PATH_FILE
+Reports\water_meter_readings.xlsx	I-PATH_FILE
+
+make	O
+a	O
+document	O
+named	O
+D:\WinPilot\Semester	B-PATH_FILE
+5\bluetooth_pairing_log.txt	I-PATH_FILE
+
+make	O
+a	O
+document	O
+named	O
+\\OfficePC\Public\frontend\WinPilot\placement_resume_review.docx	B-PATH_FILE
+
+make	O
+a	O
+document	O
+named	O
+C:\ProgramData\Lab	B-PATH_FILE
+Work\datasets\password_reset_codes.txt	I-PATH_FILE
+
+make	O
+a	O
+document	O
+named	O
+D:\WinPilot\training	B-PATH_FILE
+data\contracts\campus_transport_pass.pdf	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+blender_render_queue.csv	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+client_deliverables_index.xlsx	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+responsive_layout_checks.pdf	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+shipment_exception_log.csv	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+api_specification_v2.gif	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+C:\Dev\Windows	B-PATH_FILE
+Logs\Assignments\api_response_401.json	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+C:\Temp\campaigns\migrations\mobile_backup_manifest.json	B-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+G:\Shared\website\receipts\equipment_loan_register.xlsx	B-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+C:\Users\Public\Documents\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\cloud_cost_report.xlsx	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+C:\Users\Public\Documents\Assignments\Lab	B-PATH_FILE
+Work\wedding_invitation_sample.png	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+project_charter_backup.sql	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+stock_reconciliation_backup.bat	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+viva_prep_notes.docx	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+quarterly_review_final.heapsnapshot	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+career_fair_map.png	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+D:\Data\screenshots\Final	B-PATH_FILE
+Versions\gift_purchase_receipt.pdf	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+F:\USB	B-PATH_FILE
+Backup\Screenshots\attendee_badge_export.csv	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+\\OfficePC\Public\receipts\Travel	B-PATH_FILE
+Planning\capstone_source_bundle.zip	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+C:\ProgramData\Travel	B-PATH_FILE
+Planning\tests\untitled_spreadsheet.xlsx	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+college	O
+E:\Archive\Screenshots\notification_sound.wav	B-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+product_return_reason_codes.json	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+delivery_manifest_approved.vcf	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+leave_request_draft.vmdk	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+dashboard.tsx	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+feature_store_inventory.csv	B-FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+E:\College\Graphics	B-PATH_FILE
+Troubleshooting\Old	I-PATH_FILE
+Versions\etl_pipeline.py	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+E:\Media\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\mod_list.txt	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+C:\Users\Ankit\Downloads\contracts\Final	B-PATH_FILE
+Versions\repository_mirror.bundle	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+C:\Users\Ankit\Downloads\Meeting	B-PATH_FILE
+Notes\product_roadmap.pptx	I-PATH_FILE
+
+make	O
+a	O
+file	O
+called	O
+my	O
+D:\WinPilot\Research	B-PATH_FILE
+Papers\To	I-PATH_FILE
+Review\package.json	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+locale_fallback_test.csv	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+database_schema.parquet	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+deployment_checklist.fbx	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+query_results.htm	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+support_case.ics	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\OneDrive\HR\entity	B-PATH_FILE
+pools\memory_leak_snapshot.heapsnapshot	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+C:\Users\Public\Documents\backups\config\default_programs_export.xml	B-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+D:\Staging\warehouse\Driver	B-PATH_FILE
+Backups\query_regression_results.xlsx	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+D:\Projects\Meeting	B-PATH_FILE
+Notes\fire_drill_roster.xlsx	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+D:\Projects\Payroll	B-PATH_FILE
+Manager\Shared	I-PATH_FILE
+Documents\weekly_cleaning_roster.xlsx	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+ner_prediction_examples.jsonl	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+garden_plan.jpg	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+refund_request.exe	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+website_audit.rs	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+community_event_flyer.png	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+C:\Users\Ankit\Pictures\presentations\validation	B-PATH_FILE
+data\internship_offer_comparison.pdf	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+C:\Users\Ankit\Documents\Semester	B-PATH_FILE
+7\Lab	I-PATH_FILE
+Work\support_case_000381.txt	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+D:\Work\Audio	B-PATH_FILE
+Troubleshooting\Week	I-PATH_FILE
+42\usb_device_driver_log.txt	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+C:\Users\Ankit\OneDrive\generated\diagnostics\app_permissions_audit.csv	B-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+college	O
+C:\Users\Public\Documents\Model	B-PATH_FILE
+Outputs\placement_offer_comparison.xlsx	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+monthly_summary_v3.ost	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+tax_computation_approved.parquet	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+salary_expectations.xlsx	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+database_schema_revised.dmp	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+security_policy.md	B-FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+C:\Users\Ankit\Downloads\presentations\Supplier	B-PATH_FILE
+North\cors_policy_matrix.xlsx	I-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+D:\WinPilot\Documents\event_poster.png	B-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+D:\WinPilot\travel\WinPilot\foreground_window_history.csv	B-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+D:\Work\database\invoices\security_training_completion.xlsx	B-PATH_FILE
+
+make	O
+a	O
+file	O
+named	O
+my	O
+C:\Users\Ankit\Documents\api	B-PATH_FILE
+tests\backups\bitlocker_recovery_instructions.pdf	I-PATH_FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+security_findings.xlsm	B-FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+backup_manifest.exe	B-FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+quotation_template.docx	B-FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+rename_conflict_samples.jsonl	B-FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+uptime_summary.gz	B-FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+\\FileServer\Departments\config\receipts\supplier_scorecard.xlsx	B-PATH_FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+C:\Program	B-PATH_FILE
+Files\Client	I-PATH_FILE
+A\entity	I-PATH_FILE
+pools\file_operation_timings.csv	I-PATH_FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+E:\Media\frontend\campaigns\oauth_client_config.example.json	B-PATH_FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+\\backup-server\weekly\migrations\customer	B-PATH_FILE
+support\dns_cache_flush_notes.md	I-PATH_FILE
+
+make	O
+a	O
+file	O
+with	O
+the	O
+name	O
+D:\Data\Documents\field_observations.md	B-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+license_register_v2.trace	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+security_findings_reviewed.pow	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+sleep_schedule_notes.md	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+team_org_chart.vsdx	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+workshop_attendance.csv	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+C:\Users\Ankit\Documents\Network	B-PATH_FILE
+Captures\intent	I-PATH_FILE
+models\Desktop.ini	I-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+C:\Users\Ankit\Videos\website\Personal	B-PATH_FILE
+Finance\holiday_video.mp4	I-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+E:\Incoming\Supplier	B-PATH_FILE
+North\To	I-PATH_FILE
+Submit\project_archive_2024.zip	I-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+F:\USB	B-PATH_FILE
+Backup\contracts\src\meeting_room_booking.ics	I-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+called	O
+C:\Users\Ankit\OneDrive\config\migrations\sales_summary.xlsx	B-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+postmortem_reviewed.bin	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+purchase_order_v3.xlsm	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+license_register.bat	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+ebook_sample.epub	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+release_notes.ipa	B-FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+D:\Projects\family	B-PATH_FILE
+photos\Reports\bike_service_receipt.pdf	I-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+\\OfficePC\Public\website\To	B-PATH_FILE
+Review\schema_diff_20261020.sql	I-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+\\192.168.1.20\teamshare\Driver	B-PATH_FILE
+Backups\docs\screen_recording_trimmed.mp4	I-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+C:\Dev\Backups\test_fixture.json	B-PATH_FILE
+
+make	O
+a	O
+new	O
+document	O
+named	O
+G:\Shared\To	B-PATH_FILE
+Review\screenshots\courier_invoice.pdf	I-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+fleet_inspection_checklist.pdf	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+grocery_receipt_20261019.jpg	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+migration_plan.psd	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+quality_report.inf	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+social_media_plan_v3.otf	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+D:\Projects\entity	B-PATH_FILE
+pools\HR\cover_letter.pdf	I-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+D:\Backups\invoices\Assignments\social_post_template.psd	B-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+D:\Source\training	B-PATH_FILE
+data\travel\tls_certificate.cer	I-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+E:\Personal\Projects\imports\monthly_expense_summary.xlsx	B-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+called	O
+C:\Users\Ankit\Documents\invoices\diagnostics\company_research_notes.md	B-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+old_letters_archive.zip	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+club_membership_renewal.pdf	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+personal_journal_october.md	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+move_rollback_cases.csv	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+supplier_contacts.vcf	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+D:\Source\Travel	B-PATH_FILE
+Planning\campaigns\cold_chain_temperature_excursion.csv	I-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\meeting	I-PATH_FILE
+notes\logs\plant_watering_log.csv	I-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+D:\Projects\Device	B-PATH_FILE
+Reports\release	I-PATH_FILE
+builds\open_source_contributions.csv	I-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+D:\Work\docs\datasets\field_site_photos.zip	B-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+named	O
+E:\Media\Network	B-PATH_FILE
+Captures\Release	I-PATH_FILE
+1.4\system_info.txt	I-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+migration_results_v3.xlsx	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+load_test_report_reviewed.model	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+phishing_simulation_results.xlsx	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+train_pnr_confirmation.pdf	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+contract_draft_revised.blend	B-FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+D:\College\GEHU\invoices\Projects\diet_plan_week42.docx	B-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+D:\Staging\recordings\engineering\water_bill.pdf	B-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+\\backup-server\weekly\Reports\release	B-PATH_FILE
+builds\router_firmware_notes.md	I-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+G:\Shared\exports\src\jmeter_results_week42.jtl	B-PATH_FILE
+
+make	O
+a	O
+new	O
+file	O
+with	O
+the	O
+name	O
+C:\Program	B-PATH_FILE
+Files\Home	I-PATH_FILE
+Repairs\To	I-PATH_FILE
+Submit\access_review_2026.xlsx	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+data_subject_access_response.pdf	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+latency_benchmark_v3.bat	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+phone_transfer_manifest.json	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+intent_confidence_histogram.png	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+vpn_profile_backup.xml	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+C:\Users\Public\Documents\Travel\quality_inspection_form.xlsx	B-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+C:\Users\Ankit\OneDrive\Home	B-PATH_FILE
+Repairs\October	I-PATH_FILE
+2026\sports_day_schedule.pdf	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+F:\External	B-PATH_FILE
+Drive\Assignments\recordings\ner_training_examples.jsonl	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+C:\Projects\Receipts\sharing_violation_trace.etl	B-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+document	O
+named	O
+C:\Users\Ankit\Desktop\database\Exam	B-PATH_FILE
+Preparation\support_tickets.csv	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+localisation_strings.zip	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+payroll_june.xlsx	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+canteen_menu_week42.pdf	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+file_transfer_manifest.json	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+privacy_assessment_revised.dwg	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+E:\Archive\Semester	B-PATH_FILE
+5\project_final_really_final.zip	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\generated\test	I-PATH_FILE
+results\exit_interview_notes.docx	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+C:\Users\Ankit\Pictures\Final	B-PATH_FILE
+Versions\Network	I-PATH_FILE
+Captures\literature_review.docx	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+E:\Archive\api	B-PATH_FILE
+tests\website\performance_regression_report.xlsx	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+called	O
+C:\Users\Ankit\Videos\finance\Semester	B-PATH_FILE
+5\dns_cache_flush_notes.md	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+payroll_register_2026_10.pt	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+records_classification.xlsx	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+rollback_plan_2026_10.xlsm	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+warehouse_stock.svg	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+household_insurance_schedule.pdf	B-FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+C:\Users\Ankit\Downloads\Release	B-PATH_FILE
+1.4\Windows	I-PATH_FILE
+Logs\draft_v2.docx	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+C:\Temp\recordings\Exam	B-PATH_FILE
+Preparation\explorer_window_state.csv	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+\\FileServer\Departments\Payroll	B-PATH_FILE
+Manager\Firewall	I-PATH_FILE
+Configs\system_restore_points.txt	I-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+D:\WinPilot\Reports\soil_test_results.pdf	B-PATH_FILE
+
+make	O
+a	O
+new	O
+text	O
+file	O
+named	O
+C:\Users\Public\Documents\diagnostics\Sprint	B-PATH_FILE
+13\hidden_attribute_inventory.csv	I-PATH_FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+wedding_invitation_sample.png	B-FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+device_photos_october.zip	B-FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+incident_report_v3.bz2	B-FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+customer_survey.gif	B-FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+plumber_visit_notes.docx	B-FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+C:\Users\Ankit\Pictures\Screenshots\customer_invoice_2026_091.pdf	B-PATH_FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+E:\Media\Release	B-PATH_FILE
+1.4\photos\network_path_examples.txt	I-PATH_FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+E:\College\Week	B-PATH_FILE
+42\generated\solar_inverter_log.txt	I-PATH_FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+\\OfficePC\Public\Shared	B-PATH_FILE
+Documents\finance\network_adapter_report.html	I-PATH_FILE
+
+make	O
+a	O
+text	O
+document	O
+named	O
+D:\WinPilot\customer	B-PATH_FILE
+support\imports\garden_irrigation_plan.pdf	I-PATH_FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+compliance_review_backup.php	B-FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+stock_reconciliation_reviewed.old	B-FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+ransomware_response_checklist.pdf	B-FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+language_practice.docx	B-FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+release_notes.vhdx	B-FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+\\192.168.1.20\teamshare\client	B-PATH_FILE
+files\photos\cloud_practitioner_badge.png	I-PATH_FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+C:\Dev\Meeting	B-PATH_FILE
+Notes\switch_port_inventory.xlsx	I-PATH_FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+\\OfficePC\Public\HR\entity	B-PATH_FILE
+pools\office_supply_order.xlsx	I-PATH_FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+\\FileServer\Departments\Sprint	B-PATH_FILE
+13\receipts\code_review_checklist.md	I-PATH_FILE
+
+make	O
+a	O
+text	O
+file	O
+called	O
+E:\Archive\Reports\photos\contact_form_test_results.csv	B-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+vulnerability_report.conf	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+license_register.7z	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+screen_capture_01.mp4	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+supplier_scorecard.xlsx	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+migration_plan_revised.json	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+C:\Dev\WinPilot\recordings\invoice_october.pdf	B-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+\\192.168.1.20\teamshare\campaigns\inventory\crash_report.dmp	B-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+\\OfficePC\Public\To	B-PATH_FILE
+Submit\Reports\office_it_asset_handover.xlsx	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+G:\Shared\config\temp\credit_card_statement_october.pdf	B-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+called	O
+E:\Archive\training	B-PATH_FILE
+data\Week	I-PATH_FILE
+42\semester_planner_2026.xlsx	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+ab_test_results.xlsx	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+project_plan.html	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+shopping_list_week42.txt	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+airport_transfer_confirmation.pdf	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+entity_pool.json	B-FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+E:\Media\meeting	B-PATH_FILE
+notes\PBL	I-PATH_FILE
+Phase	I-PATH_FILE
+2\book_highlights.txt	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+\\192.168.1.20\teamshare\Device	B-PATH_FILE
+Reports\presentations\call_centre_shift_roster.xlsx	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+E:\Archive\Photos\policy_exception_log.csv	B-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+F:\USB	B-PATH_FILE
+Backup\family	I-PATH_FILE
+photos\campaigns\unsorted_downloads.zip	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+file	O
+named	O
+\\192.168.1.20\teamshare\photos\Research	B-PATH_FILE
+Papers\package.json	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+consent_records_index.xlsx	B-FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+analytics_dashboard_draft.img	B-FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+salary_revision_letter.pdf	B-FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+purchase_order.woff2	B-FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+draft_network.yaml	B-FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+C:\Users\Ankit\Videos\entity	B-PATH_FILE
+pools\tests\setup_installer.exe	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+E:\Archive\entity	B-PATH_FILE
+pools\website\support_sla_breach_report.xlsx	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+D:\Work\exports\Semester	B-PATH_FILE
+7\purchase_fraud_review.csv	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+\\backup-server\weekly\Personal	B-PATH_FILE
+Finance\Payroll	I-PATH_FILE
+Manager\infrastructure_diagram.drawio	I-PATH_FILE
+
+make	O
+an	O
+empty	O
+text	O
+file	O
+named	O
+D:\Data\Research	B-PATH_FILE
+Papers\migrations\.env.example	I-PATH_FILE
+
+make	O
+file	O
+draft_placement.xlsx	B-FILE
+
+make	O
+file	O
+regression_suite_revised.php	B-FILE
+
+make	O
+file	O
+backup_manifest_approved.crt	B-FILE
+
+make	O
+file	O
+database_schema_2026_10.hcl	B-FILE
+
+make	O
+file	O
+research_participant_schedule.ics	B-FILE
+
+make	O
+file	O
+E:\Archive\validation	B-PATH_FILE
+data\recordings\tax_return_acknowledgement.pdf	I-PATH_FILE
+
+make	O
+file	O
+C:\Program	B-PATH_FILE
+Files	I-PATH_FILE
+(x86)\engineering\contracts\demo_recording.mp4	I-PATH_FILE
+
+make	O
+file	O
+D:\College\GEHU\archives\NER	B-PATH_FILE
+experiments\cashbook_october.xlsx	I-PATH_FILE
+
+make	O
+file	O
+E:\College\Model	B-PATH_FILE
+Outputs\courier_invoice.pdf	I-PATH_FILE
+
+make	O
+file	O
+C:\Temp\model	B-PATH_FILE
+outputs\frontend\loan_statement_october.pdf	I-PATH_FILE
+
+make	O
+the	O
+file	O
+car_service_history.xlsx	B-FILE
+
+make	O
+the	O
+file	O
+equipment_register_2026_10.weights	B-FILE
+
+make	O
+the	O
+file	O
+bus_ticket_dehradun_delhi.pdf	B-FILE
+
+make	O
+the	O
+file	O
+risk_register_revised.parquet	B-FILE
+
+make	O
+the	O
+file	O
+container_image_list.csv	B-FILE
+
+make	O
+the	O
+file	O
+C:\Users\Ankit\Downloads\Semester	B-PATH_FILE
+5\incident_postmortem.docx	I-PATH_FILE
+
+make	O
+the	O
+file	O
+F:\USB	B-PATH_FILE
+Backup\invoices\Personal	I-PATH_FILE
+Finance\asset_depreciation_schedule.xlsx	I-PATH_FILE
+
+make	O
+the	O
+file	O
+C:\Users\Ankit\Documents\Windows	B-PATH_FILE
+Logs\Device	I-PATH_FILE
+Reports\test_fixture.json	I-PATH_FILE
+
+make	O
+the	O
+file	O
+C:\Users\Ankit\Pictures\Old	B-PATH_FILE
+Versions\migrations\salary_breakup_comparison.xlsx	I-PATH_FILE
+
+make	O
+the	O
+file	O
+C:\Users\Ankit\Pictures\Photos\attendance_register.xlsx	B-PATH_FILE
+
+make	O
+the	O
+file	O
+called	O
+customer_export_final.json	B-FILE
+
+make	O
+the	O
+file	O
+called	O
+coding_practice_log.csv	B-FILE
+
+make	O
+the	O
+file	O
+called	O
+seo_report_draft.onnx	B-FILE
+
+make	O
+the	O
+file	O
+called	O
+license_register_revised.csv	B-FILE
+
+make	O
+the	O
+file	O
+called	O
+passport_scan.jpg	B-FILE
+
+make	O
+the	O
+file	O
+called	O
+F:\External	B-PATH_FILE
+Drive\screenshots\Supplier	I-PATH_FILE
+North\project_archive_2024.zip	I-PATH_FILE
+
+make	O
+the	O
+file	O
+called	O
+C:\Program	B-PATH_FILE
+Files\invoices\config\network_share_latency.csv	I-PATH_FILE
+
+make	O
+the	O
+file	O
+called	O
+C:\Users\Ankit\OneDrive\WinPilot\quotation_template.docx	B-PATH_FILE
+
+make	O
+the	O
+file	O
+called	O
+D:\Data\screenshots\marketing\expenses_q3.xlsx	B-PATH_FILE
+
+make	O
+the	O
+file	O
+called	O
+D:\College\GEHU\Screenshots\lecture_recording.mp4	B-PATH_FILE
+
+make	O
+the	O
+file	O
+named	O
+shift_schedule_backup.etl	B-FILE
+
+make	O
+the	O
+file	O
+named	O
+packet_loss_measurements.csv	B-FILE
+
+make	O
+the	O
+file	O
+named	O
+leave_request.pfx	B-FILE
+
+make	O
+the	O
+file	O
+named	O
+api_test_results_approved.dat	B-FILE
+
+make	O
+the	O
+file	O
+named	O
+main.py	B-FILE
+
+make	O
+the	O
+file	O
+named	O
+D:\Work\inventory\datasets\config.py	B-PATH_FILE
+
+make	O
+the	O
+file	O
+named	O
+E:\Media\Assignments\neighbourhood_event_flyer.jpg	B-PATH_FILE
+
+make	O
+the	O
+file	O
+named	O
+D:\Staging\frontend\Supplier	B-PATH_FILE
+North\club_membership_renewal.pdf	I-PATH_FILE
+
+make	O
+the	O
+file	O
+named	O
+D:\Shared\Reports\system_info.txt	B-PATH_FILE
+
+make	O
+the	O
+file	O
+named	O
+D:\College\GEHU\Source\legal_case_summary.docx	B-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+support_case.ai	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+shift_schedule_reviewed.md	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+management_review_pack.pptx	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+course_registration_confirmation.pdf	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+salary_statement.png	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+C:\Temp\meeting	B-PATH_FILE
+notes\backups\flight_delay_claim.docx	I-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+D:\Source\WinPilot\recordings\translation_vendor_quote.pdf	B-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+C:\Users\Ankit\OneDrive\archives\archives\washing_machine_service_invoice.pdf	B-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+E:\College\Course	B-PATH_FILE
+Material\frontend\migration_notes.md	I-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+called	O
+C:\Users\Public\Documents\Training	B-PATH_FILE
+Data\serializers.py	I-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+campus_event_photos.zip	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+kubernetes_manifest.yaml	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+least_used_entity_values.csv	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+cloud_practitioner_badge.png	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+project_certificate.pdf	B-FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+\\NAS01\Shared\imports\backend\voice_activity_test.wav	B-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+D:\WinPilot\Research\orders_snapshot_20261020.csv	B-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+D:\Projects\Research\sample_chain_of_custody.pdf	B-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+E:\College\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\windows_features_state.txt	I-PATH_FILE
+
+make	O
+the	O
+new	O
+file	O
+named	O
+\\NAS01\Shared\backend\inventory\windows_update_history.html	B-PATH_FILE
+
+please	O
+create	O
+image_alt_text_audit.xlsx	B-FILE
+
+please	O
+create	O
+disaster_recovery.inf	B-FILE
+
+please	O
+create	O
+unicode_filename_tests.csv	B-FILE
+
+please	O
+create	O
+supplier_quote.etl	B-FILE
+
+please	O
+create	O
+software_inventory.csv	B-FILE
+
+please	O
+create	O
+D:\Projects\Backups\notebook_exploration.ipynb	B-PATH_FILE
+
+please	O
+create	O
+C:\Dev\Personal	B-PATH_FILE
+Finance\Client	I-PATH_FILE
+A\file_transfer_manifest.json	I-PATH_FILE
+
+please	O
+create	O
+D:\Projects\archives\archives\dependency_audit.json	B-PATH_FILE
+
+please	O
+create	O
+C:\Users\Ankit\Pictures\Data\lab_inventory_reorder.xlsx	B-PATH_FILE
+
+please	O
+create	O
+D:\Projects\Assignments\Week	B-PATH_FILE
+42\packing_list_20261020.pdf	I-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+maintenance_log_final.fbx	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+container_inventory.gradle	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+weekly_update.crt	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+flight_confirmation.pdf	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+calibration_due_list.csv	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+E:\Incoming\client	B-PATH_FILE
+files\Supplier	I-PATH_FILE
+North\appliance_manual_washer.pdf	I-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+D:\WinPilot\Training	B-PATH_FILE
+Data\entity_tagger.py	I-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+C:\Users\Public\Documents\Assignments\fuel_efficiency_tracker.xlsx	B-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+D:\Data\PBL	B-PATH_FILE
+Phase	I-PATH_FILE
+2\contractor_nda_signed.pdf	I-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+called	O
+D:\WinPilot\Source	B-PATH_FILE
+Code\backups\tour_operator_quote.pdf	I-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+monthly_summary.ps1	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+approval_history.csv	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+jmeter_results_week42.jtl	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+research_group_minutes.docx	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+inspection_checklist_v2.srt	B-FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+D:\Backups\Device	B-PATH_FILE
+Reports\design	I-PATH_FILE
+files\registry_backup.reg	I-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+D:\Data\WinPilot\university_id_scan.jpg	B-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+C:\Temp\diagnostics\recordings\journal_submission_receipt.pdf	B-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+D:\Data\Sprint	B-PATH_FILE
+13\migrations\customer_onboarding_status.xlsx	I-PATH_FILE
+
+please	O
+create	O
+a	O
+file	O
+named	O
+E:\Media\Certificates\Payroll	B-PATH_FILE
+Manager\github_actions_run.log	I-PATH_FILE
+
+please	O
+make	O
+delivery_manifest_2026_10.exe	B-FILE
+
+please	O
+make	O
+utility_receipts.zip	B-FILE
+
+please	O
+make	O
+attendance_sheet_v2.pptx	B-FILE
+
+please	O
+make	O
+views.py	B-FILE
+
+please	O
+make	O
+fitness_log.csv	B-FILE
+
+please	O
+make	O
+E:\Archive\Semester	B-PATH_FILE
+7\Supplier	I-PATH_FILE
+North\file_explorer_layout_backup.reg	I-PATH_FILE
+
+please	O
+make	O
+C:\Temp\WinPilot\Semester	B-PATH_FILE
+5\cron_migration_notes.md	I-PATH_FILE
+
+please	O
+make	O
+E:\Media\Sprint	B-PATH_FILE
+13\meeting	I-PATH_FILE
+notes\department_notice_october.pdf	I-PATH_FILE
+
+please	O
+make	O
+C:\ProgramData\Release	B-PATH_FILE
+1.4\docs\exit_clearance_form.pdf	I-PATH_FILE
+
+please	O
+make	O
+E:\Archive\Driver	B-PATH_FILE
+Backups\operations\benchmark_cpu_profile.prof	I-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+customer_survey.bin	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+meeting_agenda.blend	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+migration_plan_2026_10.woff2	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+migration_results.yml	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+translation_review_v2.ps1	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+C:\Users\Ankit\Videos\Model	B-PATH_FILE
+Outputs\draft_returns.docx	I-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+C:\Users\Public\Documents\Screenshots\research_presentation_october.pptx	B-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+\\192.168.1.20\teamshare\Projects\Driver	B-PATH_FILE
+Backups\train_model.py	I-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+D:\Shared\Model	B-PATH_FILE
+Outputs\subtitle_hi.srt	I-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+called	O
+C:\Users\Ankit\Videos\imports\Certificates\charity_receipt_2026.pdf	B-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+safety_briefing.pdf	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+api_specification_approved.tsv	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+library_renewal_notice.pdf	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+donor_acknowledgements.pdf	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+db_schema.sql	B-FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+C:\Users\Ankit\Downloads\WinPilot\equipment_checkout_log.xlsx	B-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+\\backup-server\weekly\generated\intent	B-PATH_FILE
+models\museum_ticket.pdf	I-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+\\backup-server\weekly\Assignments\api	B-PATH_FILE
+tests\clinical_study_site_log.csv	I-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+E:\Archive\Receipts\notification_sound.wav	B-PATH_FILE
+
+please	O
+make	O
+a	O
+file	O
+named	O
+E:\College\Driver	B-PATH_FILE
+Backups\presentations\network_topology_export.drawio	I-PATH_FILE
+

@@ -1,0 +1,403 @@
+can you close Chrome
+can you close Firefox
+can you close Microsoft Edge
+can you close Brave Browser
+can you close Opera
+can you close Vivaldi
+can you exit Arc Browser
+can you exit Notepad
+can you exit WordPad
+can you exit Paint
+can you exit Calculator
+can you exit Calendar
+can you quit Clock
+can you quit Photos
+can you quit Camera
+can you quit Snipping Tool
+can you quit File Explorer
+can you quit Task Manager
+can you shut down Settings
+can you shut down Control Panel
+can you shut down Command Prompt
+can you shut down PowerShell
+can you shut down Windows Terminal
+can you shut down Visual Studio Code
+can you stop Visual Studio
+can you stop PyCharm
+can you stop IntelliJ IDEA
+can you stop Eclipse
+can you stop Android Studio
+can you stop Sublime Text
+can you terminate Notepad++
+can you terminate GitHub Desktop
+can you terminate Docker Desktop
+can you terminate Postman
+can you terminate Insomnia
+can you terminate Figma
+close Canva
+close Discord
+close Telegram
+close WhatsApp
+close Microsoft Teams
+close Zoom
+close Skype now
+close Slack now
+close Spotify now
+close VLC Media Player now
+close Windows Media Player now
+close Audacity now
+close the GIMP application
+close the Inkscape application
+close the Blender application
+close the Unity application
+close the Unreal Engine application
+close the Microsoft Word application
+could you close Microsoft Excel
+could you close Microsoft PowerPoint
+could you close Microsoft Outlook
+could you close Microsoft Access
+could you close Microsoft OneNote
+could you close Microsoft Publisher
+could you close LibreOffice Writer for me
+could you close LibreOffice Calc for me
+could you close LibreOffice Impress for me
+could you close LibreOffice Base for me
+could you close LibreOffice Draw for me
+could you close Google Drive for me
+could you exit Google Docs
+could you exit Google Sheets
+could you exit Google Slides
+could you exit Dropbox
+could you exit OneDrive
+could you exit VirtualBox
+could you exit VMware Workstation for me
+could you exit Oracle SQL Developer for me
+could you exit MySQL Workbench for me
+could you exit pgAdmin for me
+could you exit DBeaver for me
+could you exit MongoDB Compass for me
+could you quit Redis Insight
+could you quit Git Bash
+could you quit PuTTY
+could you quit WinSCP
+could you quit 7-Zip
+could you quit WinRAR
+could you quit Everything Search for me
+could you quit ShareX for me
+could you quit OBS Studio for me
+could you quit Jupyter Notebook for me
+could you quit JupyterLab for me
+could you quit Anaconda Navigator for me
+could you shut down Spyder for me
+could you shut down Python Launcher for me
+could you shut down Node.js for me
+could you shut down Apache NetBeans for me
+could you shut down Code::Blocks for me
+could you shut down Dev-C++ for me
+could you stop CLion
+could you stop WebStorm
+could you stop Rider
+could you stop DataGrip
+could you stop PostgreSQL
+could you stop MySQL
+could you terminate MongoDB for me
+could you terminate MariaDB for me
+could you terminate SQLite Browser for me
+could you terminate FileZilla for me
+could you terminate WinMerge for me
+could you terminate Beyond Compare for me
+end Rufus
+end Balena Etcher
+end Microsoft To Do
+end Windows Security
+end Resource Monitor
+end PowerToys
+end RStudio now
+end C++ Builder now
+end 3D Viewer now
+end SQLyog now
+end Termius now
+end MobaXterm now
+exit Chrome
+exit Firefox
+exit Microsoft Edge
+exit Brave Browser
+exit Opera
+exit Vivaldi
+exit Arc Browser now
+exit Notepad now
+exit WordPad now
+exit Paint now
+exit Calculator now
+exit Calendar now
+exit the Clock application
+exit the Photos application
+exit the Camera application
+exit the Snipping Tool application
+exit the File Explorer application
+exit the Task Manager application
+I need to close Settings
+I need to close Control Panel
+I need to close Command Prompt
+I need to close PowerShell
+I need to close Windows Terminal
+I need to close Visual Studio Code
+I need to stop Visual Studio
+I need to stop PyCharm
+I need to stop IntelliJ IDEA
+I need to stop Eclipse
+I need to stop Android Studio
+I need to stop Sublime Text
+I need you to close Notepad++
+I need you to close GitHub Desktop
+I need you to close Docker Desktop
+I need you to close Postman
+I need you to close Insomnia
+I need you to close Figma
+I need you to exit Canva
+I need you to exit Discord
+I need you to exit Telegram
+I need you to exit WhatsApp
+I need you to exit Microsoft Teams
+I need you to exit Zoom
+I need you to quit Skype
+I need you to quit Slack
+I need you to quit Spotify
+I need you to quit VLC Media Player
+I need you to quit Windows Media Player
+I need you to quit Audacity
+I need you to shut down GIMP
+I need you to shut down Inkscape
+I need you to shut down Blender
+I need you to shut down Unity
+I need you to shut down Unreal Engine
+I need you to shut down Microsoft Word
+I need you to terminate Microsoft Excel
+I need you to terminate Microsoft PowerPoint
+I need you to terminate Microsoft Outlook
+I need you to terminate Microsoft Access
+I need you to terminate Microsoft OneNote
+I need you to terminate Microsoft Publisher
+I want to close LibreOffice Writer
+I want to close LibreOffice Calc
+I want to close LibreOffice Impress
+I want to close LibreOffice Base
+I want to close LibreOffice Draw
+I want to close Google Drive
+I want to shut down Google Docs
+I want to shut down Google Sheets
+I want to shut down Google Slides
+I want to shut down Dropbox
+I want to shut down OneDrive
+I want to shut down VirtualBox
+I want to stop VMware Workstation
+I want to stop Oracle SQL Developer
+I want to stop MySQL Workbench
+I want to stop pgAdmin
+I want to stop DBeaver
+I want to stop MongoDB Compass
+I want to terminate Redis Insight
+I want to terminate Git Bash
+I want to terminate PuTTY
+I want to terminate WinSCP
+I want to terminate 7-Zip
+I want to terminate WinRAR
+I want you to close Everything Search
+I want you to close ShareX
+I want you to close OBS Studio
+I want you to close Jupyter Notebook
+I want you to close JupyterLab
+I want you to close Anaconda Navigator
+I want you to exit Spyder
+I want you to exit Python Launcher
+I want you to exit Node.js
+I want you to exit Apache NetBeans
+I want you to exit Code::Blocks
+I want you to exit Dev-C++
+I want you to quit CLion
+I want you to quit WebStorm
+I want you to quit Rider
+I want you to quit DataGrip
+I want you to quit PostgreSQL
+I want you to quit MySQL
+I want you to shut down MongoDB
+I want you to shut down MariaDB
+I want you to shut down SQLite Browser
+I want you to shut down FileZilla
+I want you to shut down WinMerge
+I want you to shut down Beyond Compare
+I want you to terminate Rufus
+I want you to terminate Balena Etcher
+I want you to terminate Microsoft To Do
+I want you to terminate Windows Security
+I want you to terminate Resource Monitor
+I want you to terminate PowerToys
+please close RStudio
+please close C++ Builder
+please close 3D Viewer
+please close SQLyog
+please close Termius
+please close MobaXterm
+please close Firefox now
+please close Microsoft Edge now
+please close Brave Browser now
+please close Opera now
+please close Vivaldi now
+please close Arc Browser now
+please end Notepad
+please end WordPad
+please end Paint
+please end Calculator
+please end Calendar
+please end Clock
+please exit Photos now
+please exit Camera now
+please exit Snipping Tool now
+please exit File Explorer now
+please exit Task Manager now
+please exit Settings now
+please quit Control Panel now
+please quit Command Prompt now
+please quit PowerShell now
+please quit Windows Terminal now
+please quit Visual Studio Code now
+please quit Visual Studio now
+please shut down PyCharm
+please shut down IntelliJ IDEA
+please shut down Eclipse
+please shut down Android Studio
+please shut down Sublime Text
+please shut down Notepad++
+please stop GitHub Desktop
+please stop Docker Desktop
+please stop Postman
+please stop Insomnia
+please stop Figma
+please stop Canva
+please stop Discord now
+please stop Telegram now
+please stop WhatsApp now
+please stop Microsoft Teams now
+please stop Zoom now
+please stop Skype now
+please terminate Slack
+please terminate Spotify
+please terminate VLC Media Player
+please terminate Windows Media Player
+please terminate Audacity
+please terminate GIMP
+please terminate Inkscape now
+please terminate Blender now
+please terminate Unity now
+please terminate Unreal Engine now
+please terminate Microsoft Word now
+please terminate Microsoft Excel now
+quit Microsoft PowerPoint
+quit Microsoft Outlook
+quit Microsoft Access
+quit Microsoft OneNote
+quit Microsoft Publisher
+quit LibreOffice Writer
+quit LibreOffice Calc now
+quit LibreOffice Impress now
+quit LibreOffice Base now
+quit LibreOffice Draw now
+quit Google Drive now
+quit Google Docs now
+quit the Google Sheets application
+quit the Google Slides application
+quit the Dropbox application
+quit the OneDrive application
+quit the VirtualBox application
+quit the VMware Workstation application
+shut down Oracle SQL Developer
+shut down MySQL Workbench
+shut down pgAdmin
+shut down DBeaver
+shut down MongoDB Compass
+shut down Redis Insight
+shut down Git Bash now
+shut down PuTTY now
+shut down WinSCP now
+shut down 7-Zip now
+shut down WinRAR now
+shut down Everything Search now
+shut down the ShareX application
+shut down the OBS Studio application
+shut down the Jupyter Notebook application
+shut down the JupyterLab application
+shut down the Anaconda Navigator application
+shut down the Spyder application
+shutdown Python Launcher
+shutdown Node.js
+shutdown Apache NetBeans
+shutdown Code::Blocks
+shutdown Dev-C++
+shutdown CLion
+stop WebStorm
+stop Rider
+stop DataGrip
+stop PostgreSQL
+stop MySQL
+stop MongoDB
+stop MariaDB now
+stop SQLite Browser now
+stop FileZilla now
+stop WinMerge now
+stop Beyond Compare now
+stop Rufus now
+terminate Balena Etcher
+terminate Microsoft To Do
+terminate Windows Security
+terminate Resource Monitor
+terminate PowerToys
+terminate RStudio
+terminate C++ Builder now
+terminate 3D Viewer now
+terminate SQLyog now
+terminate Termius now
+terminate MobaXterm now
+terminate Chrome now
+close
+close the application
+close the program
+close this application
+close this program
+could you close the application
+could you terminate the program
+end
+end the application
+end the program
+exit
+exit this application
+exit this program
+I need to exit
+I need to quit
+I need to terminate the program
+I want to exit
+I want to quit
+please close the program
+please end the application
+please exit
+please quit
+please stop the program
+please terminate the application
+quit
+quit the application
+quit the program
+quit this application
+quit this program
+shut down
+shut down the application
+shut down the program
+shutdown
+stop
+stop the application
+stop the program
+stop this application
+stop this program
+terminate
+terminate the application
+terminate the program
+terminate this application
+terminate this program

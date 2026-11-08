@@ -1,0 +1,12393 @@
+can	O
+you	O
+move	O
+technical	B-FILE
+guide.pdf	I-FILE
+
+can	O
+you	O
+move	O
+user	B-FILE
+manual.pdf	I-FILE
+
+can	O
+you	O
+move	O
+setup	B-FILE
+instructions.txt	I-FILE
+
+can	O
+you	O
+move	O
+installation	B-FILE
+guide.pdf	I-FILE
+
+can	O
+you	O
+move	O
+deployment	B-FILE
+notes.md	I-FILE
+
+can	O
+you	O
+move	O
+release	B-FILE
+notes.md	I-FILE
+
+can	O
+you	O
+move	O
+change	B-FILE
+history.txt	I-FILE
+to	O
+Invoices	B-FOLDER
+
+can	O
+you	O
+move	O
+error	B-FILE
+report.log	I-FILE
+to	O
+Receipts	B-FOLDER
+
+can	O
+you	O
+move	O
+server	B-FILE
+activity.log	I-FILE
+to	O
+Finance	B-FOLDER
+
+can	O
+you	O
+move	O
+access	B-FILE
+record.log	I-FILE
+to	O
+Accounts	B-FOLDER
+
+can	O
+you	O
+move	O
+debug	B-FILE
+output.log	I-FILE
+to	O
+Customers	B-FOLDER
+
+can	O
+you	O
+move	O
+system	B-FILE
+report.txt	I-FILE
+to	O
+Orders	B-FOLDER
+
+can	O
+you	O
+move	O
+backup	B-FILE
+manifest.json	I-FILE
+to	O
+Products	B-FOLDER
+
+can	O
+you	O
+move	O
+archive	B-FILE
+index.json	I-FILE
+to	O
+Employees	B-FOLDER
+
+can	O
+you	O
+move	O
+database	B-FILE
+schema.sql	I-FILE
+to	O
+Students	B-FOLDER
+
+can	O
+you	O
+move	O
+migration	B-FILE
+script.sql	I-FILE
+to	O
+Courses	B-FOLDER
+
+can	O
+you	O
+move	O
+query	B-FILE
+collection.sql	I-FILE
+to	O
+Attendance	B-FOLDER
+
+can	O
+you	O
+move	O
+seed	B-FILE
+records.sql	I-FILE
+to	O
+Payroll	B-FOLDER
+
+can	O
+you	O
+move	O
+data	B-FILE
+dictionary.pdf	I-FILE
+to	O
+D:\Projects\Automation\Source	B-PATH_DIR
+
+can	O
+you	O
+move	O
+table	B-FILE
+reference.pdf	I-FILE
+to	O
+D:\Projects\Automation\Tests	B-PATH_DIR
+
+can	O
+you	O
+move	O
+api	B-FILE
+reference.md	I-FILE
+to	O
+D:\Projects\Research	B-PATH_DIR
+
+can	O
+you	O
+move	O
+developer	B-FILE
+guide.md	I-FILE
+to	O
+D:\Projects\Research\Data	B-PATH_DIR
+
+can	O
+you	O
+move	O
+configuration	B-FILE
+notes.txt	I-FILE
+to	O
+D:\Projects\Research\Reports	B-PATH_DIR
+
+can	O
+you	O
+move	O
+application	B-FILE
+settings.json	I-FILE
+to	O
+D:\Projects\WebPlatform	B-PATH_DIR
+
+can	O
+you	O
+move	O
+workspace	B-FILE
+settings.json	I-FILE
+to	O
+D:\Projects\WebPlatform\Frontend	B-PATH_DIR
+
+can	O
+you	O
+move	O
+user	B-FILE
+preferences.json	I-FILE
+to	O
+D:\Projects\WebPlatform\Backend	B-PATH_DIR
+
+can	O
+you	O
+move	O
+environment	B-FILE
+details.json	I-FILE
+to	O
+D:\Projects\MachineLearning	B-PATH_DIR
+
+can	O
+you	O
+move	O
+package	B-FILE
+manifest.json	I-FILE
+to	O
+D:\Projects\MachineLearning\Data	B-PATH_DIR
+
+can	O
+you	O
+move	O
+dependency	B-FILE
+list.txt	I-FILE
+to	O
+D:\Projects\MachineLearning\Models	B-PATH_DIR
+
+can	O
+you	O
+move	O
+build	B-FILE
+report.txt	I-FILE
+to	O
+D:\Projects\DatabaseLab	B-PATH_DIR
+
+can	O
+you	O
+move	O
+D:\Archive\Previous\cedar	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+can	O
+you	O
+move	O
+D:\Research\Notes\cedar	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+can	O
+you	O
+move	O
+D:\Research\Results\cedar	B-PATH_FILE
+record.md	I-PATH_FILE
+
+can	O
+you	O
+move	O
+E:\Shared\Operations\cedar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+can	O
+you	O
+move	O
+E:\Shared\Finance\cedar	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+can	O
+you	O
+move	O
+F:\Records\Personal\cedar	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+can	O
+you	O
+move	O
+F:\Records\Business\cedar	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Database	B-FOLDER
+
+can	O
+you	O
+move	O
+F:\Backup\Monthly\cedar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Schemas	B-FOLDER
+
+can	O
+you	O
+move	O
+F:\Backup\Projects\cedar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Queries	B-FOLDER
+
+can	O
+you	O
+move	O
+C:\Projects\Greenfield\clear	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Migrations	B-FOLDER
+
+can	O
+you	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\clear	I-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Exports	B-FOLDER
+
+can	O
+you	O
+move	O
+D:\Development\Tools\clear	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Imports	B-FOLDER
+
+can	O
+you	O
+move	O
+E:\University\Coursework\clear	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Datasets	B-FOLDER
+
+can	O
+you	O
+move	O
+C:\Data\Incoming\clear	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Models	B-FOLDER
+
+can	O
+you	O
+move	O
+C:\Data\Exports\clear	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Results	B-FOLDER
+
+can	O
+you	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\clear	I-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Experiments	B-FOLDER
+
+can	O
+you	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\clear	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Testing	B-FOLDER
+
+can	O
+you	O
+move	O
+D:\Archive\Current\clear	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Scripts	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+SourceCode	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Documentation	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Guides	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Manuals	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Logs	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Config	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+D:\Projects\DatabaseLab\Schema	B-PATH_DIR
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+D:\CollegeWork\DBMS	B-PATH_DIR
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+D:\CollegeWork\DBMS\Labs	B-PATH_DIR
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+D:\CollegeWork\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+D:\CollegeWork\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+
+can	O
+you	O
+move	O
+the	O
+file	O
+to	O
+D:\Work\Finance	B-PATH_DIR
+
+can	O
+you	O
+put	O
+test	B-FILE
+plan.docx	I-FILE
+in	O
+Preferences	B-FOLDER
+
+can	O
+you	O
+put	O
+test	B-FILE
+cases.xlsx	I-FILE
+in	O
+Assets	B-FOLDER
+
+can	O
+you	O
+put	O
+test	B-FILE
+results.xlsx	I-FILE
+in	O
+Images	B-FOLDER
+
+can	O
+you	O
+put	O
+quality	B-FILE
+report.pdf	I-FILE
+in	O
+Icons	B-FOLDER
+
+can	O
+you	O
+put	O
+performance	B-FILE
+review.pdf	I-FILE
+in	O
+Designs	B-FOLDER
+
+can	O
+you	O
+put	O
+benchmark	B-FILE
+results.csv	I-FILE
+in	O
+Layouts	B-FOLDER
+
+can	O
+you	O
+put	O
+evaluation	B-FILE
+report.pdf	I-FILE
+in	O
+Wireframes	B-FOLDER
+
+can	O
+you	O
+put	O
+model	B-FILE
+summary.json	I-FILE
+in	O
+Presentations	B-FOLDER
+
+can	O
+you	O
+put	O
+training	B-FILE
+records.csv	I-FILE
+in	O
+Spreadsheets	B-FOLDER
+
+can	O
+you	O
+put	O
+validation	B-FILE
+results.csv	I-FILE
+in	O
+Contracts	B-FOLDER
+
+can	O
+you	O
+put	O
+prediction	B-FILE
+results.csv	I-FILE
+in	O
+Policies	B-FOLDER
+
+can	O
+you	O
+put	O
+feature	B-FILE
+list.json	I-FILE
+in	O
+Forms	B-FOLDER
+
+can	O
+you	O
+put	O
+label	B-FILE
+mapping.json	I-FILE
+in	O
+D:\Work\Finance\Records	B-PATH_DIR
+
+can	O
+you	O
+put	O
+entity	B-FILE
+mapping.json	I-FILE
+in	O
+D:\Work\Sales	B-PATH_DIR
+
+can	O
+you	O
+put	O
+intent	B-FILE
+mapping.json	I-FILE
+in	O
+D:\Work\Sales\Orders	B-PATH_DIR
+
+can	O
+you	O
+put	O
+vocabulary	B-FILE
+list.json	I-FILE
+in	O
+D:\Work\Operations\Maintenance	B-PATH_DIR
+
+can	O
+you	O
+put	O
+annotation	B-FILE
+guide.pdf	I-FILE
+in	O
+D:\Work\Human	B-PATH_DIR
+Resources	I-PATH_DIR
+
+can	O
+you	O
+put	O
+review	B-FILE
+notes.txt	I-FILE
+in	O
+D:\Work\Shared	B-PATH_DIR
+Resources	I-PATH_DIR
+
+can	O
+you	O
+put	O
+error	B-FILE
+analysis.pdf	I-FILE
+in	O
+E:\Projects\WebPlatform	B-PATH_DIR
+
+can	O
+you	O
+put	O
+experiment	B-FILE
+log.txt	I-FILE
+in	O
+E:\Projects\WebPlatform\Source	B-PATH_DIR
+
+can	O
+you	O
+put	O
+research	B-FILE
+diary.docx	I-FILE
+in	O
+E:\Projects\MobileApp	B-PATH_DIR
+
+can	O
+you	O
+put	O
+field	B-FILE
+observations.csv	I-FILE
+in	O
+E:\Projects\ApiService	B-PATH_DIR
+
+can	O
+you	O
+put	O
+survey	B-FILE
+form.docx	I-FILE
+in	O
+E:\Development\DesktopTool	B-PATH_DIR
+
+can	O
+you	O
+put	O
+sample	B-FILE
+records.json	I-FILE
+in	O
+E:\Development\NLPProject	B-PATH_DIR
+
+can	O
+you	O
+put	O
+D:\Archive\Previous\clear	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+Applications	B-FOLDER
+
+can	O
+you	O
+put	O
+D:\Research\Notes\copper	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+Certificates	B-FOLDER
+
+can	O
+you	O
+put	O
+D:\Research\Results\copper	B-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+Schedules	B-FOLDER
+
+can	O
+you	O
+put	O
+E:\Shared\Operations\copper	B-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+Timetables	B-FOLDER
+
+can	O
+you	O
+put	O
+E:\Shared\Finance\copper	B-PATH_FILE
+record.md	I-PATH_FILE
+in	O
+Coursework	B-FOLDER
+
+can	O
+you	O
+put	O
+F:\Records\Personal\copper	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+in	O
+Practical	B-FOLDER
+
+can	O
+you	O
+put	O
+F:\Records\Business\copper	B-PATH_FILE
+outline.py	I-PATH_FILE
+in	O
+LectureNotes	B-FOLDER
+
+can	O
+you	O
+put	O
+F:\Backup\Monthly\copper	B-PATH_FILE
+register.sql	I-PATH_FILE
+in	O
+StudyMaterial	B-FOLDER
+
+can	O
+you	O
+put	O
+F:\Backup\Projects\copper	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+in	O
+ExamPrep	B-FOLDER
+
+can	O
+you	O
+put	O
+C:\Projects\Greenfield\copper	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+in	O
+QuestionPapers	B-FOLDER
+
+can	O
+you	O
+put	O
+C:\Projects\Harbour	B-PATH_FILE
+View\copper	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+AnswerKeys	B-FOLDER
+
+can	O
+you	O
+put	O
+D:\Development\Tools\crystal	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+SemesterWork	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+CollegeWork	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+UniversityWork	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+Personal	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+Travel	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+Bookings	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+Reservations	B-FOLDER
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+E:\Development\SecurityTools	B-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+E:\University\Semester	B-PATH_DIR
+Five\DBMS	I-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+E:\University\Semester	B-PATH_DIR
+Five\HCI	I-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+E:\University\Semester	B-PATH_DIR
+Six\Projects	I-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+F:\Backup\Documents	B-PATH_DIR
+
+can	O
+you	O
+send	O
+the	O
+file	O
+to	O
+F:\Backup\Projects	B-PATH_DIR
+
+could	O
+you	O
+move	O
+raw	B-FILE
+measurements.csv	I-FILE
+
+could	O
+you	O
+move	O
+clean	B-FILE
+measurements.csv	I-FILE
+
+could	O
+you	O
+move	O
+processed	B-FILE
+results.csv	I-FILE
+
+could	O
+you	O
+move	O
+weather	B-FILE
+log.csv	I-FILE
+
+could	O
+you	O
+move	O
+sensor	B-FILE
+readings.csv	I-FILE
+
+could	O
+you	O
+move	O
+forecast	B-FILE
+report.pdf	I-FILE
+
+could	O
+you	O
+move	O
+trend	B-FILE
+analysis.xlsx	I-FILE
+into	O
+Vehicles	B-FOLDER
+
+could	O
+you	O
+move	O
+market	B-FILE
+summary.pdf	I-FILE
+into	O
+Insurance	B-FOLDER
+
+could	O
+you	O
+move	O
+sales	B-FILE
+forecast.xlsx	I-FILE
+into	O
+Household	B-FOLDER
+
+could	O
+you	O
+move	O
+inventory	B-FILE
+report.xlsx	I-FILE
+into	O
+Recipes	B-FOLDER
+
+could	O
+you	O
+move	O
+order	B-FILE
+history.csv	I-FILE
+into	O
+Fitness	B-FOLDER
+
+could	O
+you	O
+move	O
+shipping	B-FILE
+details.csv	I-FILE
+into	O
+Journals	B-FOLDER
+
+could	O
+you	O
+move	O
+delivery	B-FILE
+record.pdf	I-FILE
+into	O
+Reading	B-FOLDER
+
+could	O
+you	O
+move	O
+return	B-FILE
+request.docx	I-FILE
+into	O
+Movies	B-FOLDER
+
+could	O
+you	O
+move	O
+purchase	B-FILE
+order.pdf	I-FILE
+into	O
+Games	B-FOLDER
+
+could	O
+you	O
+move	O
+quotation	B-FILE
+sheet.xlsx	I-FILE
+into	O
+Photography	B-FOLDER
+
+could	O
+you	O
+move	O
+contract	B-FILE
+draft.docx	I-FILE
+into	O
+Gardening	B-FOLDER
+
+could	O
+you	O
+move	O
+service	B-FILE
+agreement.pdf	I-FILE
+into	O
+Shopping	B-FOLDER
+
+could	O
+you	O
+move	O
+privacy	B-FILE
+notice.pdf	I-FILE
+into	O
+F:\Backup\College	B-PATH_DIR
+
+could	O
+you	O
+move	O
+security	B-FILE
+policy.pdf	I-FILE
+into	O
+F:\Archive\Finance	B-PATH_DIR
+
+could	O
+you	O
+move	O
+access	B-FILE
+policy.pdf	I-FILE
+into	O
+F:\Archive\Sales	B-PATH_DIR
+
+could	O
+you	O
+move	O
+incident	B-FILE
+report.pdf	I-FILE
+into	O
+F:\Archive\Research	B-PATH_DIR
+
+could	O
+you	O
+move	O
+maintenance	B-FILE
+record.xlsx	I-FILE
+into	O
+F:\Shared\Projects	B-PATH_DIR
+
+could	O
+you	O
+move	O
+inspection	B-FILE
+report.pdf	I-FILE
+into	O
+F:\Shared\College	B-PATH_DIR
+
+could	O
+you	O
+move	O
+audit	B-FILE
+trail.csv	I-FILE
+into	O
+F:\Shared\Media	B-PATH_DIR
+
+could	O
+you	O
+move	O
+event	B-FILE
+schedule.xlsx	I-FILE
+into	O
+F:\Data\Raw	B-PATH_DIR
+
+could	O
+you	O
+move	O
+conference	B-FILE
+agenda.docx	I-FILE
+into	O
+F:\Data\Processed	B-PATH_DIR
+
+could	O
+you	O
+move	O
+meeting	B-FILE
+summary.docx	I-FILE
+into	O
+F:\Data\Exports	B-PATH_DIR
+
+could	O
+you	O
+move	O
+speaker	B-FILE
+notes.docx	I-FILE
+into	O
+F:\Research\Fieldwork	B-PATH_DIR
+
+could	O
+you	O
+move	O
+presentation	B-FILE
+outline.pptx	I-FILE
+into	O
+F:\Research\Publications	B-PATH_DIR
+
+could	O
+you	O
+move	O
+project	B-FILE
+slides.pptx	I-FILE
+to	O
+Work	B-FOLDER
+
+could	O
+you	O
+move	O
+poster	B-FILE
+design.pptx	I-FILE
+to	O
+Meetings	B-FOLDER
+
+could	O
+you	O
+move	O
+course	B-FILE
+presentation.pptx	I-FILE
+to	O
+Agendas	B-FOLDER
+
+could	O
+you	O
+move	O
+lecture	B-FILE
+summary.docx	I-FILE
+to	O
+Minutes	B-FOLDER
+
+could	O
+you	O
+move	O
+semester	B-FILE
+report.pdf	I-FILE
+to	O
+Clients	B-FOLDER
+
+could	O
+you	O
+move	O
+semester	B-FILE
+results.xlsx	I-FILE
+to	O
+Vendors	B-FOLDER
+
+could	O
+you	O
+move	O
+question	B-FILE
+bank.docx	I-FILE
+to	O
+Operations	B-FOLDER
+
+could	O
+you	O
+move	O
+answer	B-FILE
+key.pdf	I-FILE
+to	O
+Planning	B-FOLDER
+
+could	O
+you	O
+move	O
+practical	B-FILE
+record.docx	I-FILE
+to	O
+Strategy	B-FOLDER
+
+could	O
+you	O
+move	O
+lab	B-FILE
+schedule.xlsx	I-FILE
+to	O
+Marketing	B-FOLDER
+
+could	O
+you	O
+move	O
+class	B-FILE
+timetable.xlsx	I-FILE
+to	O
+Sales	B-FOLDER
+
+could	O
+you	O
+move	O
+study	B-FILE
+plan.docx	I-FILE
+to	O
+Support	B-FOLDER
+
+could	O
+you	O
+move	O
+exam	B-FILE
+preparation.txt	I-FILE
+to	O
+C:\Workspaces\Northwind	B-PATH_DIR
+
+could	O
+you	O
+move	O
+course	B-FILE
+material.pdf	I-FILE
+to	O
+C:\Workspaces\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+
+could	O
+you	O
+move	O
+chapter	B-FILE
+summary.docx	I-FILE
+to	O
+C:\Workspaces\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+could	O
+you	O
+move	O
+reference	B-FILE
+notes.md	I-FILE
+to	O
+C:\Sandbox\Experiments	B-PATH_DIR
+
+could	O
+you	O
+move	O
+book	B-FILE
+catalogue.csv	I-FILE
+to	O
+C:\Sandbox\Archive	B-PATH_DIR
+
+could	O
+you	O
+move	O
+library	B-FILE
+records.csv	I-FILE
+to	O
+D:\Sandbox\Personal	B-PATH_DIR
+
+could	O
+you	O
+move	O
+borrower	B-FILE
+list.csv	I-FILE
+to	O
+D:\Sandbox\Travel	B-PATH_DIR
+
+could	O
+you	O
+move	O
+membership	B-FILE
+form.pdf	I-FILE
+to	O
+E:\Temp\Imports	B-PATH_DIR
+
+could	O
+you	O
+move	O
+registration	B-FILE
+form.pdf	I-FILE
+to	O
+E:\Temp\Exports	B-PATH_DIR
+
+could	O
+you	O
+move	O
+application	B-FILE
+form.pdf	I-FILE
+to	O
+E:\CloudArchive\Personal	B-PATH_DIR
+
+could	O
+you	O
+move	O
+admission	B-FILE
+letter.docx	I-FILE
+to	O
+E:\CloudArchive\Work	B-PATH_DIR
+
+could	O
+you	O
+move	O
+certificate	B-FILE
+copy.pdf	I-FILE
+to	O
+F:\LongTermStorage\Records	B-PATH_DIR
+
+could	O
+you	O
+move	O
+E:\University\Coursework\crystal	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+could	O
+you	O
+move	O
+C:\Data\Incoming\crystal	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+could	O
+you	O
+move	O
+C:\Data\Exports\crystal	B-PATH_FILE
+record.md	I-PATH_FILE
+
+could	O
+you	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+could	O
+you	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+outline.py	I-PATH_FILE
+
+could	O
+you	O
+move	O
+D:\Archive\Current\crystal	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+could	O
+you	O
+move	O
+D:\Archive\Previous\crystal	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+HumanResources	B-FOLDER
+
+could	O
+you	O
+move	O
+D:\Research\Notes\crystal	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+Recruitment	B-FOLDER
+
+could	O
+you	O
+move	O
+D:\Research\Results\crystal	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+Training	B-FOLDER
+
+could	O
+you	O
+move	O
+E:\Shared\Operations\dawn	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+Compliance	B-FOLDER
+
+could	O
+you	O
+move	O
+E:\Shared\Finance\dawn	B-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+Security	B-FOLDER
+
+could	O
+you	O
+move	O
+F:\Records\Personal\dawn	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+Audits	B-FOLDER
+
+could	O
+you	O
+move	O
+F:\Records\Business\dawn	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+Incidents	B-FOLDER
+
+could	O
+you	O
+move	O
+F:\Backup\Monthly\dawn	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+Maintenance	B-FOLDER
+
+could	O
+you	O
+move	O
+F:\Backup\Projects\dawn	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+Monitoring	B-FOLDER
+
+could	O
+you	O
+move	O
+C:\Projects\Greenfield\dawn	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+Networking	B-FOLDER
+
+could	O
+you	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\dawn	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+Servers	B-FOLDER
+
+could	O
+you	O
+move	O
+D:\Development\Tools\dawn	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+Services	B-FOLDER
+
+could	O
+you	O
+move	O
+E:\University\Coursework\dawn	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+F:\LongTermStorage\Projects	B-PATH_DIR
+
+could	O
+you	O
+move	O
+C:\Data\Incoming\eastern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+C:\Users\Public\Documents	B-PATH_DIR
+
+could	O
+you	O
+move	O
+C:\Data\Exports\eastern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+C:\Users\Ankit\OneDrive\Documents	B-PATH_DIR
+
+could	O
+you	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+D:\OneDriveBackup\Projects	B-PATH_DIR
+
+could	O
+you	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+E:\UniversityArchive\Project	B-PATH_DIR
+Records	I-PATH_DIR
+
+could	O
+you	O
+move	O
+D:\Archive\Current\eastern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+F:\CompanyArchive\Client	B-PATH_DIR
+Records	I-PATH_DIR
+
+could	O
+you	O
+move	O
+D:\Archive\Previous\eastern	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+C:\NetworkShare\Team	B-PATH_DIR
+Resources	I-PATH_DIR
+
+could	O
+you	O
+move	O
+D:\Research\Notes\eastern	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+D:\MediaStore\Photography	B-PATH_DIR
+
+could	O
+you	O
+move	O
+D:\Research\Results\eastern	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+E:\ProjectStorage\Active	B-PATH_DIR
+Work	I-PATH_DIR
+
+could	O
+you	O
+move	O
+E:\Shared\Operations\eastern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+F:\BackupVault\Critical	B-PATH_DIR
+Records	I-PATH_DIR
+
+could	O
+you	O
+move	O
+E:\Shared\Finance\eastern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+C:\Shared\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+could	O
+you	O
+move	O
+F:\Records\Personal\forest	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+C:\Shared\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+could	O
+you	O
+move	O
+F:\Records\Business\forest	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Automation	B-FOLDER
+
+could	O
+you	O
+move	O
+F:\Backup\Monthly\forest	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Development	B-FOLDER
+
+could	O
+you	O
+move	O
+F:\Backup\Projects\forest	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Deployment	B-FOLDER
+
+could	O
+you	O
+move	O
+C:\Projects\Greenfield\forest	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Production	B-FOLDER
+
+could	O
+you	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\forest	I-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Staging	B-FOLDER
+
+could	O
+you	O
+move	O
+D:\Development\Tools\forest	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+SourceArchive	B-FOLDER
+
+could	O
+you	O
+move	O
+E:\University\Coursework\forest	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+CodeReview	B-FOLDER
+
+could	O
+you	O
+move	O
+C:\Data\Incoming\forest	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Builds	B-FOLDER
+
+could	O
+you	O
+move	O
+C:\Data\Exports\forest	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Releases	B-FOLDER
+
+could	O
+you	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\golden	I-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Packages	B-FOLDER
+
+could	O
+you	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\golden	I-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Dependencies	B-FOLDER
+
+could	O
+you	O
+move	O
+D:\Archive\Current\golden	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Libraries	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Modules	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Plugins	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Extensions	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Containers	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Volumes	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+Pipelines	B-FOLDER
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+could	O
+you	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+Workflows	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+Jobs	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+Batches	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+RawData	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+CleanData	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+ProcessedData	B-FOLDER
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+C:\Shared\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+C:\Shared\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+C:\Shared\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+C:\Shared\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+C:\Shared\x1	B-PATH_DIR
+
+could	O
+you	O
+put	O
+the	O
+file	O
+in	O
+C:\Shared\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+identity	B-FILE
+proof.pdf	I-FILE
+
+I	O
+need	O
+to	O
+move	O
+passport	B-FILE
+scan.pdf	I-FILE
+
+I	O
+need	O
+to	O
+move	O
+visa	B-FILE
+document.pdf	I-FILE
+
+I	O
+need	O
+to	O
+move	O
+travel	B-FILE
+booking.pdf	I-FILE
+
+I	O
+need	O
+to	O
+move	O
+hotel	B-FILE
+reservation.pdf	I-FILE
+
+I	O
+need	O
+to	O
+move	O
+flight	B-FILE
+details.pdf	I-FILE
+
+I	O
+need	O
+to	O
+move	O
+D:\Archive\Previous\golden	B-PATH_FILE
+record.md	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+D:\Research\Notes\golden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+D:\Research\Results\golden	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+E:\Shared\Operations\golden	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+E:\Shared\Finance\golden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+F:\Records\Personal\golden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+TrainingData	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+ValidationData	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+TestData	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Predictions	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Evaluation	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Benchmarks	B-FOLDER
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+to	O
+C:\Shared\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+train	B-FILE
+ticket.pdf	I-FILE
+to	O
+Metrics	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+event	B-FILE
+ticket.pdf	I-FILE
+to	O
+ReportsArchive	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+parking	B-FILE
+receipt.pdf	I-FILE
+to	O
+ResearchNotes	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+vehicle	B-FILE
+record.xlsx	I-FILE
+to	O
+Fieldwork	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+service	B-FILE
+history.pdf	I-FILE
+to	O
+Surveys	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+repair	B-FILE
+estimate.pdf	I-FILE
+to	O
+Interviews	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+maintenance	B-FILE
+schedule.xlsx	I-FILE
+to	O
+Observations	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+home	B-FILE
+inventory.xlsx	I-FILE
+to	O
+Publications	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+garden	B-FILE
+plan.docx	I-FILE
+to	O
+CaseStudies	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+meal	B-FILE
+planner.xlsx	I-FILE
+to	O
+Proposals	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+fitness	B-FILE
+routine.docx	I-FILE
+to	O
+Specifications	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+daily	B-FILE
+journal.txt	I-FILE
+to	O
+Architecture	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+personal	B-FILE
+notes.md	I-FILE
+to	O
+C:\Shared\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+photo	B-FILE
+index.csv	I-FILE
+to	O
+C:\Shared\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+image	B-FILE
+catalogue.csv	I-FILE
+to	O
+C:\Shared\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+design	B-FILE
+assets.json	I-FILE
+to	O
+C:\Shared\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+logo	B-FILE
+draft.svg	I-FILE
+to	O
+C:\Shared\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+colour	B-FILE
+palette.json	I-FILE
+to	O
+C:\Shared\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+wireframe	B-FILE
+notes.docx	I-FILE
+to	O
+C:\Shared\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+interface	B-FILE
+mockup.pdf	I-FILE
+to	O
+C:\Shared\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+network	B-FILE
+diagram.svg	I-FILE
+to	O
+C:\Shared\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+system	B-FILE
+architecture.pdf	I-FILE
+to	O
+C:\Shared\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+a.txt	B-FILE
+to	O
+D:\Archive\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+x1.txt	B-FILE
+to	O
+D:\Archive\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+F:\Records\Business\golden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+DesignDocs	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+F:\Backup\Monthly\harbour	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+ProjectPlans	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+F:\Backup\Projects\harbour	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Roadmaps	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+C:\Projects\Greenfield\harbour	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Milestones	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\harbour	I-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+ChangeRequests	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+D:\Development\Tools\harbour	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+ReleaseNotes	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+E:\University\Coursework\harbour	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+IssueReports	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+C:\Data\Incoming\harbour	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+ErrorReports	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+C:\Data\Exports\harbour	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+ActivityLogs	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+AccessLogs	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+AuditRecords	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+D:\Archive\Current\hidden	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+UserData	B-FOLDER
+
+I	O
+need	O
+you	O
+to	O
+move	O
+D:\Archive\Previous\hidden	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+D:\Archive\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+D:\Research\Notes\hidden	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+D:\Archive\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+D:\Research\Results\hidden	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+D:\Archive\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+E:\Shared\Operations\hidden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+D:\Archive\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+E:\Shared\Finance\hidden	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+D:\Archive\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+F:\Records\Personal\hidden	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+D:\Archive\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+F:\Records\Business\hidden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+D:\Archive\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+F:\Backup\Monthly\hidden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+D:\Archive\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+F:\Backup\Projects\hidden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+D:\Archive\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+C:\Projects\Greenfield\lunar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+D:\Archive\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\lunar	I-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+D:\Archive\x1	B-PATH_DIR
+
+I	O
+need	O
+you	O
+to	O
+move	O
+D:\Development\Tools\lunar	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+D:\Archive\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+v2_notes.md	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+Q4_summary.xlsx	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+log7.txt	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+test-1.csv	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+notes_2.txt	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+2026_report.pdf	B-FILE
+
+I	O
+want	O
+to	O
+move	O
+backup	B-FILE
+(1).zip	I-FILE
+to	O
+AppData	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+final!.txt	B-FILE
+to	O
+SessionData	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+C++	B-FILE
+notes.txt	I-FILE
+to	O
+CacheData	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+3D	B-FILE
+model.obj	I-FILE
+to	O
+Credentials	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+README.md	B-FILE
+to	O
+Keys	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+API_v3.json	B-FILE
+to	O
+Guidelines	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+todo!.txt	B-FILE
+to	O
+SharedFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+draft#2.docx	B-FILE
+to	O
+PublicFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+img_07.png	B-FILE
+to	O
+PrivateFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+part-3.pdf	B-FILE
+to	O
+TemporaryFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+r2d2.txt	B-FILE
+to	O
+ScratchSpace	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+x9.csv	B-FILE
+to	O
+SandboxArea	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+data@home.csv	B-FILE
+to	O
+D:\Archive\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+build_v4.log	B-FILE
+to	O
+D:\Archive\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+week_5.xlsx	B-FILE
+to	O
+D:\Archive\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+report.pdf	B-FILE
+to	O
+D:\Archive\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+meeting	B-FILE
+notes.docx	I-FILE
+to	O
+D:\Archive\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+budget	B-FILE
+plan.xlsx	I-FILE
+to	O
+D:\Archive\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+project	B-FILE
+overview.pdf	I-FILE
+to	O
+D:\Archive\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+class	B-FILE
+notes.txt	I-FILE
+to	O
+D:\Archive\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+travel	B-FILE
+itinerary.docx	I-FILE
+to	O
+D:\Archive\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+invoice	B-FILE
+record.pdf	I-FILE
+to	O
+D:\Archive\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+expense	B-FILE
+summary.xlsx	I-FILE
+to	O
+D:\Archive\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+research	B-FILE
+paper.pdf	I-FILE
+to	O
+D:\Archive\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+E:\University\Coursework\lunar	B-PATH_FILE
+record.md	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+C:\Data\Incoming\lunar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+C:\Data\Exports\lunar	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+register.sql	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+D:\Archive\Current\lunar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+I	O
+want	O
+to	O
+move	O
+D:\Archive\Previous\lunar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+OldProjects	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+D:\Research\Notes\maple	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+OldRecords	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+D:\Research\Results\maple	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+CurrentWork	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+E:\Shared\Operations\maple	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+CompletedWork	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+E:\Shared\Finance\maple	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+PendingWork	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+F:\Records\Personal\maple	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+ImportantFiles	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+F:\Records\Business\maple	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+x1	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+F:\Backup\Monthly\maple	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+v2	B-FOLDER
+Builds	I-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+F:\Backup\Projects\maple	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Q4	B-FOLDER
+Reports	I-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+C:\Projects\Greenfield\maple	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+3D	B-FOLDER
+Models	I-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\maple	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+C++	B-FOLDER
+Practice	I-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+D:\Development\Tools\misty	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+2026	B-FOLDER
+Archive	I-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+API_v3	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Old-2	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Room	B-FOLDER
+7	I-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+A1	B-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+3D	B-FOLDER
+Studio	I-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+Q1	B-FOLDER
+Planning	I-FOLDER
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+D:\Archive\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+D:\Archive\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+D:\Archive\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+D:\Archive\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+E:\Projects\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+to	O
+E:\Projects\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+lab	B-FILE
+report.docx	I-FILE
+to	O
+Version	B-FOLDER
+4	I-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+assignment	B-FILE
+brief.docx	I-FILE
+to	O
+Team	B-FOLDER
+Room	I-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+course	B-FILE
+outline.pdf	I-FILE
+to	O
+Archive	B-FOLDER
+9	I-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+exam	B-FILE
+schedule.pdf	I-FILE
+to	O
+Documents	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+reading	B-FILE
+list.txt	I-FILE
+to	O
+Projects	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+shopping	B-FILE
+list.txt	I-FILE
+to	O
+Downloads	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+recipe	B-FILE
+collection.docx	I-FILE
+to	O
+Pictures	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+movie	B-FILE
+list.txt	I-FILE
+to	O
+Videos	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+music	B-FILE
+archive.csv	I-FILE
+to	O
+Music	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+contact	B-FILE
+list.csv	I-FILE
+to	O
+Assignments	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+student	B-FILE
+records.csv	I-FILE
+to	O
+Notes	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+employee	B-FILE
+details.xlsx	I-FILE
+to	O
+Research	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+customer	B-FILE
+records.csv	I-FILE
+to	O
+E:\Projects\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+product	B-FILE
+catalogue.xlsx	I-FILE
+to	O
+E:\Projects\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+sales	B-FILE
+summary.xlsx	I-FILE
+to	O
+E:\Projects\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+attendance	B-FILE
+sheet.xlsx	I-FILE
+to	O
+E:\Projects\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+payroll	B-FILE
+summary.xlsx	I-FILE
+to	O
+E:\Projects\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+monthly	B-FILE
+expenses.xlsx	I-FILE
+to	O
+E:\Projects\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+annual	B-FILE
+budget.xlsx	I-FILE
+to	O
+E:\Projects\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+bank	B-FILE
+statement.pdf	I-FILE
+to	O
+E:\Projects\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+utility	B-FILE
+bill.pdf	I-FILE
+to	O
+E:\Projects\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+rent	B-FILE
+receipt.pdf	I-FILE
+to	O
+E:\Projects\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+insurance	B-FILE
+policy.pdf	I-FILE
+to	O
+E:\Projects\x1	B-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+tax	B-FILE
+summary.pdf	I-FILE
+to	O
+E:\Projects\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+E:\University\Coursework\misty	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Reports	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Data\Incoming\misty	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Backups	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Data\Exports\misty	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Archives	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\misty	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Resources	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\misty	I-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Templates	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+D:\Archive\Current\misty	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+References	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+D:\Archive\Previous\misty	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Examples	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+D:\Research\Notes\misty	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Samples	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+D:\Research\Results\misty	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Invoices	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+E:\Shared\Operations\northern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Receipts	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+E:\Shared\Finance\northern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Finance	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+F:\Records\Personal\northern	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Accounts	B-FOLDER
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+F:\Records\Business\northern	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+E:\Projects\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+F:\Backup\Monthly\northern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+E:\Projects\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+F:\Backup\Projects\northern	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+E:\Projects\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Projects\Greenfield\northern	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+E:\Projects\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\northern	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+E:\Projects\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+D:\Development\Tools\northern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+E:\Projects\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+E:\University\Coursework\northern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+E:\Projects\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Data\Incoming\quiet	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+E:\Projects\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Data\Exports\quiet	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+E:\Projects\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+E:\Projects\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+E:\Projects\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+I’d	O
+like	O
+you	O
+to	O
+move	O
+D:\Archive\Current\quiet	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+E:\Projects\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+move	O
+loan	B-FILE
+statement.pdf	I-FILE
+
+move	O
+warranty	B-FILE
+card.pdf	I-FILE
+
+move	O
+support	B-FILE
+request.docx	I-FILE
+
+move	O
+feedback	B-FILE
+form.docx	I-FILE
+
+move	O
+survey	B-FILE
+results.xlsx	I-FILE
+
+move	O
+case	B-FILE
+study.pdf	I-FILE
+
+move	O
+project	B-FILE
+proposal.docx	I-FILE
+from	O
+Customers	B-FOLDER
+into	O
+Orders	B-FOLDER
+
+move	O
+design	B-FILE
+document.pdf	I-FILE
+from	O
+Products	B-FOLDER
+into	O
+Employees	B-FOLDER
+
+move	O
+technical	B-FILE
+guide.pdf	I-FILE
+from	O
+Students	B-FOLDER
+into	O
+Courses	B-FOLDER
+
+move	O
+user	B-FILE
+manual.pdf	I-FILE
+from	O
+Attendance	B-FOLDER
+into	O
+Payroll	B-FOLDER
+
+move	O
+setup	B-FILE
+instructions.txt	I-FILE
+from	O
+Database	B-FOLDER
+into	O
+Schemas	B-FOLDER
+
+move	O
+installation	B-FILE
+guide.pdf	I-FILE
+from	O
+Queries	B-FOLDER
+into	O
+Migrations	B-FOLDER
+
+move	O
+deployment	B-FILE
+notes.md	I-FILE
+from	O
+Exports	B-FOLDER
+into	O
+Imports	B-FOLDER
+
+move	O
+release	B-FILE
+notes.md	I-FILE
+from	O
+Datasets	B-FOLDER
+into	O
+Models	B-FOLDER
+
+move	O
+change	B-FILE
+history.txt	I-FILE
+from	O
+Results	B-FOLDER
+into	O
+Experiments	B-FOLDER
+
+move	O
+error	B-FILE
+report.log	I-FILE
+from	O
+Testing	B-FOLDER
+into	O
+Scripts	B-FOLDER
+
+move	O
+server	B-FILE
+activity.log	I-FILE
+from	O
+SourceCode	B-FOLDER
+into	O
+Documentation	B-FOLDER
+
+move	O
+access	B-FILE
+record.log	I-FILE
+from	O
+Guides	B-FOLDER
+into	O
+Manuals	B-FOLDER
+
+move	O
+debug	B-FILE
+output.log	I-FILE
+from	O
+Logs	B-FOLDER
+into	O
+E:\Projects\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+move	O
+system	B-FILE
+report.txt	I-FILE
+from	O
+Config	B-FOLDER
+into	O
+E:\Projects\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+backup	B-FILE
+manifest.json	I-FILE
+from	O
+Preferences	B-FOLDER
+into	O
+E:\Projects\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+move	O
+archive	B-FILE
+index.json	I-FILE
+from	O
+Assets	B-FOLDER
+into	O
+E:\Projects\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+move	O
+database	B-FILE
+schema.sql	I-FILE
+from	O
+Images	B-FOLDER
+into	O
+F:\Storage\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+move	O
+migration	B-FILE
+script.sql	I-FILE
+from	O
+Icons	B-FOLDER
+into	O
+F:\Storage\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+move	O
+query	B-FILE
+collection.sql	I-FILE
+from	O
+Designs	B-FOLDER
+into	O
+F:\Storage\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+seed	B-FILE
+records.sql	I-FILE
+from	O
+Layouts	B-FOLDER
+into	O
+F:\Storage\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+data	B-FILE
+dictionary.pdf	I-FILE
+from	O
+Wireframes	B-FOLDER
+into	O
+F:\Storage\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+move	O
+table	B-FILE
+reference.pdf	I-FILE
+from	O
+Presentations	B-FOLDER
+into	O
+F:\Storage\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+api	B-FILE
+reference.md	I-FILE
+from	O
+Spreadsheets	B-FOLDER
+into	O
+F:\Storage\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+developer	B-FILE
+guide.md	I-FILE
+from	O
+Contracts	B-FOLDER
+into	O
+F:\Storage\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+move	O
+configuration	B-FILE
+notes.txt	I-FILE
+from	O
+Policies	B-FOLDER
+into	O
+F:\Storage\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+move	O
+application	B-FILE
+settings.json	I-FILE
+from	O
+Forms	B-FOLDER
+into	O
+F:\Storage\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+move	O
+workspace	B-FILE
+settings.json	I-FILE
+from	O
+Applications	B-FOLDER
+into	O
+F:\Storage\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+move	O
+user	B-FILE
+preferences.json	I-FILE
+from	O
+Certificates	B-FOLDER
+into	O
+F:\Storage\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+move	O
+environment	B-FILE
+details.json	I-FILE
+from	O
+Schedules	B-FOLDER
+into	O
+F:\Storage\x1	B-PATH_DIR
+
+move	O
+package	B-FILE
+manifest.json	I-FILE
+from	O
+Timetables	B-FOLDER
+into	O
+F:\Storage\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+move	O
+dependency	B-FILE
+list.txt	I-FILE
+from	O
+Coursework	B-FOLDER
+to	O
+Practical	B-FOLDER
+
+move	O
+build	B-FILE
+report.txt	I-FILE
+from	O
+LectureNotes	B-FOLDER
+to	O
+StudyMaterial	B-FOLDER
+
+move	O
+test	B-FILE
+plan.docx	I-FILE
+from	O
+ExamPrep	B-FOLDER
+to	O
+QuestionPapers	B-FOLDER
+
+move	O
+test	B-FILE
+cases.xlsx	I-FILE
+from	O
+AnswerKeys	B-FOLDER
+to	O
+SemesterWork	B-FOLDER
+
+move	O
+test	B-FILE
+results.xlsx	I-FILE
+from	O
+CollegeWork	B-FOLDER
+to	O
+UniversityWork	B-FOLDER
+
+move	O
+quality	B-FILE
+report.pdf	I-FILE
+from	O
+Personal	B-FOLDER
+to	O
+Travel	B-FOLDER
+
+move	O
+performance	B-FILE
+review.pdf	I-FILE
+from	O
+Bookings	B-FOLDER
+to	O
+Reservations	B-FOLDER
+
+move	O
+benchmark	B-FILE
+results.csv	I-FILE
+from	O
+Vehicles	B-FOLDER
+to	O
+Insurance	B-FOLDER
+
+move	O
+evaluation	B-FILE
+report.pdf	I-FILE
+from	O
+Household	B-FOLDER
+to	O
+Recipes	B-FOLDER
+
+move	O
+model	B-FILE
+summary.json	I-FILE
+from	O
+Fitness	B-FOLDER
+to	O
+Journals	B-FOLDER
+
+move	O
+training	B-FILE
+records.csv	I-FILE
+from	O
+Reading	B-FOLDER
+to	O
+Movies	B-FOLDER
+
+move	O
+validation	B-FILE
+results.csv	I-FILE
+from	O
+Games	B-FOLDER
+to	O
+Photography	B-FOLDER
+
+move	O
+prediction	B-FILE
+results.csv	I-FILE
+from	O
+F:\Storage\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+into	O
+Gardening	B-FOLDER
+
+move	O
+feature	B-FILE
+list.json	I-FILE
+from	O
+F:\Storage\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+into	O
+Shopping	B-FOLDER
+
+move	O
+label	B-FILE
+mapping.json	I-FILE
+from	O
+F:\Storage\Old	B-PATH_DIR
+Office	I-PATH_DIR
+into	O
+Work	B-FOLDER
+
+move	O
+entity	B-FILE
+mapping.json	I-FILE
+from	O
+F:\Storage\Main	B-PATH_DIR
+Library	I-PATH_DIR
+into	O
+Meetings	B-FOLDER
+
+move	O
+intent	B-FILE
+mapping.json	I-FILE
+from	O
+F:\Storage\East	B-PATH_DIR
+Wing	I-PATH_DIR
+into	O
+Agendas	B-FOLDER
+
+move	O
+vocabulary	B-FILE
+list.json	I-FILE
+from	O
+F:\Storage\South	B-PATH_DIR
+Annex	I-PATH_DIR
+into	O
+Minutes	B-FOLDER
+
+move	O
+annotation	B-FILE
+guide.pdf	I-FILE
+from	O
+F:\Storage\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+into	O
+Clients	B-FOLDER
+
+move	O
+review	B-FILE
+notes.txt	I-FILE
+from	O
+F:\Storage\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+into	O
+Vendors	B-FOLDER
+
+move	O
+error	B-FILE
+analysis.pdf	I-FILE
+from	O
+F:\Storage\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+into	O
+Operations	B-FOLDER
+
+move	O
+experiment	B-FILE
+log.txt	I-FILE
+from	O
+C:\Users\Ankit\Documents	B-PATH_DIR
+into	O
+Planning	B-FOLDER
+
+move	O
+research	B-FILE
+diary.docx	I-FILE
+from	O
+C:\Users\Ankit\Desktop	B-PATH_DIR
+into	O
+Strategy	B-FOLDER
+
+move	O
+field	B-FILE
+observations.csv	I-FILE
+from	O
+C:\Users\Ankit\Downloads	B-PATH_DIR
+into	O
+Marketing	B-FOLDER
+
+move	O
+survey	B-FILE
+form.docx	I-FILE
+from	O
+C:\Users\Ankit\Pictures	B-PATH_DIR
+into	O
+Sales	B-FOLDER
+
+move	O
+sample	B-FILE
+records.json	I-FILE
+from	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+into	O
+Support	B-FOLDER
+
+move	O
+raw	B-FILE
+measurements.csv	I-FILE
+from	O
+C:\Users\Ankit\Projects\PayrollManager	B-PATH_DIR
+into	O
+HumanResources	B-FOLDER
+
+move	O
+clean	B-FILE
+measurements.csv	I-FILE
+from	O
+C:\Users\Ankit\College\DBMS	B-PATH_DIR
+into	O
+Recruitment	B-FOLDER
+
+move	O
+processed	B-FILE
+results.csv	I-FILE
+from	O
+C:\Users\Ankit\College\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+into	O
+Training	B-FOLDER
+
+move	O
+weather	B-FILE
+log.csv	I-FILE
+from	O
+C:\Users\Ankit\College\Computer	B-PATH_DIR
+Networks	I-PATH_DIR
+into	O
+Compliance	B-FOLDER
+
+move	O
+sensor	B-FILE
+readings.csv	I-FILE
+from	O
+C:\Users\Ankit\College\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+into	O
+C:\Users\Ankit\Research\Papers	B-PATH_DIR
+
+move	O
+forecast	B-FILE
+report.pdf	I-FILE
+from	O
+C:\Users\Ankit\Research\Fieldwork	B-PATH_DIR
+into	O
+C:\Users\Ankit\Work\Finance	B-PATH_DIR
+
+move	O
+trend	B-FILE
+analysis.xlsx	I-FILE
+from	O
+C:\Users\Ankit\Work\Operations	B-PATH_DIR
+into	O
+C:\Users\Ankit\Work\Sales	B-PATH_DIR
+
+move	O
+market	B-FILE
+summary.pdf	I-FILE
+from	O
+C:\Users\Ankit\Travel\Bookings	B-PATH_DIR
+into	O
+D:\Projects\Automation	B-PATH_DIR
+
+move	O
+sales	B-FILE
+forecast.xlsx	I-FILE
+from	O
+D:\Projects\Automation\Source	B-PATH_DIR
+into	O
+D:\Projects\Automation\Tests	B-PATH_DIR
+
+move	O
+inventory	B-FILE
+report.xlsx	I-FILE
+from	O
+D:\Projects\Research	B-PATH_DIR
+into	O
+D:\Projects\Research\Data	B-PATH_DIR
+
+move	O
+order	B-FILE
+history.csv	I-FILE
+from	O
+D:\Projects\Research\Reports	B-PATH_DIR
+into	O
+D:\Projects\WebPlatform	B-PATH_DIR
+
+move	O
+shipping	B-FILE
+details.csv	I-FILE
+from	O
+D:\Projects\WebPlatform\Frontend	B-PATH_DIR
+into	O
+D:\Projects\WebPlatform\Backend	B-PATH_DIR
+
+move	O
+delivery	B-FILE
+record.pdf	I-FILE
+from	O
+D:\Projects\MachineLearning	B-PATH_DIR
+into	O
+D:\Projects\MachineLearning\Data	B-PATH_DIR
+
+move	O
+return	B-FILE
+request.docx	I-FILE
+from	O
+D:\Projects\MachineLearning\Models	B-PATH_DIR
+into	O
+D:\Projects\DatabaseLab	B-PATH_DIR
+
+move	O
+purchase	B-FILE
+order.pdf	I-FILE
+from	O
+D:\Projects\DatabaseLab\Schema	B-PATH_DIR
+into	O
+D:\CollegeWork\DBMS	B-PATH_DIR
+
+move	O
+quotation	B-FILE
+sheet.xlsx	I-FILE
+from	O
+D:\CollegeWork\DBMS\Labs	B-PATH_DIR
+into	O
+D:\CollegeWork\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+move	O
+contract	B-FILE
+draft.docx	I-FILE
+from	O
+D:\CollegeWork\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+to	O
+D:\Work\Finance	B-PATH_DIR
+
+move	O
+service	B-FILE
+agreement.pdf	I-FILE
+from	O
+D:\Work\Finance\Records	B-PATH_DIR
+to	O
+D:\Work\Sales	B-PATH_DIR
+
+move	O
+privacy	B-FILE
+notice.pdf	I-FILE
+from	O
+D:\Work\Sales\Orders	B-PATH_DIR
+to	O
+D:\Work\Operations\Maintenance	B-PATH_DIR
+
+move	O
+security	B-FILE
+policy.pdf	I-FILE
+from	O
+D:\Work\Human	B-PATH_DIR
+Resources	I-PATH_DIR
+to	O
+D:\Work\Shared	B-PATH_DIR
+Resources	I-PATH_DIR
+
+move	O
+access	B-FILE
+policy.pdf	I-FILE
+from	O
+E:\Projects\WebPlatform	B-PATH_DIR
+to	O
+E:\Projects\WebPlatform\Source	B-PATH_DIR
+
+move	O
+incident	B-FILE
+report.pdf	I-FILE
+from	O
+E:\Projects\MobileApp	B-PATH_DIR
+to	O
+E:\Projects\ApiService	B-PATH_DIR
+
+move	O
+maintenance	B-FILE
+record.xlsx	I-FILE
+from	O
+E:\Development\DesktopTool	B-PATH_DIR
+to	O
+E:\Development\NLPProject	B-PATH_DIR
+
+move	O
+inspection	B-FILE
+report.pdf	I-FILE
+from	O
+E:\Development\SecurityTools	B-PATH_DIR
+to	O
+E:\University\Semester	B-PATH_DIR
+Five\DBMS	I-PATH_DIR
+
+move	O
+audit	B-FILE
+trail.csv	I-FILE
+from	O
+E:\University\Semester	B-PATH_DIR
+Five\HCI	I-PATH_DIR
+to	O
+E:\University\Semester	B-PATH_DIR
+Six\Projects	I-PATH_DIR
+
+move	O
+event	B-FILE
+schedule.xlsx	I-FILE
+from	O
+F:\Backup\Documents	B-PATH_DIR
+to	O
+F:\Backup\Projects	B-PATH_DIR
+
+move	O
+conference	B-FILE
+agenda.docx	I-FILE
+from	O
+F:\Backup\College	B-PATH_DIR
+to	O
+F:\Archive\Finance	B-PATH_DIR
+
+move	O
+meeting	B-FILE
+summary.docx	I-FILE
+from	O
+F:\Archive\Sales	B-PATH_DIR
+to	O
+F:\Archive\Research	B-PATH_DIR
+
+move	O
+speaker	B-FILE
+notes.docx	I-FILE
+here	O
+
+move	O
+presentation	B-FILE
+outline.pptx	I-FILE
+here	O
+
+move	O
+project	B-FILE
+slides.pptx	I-FILE
+here	O
+
+move	O
+poster	B-FILE
+design.pptx	I-FILE
+here	O
+
+move	O
+course	B-FILE
+presentation.pptx	I-FILE
+here	O
+
+move	O
+lecture	B-FILE
+summary.docx	I-FILE
+here	O
+
+move	O
+semester	B-FILE
+report.pdf	I-FILE
+into	O
+Security	B-FOLDER
+
+move	O
+semester	B-FILE
+results.xlsx	I-FILE
+into	O
+Audits	B-FOLDER
+
+move	O
+question	B-FILE
+bank.docx	I-FILE
+into	O
+Incidents	B-FOLDER
+
+move	O
+answer	B-FILE
+key.pdf	I-FILE
+into	O
+Maintenance	B-FOLDER
+
+move	O
+practical	B-FILE
+record.docx	I-FILE
+into	O
+Monitoring	B-FOLDER
+
+move	O
+lab	B-FILE
+schedule.xlsx	I-FILE
+into	O
+Networking	B-FOLDER
+
+move	O
+class	B-FILE
+timetable.xlsx	I-FILE
+into	O
+Servers	B-FOLDER
+
+move	O
+study	B-FILE
+plan.docx	I-FILE
+into	O
+Services	B-FOLDER
+
+move	O
+exam	B-FILE
+preparation.txt	I-FILE
+into	O
+Automation	B-FOLDER
+
+move	O
+course	B-FILE
+material.pdf	I-FILE
+into	O
+Development	B-FOLDER
+
+move	O
+chapter	B-FILE
+summary.docx	I-FILE
+into	O
+Deployment	B-FOLDER
+
+move	O
+reference	B-FILE
+notes.md	I-FILE
+into	O
+Production	B-FOLDER
+
+move	O
+book	B-FILE
+catalogue.csv	I-FILE
+into	O
+F:\Shared\Projects	B-PATH_DIR
+
+move	O
+library	B-FILE
+records.csv	I-FILE
+into	O
+F:\Shared\College	B-PATH_DIR
+
+move	O
+borrower	B-FILE
+list.csv	I-FILE
+into	O
+F:\Shared\Media	B-PATH_DIR
+
+move	O
+membership	B-FILE
+form.pdf	I-FILE
+into	O
+F:\Data\Raw	B-PATH_DIR
+
+move	O
+registration	B-FILE
+form.pdf	I-FILE
+into	O
+F:\Data\Processed	B-PATH_DIR
+
+move	O
+application	B-FILE
+form.pdf	I-FILE
+into	O
+F:\Data\Exports	B-PATH_DIR
+
+move	O
+admission	B-FILE
+letter.docx	I-FILE
+into	O
+F:\Research\Fieldwork	B-PATH_DIR
+
+move	O
+certificate	B-FILE
+copy.pdf	I-FILE
+into	O
+F:\Research\Publications	B-PATH_DIR
+
+move	O
+identity	B-FILE
+proof.pdf	I-FILE
+into	O
+C:\Workspaces\Northwind	B-PATH_DIR
+
+move	O
+passport	B-FILE
+scan.pdf	I-FILE
+into	O
+C:\Workspaces\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+
+move	O
+visa	B-FILE
+document.pdf	I-FILE
+into	O
+C:\Workspaces\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+travel	B-FILE
+booking.pdf	I-FILE
+into	O
+C:\Sandbox\Experiments	B-PATH_DIR
+
+move	O
+hotel	B-FILE
+reservation.pdf	I-FILE
+to	O
+Staging	B-FOLDER
+
+move	O
+flight	B-FILE
+details.pdf	I-FILE
+to	O
+SourceArchive	B-FOLDER
+
+move	O
+train	B-FILE
+ticket.pdf	I-FILE
+to	O
+CodeReview	B-FOLDER
+
+move	O
+event	B-FILE
+ticket.pdf	I-FILE
+to	O
+Builds	B-FOLDER
+
+move	O
+parking	B-FILE
+receipt.pdf	I-FILE
+to	O
+Releases	B-FOLDER
+
+move	O
+vehicle	B-FILE
+record.xlsx	I-FILE
+to	O
+Packages	B-FOLDER
+
+move	O
+service	B-FILE
+history.pdf	I-FILE
+to	O
+Dependencies	B-FOLDER
+
+move	O
+repair	B-FILE
+estimate.pdf	I-FILE
+to	O
+Libraries	B-FOLDER
+
+move	O
+maintenance	B-FILE
+schedule.xlsx	I-FILE
+to	O
+Modules	B-FOLDER
+
+move	O
+home	B-FILE
+inventory.xlsx	I-FILE
+to	O
+Plugins	B-FOLDER
+
+move	O
+garden	B-FILE
+plan.docx	I-FILE
+to	O
+Extensions	B-FOLDER
+
+move	O
+meal	B-FILE
+planner.xlsx	I-FILE
+to	O
+Containers	B-FOLDER
+
+move	O
+fitness	B-FILE
+routine.docx	I-FILE
+to	O
+C:\Sandbox\Archive	B-PATH_DIR
+
+move	O
+daily	B-FILE
+journal.txt	I-FILE
+to	O
+D:\Sandbox\Personal	B-PATH_DIR
+
+move	O
+personal	B-FILE
+notes.md	I-FILE
+to	O
+D:\Sandbox\Travel	B-PATH_DIR
+
+move	O
+photo	B-FILE
+index.csv	I-FILE
+to	O
+E:\Temp\Imports	B-PATH_DIR
+
+move	O
+image	B-FILE
+catalogue.csv	I-FILE
+to	O
+E:\Temp\Exports	B-PATH_DIR
+
+move	O
+design	B-FILE
+assets.json	I-FILE
+to	O
+E:\CloudArchive\Personal	B-PATH_DIR
+
+move	O
+logo	B-FILE
+draft.svg	I-FILE
+to	O
+E:\CloudArchive\Work	B-PATH_DIR
+
+move	O
+colour	B-FILE
+palette.json	I-FILE
+to	O
+F:\LongTermStorage\Records	B-PATH_DIR
+
+move	O
+wireframe	B-FILE
+notes.docx	I-FILE
+to	O
+F:\LongTermStorage\Projects	B-PATH_DIR
+
+move	O
+interface	B-FILE
+mockup.pdf	I-FILE
+to	O
+C:\Users\Public\Documents	B-PATH_DIR
+
+move	O
+network	B-FILE
+diagram.svg	I-FILE
+to	O
+C:\Users\Ankit\OneDrive\Documents	B-PATH_DIR
+
+move	O
+system	B-FILE
+architecture.pdf	I-FILE
+to	O
+D:\OneDriveBackup\Projects	B-PATH_DIR
+
+move	O
+a.txt	B-FILE
+to	O
+my	O
+Volumes	B-FOLDER
+
+move	O
+x1.txt	B-FILE
+to	O
+my	O
+Pipelines	B-FOLDER
+
+move	O
+v2_notes.md	B-FILE
+to	O
+my	O
+Workflows	B-FOLDER
+
+move	O
+Q4_summary.xlsx	B-FILE
+to	O
+my	O
+Jobs	B-FOLDER
+
+move	O
+log7.txt	B-FILE
+to	O
+my	O
+Batches	B-FOLDER
+
+move	O
+test-1.csv	B-FILE
+to	O
+my	O
+RawData	B-FOLDER
+
+move	O
+notes_2.txt	B-FILE
+to	O
+my	O
+CleanData	B-FOLDER
+
+move	O
+2026_report.pdf	B-FILE
+to	O
+my	O
+ProcessedData	B-FOLDER
+
+move	O
+backup	B-FILE
+(1).zip	I-FILE
+to	O
+my	O
+TrainingData	B-FOLDER
+
+move	O
+final!.txt	B-FILE
+to	O
+my	O
+ValidationData	B-FOLDER
+
+move	O
+C++	B-FILE
+notes.txt	I-FILE
+to	O
+my	O
+TestData	B-FOLDER
+
+move	O
+3D	B-FILE
+model.obj	I-FILE
+to	O
+my	O
+Predictions	B-FOLDER
+
+move	O
+README.md	B-FILE
+to	O
+my	O
+E:\UniversityArchive\Project	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+API_v3.json	B-FILE
+to	O
+my	O
+F:\CompanyArchive\Client	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+todo!.txt	B-FILE
+to	O
+my	O
+C:\NetworkShare\Team	B-PATH_DIR
+Resources	I-PATH_DIR
+
+move	O
+draft#2.docx	B-FILE
+to	O
+my	O
+D:\MediaStore\Photography	B-PATH_DIR
+
+move	O
+img_07.png	B-FILE
+to	O
+my	O
+E:\ProjectStorage\Active	B-PATH_DIR
+Work	I-PATH_DIR
+
+move	O
+part-3.pdf	B-FILE
+to	O
+my	O
+F:\BackupVault\Critical	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+r2d2.txt	B-FILE
+to	O
+my	O
+C:\Shared\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+move	O
+x9.csv	B-FILE
+to	O
+my	O
+C:\Shared\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+move	O
+data@home.csv	B-FILE
+to	O
+my	O
+C:\Shared\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+build_v4.log	B-FILE
+to	O
+my	O
+C:\Shared\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+week_5.xlsx	B-FILE
+to	O
+my	O
+C:\Shared\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+my	O
+C:\Shared\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+D:\Archive\Previous\quiet	B-PATH_FILE
+outline.py	I-PATH_FILE
+
+move	O
+D:\Research\Notes\quiet	B-PATH_FILE
+register.sql	I-PATH_FILE
+
+move	O
+D:\Research\Results\quiet	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+move	O
+E:\Shared\Operations\quiet	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+move	O
+E:\Shared\Finance\quiet	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+move	O
+F:\Records\Personal\silver	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+move	O
+F:\Records\Business\silver	B-PATH_FILE
+brief.csv	I-PATH_FILE
+here	O
+
+move	O
+F:\Backup\Monthly\silver	B-PATH_FILE
+memo.json	I-PATH_FILE
+here	O
+
+move	O
+F:\Backup\Projects\silver	B-PATH_FILE
+record.md	I-PATH_FILE
+here	O
+
+move	O
+C:\Projects\Greenfield\silver	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+here	O
+
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\silver	I-PATH_FILE
+outline.py	I-PATH_FILE
+here	O
+
+move	O
+D:\Development\Tools\silver	B-PATH_FILE
+register.sql	I-PATH_FILE
+here	O
+
+move	O
+E:\University\Coursework\silver	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+Evaluation	B-FOLDER
+
+move	O
+C:\Data\Incoming\silver	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+Benchmarks	B-FOLDER
+
+move	O
+C:\Data\Exports\silver	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+Metrics	B-FOLDER
+
+move	O
+C:\Data\Incoming\amber	B-PATH_FILE
+ledger.pdf	I-PATH_FILE
+into	O
+ReportsArchive	B-FOLDER
+
+move	O
+C:\Data\Exports\amber	B-PATH_FILE
+brief.docx	I-PATH_FILE
+into	O
+ResearchNotes	B-FOLDER
+
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\amber	I-PATH_FILE
+memo.xlsx	I-PATH_FILE
+into	O
+Fieldwork	B-FOLDER
+
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\amber	I-PATH_FILE
+record.txt	I-PATH_FILE
+into	O
+Surveys	B-FOLDER
+
+move	O
+D:\Archive\Current\amber	B-PATH_FILE
+snapshot.csv	I-PATH_FILE
+into	O
+Interviews	B-FOLDER
+
+move	O
+D:\Archive\Previous\amber	B-PATH_FILE
+outline.json	I-PATH_FILE
+into	O
+Observations	B-FOLDER
+
+move	O
+D:\Research\Notes\amber	B-PATH_FILE
+register.md	I-PATH_FILE
+into	O
+Publications	B-FOLDER
+
+move	O
+D:\Research\Results\amber	B-PATH_FILE
+summary.log	I-PATH_FILE
+into	O
+CaseStudies	B-FOLDER
+
+move	O
+E:\Shared\Operations\amber	B-PATH_FILE
+checklist.py	I-PATH_FILE
+into	O
+Proposals	B-FOLDER
+
+move	O
+E:\Shared\Finance\amber	B-PATH_FILE
+notice.sql	I-PATH_FILE
+into	O
+C:\Shared\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+F:\Records\Personal\autumn	B-PATH_FILE
+ledger.docx	I-PATH_FILE
+into	O
+C:\Shared\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+move	O
+F:\Records\Business\autumn	B-PATH_FILE
+brief.xlsx	I-PATH_FILE
+into	O
+C:\Shared\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+move	O
+F:\Backup\Monthly\autumn	B-PATH_FILE
+memo.txt	I-PATH_FILE
+into	O
+C:\Shared\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+move	O
+F:\Backup\Projects\autumn	B-PATH_FILE
+record.csv	I-PATH_FILE
+into	O
+C:\Shared\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+move	O
+C:\Projects\Greenfield\autumn	B-PATH_FILE
+snapshot.json	I-PATH_FILE
+into	O
+C:\Shared\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\autumn	I-PATH_FILE
+outline.md	I-PATH_FILE
+into	O
+C:\Shared\x1	B-PATH_DIR
+
+move	O
+D:\Development\Tools\autumn	B-PATH_FILE
+register.log	I-PATH_FILE
+into	O
+C:\Shared\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+move	O
+E:\University\Coursework\autumn	B-PATH_FILE
+summary.py	I-PATH_FILE
+into	O
+C:\Shared\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+C:\Data\Incoming\autumn	B-PATH_FILE
+checklist.sql	I-PATH_FILE
+into	O
+C:\Shared\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+move	O
+C:\Data\Exports\autumn	B-PATH_FILE
+notice.pdf	I-PATH_FILE
+into	O
+C:\Shared\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\blue	I-PATH_FILE
+ledger.xlsx	I-PATH_FILE
+into	O
+C:\Shared\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\blue	I-PATH_FILE
+brief.txt	I-PATH_FILE
+to	O
+Specifications	B-FOLDER
+
+move	O
+D:\Archive\Current\blue	B-PATH_FILE
+memo.csv	I-PATH_FILE
+to	O
+Architecture	B-FOLDER
+
+move	O
+D:\Archive\Previous\blue	B-PATH_FILE
+record.json	I-PATH_FILE
+to	O
+DesignDocs	B-FOLDER
+
+move	O
+D:\Research\Notes\blue	B-PATH_FILE
+snapshot.md	I-PATH_FILE
+to	O
+ProjectPlans	B-FOLDER
+
+move	O
+D:\Research\Results\blue	B-PATH_FILE
+outline.log	I-PATH_FILE
+to	O
+Roadmaps	B-FOLDER
+
+move	O
+E:\Shared\Operations\blue	B-PATH_FILE
+register.py	I-PATH_FILE
+to	O
+Milestones	B-FOLDER
+
+move	O
+E:\Shared\Finance\blue	B-PATH_FILE
+summary.sql	I-PATH_FILE
+to	O
+ChangeRequests	B-FOLDER
+
+move	O
+F:\Records\Personal\blue	B-PATH_FILE
+checklist.pdf	I-PATH_FILE
+to	O
+ReleaseNotes	B-FOLDER
+
+move	O
+F:\Records\Business\blue	B-PATH_FILE
+notice.docx	I-PATH_FILE
+to	O
+IssueReports	B-FOLDER
+
+move	O
+F:\Backup\Monthly\brisk	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+ErrorReports	B-FOLDER
+
+move	O
+F:\Backup\Projects\brisk	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+ActivityLogs	B-FOLDER
+
+move	O
+C:\Projects\Greenfield\brisk	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+AccessLogs	B-FOLDER
+
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\brisk	I-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+C:\Shared\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+move	O
+D:\Development\Tools\brisk	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+C:\Shared\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+move	O
+E:\University\Coursework\brisk	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+C:\Shared\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+move	O
+C:\Data\Incoming\brisk	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+C:\Shared\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+move	O
+C:\Data\Exports\brisk	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+C:\Shared\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+C:\Shared\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+C:\Shared\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+D:\Archive\Current\cedar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+C:\Shared\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+move	O
+D:\Archive\Previous\cedar	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+C:\Shared\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+move	O
+D:\Research\Notes\cedar	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+C:\Shared\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+D:\Research\Results\cedar	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+C:\Shared\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+move	O
+E:\Shared\Operations\cedar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+C:\Shared\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+move	O
+E:\Shared\Finance\cedar	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+my	O
+AuditRecords	B-FOLDER
+
+move	O
+F:\Records\Personal\cedar	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+my	O
+UserData	B-FOLDER
+
+move	O
+F:\Records\Business\cedar	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+my	O
+AppData	B-FOLDER
+
+move	O
+F:\Backup\Monthly\cedar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+my	O
+SessionData	B-FOLDER
+
+move	O
+F:\Backup\Projects\cedar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+my	O
+CacheData	B-FOLDER
+
+move	O
+C:\Projects\Greenfield\clear	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+my	O
+Credentials	B-FOLDER
+
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\clear	I-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+my	O
+Keys	B-FOLDER
+
+move	O
+D:\Development\Tools\clear	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+my	O
+Guidelines	B-FOLDER
+
+move	O
+E:\University\Coursework\clear	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+my	O
+SharedFiles	B-FOLDER
+
+move	O
+C:\Data\Incoming\clear	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+my	O
+PublicFiles	B-FOLDER
+
+move	O
+C:\Data\Exports\clear	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+my	O
+PrivateFiles	B-FOLDER
+
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\clear	I-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+my	O
+TemporaryFiles	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+meeting	B-FILE
+notes.docx	I-FILE
+to	O
+ScratchSpace	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+budget	B-FILE
+plan.xlsx	I-FILE
+to	O
+SandboxArea	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+project	B-FILE
+overview.pdf	I-FILE
+to	O
+OldProjects	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+class	B-FILE
+notes.txt	I-FILE
+to	O
+OldRecords	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+travel	B-FILE
+itinerary.docx	I-FILE
+to	O
+CurrentWork	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+invoice	B-FILE
+record.pdf	I-FILE
+to	O
+CompletedWork	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+expense	B-FILE
+summary.xlsx	I-FILE
+to	O
+PendingWork	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+research	B-FILE
+paper.pdf	I-FILE
+to	O
+ImportantFiles	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+lab	B-FILE
+report.docx	I-FILE
+to	O
+x1	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+assignment	B-FILE
+brief.docx	I-FILE
+to	O
+v2	B-FOLDER
+Builds	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+course	B-FILE
+outline.pdf	I-FILE
+to	O
+Q4	B-FOLDER
+Reports	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+exam	B-FILE
+schedule.pdf	I-FILE
+to	O
+3D	B-FOLDER
+Models	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+reading	B-FILE
+list.txt	I-FILE
+to	O
+D:\Archive\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+shopping	B-FILE
+list.txt	I-FILE
+to	O
+D:\Archive\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+recipe	B-FILE
+collection.docx	I-FILE
+to	O
+D:\Archive\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+movie	B-FILE
+list.txt	I-FILE
+to	O
+D:\Archive\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+music	B-FILE
+archive.csv	I-FILE
+to	O
+D:\Archive\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+contact	B-FILE
+list.csv	I-FILE
+to	O
+D:\Archive\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+student	B-FILE
+records.csv	I-FILE
+to	O
+D:\Archive\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+employee	B-FILE
+details.xlsx	I-FILE
+to	O
+D:\Archive\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+customer	B-FILE
+records.csv	I-FILE
+to	O
+D:\Archive\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+product	B-FILE
+catalogue.xlsx	I-FILE
+to	O
+D:\Archive\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+sales	B-FILE
+summary.xlsx	I-FILE
+to	O
+D:\Archive\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+attendance	B-FILE
+sheet.xlsx	I-FILE
+to	O
+D:\Archive\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+C:\Work\Team	B-PATH_FILE
+Files\clear	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+D:\Archive\x1	B-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+D:\Archive\Current\clear	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+D:\Archive\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+D:\Archive\Previous\clear	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+D:\Archive\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+D:\Research\Notes\copper	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+D:\Archive\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+D:\Research\Results\copper	B-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+D:\Archive\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+E:\Shared\Operations\copper	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+D:\Archive\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+E:\Shared\Finance\copper	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+D:\Archive\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+F:\Records\Personal\copper	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+D:\Archive\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+F:\Records\Business\copper	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+D:\Archive\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+F:\Backup\Monthly\copper	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+D:\Archive\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+F:\Backup\Projects\copper	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+D:\Archive\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+C:\Projects\Greenfield\copper	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+D:\Archive\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+C:\Projects\Harbour	B-PATH_FILE
+View\copper	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+C++	B-FOLDER
+Practice	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+D:\Development\Tools\crystal	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+2026	B-FOLDER
+Archive	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+E:\University\Coursework\crystal	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+API_v3	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+C:\Data\Incoming\crystal	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Old-2	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+C:\Data\Exports\crystal	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Room	B-FOLDER
+7	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+C:\Work\Client	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+A1	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+C:\Work\Team	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+3D	B-FOLDER
+Studio	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+D:\Archive\Current\crystal	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Q1	B-FOLDER
+Planning	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+D:\Archive\Previous\crystal	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Version	B-FOLDER
+4	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+D:\Research\Notes\crystal	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Team	B-FOLDER
+Room	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+D:\Research\Results\crystal	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Archive	B-FOLDER
+9	I-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+E:\Shared\Operations\dawn	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Documents	B-FOLDER
+
+move	O
+a	O
+file	O
+called	O
+E:\Shared\Finance\dawn	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+D:\Archive\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+F:\Records\Personal\dawn	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+D:\Archive\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+F:\Records\Business\dawn	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+D:\Archive\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+F:\Backup\Monthly\dawn	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+D:\Archive\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+F:\Backup\Projects\dawn	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+D:\Archive\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+C:\Projects\Greenfield\dawn	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+D:\Archive\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+C:\Projects\Harbour	B-PATH_FILE
+View\dawn	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+E:\Projects\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+D:\Development\Tools\dawn	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+E:\Projects\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+E:\University\Coursework\dawn	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+E:\Projects\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+C:\Data\Incoming\eastern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+E:\Projects\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+C:\Data\Exports\eastern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+E:\Projects\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+move	O
+a	O
+file	O
+called	O
+C:\Work\Client	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+E:\Projects\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+Projects	B-FOLDER
+to	O
+Downloads	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+Pictures	B-FOLDER
+to	O
+Videos	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+Music	B-FOLDER
+to	O
+Assignments	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+Notes	B-FOLDER
+to	O
+Research	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+Reports	B-FOLDER
+to	O
+Backups	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+Archives	B-FOLDER
+to	O
+Resources	B-FOLDER
+
+move	O
+a	O
+file	O
+from	O
+E:\Projects\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+to	O
+E:\Projects\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+E:\Projects\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+to	O
+E:\Projects\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+E:\Projects\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+to	O
+E:\Projects\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+E:\Projects\x1	B-PATH_DIR
+to	O
+E:\Projects\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+E:\Projects\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+to	O
+E:\Projects\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+move	O
+a	O
+file	O
+from	O
+E:\Projects\Old	B-PATH_DIR
+Office	I-PATH_DIR
+to	O
+E:\Projects\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+payroll	B-FILE
+summary.xlsx	I-FILE
+to	O
+Templates	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+monthly	B-FILE
+expenses.xlsx	I-FILE
+to	O
+References	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+annual	B-FILE
+budget.xlsx	I-FILE
+to	O
+Examples	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+bank	B-FILE
+statement.pdf	I-FILE
+to	O
+Samples	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+utility	B-FILE
+bill.pdf	I-FILE
+to	O
+Invoices	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+rent	B-FILE
+receipt.pdf	I-FILE
+to	O
+Receipts	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+insurance	B-FILE
+policy.pdf	I-FILE
+to	O
+Finance	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+tax	B-FILE
+summary.pdf	I-FILE
+to	O
+Accounts	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+loan	B-FILE
+statement.pdf	I-FILE
+to	O
+Customers	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+warranty	B-FILE
+card.pdf	I-FILE
+to	O
+Orders	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+support	B-FILE
+request.docx	I-FILE
+to	O
+Products	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+feedback	B-FILE
+form.docx	I-FILE
+to	O
+Employees	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+survey	B-FILE
+results.xlsx	I-FILE
+to	O
+E:\Projects\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+case	B-FILE
+study.pdf	I-FILE
+to	O
+E:\Projects\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+project	B-FILE
+proposal.docx	I-FILE
+to	O
+E:\Projects\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+design	B-FILE
+document.pdf	I-FILE
+to	O
+E:\Projects\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+technical	B-FILE
+guide.pdf	I-FILE
+to	O
+E:\Projects\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+user	B-FILE
+manual.pdf	I-FILE
+to	O
+E:\Projects\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+setup	B-FILE
+instructions.txt	I-FILE
+to	O
+E:\Projects\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+installation	B-FILE
+guide.pdf	I-FILE
+to	O
+E:\Projects\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+deployment	B-FILE
+notes.md	I-FILE
+to	O
+E:\Projects\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+release	B-FILE
+notes.md	I-FILE
+to	O
+E:\Projects\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+change	B-FILE
+history.txt	I-FILE
+to	O
+E:\Projects\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+error	B-FILE
+report.log	I-FILE
+to	O
+E:\Projects\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+C:\Work\Team	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+F:\Storage\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+D:\Archive\Current\eastern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+F:\Storage\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+D:\Archive\Previous\eastern	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+F:\Storage\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+D:\Research\Notes\eastern	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+F:\Storage\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+D:\Research\Results\eastern	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+F:\Storage\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+E:\Shared\Operations\eastern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+F:\Storage\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+E:\Shared\Finance\eastern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+F:\Storage\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+F:\Records\Personal\forest	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+F:\Storage\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+F:\Records\Business\forest	B-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+F:\Storage\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+F:\Backup\Monthly\forest	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+F:\Storage\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+F:\Backup\Projects\forest	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+F:\Storage\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+C:\Projects\Greenfield\forest	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+F:\Storage\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+C:\Projects\Harbour	B-PATH_FILE
+View\forest	I-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Students	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+D:\Development\Tools\forest	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Courses	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+E:\University\Coursework\forest	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Attendance	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+C:\Data\Incoming\forest	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Payroll	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+C:\Data\Exports\forest	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Database	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\golden	I-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Schemas	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+C:\Work\Team	B-PATH_FILE
+Files\golden	I-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Queries	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+D:\Archive\Current\golden	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Migrations	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+D:\Archive\Previous\golden	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Exports	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+D:\Research\Notes\golden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Imports	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+D:\Research\Results\golden	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Datasets	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+E:\Shared\Operations\golden	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Models	B-FOLDER
+
+move	O
+a	O
+file	O
+named	O
+E:\Shared\Finance\golden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+F:\Storage\x1	B-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+F:\Records\Personal\golden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+F:\Storage\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+F:\Records\Business\golden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+F:\Storage\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+F:\Backup\Monthly\harbour	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+F:\Storage\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+F:\Backup\Projects\harbour	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+F:\Storage\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+C:\Projects\Greenfield\harbour	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+F:\Storage\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+C:\Projects\Harbour	B-PATH_FILE
+View\harbour	I-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+F:\Storage\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+D:\Development\Tools\harbour	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+F:\Storage\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+E:\University\Coursework\harbour	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+F:\Storage\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+C:\Data\Incoming\harbour	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+F:\Storage\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+C:\Data\Exports\harbour	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+F:\Storage\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+move	O
+a	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+C:\Users\Ankit\Documents	B-PATH_DIR
+
+move	O
+file	O
+server	B-FILE
+activity.log	I-FILE
+
+move	O
+file	O
+access	B-FILE
+record.log	I-FILE
+
+move	O
+file	O
+debug	B-FILE
+output.log	I-FILE
+
+move	O
+file	O
+system	B-FILE
+report.txt	I-FILE
+
+move	O
+file	O
+backup	B-FILE
+manifest.json	I-FILE
+
+move	O
+file	O
+archive	B-FILE
+index.json	I-FILE
+
+move	O
+file	O
+database	B-FILE
+schema.sql	I-FILE
+to	O
+Results	B-FOLDER
+
+move	O
+file	O
+migration	B-FILE
+script.sql	I-FILE
+to	O
+Experiments	B-FOLDER
+
+move	O
+file	O
+query	B-FILE
+collection.sql	I-FILE
+to	O
+Testing	B-FOLDER
+
+move	O
+file	O
+seed	B-FILE
+records.sql	I-FILE
+to	O
+Scripts	B-FOLDER
+
+move	O
+file	O
+data	B-FILE
+dictionary.pdf	I-FILE
+to	O
+SourceCode	B-FOLDER
+
+move	O
+file	O
+table	B-FILE
+reference.pdf	I-FILE
+to	O
+Documentation	B-FOLDER
+
+move	O
+file	O
+api	B-FILE
+reference.md	I-FILE
+to	O
+Guides	B-FOLDER
+
+move	O
+file	O
+developer	B-FILE
+guide.md	I-FILE
+to	O
+Manuals	B-FOLDER
+
+move	O
+file	O
+configuration	B-FILE
+notes.txt	I-FILE
+to	O
+Logs	B-FOLDER
+
+move	O
+file	O
+application	B-FILE
+settings.json	I-FILE
+to	O
+Config	B-FOLDER
+
+move	O
+file	O
+workspace	B-FILE
+settings.json	I-FILE
+to	O
+Preferences	B-FOLDER
+
+move	O
+file	O
+user	B-FILE
+preferences.json	I-FILE
+to	O
+Assets	B-FOLDER
+
+move	O
+file	O
+environment	B-FILE
+details.json	I-FILE
+to	O
+C:\Users\Ankit\Desktop	B-PATH_DIR
+
+move	O
+file	O
+package	B-FILE
+manifest.json	I-FILE
+to	O
+C:\Users\Ankit\Downloads	B-PATH_DIR
+
+move	O
+file	O
+dependency	B-FILE
+list.txt	I-FILE
+to	O
+C:\Users\Ankit\Pictures	B-PATH_DIR
+
+move	O
+file	O
+build	B-FILE
+report.txt	I-FILE
+to	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+
+move	O
+file	O
+test	B-FILE
+plan.docx	I-FILE
+to	O
+C:\Users\Ankit\Projects\PayrollManager	B-PATH_DIR
+
+move	O
+file	O
+test	B-FILE
+cases.xlsx	I-FILE
+to	O
+C:\Users\Ankit\College\DBMS	B-PATH_DIR
+
+move	O
+file	O
+test	B-FILE
+results.xlsx	I-FILE
+to	O
+C:\Users\Ankit\College\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+move	O
+file	O
+quality	B-FILE
+report.pdf	I-FILE
+to	O
+C:\Users\Ankit\College\Computer	B-PATH_DIR
+Networks	I-PATH_DIR
+
+move	O
+file	O
+performance	B-FILE
+review.pdf	I-FILE
+to	O
+C:\Users\Ankit\College\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+
+move	O
+file	O
+benchmark	B-FILE
+results.csv	I-FILE
+to	O
+C:\Users\Ankit\Research\Papers	B-PATH_DIR
+
+move	O
+file	O
+evaluation	B-FILE
+report.pdf	I-FILE
+to	O
+C:\Users\Ankit\Research\Fieldwork	B-PATH_DIR
+
+move	O
+file	O
+model	B-FILE
+summary.json	I-FILE
+to	O
+C:\Users\Ankit\Work\Finance	B-PATH_DIR
+
+move	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+move	O
+file	O
+D:\Archive\Current\hidden	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+move	O
+file	O
+D:\Archive\Previous\hidden	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+move	O
+file	O
+D:\Research\Notes\hidden	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+move	O
+file	O
+D:\Research\Results\hidden	B-PATH_FILE
+record.md	I-PATH_FILE
+
+move	O
+file	O
+E:\Shared\Operations\hidden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+
+move	O
+file	O
+E:\Shared\Finance\hidden	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Images	B-FOLDER
+
+move	O
+file	O
+F:\Records\Personal\hidden	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Icons	B-FOLDER
+
+move	O
+file	O
+F:\Records\Business\hidden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Designs	B-FOLDER
+
+move	O
+file	O
+F:\Backup\Monthly\hidden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Layouts	B-FOLDER
+
+move	O
+file	O
+F:\Backup\Projects\hidden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Wireframes	B-FOLDER
+
+move	O
+file	O
+C:\Projects\Greenfield\lunar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Presentations	B-FOLDER
+
+move	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\lunar	I-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Spreadsheets	B-FOLDER
+
+move	O
+file	O
+D:\Development\Tools\lunar	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Contracts	B-FOLDER
+
+move	O
+file	O
+E:\University\Coursework\lunar	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Policies	B-FOLDER
+
+move	O
+file	O
+C:\Data\Incoming\lunar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Forms	B-FOLDER
+
+move	O
+file	O
+C:\Data\Exports\lunar	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Applications	B-FOLDER
+
+move	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Certificates	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+Schedules	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+Timetables	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+Coursework	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+Practical	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+LectureNotes	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+StudyMaterial	B-FOLDER
+
+move	O
+that	O
+file	O
+into	O
+C:\Users\Ankit\Work\Operations	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+C:\Users\Ankit\Work\Sales	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+C:\Users\Ankit\Travel\Bookings	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+D:\Projects\Automation	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+D:\Projects\Automation\Source	B-PATH_DIR
+
+move	O
+that	O
+file	O
+into	O
+D:\Projects\Automation\Tests	B-PATH_DIR
+
+move	O
+the	O
+file	O
+training	B-FILE
+records.csv	I-FILE
+
+move	O
+the	O
+file	O
+validation	B-FILE
+results.csv	I-FILE
+
+move	O
+the	O
+file	O
+prediction	B-FILE
+results.csv	I-FILE
+
+move	O
+the	O
+file	O
+feature	B-FILE
+list.json	I-FILE
+
+move	O
+the	O
+file	O
+label	B-FILE
+mapping.json	I-FILE
+
+move	O
+the	O
+file	O
+entity	B-FILE
+mapping.json	I-FILE
+
+move	O
+the	O
+file	O
+intent	B-FILE
+mapping.json	I-FILE
+from	O
+ExamPrep	B-FOLDER
+to	O
+QuestionPapers	B-FOLDER
+
+move	O
+the	O
+file	O
+vocabulary	B-FILE
+list.json	I-FILE
+from	O
+AnswerKeys	B-FOLDER
+to	O
+SemesterWork	B-FOLDER
+
+move	O
+the	O
+file	O
+annotation	B-FILE
+guide.pdf	I-FILE
+from	O
+CollegeWork	B-FOLDER
+to	O
+UniversityWork	B-FOLDER
+
+move	O
+the	O
+file	O
+review	B-FILE
+notes.txt	I-FILE
+from	O
+Personal	B-FOLDER
+to	O
+Travel	B-FOLDER
+
+move	O
+the	O
+file	O
+error	B-FILE
+analysis.pdf	I-FILE
+from	O
+Bookings	B-FOLDER
+to	O
+Reservations	B-FOLDER
+
+move	O
+the	O
+file	O
+experiment	B-FILE
+log.txt	I-FILE
+from	O
+Vehicles	B-FOLDER
+to	O
+Insurance	B-FOLDER
+
+move	O
+the	O
+file	O
+research	B-FILE
+diary.docx	I-FILE
+from	O
+Household	B-FOLDER
+to	O
+Recipes	B-FOLDER
+
+move	O
+the	O
+file	O
+field	B-FILE
+observations.csv	I-FILE
+from	O
+Fitness	B-FOLDER
+to	O
+Journals	B-FOLDER
+
+move	O
+the	O
+file	O
+survey	B-FILE
+form.docx	I-FILE
+from	O
+Reading	B-FOLDER
+to	O
+Movies	B-FOLDER
+
+move	O
+the	O
+file	O
+sample	B-FILE
+records.json	I-FILE
+from	O
+Games	B-FOLDER
+to	O
+Photography	B-FOLDER
+
+move	O
+the	O
+file	O
+raw	B-FILE
+measurements.csv	I-FILE
+from	O
+Gardening	B-FOLDER
+to	O
+Shopping	B-FOLDER
+
+move	O
+the	O
+file	O
+clean	B-FILE
+measurements.csv	I-FILE
+from	O
+Work	B-FOLDER
+to	O
+Meetings	B-FOLDER
+
+move	O
+the	O
+file	O
+processed	B-FILE
+results.csv	I-FILE
+from	O
+D:\Projects\Research	B-PATH_DIR
+to	O
+D:\Projects\Research\Data	B-PATH_DIR
+
+move	O
+the	O
+file	O
+weather	B-FILE
+log.csv	I-FILE
+from	O
+D:\Projects\Research\Reports	B-PATH_DIR
+to	O
+D:\Projects\WebPlatform	B-PATH_DIR
+
+move	O
+the	O
+file	O
+sensor	B-FILE
+readings.csv	I-FILE
+from	O
+D:\Projects\WebPlatform\Frontend	B-PATH_DIR
+to	O
+D:\Projects\WebPlatform\Backend	B-PATH_DIR
+
+move	O
+the	O
+file	O
+forecast	B-FILE
+report.pdf	I-FILE
+from	O
+D:\Projects\MachineLearning	B-PATH_DIR
+to	O
+D:\Projects\MachineLearning\Data	B-PATH_DIR
+
+move	O
+the	O
+file	O
+trend	B-FILE
+analysis.xlsx	I-FILE
+from	O
+D:\Projects\MachineLearning\Models	B-PATH_DIR
+to	O
+D:\Projects\DatabaseLab	B-PATH_DIR
+
+move	O
+the	O
+file	O
+market	B-FILE
+summary.pdf	I-FILE
+from	O
+D:\Projects\DatabaseLab\Schema	B-PATH_DIR
+to	O
+D:\CollegeWork\DBMS	B-PATH_DIR
+
+move	O
+the	O
+file	O
+sales	B-FILE
+forecast.xlsx	I-FILE
+from	O
+D:\CollegeWork\DBMS\Labs	B-PATH_DIR
+to	O
+D:\CollegeWork\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+move	O
+the	O
+file	O
+inventory	B-FILE
+report.xlsx	I-FILE
+from	O
+D:\CollegeWork\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+to	O
+D:\Work\Finance	B-PATH_DIR
+
+move	O
+the	O
+file	O
+order	B-FILE
+history.csv	I-FILE
+from	O
+D:\Work\Finance\Records	B-PATH_DIR
+to	O
+D:\Work\Sales	B-PATH_DIR
+
+move	O
+the	O
+file	O
+shipping	B-FILE
+details.csv	I-FILE
+from	O
+D:\Work\Sales\Orders	B-PATH_DIR
+to	O
+D:\Work\Operations\Maintenance	B-PATH_DIR
+
+move	O
+the	O
+file	O
+delivery	B-FILE
+record.pdf	I-FILE
+from	O
+D:\Work\Human	B-PATH_DIR
+Resources	I-PATH_DIR
+to	O
+D:\Work\Shared	B-PATH_DIR
+Resources	I-PATH_DIR
+
+move	O
+the	O
+file	O
+return	B-FILE
+request.docx	I-FILE
+from	O
+E:\Projects\WebPlatform	B-PATH_DIR
+to	O
+E:\Projects\WebPlatform\Source	B-PATH_DIR
+
+move	O
+the	O
+file	O
+purchase	B-FILE
+order.pdf	I-FILE
+to	O
+Agendas	B-FOLDER
+
+move	O
+the	O
+file	O
+quotation	B-FILE
+sheet.xlsx	I-FILE
+to	O
+Minutes	B-FOLDER
+
+move	O
+the	O
+file	O
+contract	B-FILE
+draft.docx	I-FILE
+to	O
+Clients	B-FOLDER
+
+move	O
+the	O
+file	O
+service	B-FILE
+agreement.pdf	I-FILE
+to	O
+Vendors	B-FOLDER
+
+move	O
+the	O
+file	O
+privacy	B-FILE
+notice.pdf	I-FILE
+to	O
+Operations	B-FOLDER
+
+move	O
+the	O
+file	O
+security	B-FILE
+policy.pdf	I-FILE
+to	O
+Planning	B-FOLDER
+
+move	O
+the	O
+file	O
+access	B-FILE
+policy.pdf	I-FILE
+to	O
+Strategy	B-FOLDER
+
+move	O
+the	O
+file	O
+incident	B-FILE
+report.pdf	I-FILE
+to	O
+Marketing	B-FOLDER
+
+move	O
+the	O
+file	O
+maintenance	B-FILE
+record.xlsx	I-FILE
+to	O
+Sales	B-FOLDER
+
+move	O
+the	O
+file	O
+inspection	B-FILE
+report.pdf	I-FILE
+to	O
+Support	B-FOLDER
+
+move	O
+the	O
+file	O
+audit	B-FILE
+trail.csv	I-FILE
+to	O
+HumanResources	B-FOLDER
+
+move	O
+the	O
+file	O
+event	B-FILE
+schedule.xlsx	I-FILE
+to	O
+Recruitment	B-FOLDER
+
+move	O
+the	O
+file	O
+conference	B-FILE
+agenda.docx	I-FILE
+to	O
+E:\Projects\MobileApp	B-PATH_DIR
+
+move	O
+the	O
+file	O
+meeting	B-FILE
+summary.docx	I-FILE
+to	O
+E:\Projects\ApiService	B-PATH_DIR
+
+move	O
+the	O
+file	O
+speaker	B-FILE
+notes.docx	I-FILE
+to	O
+E:\Development\DesktopTool	B-PATH_DIR
+
+move	O
+the	O
+file	O
+presentation	B-FILE
+outline.pptx	I-FILE
+to	O
+E:\Development\NLPProject	B-PATH_DIR
+
+move	O
+the	O
+file	O
+project	B-FILE
+slides.pptx	I-FILE
+to	O
+E:\Development\SecurityTools	B-PATH_DIR
+
+move	O
+the	O
+file	O
+poster	B-FILE
+design.pptx	I-FILE
+to	O
+E:\University\Semester	B-PATH_DIR
+Five\DBMS	I-PATH_DIR
+
+move	O
+the	O
+file	O
+course	B-FILE
+presentation.pptx	I-FILE
+to	O
+E:\University\Semester	B-PATH_DIR
+Five\HCI	I-PATH_DIR
+
+move	O
+the	O
+file	O
+lecture	B-FILE
+summary.docx	I-FILE
+to	O
+E:\University\Semester	B-PATH_DIR
+Six\Projects	I-PATH_DIR
+
+move	O
+the	O
+file	O
+semester	B-FILE
+report.pdf	I-FILE
+to	O
+F:\Backup\Documents	B-PATH_DIR
+
+move	O
+the	O
+file	O
+semester	B-FILE
+results.xlsx	I-FILE
+to	O
+F:\Backup\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+question	B-FILE
+bank.docx	I-FILE
+to	O
+F:\Backup\College	B-PATH_DIR
+
+move	O
+the	O
+file	O
+answer	B-FILE
+key.pdf	I-FILE
+to	O
+F:\Archive\Finance	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+move	O
+the	O
+file	O
+D:\Archive\Current\lunar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+move	O
+the	O
+file	O
+D:\Archive\Previous\lunar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+move	O
+the	O
+file	O
+D:\Research\Notes\maple	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+move	O
+the	O
+file	O
+D:\Research\Results\maple	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+move	O
+the	O
+file	O
+E:\Shared\Operations\maple	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+move	O
+the	O
+file	O
+E:\Shared\Finance\maple	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+F:\Archive\Sales	B-PATH_DIR
+
+move	O
+the	O
+file	O
+F:\Records\Personal\maple	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+F:\Archive\Research	B-PATH_DIR
+
+move	O
+the	O
+file	O
+F:\Records\Business\maple	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+F:\Shared\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+F:\Backup\Monthly\maple	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+F:\Shared\College	B-PATH_DIR
+
+move	O
+the	O
+file	O
+F:\Backup\Projects\maple	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+F:\Shared\Media	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Projects\Greenfield\maple	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+F:\Data\Raw	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\maple	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+F:\Data\Processed	B-PATH_DIR
+
+move	O
+the	O
+file	O
+D:\Development\Tools\misty	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+F:\Data\Exports	B-PATH_DIR
+
+move	O
+the	O
+file	O
+E:\University\Coursework\misty	B-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+F:\Research\Fieldwork	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Data\Incoming\misty	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+F:\Research\Publications	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Data\Exports\misty	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+C:\Workspaces\Northwind	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\misty	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+C:\Workspaces\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\misty	I-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Training	B-FOLDER
+
+move	O
+the	O
+file	O
+D:\Archive\Current\misty	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Compliance	B-FOLDER
+
+move	O
+the	O
+file	O
+D:\Archive\Previous\misty	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Security	B-FOLDER
+
+move	O
+the	O
+file	O
+D:\Research\Notes\misty	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Audits	B-FOLDER
+
+move	O
+the	O
+file	O
+D:\Research\Results\misty	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Incidents	B-FOLDER
+
+move	O
+the	O
+file	O
+E:\Shared\Operations\northern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Maintenance	B-FOLDER
+
+move	O
+the	O
+file	O
+E:\Shared\Finance\northern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Monitoring	B-FOLDER
+
+move	O
+the	O
+file	O
+F:\Records\Personal\northern	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Networking	B-FOLDER
+
+move	O
+the	O
+file	O
+F:\Records\Business\northern	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Servers	B-FOLDER
+
+move	O
+the	O
+file	O
+F:\Backup\Monthly\northern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Services	B-FOLDER
+
+move	O
+the	O
+file	O
+F:\Backup\Projects\northern	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Automation	B-FOLDER
+
+move	O
+the	O
+file	O
+C:\Projects\Greenfield\northern	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Development	B-FOLDER
+
+move	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\northern	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+C:\Workspaces\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+the	O
+file	O
+D:\Development\Tools\northern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+C:\Sandbox\Experiments	B-PATH_DIR
+
+move	O
+the	O
+file	O
+E:\University\Coursework\northern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+C:\Sandbox\Archive	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Data\Incoming\quiet	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+D:\Sandbox\Personal	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Data\Exports\quiet	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+D:\Sandbox\Travel	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+E:\Temp\Imports	B-PATH_DIR
+
+move	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+E:\Temp\Exports	B-PATH_DIR
+
+move	O
+the	O
+file	O
+D:\Archive\Current\quiet	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+E:\CloudArchive\Personal	B-PATH_DIR
+
+move	O
+the	O
+file	O
+D:\Archive\Previous\quiet	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+E:\CloudArchive\Work	B-PATH_DIR
+
+move	O
+the	O
+file	O
+D:\Research\Notes\quiet	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+F:\LongTermStorage\Records	B-PATH_DIR
+
+move	O
+the	O
+file	O
+D:\Research\Results\quiet	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+F:\LongTermStorage\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+E:\Shared\Operations\quiet	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+C:\Users\Public\Documents	B-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+practical	B-FILE
+record.docx	I-FILE
+to	O
+Deployment	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+lab	B-FILE
+schedule.xlsx	I-FILE
+to	O
+Production	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+class	B-FILE
+timetable.xlsx	I-FILE
+to	O
+Staging	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+study	B-FILE
+plan.docx	I-FILE
+to	O
+SourceArchive	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+exam	B-FILE
+preparation.txt	I-FILE
+to	O
+CodeReview	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+course	B-FILE
+material.pdf	I-FILE
+to	O
+Builds	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+chapter	B-FILE
+summary.docx	I-FILE
+to	O
+Releases	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+reference	B-FILE
+notes.md	I-FILE
+to	O
+Packages	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+book	B-FILE
+catalogue.csv	I-FILE
+to	O
+Dependencies	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+library	B-FILE
+records.csv	I-FILE
+to	O
+Libraries	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+borrower	B-FILE
+list.csv	I-FILE
+to	O
+Modules	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+membership	B-FILE
+form.pdf	I-FILE
+to	O
+Plugins	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+registration	B-FILE
+form.pdf	I-FILE
+to	O
+C:\Users\Ankit\OneDrive\Documents	B-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+application	B-FILE
+form.pdf	I-FILE
+to	O
+D:\OneDriveBackup\Projects	B-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+admission	B-FILE
+letter.docx	I-FILE
+to	O
+E:\UniversityArchive\Project	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+certificate	B-FILE
+copy.pdf	I-FILE
+to	O
+F:\CompanyArchive\Client	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+identity	B-FILE
+proof.pdf	I-FILE
+to	O
+C:\NetworkShare\Team	B-PATH_DIR
+Resources	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+passport	B-FILE
+scan.pdf	I-FILE
+to	O
+D:\MediaStore\Photography	B-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+visa	B-FILE
+document.pdf	I-FILE
+to	O
+E:\ProjectStorage\Active	B-PATH_DIR
+Work	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+travel	B-FILE
+booking.pdf	I-FILE
+to	O
+F:\BackupVault\Critical	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+hotel	B-FILE
+reservation.pdf	I-FILE
+to	O
+C:\Shared\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+flight	B-FILE
+details.pdf	I-FILE
+to	O
+C:\Shared\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+train	B-FILE
+ticket.pdf	I-FILE
+to	O
+C:\Shared\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+event	B-FILE
+ticket.pdf	I-FILE
+to	O
+C:\Shared\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+the	O
+file	O
+called	O
+E:\Shared\Finance\quiet	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Extensions	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+F:\Records\Personal\silver	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Containers	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+F:\Records\Business\silver	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Volumes	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+F:\Backup\Monthly\silver	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Pipelines	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+F:\Backup\Projects\silver	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Workflows	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+C:\Projects\Greenfield\silver	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Jobs	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+C:\Projects\Harbour	B-PATH_FILE
+View\silver	I-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Batches	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+D:\Development\Tools\silver	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+RawData	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+E:\University\Coursework\silver	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+CleanData	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+C:\Data\Incoming\silver	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+ProcessedData	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+C:\Data\Exports\silver	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+TrainingData	B-FOLDER
+
+move	O
+the	O
+file	O
+called	O
+C:\Data\Incoming\amber	B-PATH_FILE
+ledger.pdf	I-PATH_FILE
+to	O
+ValidationData	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+TestData	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+Predictions	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+Evaluation	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+Benchmarks	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+Metrics	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+ReportsArchive	B-FOLDER
+
+move	O
+the	O
+file	O
+into	O
+C:\Shared\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+C:\Shared\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+C:\Shared\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+C:\Shared\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+C:\Shared\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+move	O
+the	O
+file	O
+into	O
+C:\Shared\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+parking	B-FILE
+receipt.pdf	I-FILE
+to	O
+ResearchNotes	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+vehicle	B-FILE
+record.xlsx	I-FILE
+to	O
+Fieldwork	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+service	B-FILE
+history.pdf	I-FILE
+to	O
+Surveys	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+repair	B-FILE
+estimate.pdf	I-FILE
+to	O
+Interviews	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+maintenance	B-FILE
+schedule.xlsx	I-FILE
+to	O
+Observations	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+home	B-FILE
+inventory.xlsx	I-FILE
+to	O
+Publications	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+garden	B-FILE
+plan.docx	I-FILE
+to	O
+CaseStudies	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+meal	B-FILE
+planner.xlsx	I-FILE
+to	O
+Proposals	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+fitness	B-FILE
+routine.docx	I-FILE
+to	O
+Specifications	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+daily	B-FILE
+journal.txt	I-FILE
+to	O
+Architecture	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+personal	B-FILE
+notes.md	I-FILE
+to	O
+DesignDocs	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+photo	B-FILE
+index.csv	I-FILE
+to	O
+ProjectPlans	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+image	B-FILE
+catalogue.csv	I-FILE
+to	O
+C:\Shared\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+design	B-FILE
+assets.json	I-FILE
+to	O
+C:\Shared\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+logo	B-FILE
+draft.svg	I-FILE
+to	O
+C:\Shared\x1	B-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+colour	B-FILE
+palette.json	I-FILE
+to	O
+C:\Shared\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+wireframe	B-FILE
+notes.docx	I-FILE
+to	O
+C:\Shared\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+interface	B-FILE
+mockup.pdf	I-FILE
+to	O
+C:\Shared\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+network	B-FILE
+diagram.svg	I-FILE
+to	O
+C:\Shared\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+system	B-FILE
+architecture.pdf	I-FILE
+to	O
+C:\Shared\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+a.txt	B-FILE
+to	O
+C:\Shared\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+x1.txt	B-FILE
+to	O
+C:\Shared\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+v2_notes.md	B-FILE
+to	O
+C:\Shared\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+Q4_summary.xlsx	B-FILE
+to	O
+C:\Shared\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+C:\Data\Exports\amber	B-PATH_FILE
+brief.docx	I-PATH_FILE
+into	O
+C:\Shared\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\amber	I-PATH_FILE
+memo.xlsx	I-PATH_FILE
+into	O
+C:\Shared\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+C:\Work\Team	B-PATH_FILE
+Files\amber	I-PATH_FILE
+record.txt	I-PATH_FILE
+into	O
+C:\Shared\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+D:\Archive\Current\amber	B-PATH_FILE
+snapshot.csv	I-PATH_FILE
+into	O
+C:\Shared\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+D:\Archive\Previous\amber	B-PATH_FILE
+outline.json	I-PATH_FILE
+into	O
+C:\Shared\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+D:\Research\Notes\amber	B-PATH_FILE
+register.md	I-PATH_FILE
+into	O
+C:\Shared\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+D:\Research\Results\amber	B-PATH_FILE
+summary.log	I-PATH_FILE
+into	O
+C:\Shared\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+E:\Shared\Operations\amber	B-PATH_FILE
+checklist.py	I-PATH_FILE
+into	O
+C:\Shared\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+E:\Shared\Finance\amber	B-PATH_FILE
+notice.sql	I-PATH_FILE
+into	O
+D:\Archive\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+F:\Records\Personal\autumn	B-PATH_FILE
+ledger.docx	I-PATH_FILE
+into	O
+D:\Archive\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+F:\Records\Business\autumn	B-PATH_FILE
+brief.xlsx	I-PATH_FILE
+into	O
+D:\Archive\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+F:\Backup\Monthly\autumn	B-PATH_FILE
+memo.txt	I-PATH_FILE
+into	O
+D:\Archive\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+F:\Backup\Projects\autumn	B-PATH_FILE
+record.csv	I-PATH_FILE
+to	O
+Roadmaps	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+C:\Projects\Greenfield\autumn	B-PATH_FILE
+snapshot.json	I-PATH_FILE
+to	O
+Milestones	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+C:\Projects\Harbour	B-PATH_FILE
+View\autumn	I-PATH_FILE
+outline.md	I-PATH_FILE
+to	O
+ChangeRequests	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+D:\Development\Tools\autumn	B-PATH_FILE
+register.log	I-PATH_FILE
+to	O
+ReleaseNotes	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+E:\University\Coursework\autumn	B-PATH_FILE
+summary.py	I-PATH_FILE
+to	O
+IssueReports	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+C:\Data\Incoming\autumn	B-PATH_FILE
+checklist.sql	I-PATH_FILE
+to	O
+ErrorReports	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+C:\Data\Exports\autumn	B-PATH_FILE
+notice.pdf	I-PATH_FILE
+to	O
+ActivityLogs	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+C:\Work\Client	B-PATH_FILE
+Files\blue	I-PATH_FILE
+ledger.xlsx	I-PATH_FILE
+to	O
+AccessLogs	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+C:\Work\Team	B-PATH_FILE
+Files\blue	I-PATH_FILE
+brief.txt	I-PATH_FILE
+to	O
+AuditRecords	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+D:\Archive\Current\blue	B-PATH_FILE
+memo.csv	I-PATH_FILE
+to	O
+UserData	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+D:\Archive\Previous\blue	B-PATH_FILE
+record.json	I-PATH_FILE
+to	O
+AppData	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+D:\Research\Notes\blue	B-PATH_FILE
+snapshot.md	I-PATH_FILE
+to	O
+SessionData	B-FOLDER
+
+move	O
+the	O
+file	O
+named	O
+D:\Research\Results\blue	B-PATH_FILE
+outline.log	I-PATH_FILE
+to	O
+D:\Archive\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+E:\Shared\Operations\blue	B-PATH_FILE
+register.py	I-PATH_FILE
+to	O
+D:\Archive\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+E:\Shared\Finance\blue	B-PATH_FILE
+summary.sql	I-PATH_FILE
+to	O
+D:\Archive\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+F:\Records\Personal\blue	B-PATH_FILE
+checklist.pdf	I-PATH_FILE
+to	O
+D:\Archive\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+F:\Records\Business\blue	B-PATH_FILE
+notice.docx	I-PATH_FILE
+to	O
+D:\Archive\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+F:\Backup\Monthly\brisk	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+D:\Archive\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+F:\Backup\Projects\brisk	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+D:\Archive\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+C:\Projects\Greenfield\brisk	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+D:\Archive\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+C:\Projects\Harbour	B-PATH_FILE
+View\brisk	I-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+D:\Archive\x1	B-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+D:\Development\Tools\brisk	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+D:\Archive\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+E:\University\Coursework\brisk	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+D:\Archive\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+the	O
+file	O
+named	O
+C:\Data\Incoming\brisk	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+D:\Archive\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+CacheData	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+Credentials	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+Keys	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+Guidelines	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+SharedFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+PublicFiles	B-FOLDER
+
+move	O
+the	O
+file	O
+to	O
+my	O
+D:\Archive\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+D:\Archive\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+D:\Archive\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+D:\Archive\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+D:\Archive\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+move	O
+the	O
+file	O
+to	O
+my	O
+D:\Archive\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+PrivateFiles	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+TemporaryFiles	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+ScratchSpace	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+SandboxArea	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+OldProjects	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+OldRecords	B-FOLDER
+
+move	O
+this	O
+file	O
+into	O
+D:\Archive\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+D:\Archive\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+D:\Archive\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+D:\Archive\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+D:\Archive\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+move	O
+this	O
+file	O
+into	O
+D:\Archive\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+please	O
+move	O
+log7.txt	B-FILE
+
+please	O
+move	O
+test-1.csv	B-FILE
+
+please	O
+move	O
+notes_2.txt	B-FILE
+
+please	O
+move	O
+2026_report.pdf	B-FILE
+
+please	O
+move	O
+backup	B-FILE
+(1).zip	I-FILE
+
+please	O
+move	O
+final!.txt	B-FILE
+
+please	O
+move	O
+C++	B-FILE
+notes.txt	I-FILE
+into	O
+CurrentWork	B-FOLDER
+
+please	O
+move	O
+3D	B-FILE
+model.obj	I-FILE
+into	O
+CompletedWork	B-FOLDER
+
+please	O
+move	O
+README.md	B-FILE
+into	O
+PendingWork	B-FOLDER
+
+please	O
+move	O
+API_v3.json	B-FILE
+into	O
+ImportantFiles	B-FOLDER
+
+please	O
+move	O
+todo!.txt	B-FILE
+into	O
+x1	B-FOLDER
+
+please	O
+move	O
+draft#2.docx	B-FILE
+into	O
+v2	B-FOLDER
+Builds	I-FOLDER
+
+please	O
+move	O
+img_07.png	B-FILE
+into	O
+Q4	B-FOLDER
+Reports	I-FOLDER
+
+please	O
+move	O
+part-3.pdf	B-FILE
+into	O
+3D	B-FOLDER
+Models	I-FOLDER
+
+please	O
+move	O
+r2d2.txt	B-FILE
+into	O
+C++	B-FOLDER
+Practice	I-FOLDER
+
+please	O
+move	O
+x9.csv	B-FILE
+into	O
+2026	B-FOLDER
+Archive	I-FOLDER
+
+please	O
+move	O
+data@home.csv	B-FILE
+into	O
+API_v3	B-FOLDER
+
+please	O
+move	O
+build_v4.log	B-FILE
+into	O
+Old-2	B-FOLDER
+
+please	O
+move	O
+week_5.xlsx	B-FILE
+into	O
+D:\Archive\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+please	O
+move	O
+report.pdf	B-FILE
+into	O
+D:\Archive\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+please	O
+move	O
+meeting	B-FILE
+notes.docx	I-FILE
+into	O
+E:\Projects\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+please	O
+move	O
+budget	B-FILE
+plan.xlsx	I-FILE
+into	O
+E:\Projects\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+please	O
+move	O
+project	B-FILE
+overview.pdf	I-FILE
+into	O
+E:\Projects\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+please	O
+move	O
+class	B-FILE
+notes.txt	I-FILE
+into	O
+E:\Projects\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+please	O
+move	O
+travel	B-FILE
+itinerary.docx	I-FILE
+into	O
+E:\Projects\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+please	O
+move	O
+invoice	B-FILE
+record.pdf	I-FILE
+into	O
+E:\Projects\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+please	O
+move	O
+expense	B-FILE
+summary.xlsx	I-FILE
+into	O
+E:\Projects\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+please	O
+move	O
+research	B-FILE
+paper.pdf	I-FILE
+into	O
+E:\Projects\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+please	O
+move	O
+lab	B-FILE
+report.docx	I-FILE
+into	O
+E:\Projects\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+please	O
+move	O
+assignment	B-FILE
+brief.docx	I-FILE
+into	O
+E:\Projects\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+please	O
+move	O
+course	B-FILE
+outline.pdf	I-FILE
+to	O
+Room	B-FOLDER
+7	I-FOLDER
+
+please	O
+move	O
+exam	B-FILE
+schedule.pdf	I-FILE
+to	O
+A1	B-FOLDER
+
+please	O
+move	O
+reading	B-FILE
+list.txt	I-FILE
+to	O
+3D	B-FOLDER
+Studio	I-FOLDER
+
+please	O
+move	O
+shopping	B-FILE
+list.txt	I-FILE
+to	O
+Q1	B-FOLDER
+Planning	I-FOLDER
+
+please	O
+move	O
+recipe	B-FILE
+collection.docx	I-FILE
+to	O
+Version	B-FOLDER
+4	I-FOLDER
+
+please	O
+move	O
+movie	B-FILE
+list.txt	I-FILE
+to	O
+Team	B-FOLDER
+Room	I-FOLDER
+
+please	O
+move	O
+music	B-FILE
+archive.csv	I-FILE
+to	O
+Archive	B-FOLDER
+9	I-FOLDER
+
+please	O
+move	O
+contact	B-FILE
+list.csv	I-FILE
+to	O
+Documents	B-FOLDER
+
+please	O
+move	O
+student	B-FILE
+records.csv	I-FILE
+to	O
+Projects	B-FOLDER
+
+please	O
+move	O
+employee	B-FILE
+details.xlsx	I-FILE
+to	O
+Downloads	B-FOLDER
+
+please	O
+move	O
+customer	B-FILE
+records.csv	I-FILE
+to	O
+Pictures	B-FOLDER
+
+please	O
+move	O
+product	B-FILE
+catalogue.xlsx	I-FILE
+to	O
+Videos	B-FOLDER
+
+please	O
+move	O
+sales	B-FILE
+summary.xlsx	I-FILE
+to	O
+E:\Projects\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+please	O
+move	O
+attendance	B-FILE
+sheet.xlsx	I-FILE
+to	O
+E:\Projects\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+please	O
+move	O
+payroll	B-FILE
+summary.xlsx	I-FILE
+to	O
+E:\Projects\x1	B-PATH_DIR
+
+please	O
+move	O
+monthly	B-FILE
+expenses.xlsx	I-FILE
+to	O
+E:\Projects\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+please	O
+move	O
+annual	B-FILE
+budget.xlsx	I-FILE
+to	O
+E:\Projects\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+please	O
+move	O
+bank	B-FILE
+statement.pdf	I-FILE
+to	O
+E:\Projects\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+please	O
+move	O
+utility	B-FILE
+bill.pdf	I-FILE
+to	O
+E:\Projects\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+please	O
+move	O
+rent	B-FILE
+receipt.pdf	I-FILE
+to	O
+E:\Projects\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+please	O
+move	O
+insurance	B-FILE
+policy.pdf	I-FILE
+to	O
+E:\Projects\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+please	O
+move	O
+tax	B-FILE
+summary.pdf	I-FILE
+to	O
+E:\Projects\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+please	O
+move	O
+loan	B-FILE
+statement.pdf	I-FILE
+to	O
+E:\Projects\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+please	O
+move	O
+warranty	B-FILE
+card.pdf	I-FILE
+to	O
+E:\Projects\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+please	O
+move	O
+C:\Data\Exports\brisk	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+
+please	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+
+please	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+
+please	O
+move	O
+D:\Archive\Current\cedar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+
+please	O
+move	O
+D:\Archive\Previous\cedar	B-PATH_FILE
+brief.csv	I-PATH_FILE
+
+please	O
+move	O
+D:\Research\Notes\cedar	B-PATH_FILE
+memo.json	I-PATH_FILE
+
+please	O
+move	O
+D:\Research\Results\cedar	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+Music	B-FOLDER
+
+please	O
+move	O
+E:\Shared\Operations\cedar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+Assignments	B-FOLDER
+
+please	O
+move	O
+E:\Shared\Finance\cedar	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+Notes	B-FOLDER
+
+please	O
+move	O
+F:\Records\Personal\cedar	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+Research	B-FOLDER
+
+please	O
+move	O
+F:\Records\Business\cedar	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+Reports	B-FOLDER
+
+please	O
+move	O
+F:\Backup\Monthly\cedar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+Backups	B-FOLDER
+
+please	O
+move	O
+F:\Backup\Projects\cedar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+Archives	B-FOLDER
+
+please	O
+move	O
+C:\Projects\Greenfield\clear	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+Resources	B-FOLDER
+
+please	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\clear	I-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+Templates	B-FOLDER
+
+please	O
+move	O
+D:\Development\Tools\clear	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+References	B-FOLDER
+
+please	O
+move	O
+E:\University\Coursework\clear	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+Examples	B-FOLDER
+
+please	O
+move	O
+C:\Data\Incoming\clear	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+Samples	B-FOLDER
+
+please	O
+move	O
+C:\Data\Exports\clear	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+E:\Projects\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+please	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\clear	I-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+E:\Projects\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+please	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\clear	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+E:\Projects\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+please	O
+move	O
+D:\Archive\Current\clear	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+E:\Projects\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+please	O
+move	O
+D:\Archive\Previous\clear	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+E:\Projects\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+please	O
+move	O
+D:\Research\Notes\copper	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+E:\Projects\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+please	O
+move	O
+D:\Research\Results\copper	B-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+E:\Projects\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+please	O
+move	O
+E:\Shared\Operations\copper	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+E:\Projects\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+please	O
+move	O
+E:\Shared\Finance\copper	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+F:\Storage\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+please	O
+move	O
+F:\Records\Personal\copper	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+F:\Storage\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+please	O
+move	O
+F:\Records\Business\copper	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+F:\Storage\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+please	O
+move	O
+F:\Backup\Monthly\copper	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+F:\Storage\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+please	O
+move	O
+F:\Backup\Projects\copper	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Invoices	B-FOLDER
+
+please	O
+move	O
+C:\Projects\Greenfield\copper	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Receipts	B-FOLDER
+
+please	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\copper	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+Finance	B-FOLDER
+
+please	O
+move	O
+D:\Development\Tools\crystal	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Accounts	B-FOLDER
+
+please	O
+move	O
+E:\University\Coursework\crystal	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+Customers	B-FOLDER
+
+please	O
+move	O
+C:\Data\Incoming\crystal	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Orders	B-FOLDER
+
+please	O
+move	O
+C:\Data\Exports\crystal	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Products	B-FOLDER
+
+please	O
+move	O
+C:\Work\Client	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Employees	B-FOLDER
+
+please	O
+move	O
+C:\Work\Team	B-PATH_FILE
+Files\crystal	I-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+Students	B-FOLDER
+
+please	O
+move	O
+D:\Archive\Current\crystal	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+Courses	B-FOLDER
+
+please	O
+move	O
+D:\Archive\Previous\crystal	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+Attendance	B-FOLDER
+
+please	O
+move	O
+D:\Research\Notes\crystal	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+Payroll	B-FOLDER
+
+please	O
+move	O
+D:\Research\Results\crystal	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+F:\Storage\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+please	O
+move	O
+E:\Shared\Operations\dawn	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+F:\Storage\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+please	O
+move	O
+E:\Shared\Finance\dawn	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+F:\Storage\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+please	O
+move	O
+F:\Records\Personal\dawn	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+F:\Storage\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+please	O
+move	O
+F:\Records\Business\dawn	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+F:\Storage\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+please	O
+move	O
+F:\Backup\Monthly\dawn	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+F:\Storage\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+please	O
+move	O
+F:\Backup\Projects\dawn	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+F:\Storage\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+please	O
+move	O
+C:\Projects\Greenfield\dawn	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+F:\Storage\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+please	O
+move	O
+C:\Projects\Harbour	B-PATH_FILE
+View\dawn	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+F:\Storage\x1	B-PATH_DIR
+
+please	O
+move	O
+D:\Development\Tools\dawn	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+F:\Storage\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+please	O
+move	O
+E:\University\Coursework\dawn	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+F:\Storage\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+please	O
+move	O
+C:\Data\Incoming\eastern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+F:\Storage\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Database	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Schemas	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Queries	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Migrations	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Exports	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+Imports	B-FOLDER
+
+please	O
+move	O
+the	O
+file	O
+to	O
+F:\Storage\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+F:\Storage\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+F:\Storage\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+F:\Storage\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+F:\Storage\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+please	O
+move	O
+the	O
+file	O
+to	O
+F:\Storage\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+please	O
+put	O
+support	B-FILE
+request.docx	I-FILE
+in	O
+Datasets	B-FOLDER
+
+please	O
+put	O
+feedback	B-FILE
+form.docx	I-FILE
+in	O
+Models	B-FOLDER
+
+please	O
+put	O
+survey	B-FILE
+results.xlsx	I-FILE
+in	O
+Results	B-FOLDER
+
+please	O
+put	O
+case	B-FILE
+study.pdf	I-FILE
+in	O
+Experiments	B-FOLDER
+
+please	O
+put	O
+project	B-FILE
+proposal.docx	I-FILE
+in	O
+Testing	B-FOLDER
+
+please	O
+put	O
+design	B-FILE
+document.pdf	I-FILE
+in	O
+Scripts	B-FOLDER
+
+please	O
+put	O
+technical	B-FILE
+guide.pdf	I-FILE
+in	O
+SourceCode	B-FOLDER
+
+please	O
+put	O
+user	B-FILE
+manual.pdf	I-FILE
+in	O
+Documentation	B-FOLDER
+
+please	O
+put	O
+setup	B-FILE
+instructions.txt	I-FILE
+in	O
+Guides	B-FOLDER
+
+please	O
+put	O
+installation	B-FILE
+guide.pdf	I-FILE
+in	O
+Manuals	B-FOLDER
+
+please	O
+put	O
+deployment	B-FILE
+notes.md	I-FILE
+in	O
+Logs	B-FOLDER
+
+please	O
+put	O
+release	B-FILE
+notes.md	I-FILE
+in	O
+Config	B-FOLDER
+
+please	O
+put	O
+change	B-FILE
+history.txt	I-FILE
+in	O
+F:\Storage\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+please	O
+put	O
+error	B-FILE
+report.log	I-FILE
+in	O
+C:\Users\Ankit\Documents	B-PATH_DIR
+
+please	O
+put	O
+server	B-FILE
+activity.log	I-FILE
+in	O
+C:\Users\Ankit\Desktop	B-PATH_DIR
+
+please	O
+put	O
+access	B-FILE
+record.log	I-FILE
+in	O
+C:\Users\Ankit\Downloads	B-PATH_DIR
+
+please	O
+put	O
+debug	B-FILE
+output.log	I-FILE
+in	O
+C:\Users\Ankit\Pictures	B-PATH_DIR
+
+please	O
+put	O
+system	B-FILE
+report.txt	I-FILE
+in	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+
+please	O
+put	O
+backup	B-FILE
+manifest.json	I-FILE
+in	O
+C:\Users\Ankit\Projects\PayrollManager	B-PATH_DIR
+
+please	O
+put	O
+archive	B-FILE
+index.json	I-FILE
+in	O
+C:\Users\Ankit\College\DBMS	B-PATH_DIR
+
+please	O
+put	O
+database	B-FILE
+schema.sql	I-FILE
+in	O
+C:\Users\Ankit\College\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+please	O
+put	O
+migration	B-FILE
+script.sql	I-FILE
+in	O
+C:\Users\Ankit\College\Computer	B-PATH_DIR
+Networks	I-PATH_DIR
+
+please	O
+put	O
+query	B-FILE
+collection.sql	I-FILE
+in	O
+C:\Users\Ankit\College\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+
+please	O
+put	O
+seed	B-FILE
+records.sql	I-FILE
+in	O
+C:\Users\Ankit\Research\Papers	B-PATH_DIR
+
+please	O
+put	O
+C:\Data\Exports\eastern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+Preferences	B-FOLDER
+
+please	O
+put	O
+C:\Work\Client	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+Assets	B-FOLDER
+
+please	O
+put	O
+C:\Work\Team	B-PATH_FILE
+Files\eastern	I-PATH_FILE
+record.md	I-PATH_FILE
+in	O
+Images	B-FOLDER
+
+please	O
+put	O
+D:\Archive\Current\eastern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+in	O
+Icons	B-FOLDER
+
+please	O
+put	O
+D:\Archive\Previous\eastern	B-PATH_FILE
+outline.py	I-PATH_FILE
+in	O
+Designs	B-FOLDER
+
+please	O
+put	O
+D:\Research\Notes\eastern	B-PATH_FILE
+register.sql	I-PATH_FILE
+in	O
+Layouts	B-FOLDER
+
+please	O
+put	O
+D:\Research\Results\eastern	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+in	O
+Wireframes	B-FOLDER
+
+please	O
+put	O
+E:\Shared\Operations\eastern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+in	O
+Presentations	B-FOLDER
+
+please	O
+put	O
+E:\Shared\Finance\eastern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+Spreadsheets	B-FOLDER
+
+please	O
+put	O
+F:\Records\Personal\forest	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+Contracts	B-FOLDER
+
+please	O
+put	O
+F:\Records\Business\forest	B-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+Policies	B-FOLDER
+
+please	O
+put	O
+F:\Backup\Monthly\forest	B-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+Forms	B-FOLDER
+
+put	O
+data	B-FILE
+dictionary.pdf	I-FILE
+here	O
+
+put	O
+table	B-FILE
+reference.pdf	I-FILE
+here	O
+
+put	O
+api	B-FILE
+reference.md	I-FILE
+here	O
+
+put	O
+developer	B-FILE
+guide.md	I-FILE
+here	O
+
+put	O
+configuration	B-FILE
+notes.txt	I-FILE
+here	O
+
+put	O
+application	B-FILE
+settings.json	I-FILE
+here	O
+
+put	O
+workspace	B-FILE
+settings.json	I-FILE
+in	O
+Applications	B-FOLDER
+
+put	O
+user	B-FILE
+preferences.json	I-FILE
+in	O
+Certificates	B-FOLDER
+
+put	O
+environment	B-FILE
+details.json	I-FILE
+in	O
+Schedules	B-FOLDER
+
+put	O
+package	B-FILE
+manifest.json	I-FILE
+in	O
+Timetables	B-FOLDER
+
+put	O
+dependency	B-FILE
+list.txt	I-FILE
+in	O
+Coursework	B-FOLDER
+
+put	O
+build	B-FILE
+report.txt	I-FILE
+in	O
+Practical	B-FOLDER
+
+put	O
+test	B-FILE
+plan.docx	I-FILE
+in	O
+LectureNotes	B-FOLDER
+
+put	O
+test	B-FILE
+cases.xlsx	I-FILE
+in	O
+StudyMaterial	B-FOLDER
+
+put	O
+test	B-FILE
+results.xlsx	I-FILE
+in	O
+ExamPrep	B-FOLDER
+
+put	O
+quality	B-FILE
+report.pdf	I-FILE
+in	O
+QuestionPapers	B-FOLDER
+
+put	O
+performance	B-FILE
+review.pdf	I-FILE
+in	O
+AnswerKeys	B-FOLDER
+
+put	O
+benchmark	B-FILE
+results.csv	I-FILE
+in	O
+SemesterWork	B-FOLDER
+
+put	O
+evaluation	B-FILE
+report.pdf	I-FILE
+in	O
+C:\Users\Ankit\Research\Fieldwork	B-PATH_DIR
+
+put	O
+model	B-FILE
+summary.json	I-FILE
+in	O
+C:\Users\Ankit\Work\Finance	B-PATH_DIR
+
+put	O
+training	B-FILE
+records.csv	I-FILE
+in	O
+C:\Users\Ankit\Work\Operations	B-PATH_DIR
+
+put	O
+validation	B-FILE
+results.csv	I-FILE
+in	O
+C:\Users\Ankit\Work\Sales	B-PATH_DIR
+
+put	O
+prediction	B-FILE
+results.csv	I-FILE
+in	O
+C:\Users\Ankit\Travel\Bookings	B-PATH_DIR
+
+put	O
+feature	B-FILE
+list.json	I-FILE
+in	O
+D:\Projects\Automation	B-PATH_DIR
+
+put	O
+label	B-FILE
+mapping.json	I-FILE
+in	O
+D:\Projects\Automation\Source	B-PATH_DIR
+
+put	O
+entity	B-FILE
+mapping.json	I-FILE
+in	O
+D:\Projects\Automation\Tests	B-PATH_DIR
+
+put	O
+intent	B-FILE
+mapping.json	I-FILE
+in	O
+D:\Projects\Research	B-PATH_DIR
+
+put	O
+vocabulary	B-FILE
+list.json	I-FILE
+in	O
+D:\Projects\Research\Data	B-PATH_DIR
+
+put	O
+annotation	B-FILE
+guide.pdf	I-FILE
+in	O
+D:\Projects\Research\Reports	B-PATH_DIR
+
+put	O
+review	B-FILE
+notes.txt	I-FILE
+in	O
+D:\Projects\WebPlatform	B-PATH_DIR
+
+put	O
+error	B-FILE
+analysis.pdf	I-FILE
+in	O
+my	O
+CollegeWork	B-FOLDER
+
+put	O
+experiment	B-FILE
+log.txt	I-FILE
+in	O
+my	O
+UniversityWork	B-FOLDER
+
+put	O
+research	B-FILE
+diary.docx	I-FILE
+in	O
+my	O
+Personal	B-FOLDER
+
+put	O
+field	B-FILE
+observations.csv	I-FILE
+in	O
+my	O
+Travel	B-FOLDER
+
+put	O
+survey	B-FILE
+form.docx	I-FILE
+in	O
+my	O
+Bookings	B-FOLDER
+
+put	O
+sample	B-FILE
+records.json	I-FILE
+in	O
+my	O
+Reservations	B-FOLDER
+
+put	O
+raw	B-FILE
+measurements.csv	I-FILE
+in	O
+my	O
+Vehicles	B-FOLDER
+
+put	O
+clean	B-FILE
+measurements.csv	I-FILE
+in	O
+my	O
+Insurance	B-FOLDER
+
+put	O
+processed	B-FILE
+results.csv	I-FILE
+in	O
+my	O
+Household	B-FOLDER
+
+put	O
+weather	B-FILE
+log.csv	I-FILE
+in	O
+my	O
+Recipes	B-FOLDER
+
+put	O
+sensor	B-FILE
+readings.csv	I-FILE
+in	O
+my	O
+Fitness	B-FOLDER
+
+put	O
+forecast	B-FILE
+report.pdf	I-FILE
+in	O
+my	O
+Journals	B-FOLDER
+
+put	O
+trend	B-FILE
+analysis.xlsx	I-FILE
+in	O
+my	O
+D:\Projects\WebPlatform\Frontend	B-PATH_DIR
+
+put	O
+market	B-FILE
+summary.pdf	I-FILE
+in	O
+my	O
+D:\Projects\WebPlatform\Backend	B-PATH_DIR
+
+put	O
+sales	B-FILE
+forecast.xlsx	I-FILE
+in	O
+my	O
+D:\Projects\MachineLearning	B-PATH_DIR
+
+put	O
+inventory	B-FILE
+report.xlsx	I-FILE
+in	O
+my	O
+D:\Projects\MachineLearning\Data	B-PATH_DIR
+
+put	O
+order	B-FILE
+history.csv	I-FILE
+in	O
+my	O
+D:\Projects\MachineLearning\Models	B-PATH_DIR
+
+put	O
+shipping	B-FILE
+details.csv	I-FILE
+in	O
+my	O
+D:\Projects\DatabaseLab	B-PATH_DIR
+
+put	O
+delivery	B-FILE
+record.pdf	I-FILE
+in	O
+my	O
+D:\Projects\DatabaseLab\Schema	B-PATH_DIR
+
+put	O
+return	B-FILE
+request.docx	I-FILE
+in	O
+my	O
+D:\CollegeWork\DBMS	B-PATH_DIR
+
+put	O
+purchase	B-FILE
+order.pdf	I-FILE
+in	O
+my	O
+D:\CollegeWork\DBMS\Labs	B-PATH_DIR
+
+put	O
+quotation	B-FILE
+sheet.xlsx	I-FILE
+in	O
+my	O
+D:\CollegeWork\Operating	B-PATH_DIR
+Systems	I-PATH_DIR
+
+put	O
+contract	B-FILE
+draft.docx	I-FILE
+in	O
+my	O
+D:\CollegeWork\Business	B-PATH_DIR
+Intelligence	I-PATH_DIR
+
+put	O
+service	B-FILE
+agreement.pdf	I-FILE
+in	O
+my	O
+D:\Work\Finance	B-PATH_DIR
+
+put	O
+F:\Backup\Projects\forest	B-PATH_FILE
+record.md	I-PATH_FILE
+here	O
+
+put	O
+C:\Projects\Greenfield\forest	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+here	O
+
+put	O
+C:\Projects\Harbour	B-PATH_FILE
+View\forest	I-PATH_FILE
+outline.py	I-PATH_FILE
+here	O
+
+put	O
+D:\Development\Tools\forest	B-PATH_FILE
+register.sql	I-PATH_FILE
+here	O
+
+put	O
+E:\University\Coursework\forest	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+here	O
+
+put	O
+C:\Data\Incoming\forest	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+here	O
+
+put	O
+C:\Data\Exports\forest	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+Reading	B-FOLDER
+
+put	O
+C:\Work\Client	B-PATH_FILE
+Files\golden	I-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+Movies	B-FOLDER
+
+put	O
+C:\Work\Team	B-PATH_FILE
+Files\golden	I-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+Games	B-FOLDER
+
+put	O
+D:\Archive\Current\golden	B-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+Photography	B-FOLDER
+
+put	O
+D:\Archive\Previous\golden	B-PATH_FILE
+record.md	I-PATH_FILE
+in	O
+Gardening	B-FOLDER
+
+put	O
+D:\Research\Notes\golden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+in	O
+Shopping	B-FOLDER
+
+put	O
+D:\Research\Results\golden	B-PATH_FILE
+outline.py	I-PATH_FILE
+in	O
+Work	B-FOLDER
+
+put	O
+E:\Shared\Operations\golden	B-PATH_FILE
+register.sql	I-PATH_FILE
+in	O
+Meetings	B-FOLDER
+
+put	O
+E:\Shared\Finance\golden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+in	O
+Agendas	B-FOLDER
+
+put	O
+F:\Records\Personal\golden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+in	O
+Minutes	B-FOLDER
+
+put	O
+F:\Records\Business\golden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+Clients	B-FOLDER
+
+put	O
+F:\Backup\Monthly\harbour	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+Vendors	B-FOLDER
+
+put	O
+F:\Backup\Projects\harbour	B-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+D:\Work\Finance\Records	B-PATH_DIR
+
+put	O
+C:\Projects\Greenfield\harbour	B-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+D:\Work\Sales	B-PATH_DIR
+
+put	O
+C:\Projects\Harbour	B-PATH_FILE
+View\harbour	I-PATH_FILE
+record.md	I-PATH_FILE
+in	O
+D:\Work\Sales\Orders	B-PATH_DIR
+
+put	O
+D:\Development\Tools\harbour	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+in	O
+D:\Work\Operations\Maintenance	B-PATH_DIR
+
+put	O
+E:\University\Coursework\harbour	B-PATH_FILE
+outline.py	I-PATH_FILE
+in	O
+D:\Work\Human	B-PATH_DIR
+Resources	I-PATH_DIR
+
+put	O
+C:\Data\Incoming\harbour	B-PATH_FILE
+register.sql	I-PATH_FILE
+in	O
+D:\Work\Shared	B-PATH_DIR
+Resources	I-PATH_DIR
+
+put	O
+C:\Data\Exports\harbour	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+in	O
+E:\Projects\WebPlatform	B-PATH_DIR
+
+put	O
+C:\Work\Client	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+in	O
+E:\Projects\WebPlatform\Source	B-PATH_DIR
+
+put	O
+C:\Work\Team	B-PATH_FILE
+Files\harbour	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+E:\Projects\MobileApp	B-PATH_DIR
+
+put	O
+D:\Archive\Current\hidden	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+E:\Projects\ApiService	B-PATH_DIR
+
+put	O
+D:\Archive\Previous\hidden	B-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+E:\Development\DesktopTool	B-PATH_DIR
+
+put	O
+D:\Research\Notes\hidden	B-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+E:\Development\NLPProject	B-PATH_DIR
+
+put	O
+D:\Research\Results\hidden	B-PATH_FILE
+record.md	I-PATH_FILE
+in	O
+my	O
+Operations	B-FOLDER
+
+put	O
+E:\Shared\Operations\hidden	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+in	O
+my	O
+Planning	B-FOLDER
+
+put	O
+E:\Shared\Finance\hidden	B-PATH_FILE
+outline.py	I-PATH_FILE
+in	O
+my	O
+Strategy	B-FOLDER
+
+put	O
+F:\Records\Personal\hidden	B-PATH_FILE
+register.sql	I-PATH_FILE
+in	O
+my	O
+Marketing	B-FOLDER
+
+put	O
+F:\Records\Business\hidden	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+in	O
+my	O
+Sales	B-FOLDER
+
+put	O
+F:\Backup\Monthly\hidden	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+in	O
+my	O
+Support	B-FOLDER
+
+put	O
+F:\Backup\Projects\hidden	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+my	O
+HumanResources	B-FOLDER
+
+put	O
+C:\Projects\Greenfield\lunar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+my	O
+Recruitment	B-FOLDER
+
+put	O
+C:\Projects\Harbour	B-PATH_FILE
+View\lunar	I-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+my	O
+Training	B-FOLDER
+
+put	O
+D:\Development\Tools\lunar	B-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+my	O
+Compliance	B-FOLDER
+
+put	O
+E:\University\Coursework\lunar	B-PATH_FILE
+record.md	I-PATH_FILE
+in	O
+my	O
+Security	B-FOLDER
+
+put	O
+C:\Data\Incoming\lunar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+in	O
+my	O
+Audits	B-FOLDER
+
+put	O
+C:\Data\Exports\lunar	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+E:\Development\SecurityTools	B-PATH_DIR
+
+put	O
+C:\Work\Client	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+E:\University\Semester	B-PATH_DIR
+Five\DBMS	I-PATH_DIR
+
+put	O
+C:\Work\Team	B-PATH_FILE
+Files\lunar	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+E:\University\Semester	B-PATH_DIR
+Five\HCI	I-PATH_DIR
+
+put	O
+D:\Archive\Current\lunar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+E:\University\Semester	B-PATH_DIR
+Six\Projects	I-PATH_DIR
+
+put	O
+D:\Archive\Previous\lunar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+F:\Backup\Documents	B-PATH_DIR
+
+put	O
+D:\Research\Notes\maple	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+F:\Backup\Projects	B-PATH_DIR
+
+put	O
+D:\Research\Results\maple	B-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+F:\Backup\College	B-PATH_DIR
+
+put	O
+E:\Shared\Operations\maple	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+F:\Archive\Finance	B-PATH_DIR
+
+put	O
+E:\Shared\Finance\maple	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+F:\Archive\Sales	B-PATH_DIR
+
+put	O
+F:\Records\Personal\maple	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+F:\Archive\Research	B-PATH_DIR
+
+put	O
+F:\Records\Business\maple	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+F:\Shared\Projects	B-PATH_DIR
+
+put	O
+F:\Backup\Monthly\maple	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+F:\Shared\College	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+Incidents	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+Maintenance	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+Monitoring	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+Networking	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+Servers	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+Services	B-FOLDER
+
+put	O
+that	O
+file	O
+in	O
+F:\Shared\Media	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+F:\Data\Raw	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+F:\Data\Processed	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+F:\Data\Exports	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+F:\Research\Fieldwork	B-PATH_DIR
+
+put	O
+that	O
+file	O
+in	O
+F:\Research\Publications	B-PATH_DIR
+
+put	O
+the	O
+file	O
+F:\Backup\Projects\maple	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+in	O
+C:\Workspaces\Northwind	B-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Projects\Greenfield\maple	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+in	O
+C:\Workspaces\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\maple	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+C:\Workspaces\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+put	O
+the	O
+file	O
+D:\Development\Tools\misty	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+C:\Sandbox\Experiments	B-PATH_DIR
+
+put	O
+the	O
+file	O
+E:\University\Coursework\misty	B-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+C:\Sandbox\Archive	B-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Data\Incoming\misty	B-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+D:\Sandbox\Personal	B-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Data\Exports\misty	B-PATH_FILE
+record.md	I-PATH_FILE
+in	O
+D:\Sandbox\Travel	B-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\misty	I-PATH_FILE
+snapshot.log	I-PATH_FILE
+in	O
+E:\Temp\Imports	B-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\misty	I-PATH_FILE
+outline.py	I-PATH_FILE
+in	O
+E:\Temp\Exports	B-PATH_DIR
+
+put	O
+the	O
+file	O
+D:\Archive\Current\misty	B-PATH_FILE
+register.sql	I-PATH_FILE
+in	O
+E:\CloudArchive\Personal	B-PATH_DIR
+
+put	O
+the	O
+file	O
+D:\Archive\Previous\misty	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+in	O
+E:\CloudArchive\Work	B-PATH_DIR
+
+put	O
+the	O
+file	O
+D:\Research\Notes\misty	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+in	O
+F:\LongTermStorage\Records	B-PATH_DIR
+
+put	O
+the	O
+file	O
+D:\Research\Results\misty	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+F:\LongTermStorage\Projects	B-PATH_DIR
+
+put	O
+the	O
+file	O
+E:\Shared\Operations\northern	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+C:\Users\Public\Documents	B-PATH_DIR
+
+put	O
+the	O
+file	O
+E:\Shared\Finance\northern	B-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+C:\Users\Ankit\OneDrive\Documents	B-PATH_DIR
+
+put	O
+the	O
+file	O
+F:\Records\Personal\northern	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+D:\OneDriveBackup\Projects	B-PATH_DIR
+
+put	O
+the	O
+file	O
+F:\Records\Business\northern	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+E:\UniversityArchive\Project	B-PATH_DIR
+Records	I-PATH_DIR
+
+put	O
+the	O
+file	O
+F:\Backup\Monthly\northern	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+F:\CompanyArchive\Client	B-PATH_DIR
+Records	I-PATH_DIR
+
+put	O
+the	O
+file	O
+F:\Backup\Projects\northern	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+C:\NetworkShare\Team	B-PATH_DIR
+Resources	I-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Projects\Greenfield\northern	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+D:\MediaStore\Photography	B-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\northern	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+E:\ProjectStorage\Active	B-PATH_DIR
+Work	I-PATH_DIR
+
+put	O
+the	O
+file	O
+D:\Development\Tools\northern	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+F:\BackupVault\Critical	B-PATH_DIR
+Records	I-PATH_DIR
+
+put	O
+the	O
+file	O
+E:\University\Coursework\northern	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+C:\Shared\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+put	O
+the	O
+file	O
+C:\Data\Incoming\quiet	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+C:\Shared\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+Automation	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+Development	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+Deployment	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+Production	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+Staging	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+SourceArchive	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+C:\Shared\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+C:\Shared\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+C:\Shared\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+C:\Shared\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+C:\Shared\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+C:\Shared\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+CodeReview	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+Builds	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+Releases	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+Packages	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+Dependencies	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+Libraries	B-FOLDER
+
+put	O
+the	O
+file	O
+in	O
+my	O
+C:\Shared\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+C:\Shared\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+C:\Shared\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+C:\Shared\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+C:\Shared\x1	B-PATH_DIR
+
+put	O
+the	O
+file	O
+in	O
+my	O
+C:\Shared\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Data\Exports\quiet	B-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+C:\Shared\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+C:\Shared\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\quiet	I-PATH_FILE
+record.md	I-PATH_FILE
+in	O
+C:\Shared\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+put	O
+this	O
+file	O
+D:\Archive\Current\quiet	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+in	O
+C:\Shared\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+put	O
+this	O
+file	O
+D:\Archive\Previous\quiet	B-PATH_FILE
+outline.py	I-PATH_FILE
+in	O
+C:\Shared\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+put	O
+this	O
+file	O
+D:\Research\Notes\quiet	B-PATH_FILE
+register.sql	I-PATH_FILE
+in	O
+C:\Shared\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+put	O
+this	O
+file	O
+D:\Research\Results\quiet	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+in	O
+C:\Shared\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+put	O
+this	O
+file	O
+E:\Shared\Operations\quiet	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+in	O
+C:\Shared\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+put	O
+this	O
+file	O
+E:\Shared\Finance\quiet	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+in	O
+C:\Shared\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+put	O
+this	O
+file	O
+F:\Records\Personal\silver	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+in	O
+C:\Shared\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+put	O
+this	O
+file	O
+F:\Records\Business\silver	B-PATH_FILE
+brief.csv	I-PATH_FILE
+in	O
+C:\Shared\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+put	O
+this	O
+file	O
+F:\Backup\Monthly\silver	B-PATH_FILE
+memo.json	I-PATH_FILE
+in	O
+C:\Shared\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+put	O
+this	O
+file	O
+F:\Backup\Projects\silver	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+C:\Shared\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Projects\Greenfield\silver	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+C:\Shared\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\silver	I-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+C:\Shared\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+put	O
+this	O
+file	O
+D:\Development\Tools\silver	B-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+C:\Shared\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+put	O
+this	O
+file	O
+E:\University\Coursework\silver	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+D:\Archive\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Data\Incoming\silver	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+D:\Archive\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Data\Exports\silver	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+D:\Archive\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Data\Incoming\amber	B-PATH_FILE
+ledger.pdf	I-PATH_FILE
+into	O
+D:\Archive\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Data\Exports\amber	B-PATH_FILE
+brief.docx	I-PATH_FILE
+into	O
+D:\Archive\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\amber	I-PATH_FILE
+memo.xlsx	I-PATH_FILE
+into	O
+D:\Archive\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+put	O
+this	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\amber	I-PATH_FILE
+record.txt	I-PATH_FILE
+into	O
+D:\Archive\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+put	O
+this	O
+file	O
+D:\Archive\Current\amber	B-PATH_FILE
+snapshot.csv	I-PATH_FILE
+into	O
+D:\Archive\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+Modules	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+Plugins	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+Extensions	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+Containers	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+Volumes	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+Pipelines	B-FOLDER
+
+put	O
+this	O
+file	O
+in	O
+D:\Archive\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+D:\Archive\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+D:\Archive\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+D:\Archive\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+D:\Archive\x1	B-PATH_DIR
+
+put	O
+this	O
+file	O
+in	O
+D:\Archive\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+send	O
+privacy	B-FILE
+notice.pdf	I-FILE
+here	O
+
+send	O
+security	B-FILE
+policy.pdf	I-FILE
+here	O
+
+send	O
+access	B-FILE
+policy.pdf	I-FILE
+here	O
+
+send	O
+incident	B-FILE
+report.pdf	I-FILE
+here	O
+
+send	O
+maintenance	B-FILE
+record.xlsx	I-FILE
+here	O
+
+send	O
+inspection	B-FILE
+report.pdf	I-FILE
+here	O
+
+send	O
+audit	B-FILE
+trail.csv	I-FILE
+to	O
+Workflows	B-FOLDER
+
+send	O
+event	B-FILE
+schedule.xlsx	I-FILE
+to	O
+Jobs	B-FOLDER
+
+send	O
+conference	B-FILE
+agenda.docx	I-FILE
+to	O
+Batches	B-FOLDER
+
+send	O
+meeting	B-FILE
+summary.docx	I-FILE
+to	O
+RawData	B-FOLDER
+
+send	O
+speaker	B-FILE
+notes.docx	I-FILE
+to	O
+CleanData	B-FOLDER
+
+send	O
+presentation	B-FILE
+outline.pptx	I-FILE
+to	O
+ProcessedData	B-FOLDER
+
+send	O
+project	B-FILE
+slides.pptx	I-FILE
+to	O
+TrainingData	B-FOLDER
+
+send	O
+poster	B-FILE
+design.pptx	I-FILE
+to	O
+ValidationData	B-FOLDER
+
+send	O
+course	B-FILE
+presentation.pptx	I-FILE
+to	O
+TestData	B-FOLDER
+
+send	O
+lecture	B-FILE
+summary.docx	I-FILE
+to	O
+Predictions	B-FOLDER
+
+send	O
+semester	B-FILE
+report.pdf	I-FILE
+to	O
+Evaluation	B-FOLDER
+
+send	O
+semester	B-FILE
+results.xlsx	I-FILE
+to	O
+Benchmarks	B-FOLDER
+
+send	O
+question	B-FILE
+bank.docx	I-FILE
+to	O
+D:\Archive\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+send	O
+answer	B-FILE
+key.pdf	I-FILE
+to	O
+D:\Archive\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+send	O
+practical	B-FILE
+record.docx	I-FILE
+to	O
+D:\Archive\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+send	O
+lab	B-FILE
+schedule.xlsx	I-FILE
+to	O
+D:\Archive\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+send	O
+class	B-FILE
+timetable.xlsx	I-FILE
+to	O
+D:\Archive\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+send	O
+study	B-FILE
+plan.docx	I-FILE
+to	O
+D:\Archive\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+send	O
+exam	B-FILE
+preparation.txt	I-FILE
+to	O
+D:\Archive\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+send	O
+course	B-FILE
+material.pdf	I-FILE
+to	O
+D:\Archive\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+send	O
+chapter	B-FILE
+summary.docx	I-FILE
+to	O
+D:\Archive\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+send	O
+reference	B-FILE
+notes.md	I-FILE
+to	O
+D:\Archive\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+send	O
+book	B-FILE
+catalogue.csv	I-FILE
+to	O
+D:\Archive\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+send	O
+library	B-FILE
+records.csv	I-FILE
+to	O
+D:\Archive\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+send	O
+D:\Archive\Previous\amber	B-PATH_FILE
+outline.json	I-PATH_FILE
+here	O
+
+send	O
+D:\Research\Notes\amber	B-PATH_FILE
+register.md	I-PATH_FILE
+here	O
+
+send	O
+D:\Research\Results\amber	B-PATH_FILE
+summary.log	I-PATH_FILE
+here	O
+
+send	O
+E:\Shared\Operations\amber	B-PATH_FILE
+checklist.py	I-PATH_FILE
+here	O
+
+send	O
+E:\Shared\Finance\amber	B-PATH_FILE
+notice.sql	I-PATH_FILE
+here	O
+
+send	O
+F:\Records\Personal\autumn	B-PATH_FILE
+ledger.docx	I-PATH_FILE
+here	O
+
+send	O
+F:\Records\Business\autumn	B-PATH_FILE
+brief.xlsx	I-PATH_FILE
+into	O
+D:\Archive\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+send	O
+F:\Backup\Monthly\autumn	B-PATH_FILE
+memo.txt	I-PATH_FILE
+into	O
+D:\Archive\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+send	O
+F:\Backup\Projects\autumn	B-PATH_FILE
+record.csv	I-PATH_FILE
+into	O
+D:\Archive\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+send	O
+C:\Projects\Greenfield\autumn	B-PATH_FILE
+snapshot.json	I-PATH_FILE
+into	O
+D:\Archive\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+send	O
+C:\Projects\Harbour	B-PATH_FILE
+View\autumn	I-PATH_FILE
+outline.md	I-PATH_FILE
+into	O
+E:\Projects\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+send	O
+D:\Development\Tools\autumn	B-PATH_FILE
+register.log	I-PATH_FILE
+into	O
+E:\Projects\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+send	O
+E:\University\Coursework\autumn	B-PATH_FILE
+summary.py	I-PATH_FILE
+into	O
+E:\Projects\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+send	O
+C:\Data\Incoming\autumn	B-PATH_FILE
+checklist.sql	I-PATH_FILE
+into	O
+E:\Projects\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+send	O
+C:\Data\Exports\autumn	B-PATH_FILE
+notice.pdf	I-PATH_FILE
+into	O
+E:\Projects\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+send	O
+C:\Work\Client	B-PATH_FILE
+Files\blue	I-PATH_FILE
+ledger.xlsx	I-PATH_FILE
+into	O
+E:\Projects\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+send	O
+C:\Work\Team	B-PATH_FILE
+Files\blue	I-PATH_FILE
+brief.txt	I-PATH_FILE
+into	O
+E:\Projects\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+send	O
+D:\Archive\Current\blue	B-PATH_FILE
+memo.csv	I-PATH_FILE
+into	O
+E:\Projects\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+send	O
+D:\Archive\Previous\blue	B-PATH_FILE
+record.json	I-PATH_FILE
+to	O
+Metrics	B-FOLDER
+
+send	O
+D:\Research\Notes\blue	B-PATH_FILE
+snapshot.md	I-PATH_FILE
+to	O
+ReportsArchive	B-FOLDER
+
+send	O
+D:\Research\Results\blue	B-PATH_FILE
+outline.log	I-PATH_FILE
+to	O
+ResearchNotes	B-FOLDER
+
+send	O
+E:\Shared\Operations\blue	B-PATH_FILE
+register.py	I-PATH_FILE
+to	O
+Fieldwork	B-FOLDER
+
+send	O
+E:\Shared\Finance\blue	B-PATH_FILE
+summary.sql	I-PATH_FILE
+to	O
+Surveys	B-FOLDER
+
+send	O
+F:\Records\Personal\blue	B-PATH_FILE
+checklist.pdf	I-PATH_FILE
+to	O
+Interviews	B-FOLDER
+
+send	O
+F:\Records\Business\blue	B-PATH_FILE
+notice.docx	I-PATH_FILE
+to	O
+Observations	B-FOLDER
+
+send	O
+F:\Backup\Monthly\brisk	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+Publications	B-FOLDER
+
+send	O
+F:\Backup\Projects\brisk	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+CaseStudies	B-FOLDER
+
+send	O
+C:\Projects\Greenfield\brisk	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+Proposals	B-FOLDER
+
+send	O
+C:\Projects\Harbour	B-PATH_FILE
+View\brisk	I-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+Specifications	B-FOLDER
+
+send	O
+D:\Development\Tools\brisk	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+Architecture	B-FOLDER
+
+send	O
+E:\University\Coursework\brisk	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+E:\Projects\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+send	O
+C:\Data\Incoming\brisk	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+E:\Projects\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+send	O
+C:\Data\Exports\brisk	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+E:\Projects\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+send	O
+C:\Work\Client	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+E:\Projects\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+send	O
+C:\Work\Team	B-PATH_FILE
+Files\brisk	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+E:\Projects\x1	B-PATH_DIR
+
+send	O
+D:\Archive\Current\cedar	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+E:\Projects\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+send	O
+D:\Archive\Previous\cedar	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+E:\Projects\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+send	O
+D:\Research\Notes\cedar	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+E:\Projects\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+send	O
+D:\Research\Results\cedar	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+E:\Projects\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+send	O
+E:\Shared\Operations\cedar	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+E:\Projects\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+send	O
+E:\Shared\Finance\cedar	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+E:\Projects\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+send	O
+F:\Records\Personal\cedar	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+E:\Projects\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+DesignDocs	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+ProjectPlans	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+Roadmaps	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+Milestones	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+ChangeRequests	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+ReleaseNotes	B-FOLDER
+
+send	O
+that	O
+file	O
+to	O
+E:\Projects\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+E:\Projects\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+E:\Projects\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+E:\Projects\Testing	B-PATH_DIR
+Room	I-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+E:\Projects\Service	B-PATH_DIR
+Desk	I-PATH_DIR
+
+send	O
+that	O
+file	O
+to	O
+E:\Projects\Team	B-PATH_DIR
+Hub	I-PATH_DIR
+
+send	O
+the	O
+file	O
+F:\Records\Business\cedar	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+E:\Projects\Media	B-PATH_DIR
+Shelf	I-PATH_DIR
+
+send	O
+the	O
+file	O
+F:\Backup\Monthly\cedar	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+E:\Projects\Paper	B-PATH_DIR
+Archive	I-PATH_DIR
+
+send	O
+the	O
+file	O
+F:\Backup\Projects\cedar	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+into	O
+E:\Projects\Quick	B-PATH_DIR
+Access	I-PATH_DIR
+
+send	O
+the	O
+file	O
+C:\Projects\Greenfield\clear	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+into	O
+E:\Projects\Shared	B-PATH_DIR
+Space	I-PATH_DIR
+
+send	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\clear	I-PATH_FILE
+brief.csv	I-PATH_FILE
+into	O
+F:\Storage\North	B-PATH_DIR
+Hall	I-PATH_DIR
+
+send	O
+the	O
+file	O
+D:\Development\Tools\clear	B-PATH_FILE
+memo.json	I-PATH_FILE
+into	O
+F:\Storage\River	B-PATH_DIR
+Station	I-PATH_DIR
+
+send	O
+the	O
+file	O
+E:\University\Coursework\clear	B-PATH_FILE
+record.md	I-PATH_FILE
+into	O
+F:\Storage\Blue	B-PATH_DIR
+Finch	I-PATH_DIR
+Room	I-PATH_DIR
+
+send	O
+the	O
+file	O
+C:\Data\Incoming\clear	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+into	O
+F:\Storage\Copper	B-PATH_DIR
+Trail	I-PATH_DIR
+
+send	O
+the	O
+file	O
+C:\Data\Exports\clear	B-PATH_FILE
+outline.py	I-PATH_FILE
+into	O
+F:\Storage\Maple	B-PATH_DIR
+House	I-PATH_DIR
+
+send	O
+the	O
+file	O
+C:\Work\Client	B-PATH_FILE
+Files\clear	I-PATH_FILE
+register.sql	I-PATH_FILE
+into	O
+F:\Storage\Q4	B-PATH_DIR
+Records	I-PATH_DIR
+
+send	O
+the	O
+file	O
+C:\Work\Team	B-PATH_FILE
+Files\clear	I-PATH_FILE
+summary.pdf	I-PATH_FILE
+into	O
+F:\Storage\2026	B-PATH_DIR
+Archive	I-PATH_DIR
+
+send	O
+the	O
+file	O
+D:\Archive\Current\clear	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+into	O
+F:\Storage\3D	B-PATH_DIR
+Assets	I-PATH_DIR
+
+send	O
+the	O
+file	O
+D:\Archive\Previous\clear	B-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+F:\Storage\C++	B-PATH_DIR
+Practice	I-PATH_DIR
+
+send	O
+the	O
+file	O
+D:\Research\Notes\copper	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+F:\Storage\API	B-PATH_DIR
+Sandbox	I-PATH_DIR
+
+send	O
+the	O
+file	O
+D:\Research\Results\copper	B-PATH_FILE
+brief.csv	I-PATH_FILE
+to	O
+F:\Storage\v2	B-PATH_DIR
+Builds	I-PATH_DIR
+
+send	O
+the	O
+file	O
+E:\Shared\Operations\copper	B-PATH_FILE
+memo.json	I-PATH_FILE
+to	O
+F:\Storage\Room	B-PATH_DIR
+7	I-PATH_DIR
+
+send	O
+the	O
+file	O
+E:\Shared\Finance\copper	B-PATH_FILE
+record.md	I-PATH_FILE
+to	O
+F:\Storage\x1	B-PATH_DIR
+
+send	O
+the	O
+file	O
+F:\Records\Personal\copper	B-PATH_FILE
+snapshot.log	I-PATH_FILE
+to	O
+F:\Storage\Field	B-PATH_DIR
+Notes	I-PATH_DIR
+2	I-PATH_DIR
+
+send	O
+the	O
+file	O
+F:\Records\Business\copper	B-PATH_FILE
+outline.py	I-PATH_FILE
+to	O
+F:\Storage\Client	B-PATH_DIR
+Desk	I-PATH_DIR
+
+send	O
+the	O
+file	O
+F:\Backup\Monthly\copper	B-PATH_FILE
+register.sql	I-PATH_FILE
+to	O
+F:\Storage\Weekend	B-PATH_DIR
+Plans	I-PATH_DIR
+
+send	O
+the	O
+file	O
+F:\Backup\Projects\copper	B-PATH_FILE
+summary.pdf	I-PATH_FILE
+to	O
+F:\Storage\Old	B-PATH_DIR
+Office	I-PATH_DIR
+
+send	O
+the	O
+file	O
+C:\Projects\Greenfield\copper	B-PATH_FILE
+checklist.docx	I-PATH_FILE
+to	O
+F:\Storage\Main	B-PATH_DIR
+Library	I-PATH_DIR
+
+send	O
+the	O
+file	O
+C:\Projects\Harbour	B-PATH_FILE
+View\copper	I-PATH_FILE
+notice.xlsx	I-PATH_FILE
+to	O
+F:\Storage\East	B-PATH_DIR
+Wing	I-PATH_DIR
+
+send	O
+the	O
+file	O
+D:\Development\Tools\crystal	B-PATH_FILE
+ledger.txt	I-PATH_FILE
+to	O
+F:\Storage\South	B-PATH_DIR
+Annex	I-PATH_DIR
+
+send	O
+the	O
+file	O
+to	O
+IssueReports	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+ErrorReports	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+ActivityLogs	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+AccessLogs	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+AuditRecords	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+UserData	B-FOLDER
+
+send	O
+the	O
+file	O
+to	O
+F:\Storage\Project	B-PATH_DIR
+Bay	I-PATH_DIR
+
+send	O
+the	O
+file	O
+to	O
+F:\Storage\Data	B-PATH_DIR
+Corner	I-PATH_DIR
+
+send	O
+the	O
+file	O
+to	O
+F:\Storage\Design	B-PATH_DIR
+Bench	I-PATH_DIR
+
+send	O
+the	O
+file	O
+to	O
+C:\Users\Ankit\Documents	B-PATH_DIR
+
+send	O
+this	O
+file	O
+to	O
+AppData	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+SessionData	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+CacheData	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+Credentials	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+Keys	B-FOLDER
+
+send	O
+this	O
+file	O
+to	O
+Guidelines	B-FOLDER
+
+can	O
+you	O
+move	O
+the	O
+file	O
+
+could	O
+you	O
+move	O
+the	O
+file	O
+
+I	O
+need	O
+to	O
+move	O
+the	O
+file	O
+
+I	O
+want	O
+to	O
+move	O
+the	O
+file	O
+
+move	O
+a	O
+file	O
+
+move	O
+a	O
+file	O
+from	O
+one	O
+folder	O
+to	O
+another	O
+
+move	O
+a	O
+new	O
+file	O
+
+move	O
+file	O
+
+move	O
+one	O
+file	O
+
+move	O
+that	O
+file	O
+
+move	O
+the	O
+file	O
+
+move	O
+the	O
+file	O
+from	O
+one	O
+folder	O
+to	O
+another	O
+
+move	O
+the	O
+file	O
+here	O
+
+move	O
+this	O
+file	O
+
+please	O
+move	O
+the	O
+file	O
+
+put	O
+the	O
+file	O
+here	O
+

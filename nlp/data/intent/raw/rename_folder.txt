@@ -1,0 +1,538 @@
+rename Public
+rename Private
+rename PersonalFiles
+rename WorkFiles
+rename ..\College\Assignments
+rename ..\Archive
+rename C:\Users\Ankit\Projects
+rename C:\Users\Ankit\Projects\WinPilot
+rename CollegeFiles folder
+rename StudyMaterial folder
+rename StudyNotes folder
+rename StudyProjects folder
+rename C:\Users\Ankit\Documents\College folder
+rename C:\Users\Ankit\Documents\Projects folder
+rename C:\Users\Ankit\Pictures\ProjectImages folder
+rename C:\Users\Ankit\OneDrive\Projects folder
+rename folder Semester5
+rename folder Semester6
+rename folder Semester7
+rename folder OS
+rename folder C:\Users\Public\Documents\SharedFiles
+rename folder D:\Projects
+rename folder D:\Projects\WinPilot
+rename folder D:\College\Semester5
+rename DBMS to AI
+rename ML to CloudComputing
+rename ComputerNetworks to OperatingSystems
+rename SoftwareEngineering to Assignments2026
+rename D:\Work\Reports to D:\Backup\Projects
+rename E:\Research to E:\Research\Datasets
+rename E:\Media\Projects to E:\Archive\OldFiles
+rename Projects\WinPilot to Projects\WinPilot\Source
+rename LabWork folder to PracticalFiles
+rename QuestionPapers folder to ExamPapers
+rename Results folder to Certificates
+rename Reports2026 folder to MonthlyReports
+rename Projects\WinPilot\Data folder to Projects\WinPilot\Documentation
+rename Projects\WebApplication folder to Projects\WebApplication\Source
+rename Projects\WebApplication\Assets folder to Projects\Backup
+rename Projects\Archives folder to College\Assignments
+rename folder AnnualReports to FinancialReports
+rename folder ProjectReports to ResearchReports
+rename folder ClientReports to TestData
+rename folder InputData to OutputData
+rename folder College\Notes to College\Projects
+rename folder College\Semester5 to College\Semester5\OS
+rename folder College\Semester5\DBMS to College\Semester5\Projects
+rename folder College\Exams to College\Documents
+rename the folder ExpectedResults to SampleData
+rename the folder RawData to ProcessedData
+rename the folder ExportData to ImportData
+rename the folder SourceCode to DocumentationFiles
+rename the folder Work\Projects to Work\Projects\Website
+rename the folder Work\Projects\Application to Work\Reports
+rename the folder Work\Reports\2026 to Work\Meetings
+rename the folder Work\Clients to Work\Invoices
+change ReleaseFiles folder name to TestFiles
+change ConfigFiles folder name to LogFiles
+change SystemFiles folder name to UserFiles
+change MyFiles folder name to ImportantDocuments
+change Work\Archive folder name to Personal\Documents
+change Personal\Photos folder name to Personal\Videos
+change Personal\Projects folder name to Personal\Backup
+change Personal\Finance folder name to Personal\ImportantDocuments
+change the folder name PreviousVersions to CompletedProjects
+change the folder name TemporaryFiles to Projects
+change the folder name WinPilot to Source
+change the folder name Data to Documentation
+change the folder name Personal\OldFiles to Personal\Travel
+change the folder name Personal\Archive to Research\MachineLearning
+change the folder name Research\MachineLearning\Data to Research\MachineLearning\Models
+change the folder name Research\MachineLearning\Experiments to Research\Reports
+change the name of Archives to Backup
+change the name of College to Assignments
+change the name of Notes to Projects2026
+change the name of Exams to Documents
+change the name of Research\Papers to Research\Datasets
+change the name of Research\Projects to Research\References
+change the name of Data\Raw to Data\Processed
+change the name of Data\Exports to Data\Imports
+give Work a new name
+give Reports a new name
+give Meetings a new name
+give Clients a new name
+give Data\Reports a new name
+give Data\Backup a new name
+give Data\2026 a new name
+give Data\StudentRecords a new name
+give the Invoices folder a new name
+give the Personal folder a new name
+give the Photos folder a new name
+give the Videos folder a new name
+give the Data\ProjectData folder a new name
+give the Source\Python folder a new name
+give the Source\Cpp folder a new name
+give the Source\Java folder a new name
+give Finance the new name Travel
+give Research the new name MachineLearning
+give Datasets the new name Models
+give Experiments the new name Papers
+give Source\JavaScript the new name Source\Web
+give Source\Scripts the new name Source\Libraries
+give Source\Tests the new name Source\Configuration
+give Media\Images the new name Media\Videos
+give the folder the new name References
+give the folder the new name Development
+give the folder the new name Programming
+give the folder the new name Python
+give the folder the new name Media\Audio
+give the folder the new name Media\Projects
+give the folder the new name Media\Presentations
+give the folder the new name Media\Screenshots
+rename the folder called Cpp
+rename the folder called Java
+rename the folder called JavaScript
+rename the folder called Web
+rename the folder called Media\Recordings
+rename the folder called Media\Wallpapers
+rename the folder called Media\Downloads
+rename the folder called Media\Archive
+rename the folder called Scripts to Libraries
+rename the folder called Tests to Configuration
+rename the folder called Media to Images
+rename the folder called Audio to Presentations
+rename the folder called Archive to Archive\2025
+rename the folder called Archive\2026 to Archive\Projects
+rename the folder called Archive\College to Archive\Reports
+rename the folder called Archive\OldDocuments to Archive\Backups
+rename the folder named Screenshots
+rename the folder named Recordings
+rename the folder named Wallpapers
+rename the folder named Archive\CompletedProjects
+rename the folder named Archive\TemporaryFiles
+rename the folder named Archive\PreviousVersions
+rename the folder named ClientWork
+rename the folder named Storage to Database
+rename the folder named Databases to SQL
+rename the folder named MySQL to PostgreSQL
+rename the folder named Oracle to Server
+rename the folder named ClientWork\Website to ClientWork\Website\Source
+rename the folder named ClientWork\Website\Assets to ClientWork\Reports
+rename the folder named ClientWork\Documents to ClientWork\Invoices
+rename the folder named ClientWork\Projects to ClientWork\Backups
+rename a folder called Client
+rename a folder called Network
+rename a folder called Security
+rename a folder called Systems
+rename a folder called ProjectAlpha
+rename a folder called ProjectAlpha\SourceCode
+rename a folder called ProjectAlpha\Documentation
+rename a folder called ProjectAlpha\TestData
+rename a folder named Applications
+rename a folder named Software
+rename a folder named Tools
+rename a folder named Utilities
+rename a folder named ProjectAlpha\Releases
+rename a folder named ProjectAlpha\Assets
+rename a folder named ProjectBeta
+rename a folder named ProjectBeta\Source
+please rename Resources
+please rename Projects2025
+please rename Completed
+please rename Pending
+please rename ProjectBeta\Database
+please rename ClientWork\Projects
+please rename ClientWork\Backups
+please rename ProjectAlpha
+please rename Temporary to OldFiles
+please rename NewFiles to Important
+please rename Shared to Public
+please rename Private to PersonalFiles
+please rename ProjectAlpha\SourceCode to ProjectAlpha\Documentation
+please rename ProjectAlpha\TestData to ProjectAlpha\Releases
+please rename ProjectAlpha\Assets to ProjectBeta
+please rename ProjectBeta\Source to ProjectBeta\Database
+please rename the WorkFiles folder
+please rename the CollegeFiles folder
+please rename the StudyMaterial folder
+please rename the StudyNotes folder
+please rename the ProjectBeta\Reports folder
+please rename the ProjectBeta\Documentation folder
+please rename the Semester5\OS folder
+please rename the Semester5\DBMS folder
+please rename the folder StudyProjects
+please rename the folder Semester5
+please rename the folder Semester6
+please rename the folder Semester7
+please rename the folder Semester5\Projects
+please rename the folder Semester5\Notes
+please rename the folder Semester5\Assignments
+please rename the folder MyFiles\Projects
+please rename the folder OS to DBMS
+please rename the folder AI to ML
+please rename the folder CloudComputing to ComputerNetworks
+please rename the folder OperatingSystems to SoftwareEngineering
+please rename the folder MyFiles\College to MyFiles\Personal
+please rename the folder MyFiles\Work to MyFiles\ImportantDocuments
+please rename the folder 2026 to 2026\January
+please rename the folder 2026\March to 2026\September
+please change Assignments2026 to LabWork
+please change PracticalFiles to QuestionPapers
+please change ExamPapers to Results
+please change Certificates to Reports2026
+please change 2026\October to 2026\Projects
+please change 2026\Reports to TestData\Input
+please change TestData\Output to TestData\ExpectedResults
+please change .\Projects to .\Projects\Source
+can you rename MonthlyReports
+can you rename AnnualReports
+can you rename FinancialReports
+can you rename ProjectReports
+can you rename .\College\Notes
+can you rename .\Work\Reports
+can you rename .\Data\Processed
+can you rename ..\Projects
+can you rename ResearchReports to ClientReports
+can you rename TestData to InputData
+can you rename OutputData to ExpectedResults
+can you rename SampleData to RawData
+can you rename ..\Documents to ..\Backup
+can you rename ..\College\Assignments to ..\Archive
+can you rename C:\Users\Ankit\Projects to C:\Users\Ankit\Projects\WinPilot
+can you rename C:\Users\Ankit\Documents\College to C:\Users\Ankit\Documents\Projects
+can you rename the ProcessedData folder
+can you rename the ExportData folder
+can you rename the ImportData folder
+can you rename the SourceCode folder
+can you rename the C:\Users\Ankit\Pictures\ProjectImages folder
+can you rename the C:\Users\Ankit\OneDrive\Projects folder
+can you rename the C:\Users\Public\Documents\SharedFiles folder
+can you rename the D:\Projects folder
+can you rename the folder DocumentationFiles
+can you rename the folder ReleaseFiles
+can you rename the folder TestFiles
+can you rename the folder ConfigFiles
+can you rename the folder D:\Projects\WinPilot
+can you rename the folder D:\College\Semester5
+can you rename the folder D:\Work\Reports
+can you rename the folder D:\Backup\Projects
+can you rename the folder LogFiles to SystemFiles
+can you rename the folder UserFiles to MyFiles
+can you rename the folder ImportantDocuments to PreviousVersions
+can you rename the folder CompletedProjects to TemporaryFiles
+can you rename the folder E:\Research to E:\Research\Datasets
+can you rename the folder E:\Media\Projects to E:\Archive\OldFiles
+can you rename the folder Projects\WinPilot to Projects\WinPilot\Source
+can you rename the folder Projects\WinPilot\Data to Projects\WinPilot\Documentation
+can you change Projects to WinPilot
+can you change Source to Data
+can you change Documentation to Archives
+can you change Backup to College
+can you change Projects\WebApplication to Projects\WebApplication\Source
+can you change Projects\WebApplication\Assets to Projects\Backup
+can you change Projects\Archives to College\Assignments
+can you change College\Notes to College\Projects
+could you rename Assignments
+could you rename Notes
+could you rename Projects2026
+could you rename Exams
+could you rename College\Semester5
+could you rename College\Semester5\OS
+could you rename College\Semester5\DBMS
+could you rename College\Semester5\Projects
+could you rename Documents to Work
+could you rename Reports to Meetings
+could you rename Clients to Invoices
+could you rename Personal to Photos
+could you rename College\Exams to College\Documents
+could you rename Work\Projects to Work\Projects\Website
+could you rename Work\Projects\Application to Work\Reports
+could you rename Work\Reports\2026 to Work\Meetings
+could you rename the Videos folder
+could you rename the Finance folder
+could you rename the Travel folder
+could you rename the Research folder
+could you rename the Work\Clients folder
+could you rename the Work\Invoices folder
+could you rename the Work\Archive folder
+could you rename the Personal\Documents folder
+could you rename the folder MachineLearning
+could you rename the folder Datasets
+could you rename the folder Models
+could you rename the folder Experiments
+could you rename the folder Personal\Photos
+could you rename the folder Personal\Videos
+could you rename the folder Personal\Projects
+could you rename the folder Personal\Backup
+could you rename the folder Papers to References
+could you rename the folder Development to Programming
+could you rename the folder Python to Cpp
+could you rename the folder Java to JavaScript
+could you rename the folder Personal\Finance to Personal\ImportantDocuments
+could you rename the folder Personal\OldFiles to Personal\Travel
+could you rename the folder Personal\Archive to Research\MachineLearning
+could you rename the folder Research\MachineLearning\Data to Research\MachineLearning\Models
+could you change Web to Scripts
+could you change Libraries to Tests
+could you change Configuration to Downloads
+could you change Images to Audio
+could you change Research\MachineLearning\Experiments to Research\Reports
+could you change Research\Papers to Research\Datasets
+could you change Research\Projects to Research\References
+could you change Data\Raw to Data\Processed
+I want to rename Presentations
+I want to rename Screenshots
+I want to rename Recordings
+I want to rename Wallpapers
+I want to rename Data\Exports
+I want to rename Data\Imports
+I want to rename Data\Reports
+I want to rename Data\Backup
+I want to rename Downloads to Storage
+I want to rename Database to Databases
+I want to rename SQL to MySQL
+I want to rename PostgreSQL to Oracle
+I want to rename Data\2026 to Data\StudentRecords
+I want to rename Data\ProjectData to Source\Python
+I want to rename Source\Cpp to Source\Java
+I want to rename Source\JavaScript to Source\Web
+I want to rename the Server folder
+I want to rename the Client folder
+I want to rename the Network folder
+I want to rename the Security folder
+I want to rename the Source\Scripts folder
+I want to rename the Source\Libraries folder
+I want to rename the Source\Tests folder
+I want to rename the Source\Configuration folder
+I want to change Systems to Applications
+I want to change Software to Tools
+I want to change Utilities to Resources
+I want to change Projects2025 to Completed
+I want to change Media\Images to Media\Videos
+I want to change Media\Audio to Media\Projects
+I want to change Media\Presentations to Media\Screenshots
+I want to change Media\Recordings to Media\Wallpapers
+I need to rename Pending
+I need to rename Temporary
+I need to rename OldFiles
+I need to rename NewFiles
+I need to rename Media\Downloads
+I need to rename Media\Archive
+I need to rename Archive
+I need to rename Archive\2025
+I need to rename Important to Shared
+I need to rename Public to Private
+I need to rename PersonalFiles to WorkFiles
+I need to rename CollegeFiles to StudyMaterial
+I need to rename Archive\2026 to Archive\Projects
+I need to rename Archive\College to Archive\Reports
+I need to rename Archive\OldDocuments to Archive\Backups
+I need to rename Archive\CompletedProjects to Archive\TemporaryFiles
+I need to change StudyNotes to StudyProjects
+I need to change Semester5 to Semester6
+I need to change Semester7 to OS
+I need to change DBMS to AI
+I need to change Archive\PreviousVersions to ClientWork
+I need to change ClientWork\Website to ClientWork\Website\Source
+I need to change ClientWork\Website\Assets to ClientWork\Reports
+I need to change ClientWork\Documents to ClientWork\Invoices
+rename ML as CloudComputing
+rename ComputerNetworks as OperatingSystems
+rename SoftwareEngineering as Assignments2026
+rename LabWork as PracticalFiles
+rename Archive\Backups as Archive\CompletedProjects
+rename Archive\TemporaryFiles as Archive\PreviousVersions
+rename ClientWork as ClientWork\Website
+rename ClientWork\Website\Source as ClientWork\Website\Assets
+rename the QuestionPapers to the ExamPapers
+rename the Results to the Certificates
+rename the Reports2026 to the MonthlyReports
+rename the AnnualReports to the FinancialReports
+rename the ClientWork\Reports to the ClientWork\Documents
+rename the ClientWork\Invoices to the ClientWork\Projects
+rename the ClientWork\Backups to the ProjectAlpha
+rename the ProjectAlpha\SourceCode to the ProjectAlpha\Documentation
+rename the ProjectReports as the ResearchReports
+rename the ClientReports as the TestData
+rename the InputData as the OutputData
+rename the ExpectedResults as the SampleData
+rename the ProjectAlpha\TestData as the ProjectAlpha\Releases
+rename the ProjectAlpha\Assets as the ProjectBeta
+rename the ProjectBeta\Source as the ProjectBeta\Database
+rename the ProjectBeta\Reports as the ProjectBeta\Documentation
+change the folder from RawData to ProcessedData
+change the folder from ExportData to ImportData
+change the folder from SourceCode to DocumentationFiles
+change the folder from ReleaseFiles to TestFiles
+change the folder from Semester5\OS to Semester5\DBMS
+change the folder from Semester5\Projects to Semester5\Notes
+change the folder from Semester5\Assignments to MyFiles\Projects
+change the folder from MyFiles\College to MyFiles\Personal
+rename the folder to ConfigFiles
+rename the folder to LogFiles
+rename the folder to SystemFiles
+rename the folder to UserFiles
+rename the folder to MyFiles\Work
+rename the folder to MyFiles\ImportantDocuments
+rename the folder to 2026
+rename the folder to 2026\January
+rename the folder as MyFiles
+rename the folder as ImportantDocuments
+rename the folder as PreviousVersions
+rename the folder as CompletedProjects
+rename the folder as 2026\March
+rename the folder as 2026\September
+rename the folder as 2026\October
+rename the folder as 2026\Projects
+change the folder name to TemporaryFiles
+change the folder name to Projects
+change the folder name to Source
+change the folder name to 2026\Reports
+change the folder name to TestData\Input
+change the folder name to TestData\Output
+change the folder name to TestData\ExpectedResults
+give the folder the name Data
+give the folder the name Documentation
+give the folder the name Archives
+give the folder the name Backup
+give the folder the name .\Projects
+give the folder the name .\Projects\Source
+give the folder the name .\College\Notes
+give the folder the name .\Work\Reports
+rename a folder in College
+rename a folder in Assignments
+rename a folder in Notes
+rename a folder in Projects2026
+rename a folder in .\Data\Processed
+rename a folder in ..\Projects
+rename a folder in ..\Documents
+rename a folder in ..\Backup
+rename Exams folder in Documents
+rename Work folder in Reports
+rename Meetings folder in Clients
+rename Invoices folder in Personal
+rename ..\College\Assignments folder in ..\Archive
+rename C:\Users\Ankit\Projects folder in C:\Users\Ankit\Projects\WinPilot
+rename C:\Users\Ankit\Documents\College folder in C:\Users\Ankit\Documents\Projects
+rename C:\Users\Ankit\Pictures\ProjectImages folder in C:\Users\Ankit\OneDrive\Projects
+change the name of a folder in Photos
+change the name of a folder in Videos
+change the name of a folder in Finance
+change the name of a folder in Travel
+change the name of a folder in C:\Users\Public\Documents\SharedFiles
+change the name of a folder in D:\Projects
+change the name of a folder in D:\Projects\WinPilot
+change the name of a folder in D:\College\Semester5
+change the folder name in Research
+change the folder name in MachineLearning
+change the folder name in Datasets
+change the folder name in Models
+change the folder name in D:\Work\Reports
+change the folder name in D:\Backup\Projects
+change the folder name in E:\Research
+change the folder name in E:\Research\Datasets
+rename the Experiments folder
+rename the Papers folder
+rename the References folder
+rename the Development folder
+rename the E:\Media\Projects folder
+rename the E:\Archive\OldFiles folder
+rename the Projects\WinPilot folder
+rename the Projects\WinPilot\Source folder
+give Programming folder a new name
+give Python folder a new name
+give Cpp folder a new name
+give Java folder a new name
+give Projects\WinPilot\Data folder a new name
+give Projects\WinPilot\Documentation folder a new name
+give Projects\WebApplication folder a new name
+give Projects\WebApplication\Source folder a new name
+please change the JavaScript folder name
+please change the Web folder name
+please change the Scripts folder name
+please change the Libraries folder name
+please change the Projects\WebApplication\Assets folder name
+please change the Projects\Backup folder name
+please change the Projects\Archives folder name
+please change the College\Assignments folder name
+can you change the Tests folder name
+can you change the Configuration folder name
+can you change the Media folder name
+can you change the WinPilot folder name
+can you change the College\Notes folder name
+can you change the College\Projects folder name
+can you change the College\Semester5 folder name
+can you change the College\Semester5\OS folder name
+could you change the College\Semester5\DBMS folder name
+could you change the College\Semester5\Projects folder name
+could you change the College\Exams folder name
+could you change the College\Documents folder name
+could you change the Work\Projects folder name
+could you change the Work\Projects\Website folder name
+could you change the Work\Projects\Application folder name
+could you change the Work\Reports folder name
+rename a folder
+rename folder
+rename the folder
+rename a directory
+rename directory
+rename the directory
+change the name of a folder
+change the folder name
+change folder name
+change the name of a directory
+change the directory name
+give the folder a new name
+give a folder a new name
+give the directory a new name
+please rename the folder
+please rename a folder
+please change the folder name
+please give the folder a new name
+can you rename the folder
+can you rename a folder
+can you change the folder name
+could you rename the folder
+could you rename a folder
+could you change the folder name
+I want to rename the folder
+I want to rename a folder
+I want to change the folder name
+I need to rename the folder
+I need to rename a folder
+I need to change the folder name
+change the old folder name to the new folder name
+rename this folder
+rename that folder
+rename the current folder
+change the name of this folder
+change the name of that folder
+change the current folder name
+give this folder a new name
+give that folder a new name
+rename one folder
+rename a single folder
+rename one of my folders
+change the name of one folder
+give one folder a new name

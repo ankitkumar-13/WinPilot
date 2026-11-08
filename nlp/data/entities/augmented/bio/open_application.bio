@@ -1,0 +1,2773 @@
+bring	O
+up	O
+Firefox	B-APP
+
+bring	O
+up	O
+Microsoft	B-APP
+Edge	I-APP
+
+bring	O
+up	O
+Brave	B-APP
+Browser	I-APP
+
+bring	O
+up	O
+Opera	B-APP
+
+bring	O
+up	O
+Vivaldi	B-APP
+
+bring	O
+up	O
+Arc	B-APP
+Browser	I-APP
+
+bring	O
+up	O
+the	O
+Notepad	B-APP
+app	O
+
+bring	O
+up	O
+the	O
+WordPad	B-APP
+app	O
+
+bring	O
+up	O
+the	O
+Paint	B-APP
+app	O
+
+bring	O
+up	O
+the	O
+Calculator	B-APP
+app	O
+
+bring	O
+up	O
+the	O
+Calendar	B-APP
+app	O
+
+bring	O
+up	O
+the	O
+Clock	B-APP
+app	O
+
+bring	O
+up	O
+the	O
+Photos	B-APP
+application	O
+
+bring	O
+up	O
+the	O
+Camera	B-APP
+application	O
+
+bring	O
+up	O
+the	O
+Snipping	B-APP
+Tool	I-APP
+application	O
+
+bring	O
+up	O
+the	O
+File	B-APP
+Explorer	I-APP
+application	O
+
+bring	O
+up	O
+the	O
+Task	B-APP
+Manager	I-APP
+application	O
+
+bring	O
+up	O
+the	O
+Settings	B-APP
+application	O
+
+can	O
+you	O
+launch	O
+Control	B-APP
+Panel	I-APP
+
+can	O
+you	O
+launch	O
+Command	B-APP
+Prompt	I-APP
+
+can	O
+you	O
+launch	O
+PowerShell	B-APP
+
+can	O
+you	O
+launch	O
+Windows	B-APP
+Terminal	I-APP
+
+can	O
+you	O
+launch	O
+Visual	B-APP
+Studio	I-APP
+Code	I-APP
+
+can	O
+you	O
+launch	O
+Visual	B-APP
+Studio	I-APP
+
+can	O
+you	O
+open	O
+PyCharm	B-APP
+
+can	O
+you	O
+open	O
+IntelliJ	B-APP
+IDEA	I-APP
+
+can	O
+you	O
+open	O
+Eclipse	B-APP
+
+can	O
+you	O
+open	O
+Android	B-APP
+Studio	I-APP
+
+can	O
+you	O
+open	O
+Sublime	B-APP
+Text	I-APP
+
+can	O
+you	O
+open	O
+Notepad++	B-APP
+
+can	O
+you	O
+open	O
+GitHub	B-APP
+Desktop	I-APP
+for	O
+me	O
+
+can	O
+you	O
+open	O
+Docker	B-APP
+Desktop	I-APP
+for	O
+me	O
+
+can	O
+you	O
+open	O
+Postman	B-APP
+for	O
+me	O
+
+can	O
+you	O
+open	O
+Insomnia	B-APP
+for	O
+me	O
+
+can	O
+you	O
+open	O
+Figma	B-APP
+for	O
+me	O
+
+can	O
+you	O
+open	O
+Canva	B-APP
+for	O
+me	O
+
+can	O
+you	O
+start	O
+Discord	B-APP
+
+can	O
+you	O
+start	O
+Telegram	B-APP
+
+can	O
+you	O
+start	O
+WhatsApp	B-APP
+
+can	O
+you	O
+start	O
+Microsoft	B-APP
+Teams	I-APP
+
+can	O
+you	O
+start	O
+Zoom	B-APP
+
+can	O
+you	O
+start	O
+Skype	B-APP
+
+could	O
+you	O
+launch	O
+Slack	B-APP
+
+could	O
+you	O
+launch	O
+Spotify	B-APP
+
+could	O
+you	O
+launch	O
+VLC	B-APP
+Media	I-APP
+Player	I-APP
+
+could	O
+you	O
+launch	O
+Windows	B-APP
+Media	I-APP
+Player	I-APP
+
+could	O
+you	O
+launch	O
+Audacity	B-APP
+
+could	O
+you	O
+launch	O
+GIMP	B-APP
+
+could	O
+you	O
+launch	O
+Inkscape	B-APP
+for	O
+me	O
+
+could	O
+you	O
+launch	O
+Blender	B-APP
+for	O
+me	O
+
+could	O
+you	O
+launch	O
+Unity	B-APP
+for	O
+me	O
+
+could	O
+you	O
+launch	O
+Unreal	B-APP
+Engine	I-APP
+for	O
+me	O
+
+could	O
+you	O
+launch	O
+Microsoft	B-APP
+Word	I-APP
+for	O
+me	O
+
+could	O
+you	O
+launch	O
+Microsoft	B-APP
+Excel	I-APP
+for	O
+me	O
+
+could	O
+you	O
+open	O
+Microsoft	B-APP
+PowerPoint	I-APP
+
+could	O
+you	O
+open	O
+Microsoft	B-APP
+Outlook	I-APP
+
+could	O
+you	O
+open	O
+Microsoft	B-APP
+Access	I-APP
+
+could	O
+you	O
+open	O
+Microsoft	B-APP
+OneNote	I-APP
+
+could	O
+you	O
+open	O
+Microsoft	B-APP
+Publisher	I-APP
+
+could	O
+you	O
+open	O
+LibreOffice	B-APP
+Writer	I-APP
+
+could	O
+you	O
+open	O
+LibreOffice	B-APP
+Calc	I-APP
+for	O
+me	O
+
+could	O
+you	O
+open	O
+LibreOffice	B-APP
+Impress	I-APP
+for	O
+me	O
+
+could	O
+you	O
+open	O
+LibreOffice	B-APP
+Base	I-APP
+for	O
+me	O
+
+could	O
+you	O
+open	O
+LibreOffice	B-APP
+Draw	I-APP
+for	O
+me	O
+
+could	O
+you	O
+open	O
+Google	B-APP
+Drive	I-APP
+for	O
+me	O
+
+could	O
+you	O
+open	O
+Google	B-APP
+Docs	I-APP
+for	O
+me	O
+
+could	O
+you	O
+start	O
+Google	B-APP
+Sheets	I-APP
+
+could	O
+you	O
+start	O
+Google	B-APP
+Slides	I-APP
+
+could	O
+you	O
+start	O
+Dropbox	B-APP
+
+could	O
+you	O
+start	O
+OneDrive	B-APP
+
+could	O
+you	O
+start	O
+VirtualBox	B-APP
+
+could	O
+you	O
+start	O
+VMware	B-APP
+Workstation	I-APP
+
+could	O
+you	O
+start	O
+Oracle	B-APP
+SQL	I-APP
+Developer	I-APP
+for	O
+me	O
+
+could	O
+you	O
+start	O
+MySQL	B-APP
+Workbench	I-APP
+for	O
+me	O
+
+could	O
+you	O
+start	O
+pgAdmin	B-APP
+for	O
+me	O
+
+could	O
+you	O
+start	O
+DBeaver	B-APP
+for	O
+me	O
+
+could	O
+you	O
+start	O
+MongoDB	B-APP
+Compass	I-APP
+for	O
+me	O
+
+could	O
+you	O
+start	O
+Redis	B-APP
+Insight	I-APP
+for	O
+me	O
+
+I	O
+need	O
+to	O
+launch	O
+Git	B-APP
+Bash	I-APP
+
+I	O
+need	O
+to	O
+launch	O
+PuTTY	B-APP
+
+I	O
+need	O
+to	O
+launch	O
+WinSCP	B-APP
+
+I	O
+need	O
+to	O
+launch	O
+7-Zip	B-APP
+
+I	O
+need	O
+to	O
+launch	O
+WinRAR	B-APP
+
+I	O
+need	O
+to	O
+launch	O
+Everything	B-APP
+Search	I-APP
+
+I	O
+need	O
+to	O
+open	O
+ShareX	B-APP
+
+I	O
+need	O
+to	O
+open	O
+OBS	B-APP
+Studio	I-APP
+
+I	O
+need	O
+to	O
+open	O
+Jupyter	B-APP
+Notebook	I-APP
+
+I	O
+need	O
+to	O
+open	O
+JupyterLab	B-APP
+
+I	O
+need	O
+to	O
+open	O
+Anaconda	B-APP
+Navigator	I-APP
+
+I	O
+need	O
+to	O
+open	O
+Spyder	B-APP
+
+I	O
+need	O
+to	O
+start	O
+Python	B-APP
+Launcher	I-APP
+
+I	O
+need	O
+to	O
+start	O
+Node.js	B-APP
+
+I	O
+need	O
+to	O
+start	O
+Apache	B-APP
+NetBeans	I-APP
+
+I	O
+need	O
+to	O
+start	O
+Code::Blocks	B-APP
+
+I	O
+need	O
+to	O
+start	O
+Dev-C++	B-APP
+
+I	O
+need	O
+to	O
+start	O
+CLion	B-APP
+
+I	O
+need	O
+you	O
+to	O
+launch	O
+WebStorm	B-APP
+
+I	O
+need	O
+you	O
+to	O
+launch	O
+Rider	B-APP
+
+I	O
+need	O
+you	O
+to	O
+launch	O
+DataGrip	B-APP
+
+I	O
+need	O
+you	O
+to	O
+launch	O
+PostgreSQL	B-APP
+
+I	O
+need	O
+you	O
+to	O
+launch	O
+MySQL	B-APP
+
+I	O
+need	O
+you	O
+to	O
+launch	O
+MongoDB	B-APP
+
+I	O
+need	O
+you	O
+to	O
+open	O
+MariaDB	B-APP
+
+I	O
+need	O
+you	O
+to	O
+open	O
+SQLite	B-APP
+Browser	I-APP
+
+I	O
+need	O
+you	O
+to	O
+open	O
+FileZilla	B-APP
+
+I	O
+need	O
+you	O
+to	O
+open	O
+WinMerge	B-APP
+
+I	O
+need	O
+you	O
+to	O
+open	O
+Beyond	B-APP
+Compare	I-APP
+
+I	O
+need	O
+you	O
+to	O
+open	O
+Rufus	B-APP
+
+I	O
+need	O
+you	O
+to	O
+start	O
+Balena	B-APP
+Etcher	I-APP
+
+I	O
+need	O
+you	O
+to	O
+start	O
+Microsoft	B-APP
+To	I-APP
+Do	I-APP
+
+I	O
+need	O
+you	O
+to	O
+start	O
+Windows	B-APP
+Security	I-APP
+
+I	O
+need	O
+you	O
+to	O
+start	O
+Resource	B-APP
+Monitor	I-APP
+
+I	O
+need	O
+you	O
+to	O
+start	O
+PowerToys	B-APP
+
+I	O
+need	O
+you	O
+to	O
+start	O
+RStudio	B-APP
+
+I	O
+want	O
+to	O
+launch	O
+C++	B-APP
+Builder	I-APP
+
+I	O
+want	O
+to	O
+launch	O
+3D	B-APP
+Viewer	I-APP
+
+I	O
+want	O
+to	O
+launch	O
+SQLyog	B-APP
+
+I	O
+want	O
+to	O
+launch	O
+Termius	B-APP
+
+I	O
+want	O
+to	O
+launch	O
+MobaXterm	B-APP
+
+I	O
+want	O
+to	O
+launch	O
+Chrome	B-APP
+
+I	O
+want	O
+to	O
+open	O
+Firefox	B-APP
+
+I	O
+want	O
+to	O
+open	O
+Microsoft	B-APP
+Edge	I-APP
+
+I	O
+want	O
+to	O
+open	O
+Brave	B-APP
+Browser	I-APP
+
+I	O
+want	O
+to	O
+open	O
+Opera	B-APP
+
+I	O
+want	O
+to	O
+open	O
+Vivaldi	B-APP
+
+I	O
+want	O
+to	O
+open	O
+Arc	B-APP
+Browser	I-APP
+
+I	O
+want	O
+to	O
+start	O
+Notepad	B-APP
+
+I	O
+want	O
+to	O
+start	O
+WordPad	B-APP
+
+I	O
+want	O
+to	O
+start	O
+Paint	B-APP
+
+I	O
+want	O
+to	O
+start	O
+Calculator	B-APP
+
+I	O
+want	O
+to	O
+start	O
+Calendar	B-APP
+
+I	O
+want	O
+to	O
+start	O
+Clock	B-APP
+
+I	O
+want	O
+you	O
+to	O
+launch	O
+Photos	B-APP
+
+I	O
+want	O
+you	O
+to	O
+launch	O
+Camera	B-APP
+
+I	O
+want	O
+you	O
+to	O
+launch	O
+Snipping	B-APP
+Tool	I-APP
+
+I	O
+want	O
+you	O
+to	O
+launch	O
+File	B-APP
+Explorer	I-APP
+
+I	O
+want	O
+you	O
+to	O
+launch	O
+Task	B-APP
+Manager	I-APP
+
+I	O
+want	O
+you	O
+to	O
+launch	O
+Settings	B-APP
+
+I	O
+want	O
+you	O
+to	O
+open	O
+Control	B-APP
+Panel	I-APP
+
+I	O
+want	O
+you	O
+to	O
+open	O
+Command	B-APP
+Prompt	I-APP
+
+I	O
+want	O
+you	O
+to	O
+open	O
+PowerShell	B-APP
+
+I	O
+want	O
+you	O
+to	O
+open	O
+Windows	B-APP
+Terminal	I-APP
+
+I	O
+want	O
+you	O
+to	O
+open	O
+Visual	B-APP
+Studio	I-APP
+Code	I-APP
+
+I	O
+want	O
+you	O
+to	O
+open	O
+Visual	B-APP
+Studio	I-APP
+
+I	O
+want	O
+you	O
+to	O
+start	O
+PyCharm	B-APP
+
+I	O
+want	O
+you	O
+to	O
+start	O
+IntelliJ	B-APP
+IDEA	I-APP
+
+I	O
+want	O
+you	O
+to	O
+start	O
+Eclipse	B-APP
+
+I	O
+want	O
+you	O
+to	O
+start	O
+Android	B-APP
+Studio	I-APP
+
+I	O
+want	O
+you	O
+to	O
+start	O
+Sublime	B-APP
+Text	I-APP
+
+I	O
+want	O
+you	O
+to	O
+start	O
+Notepad++	B-APP
+
+launch	O
+GitHub	B-APP
+Desktop	I-APP
+
+launch	O
+Docker	B-APP
+Desktop	I-APP
+
+launch	O
+Postman	B-APP
+
+launch	O
+Insomnia	B-APP
+
+launch	O
+Figma	B-APP
+
+launch	O
+Canva	B-APP
+
+launch	O
+Discord	B-APP
+for	O
+me	O
+
+launch	O
+Telegram	B-APP
+for	O
+me	O
+
+launch	O
+WhatsApp	B-APP
+for	O
+me	O
+
+launch	O
+Microsoft	B-APP
+Teams	I-APP
+for	O
+me	O
+
+launch	O
+Zoom	B-APP
+for	O
+me	O
+
+launch	O
+Skype	B-APP
+for	O
+me	O
+
+launch	O
+Slack	B-APP
+now	O
+
+launch	O
+Spotify	B-APP
+now	O
+
+launch	O
+VLC	B-APP
+Media	I-APP
+Player	I-APP
+now	O
+
+launch	O
+Windows	B-APP
+Media	I-APP
+Player	I-APP
+now	O
+
+launch	O
+Audacity	B-APP
+now	O
+
+launch	O
+GIMP	B-APP
+now	O
+
+launch	O
+my	O
+Inkscape	B-APP
+app	O
+
+launch	O
+my	O
+Blender	B-APP
+app	O
+
+launch	O
+my	O
+Unity	B-APP
+app	O
+
+launch	O
+my	O
+Unreal	B-APP
+Engine	I-APP
+app	O
+
+launch	O
+my	O
+Microsoft	B-APP
+Word	I-APP
+app	O
+
+launch	O
+my	O
+Microsoft	B-APP
+Excel	I-APP
+app	O
+
+launch	O
+the	O
+Microsoft	B-APP
+PowerPoint	I-APP
+
+launch	O
+the	O
+Microsoft	B-APP
+Outlook	I-APP
+
+launch	O
+the	O
+Microsoft	B-APP
+Access	I-APP
+
+launch	O
+the	O
+Microsoft	B-APP
+OneNote	I-APP
+
+launch	O
+the	O
+Microsoft	B-APP
+Publisher	I-APP
+
+launch	O
+the	O
+LibreOffice	B-APP
+Writer	I-APP
+
+launch	O
+the	O
+LibreOffice	B-APP
+Calc	I-APP
+app	O
+
+launch	O
+the	O
+LibreOffice	B-APP
+Impress	I-APP
+app	O
+
+launch	O
+the	O
+LibreOffice	B-APP
+Base	I-APP
+app	O
+
+launch	O
+the	O
+LibreOffice	B-APP
+Draw	I-APP
+app	O
+
+launch	O
+the	O
+Google	B-APP
+Drive	I-APP
+app	O
+
+launch	O
+the	O
+Google	B-APP
+Docs	I-APP
+app	O
+
+launch	O
+the	O
+app	O
+called	O
+Google	B-APP
+Sheets	I-APP
+
+launch	O
+the	O
+app	O
+called	O
+Google	B-APP
+Slides	I-APP
+
+launch	O
+the	O
+app	O
+called	O
+Dropbox	B-APP
+
+launch	O
+the	O
+app	O
+called	O
+OneDrive	B-APP
+
+launch	O
+the	O
+app	O
+called	O
+VirtualBox	B-APP
+
+launch	O
+the	O
+app	O
+called	O
+VMware	B-APP
+Workstation	I-APP
+
+launch	O
+the	O
+app	O
+named	O
+Oracle	B-APP
+SQL	I-APP
+Developer	I-APP
+
+launch	O
+the	O
+app	O
+named	O
+MySQL	B-APP
+Workbench	I-APP
+
+launch	O
+the	O
+app	O
+named	O
+pgAdmin	B-APP
+
+launch	O
+the	O
+app	O
+named	O
+DBeaver	B-APP
+
+launch	O
+the	O
+app	O
+named	O
+MongoDB	B-APP
+Compass	I-APP
+
+launch	O
+the	O
+app	O
+named	O
+Redis	B-APP
+Insight	I-APP
+
+launch	O
+the	O
+application	O
+called	O
+Git	B-APP
+Bash	I-APP
+
+launch	O
+the	O
+application	O
+called	O
+PuTTY	B-APP
+
+launch	O
+the	O
+application	O
+called	O
+WinSCP	B-APP
+
+launch	O
+the	O
+application	O
+called	O
+7-Zip	B-APP
+
+launch	O
+the	O
+application	O
+called	O
+WinRAR	B-APP
+
+launch	O
+the	O
+application	O
+called	O
+Everything	B-APP
+Search	I-APP
+
+launch	O
+the	O
+application	O
+named	O
+ShareX	B-APP
+
+launch	O
+the	O
+application	O
+named	O
+OBS	B-APP
+Studio	I-APP
+
+launch	O
+the	O
+application	O
+named	O
+Jupyter	B-APP
+Notebook	I-APP
+
+launch	O
+the	O
+application	O
+named	O
+JupyterLab	B-APP
+
+launch	O
+the	O
+application	O
+named	O
+Anaconda	B-APP
+Navigator	I-APP
+
+launch	O
+the	O
+application	O
+named	O
+Spyder	B-APP
+
+launch	O
+up	O
+Python	B-APP
+Launcher	I-APP
+
+launch	O
+up	O
+Node.js	B-APP
+
+launch	O
+up	O
+Apache	B-APP
+NetBeans	I-APP
+
+launch	O
+up	O
+Code::Blocks	B-APP
+
+launch	O
+up	O
+Dev-C++	B-APP
+
+launch	O
+up	O
+CLion	B-APP
+
+open	O
+WebStorm	B-APP
+
+open	O
+Rider	B-APP
+
+open	O
+DataGrip	B-APP
+
+open	O
+PostgreSQL	B-APP
+
+open	O
+MySQL	B-APP
+
+open	O
+MongoDB	B-APP
+
+open	O
+MariaDB	B-APP
+for	O
+me	O
+
+open	O
+SQLite	B-APP
+Browser	I-APP
+for	O
+me	O
+
+open	O
+FileZilla	B-APP
+for	O
+me	O
+
+open	O
+WinMerge	B-APP
+for	O
+me	O
+
+open	O
+Beyond	B-APP
+Compare	I-APP
+for	O
+me	O
+
+open	O
+Rufus	B-APP
+for	O
+me	O
+
+open	O
+Balena	B-APP
+Etcher	I-APP
+now	O
+
+open	O
+Microsoft	B-APP
+To	I-APP
+Do	I-APP
+now	O
+
+open	O
+Windows	B-APP
+Security	I-APP
+now	O
+
+open	O
+Resource	B-APP
+Monitor	I-APP
+now	O
+
+open	O
+PowerToys	B-APP
+now	O
+
+open	O
+RStudio	B-APP
+now	O
+
+open	O
+my	O
+C++	B-APP
+Builder	I-APP
+app	O
+
+open	O
+my	O
+3D	B-APP
+Viewer	I-APP
+app	O
+
+open	O
+my	O
+SQLyog	B-APP
+app	O
+
+open	O
+my	O
+Termius	B-APP
+app	O
+
+open	O
+my	O
+MobaXterm	B-APP
+app	O
+
+open	O
+my	O
+Chrome	B-APP
+app	O
+
+open	O
+the	O
+Firefox	B-APP
+
+open	O
+the	O
+Microsoft	B-APP
+Edge	I-APP
+
+open	O
+the	O
+Brave	B-APP
+Browser	I-APP
+
+open	O
+the	O
+Opera	B-APP
+
+open	O
+the	O
+Vivaldi	B-APP
+
+open	O
+the	O
+Arc	B-APP
+Browser	I-APP
+
+open	O
+the	O
+Notepad	B-APP
+app	O
+
+open	O
+the	O
+WordPad	B-APP
+app	O
+
+open	O
+the	O
+Paint	B-APP
+app	O
+
+open	O
+the	O
+Calculator	B-APP
+app	O
+
+open	O
+the	O
+Calendar	B-APP
+app	O
+
+open	O
+the	O
+Clock	B-APP
+app	O
+
+open	O
+the	O
+app	O
+called	O
+Photos	B-APP
+
+open	O
+the	O
+app	O
+called	O
+Camera	B-APP
+
+open	O
+the	O
+app	O
+called	O
+Snipping	B-APP
+Tool	I-APP
+
+open	O
+the	O
+app	O
+called	O
+File	B-APP
+Explorer	I-APP
+
+open	O
+the	O
+app	O
+called	O
+Task	B-APP
+Manager	I-APP
+
+open	O
+the	O
+app	O
+called	O
+Settings	B-APP
+
+open	O
+the	O
+app	O
+named	O
+Control	B-APP
+Panel	I-APP
+
+open	O
+the	O
+app	O
+named	O
+Command	B-APP
+Prompt	I-APP
+
+open	O
+the	O
+app	O
+named	O
+PowerShell	B-APP
+
+open	O
+the	O
+app	O
+named	O
+Windows	B-APP
+Terminal	I-APP
+
+open	O
+the	O
+app	O
+named	O
+Visual	B-APP
+Studio	I-APP
+Code	I-APP
+
+open	O
+the	O
+app	O
+named	O
+Visual	B-APP
+Studio	I-APP
+
+open	O
+the	O
+application	O
+PyCharm	B-APP
+
+open	O
+the	O
+application	O
+IntelliJ	B-APP
+IDEA	I-APP
+
+open	O
+the	O
+application	O
+Eclipse	B-APP
+
+open	O
+the	O
+application	O
+Android	B-APP
+Studio	I-APP
+
+open	O
+the	O
+application	O
+Sublime	B-APP
+Text	I-APP
+
+open	O
+the	O
+application	O
+Notepad++	B-APP
+
+open	O
+the	O
+application	O
+called	O
+GitHub	B-APP
+Desktop	I-APP
+
+open	O
+the	O
+application	O
+called	O
+Docker	B-APP
+Desktop	I-APP
+
+open	O
+the	O
+application	O
+called	O
+Postman	B-APP
+
+open	O
+the	O
+application	O
+called	O
+Insomnia	B-APP
+
+open	O
+the	O
+application	O
+called	O
+Figma	B-APP
+
+open	O
+the	O
+application	O
+called	O
+Canva	B-APP
+
+open	O
+the	O
+application	O
+named	O
+Discord	B-APP
+
+open	O
+the	O
+application	O
+named	O
+Telegram	B-APP
+
+open	O
+the	O
+application	O
+named	O
+WhatsApp	B-APP
+
+open	O
+the	O
+application	O
+named	O
+Microsoft	B-APP
+Teams	I-APP
+
+open	O
+the	O
+application	O
+named	O
+Zoom	B-APP
+
+open	O
+the	O
+application	O
+named	O
+Skype	B-APP
+
+open	O
+up	O
+Slack	B-APP
+
+open	O
+up	O
+Spotify	B-APP
+
+open	O
+up	O
+VLC	B-APP
+Media	I-APP
+Player	I-APP
+
+open	O
+up	O
+Windows	B-APP
+Media	I-APP
+Player	I-APP
+
+open	O
+up	O
+Audacity	B-APP
+
+open	O
+up	O
+GIMP	B-APP
+
+open	O
+up	O
+the	O
+Inkscape	B-APP
+app	O
+
+open	O
+up	O
+the	O
+Blender	B-APP
+app	O
+
+open	O
+up	O
+the	O
+Unity	B-APP
+app	O
+
+open	O
+up	O
+the	O
+Unreal	B-APP
+Engine	I-APP
+app	O
+
+open	O
+up	O
+the	O
+Microsoft	B-APP
+Word	I-APP
+app	O
+
+open	O
+up	O
+the	O
+Microsoft	B-APP
+Excel	I-APP
+app	O
+
+please	O
+launch	O
+Microsoft	B-APP
+PowerPoint	I-APP
+
+please	O
+launch	O
+Microsoft	B-APP
+Outlook	I-APP
+
+please	O
+launch	O
+Microsoft	B-APP
+Access	I-APP
+
+please	O
+launch	O
+Microsoft	B-APP
+OneNote	I-APP
+
+please	O
+launch	O
+Microsoft	B-APP
+Publisher	I-APP
+
+please	O
+launch	O
+LibreOffice	B-APP
+Writer	I-APP
+
+please	O
+launch	O
+LibreOffice	B-APP
+Calc	I-APP
+for	O
+me	O
+
+please	O
+launch	O
+LibreOffice	B-APP
+Impress	I-APP
+for	O
+me	O
+
+please	O
+launch	O
+LibreOffice	B-APP
+Base	I-APP
+for	O
+me	O
+
+please	O
+launch	O
+LibreOffice	B-APP
+Draw	I-APP
+for	O
+me	O
+
+please	O
+launch	O
+Google	B-APP
+Drive	I-APP
+for	O
+me	O
+
+please	O
+launch	O
+Google	B-APP
+Docs	I-APP
+for	O
+me	O
+
+please	O
+launch	O
+Google	B-APP
+Sheets	I-APP
+now	O
+
+please	O
+launch	O
+Google	B-APP
+Slides	I-APP
+now	O
+
+please	O
+launch	O
+Dropbox	B-APP
+now	O
+
+please	O
+launch	O
+OneDrive	B-APP
+now	O
+
+please	O
+launch	O
+VirtualBox	B-APP
+now	O
+
+please	O
+launch	O
+VMware	B-APP
+Workstation	I-APP
+now	O
+
+please	O
+launch	O
+the	O
+Oracle	B-APP
+SQL	I-APP
+Developer	I-APP
+application	O
+
+please	O
+launch	O
+the	O
+MySQL	B-APP
+Workbench	I-APP
+application	O
+
+please	O
+launch	O
+the	O
+pgAdmin	B-APP
+application	O
+
+please	O
+launch	O
+the	O
+DBeaver	B-APP
+application	O
+
+please	O
+launch	O
+the	O
+MongoDB	B-APP
+Compass	I-APP
+application	O
+
+please	O
+launch	O
+the	O
+Redis	B-APP
+Insight	I-APP
+application	O
+
+please	O
+open	O
+Git	B-APP
+Bash	I-APP
+
+please	O
+open	O
+PuTTY	B-APP
+
+please	O
+open	O
+WinSCP	B-APP
+
+please	O
+open	O
+7-Zip	B-APP
+
+please	O
+open	O
+WinRAR	B-APP
+
+please	O
+open	O
+Everything	B-APP
+Search	I-APP
+
+please	O
+open	O
+ShareX	B-APP
+for	O
+me	O
+
+please	O
+open	O
+OBS	B-APP
+Studio	I-APP
+for	O
+me	O
+
+please	O
+open	O
+Jupyter	B-APP
+Notebook	I-APP
+for	O
+me	O
+
+please	O
+open	O
+JupyterLab	B-APP
+for	O
+me	O
+
+please	O
+open	O
+Anaconda	B-APP
+Navigator	I-APP
+for	O
+me	O
+
+please	O
+open	O
+Spyder	B-APP
+for	O
+me	O
+
+please	O
+open	O
+Python	B-APP
+Launcher	I-APP
+now	O
+
+please	O
+open	O
+Node.js	B-APP
+now	O
+
+please	O
+open	O
+Apache	B-APP
+NetBeans	I-APP
+now	O
+
+please	O
+open	O
+Code::Blocks	B-APP
+now	O
+
+please	O
+open	O
+Dev-C++	B-APP
+now	O
+
+please	O
+open	O
+CLion	B-APP
+now	O
+
+please	O
+open	O
+the	O
+WebStorm	B-APP
+application	O
+
+please	O
+open	O
+the	O
+Rider	B-APP
+application	O
+
+please	O
+open	O
+the	O
+DataGrip	B-APP
+application	O
+
+please	O
+open	O
+the	O
+PostgreSQL	B-APP
+application	O
+
+please	O
+open	O
+the	O
+MySQL	B-APP
+application	O
+
+please	O
+open	O
+the	O
+MongoDB	B-APP
+application	O
+
+please	O
+start	O
+MariaDB	B-APP
+
+please	O
+start	O
+SQLite	B-APP
+Browser	I-APP
+
+please	O
+start	O
+FileZilla	B-APP
+
+please	O
+start	O
+WinMerge	B-APP
+
+please	O
+start	O
+Beyond	B-APP
+Compare	I-APP
+
+please	O
+start	O
+Rufus	B-APP
+
+please	O
+start	O
+Balena	B-APP
+Etcher	I-APP
+for	O
+me	O
+
+please	O
+start	O
+Microsoft	B-APP
+To	I-APP
+Do	I-APP
+for	O
+me	O
+
+please	O
+start	O
+Windows	B-APP
+Security	I-APP
+for	O
+me	O
+
+please	O
+start	O
+Resource	B-APP
+Monitor	I-APP
+for	O
+me	O
+
+please	O
+start	O
+PowerToys	B-APP
+for	O
+me	O
+
+please	O
+start	O
+RStudio	B-APP
+for	O
+me	O
+
+please	O
+start	O
+C++	B-APP
+Builder	I-APP
+now	O
+
+please	O
+start	O
+3D	B-APP
+Viewer	I-APP
+now	O
+
+please	O
+start	O
+SQLyog	B-APP
+now	O
+
+please	O
+start	O
+Termius	B-APP
+now	O
+
+please	O
+start	O
+MobaXterm	B-APP
+now	O
+
+please	O
+start	O
+Chrome	B-APP
+now	O
+
+please	O
+start	O
+the	O
+Firefox	B-APP
+application	O
+
+please	O
+start	O
+the	O
+Microsoft	B-APP
+Edge	I-APP
+application	O
+
+please	O
+start	O
+the	O
+Brave	B-APP
+Browser	I-APP
+application	O
+
+please	O
+start	O
+the	O
+Opera	B-APP
+application	O
+
+please	O
+start	O
+the	O
+Vivaldi	B-APP
+application	O
+
+please	O
+start	O
+the	O
+Arc	B-APP
+Browser	I-APP
+application	O
+
+start	O
+Notepad	B-APP
+
+start	O
+WordPad	B-APP
+
+start	O
+Paint	B-APP
+
+start	O
+Calculator	B-APP
+
+start	O
+Calendar	B-APP
+
+start	O
+Clock	B-APP
+
+start	O
+Photos	B-APP
+for	O
+me	O
+
+start	O
+Camera	B-APP
+for	O
+me	O
+
+start	O
+Snipping	B-APP
+Tool	I-APP
+for	O
+me	O
+
+start	O
+File	B-APP
+Explorer	I-APP
+for	O
+me	O
+
+start	O
+Task	B-APP
+Manager	I-APP
+for	O
+me	O
+
+start	O
+Settings	B-APP
+for	O
+me	O
+
+start	O
+Control	B-APP
+Panel	I-APP
+now	O
+
+start	O
+Command	B-APP
+Prompt	I-APP
+now	O
+
+start	O
+PowerShell	B-APP
+now	O
+
+start	O
+Windows	B-APP
+Terminal	I-APP
+now	O
+
+start	O
+Visual	B-APP
+Studio	I-APP
+Code	I-APP
+now	O
+
+start	O
+Visual	B-APP
+Studio	I-APP
+now	O
+
+start	O
+my	O
+PyCharm	B-APP
+app	O
+
+start	O
+my	O
+IntelliJ	B-APP
+IDEA	I-APP
+app	O
+
+start	O
+my	O
+Eclipse	B-APP
+app	O
+
+start	O
+my	O
+Android	B-APP
+Studio	I-APP
+app	O
+
+start	O
+my	O
+Sublime	B-APP
+Text	I-APP
+app	O
+
+start	O
+my	O
+Notepad++	B-APP
+app	O
+
+start	O
+the	O
+GitHub	B-APP
+Desktop	I-APP
+
+start	O
+the	O
+Docker	B-APP
+Desktop	I-APP
+
+start	O
+the	O
+Postman	B-APP
+
+start	O
+the	O
+Insomnia	B-APP
+
+start	O
+the	O
+Figma	B-APP
+
+start	O
+the	O
+Canva	B-APP
+
+start	O
+the	O
+Discord	B-APP
+app	O
+
+start	O
+the	O
+Telegram	B-APP
+app	O
+
+start	O
+the	O
+WhatsApp	B-APP
+app	O
+
+start	O
+the	O
+Microsoft	B-APP
+Teams	I-APP
+app	O
+
+start	O
+the	O
+Zoom	B-APP
+app	O
+
+start	O
+the	O
+Skype	B-APP
+app	O
+
+start	O
+the	O
+app	O
+called	O
+Slack	B-APP
+
+start	O
+the	O
+app	O
+called	O
+Spotify	B-APP
+
+start	O
+the	O
+app	O
+called	O
+VLC	B-APP
+Media	I-APP
+Player	I-APP
+
+start	O
+the	O
+app	O
+called	O
+Windows	B-APP
+Media	I-APP
+Player	I-APP
+
+start	O
+the	O
+app	O
+called	O
+Audacity	B-APP
+
+start	O
+the	O
+app	O
+called	O
+GIMP	B-APP
+
+start	O
+the	O
+app	O
+named	O
+Inkscape	B-APP
+
+start	O
+the	O
+app	O
+named	O
+Blender	B-APP
+
+start	O
+the	O
+app	O
+named	O
+Unity	B-APP
+
+start	O
+the	O
+app	O
+named	O
+Unreal	B-APP
+Engine	I-APP
+
+start	O
+the	O
+app	O
+named	O
+Microsoft	B-APP
+Word	I-APP
+
+start	O
+the	O
+app	O
+named	O
+Microsoft	B-APP
+Excel	I-APP
+
+start	O
+the	O
+application	O
+called	O
+Microsoft	B-APP
+PowerPoint	I-APP
+
+start	O
+the	O
+application	O
+called	O
+Microsoft	B-APP
+Outlook	I-APP
+
+start	O
+the	O
+application	O
+called	O
+Microsoft	B-APP
+Access	I-APP
+
+start	O
+the	O
+application	O
+called	O
+Microsoft	B-APP
+OneNote	I-APP
+
+start	O
+the	O
+application	O
+called	O
+Microsoft	B-APP
+Publisher	I-APP
+
+start	O
+the	O
+application	O
+called	O
+LibreOffice	B-APP
+Writer	I-APP
+
+start	O
+up	O
+LibreOffice	B-APP
+Calc	I-APP
+
+start	O
+up	O
+LibreOffice	B-APP
+Impress	I-APP
+
+start	O
+up	O
+LibreOffice	B-APP
+Base	I-APP
+
+start	O
+up	O
+LibreOffice	B-APP
+Draw	I-APP
+
+start	O
+up	O
+Google	B-APP
+Drive	I-APP
+
+start	O
+up	O
+Google	B-APP
+Docs	I-APP
+
+start	O
+up	O
+the	O
+Google	B-APP
+Sheets	I-APP
+app	O
+
+start	O
+up	O
+the	O
+Google	B-APP
+Slides	I-APP
+app	O
+
+start	O
+up	O
+the	O
+Dropbox	B-APP
+app	O
+
+start	O
+up	O
+the	O
+OneDrive	B-APP
+app	O
+
+start	O
+up	O
+the	O
+VirtualBox	B-APP
+app	O
+
+start	O
+up	O
+the	O
+VMware	B-APP
+Workstation	I-APP
+app	O
+
+can	O
+you	O
+launch	O
+an	O
+app	O
+
+can	O
+you	O
+open	O
+an	O
+app	O
+
+can	O
+you	O
+start	O
+an	O
+app	O
+
+could	O
+you	O
+launch	O
+an	O
+application	O
+
+could	O
+you	O
+open	O
+an	O
+application	O
+
+could	O
+you	O
+start	O
+an	O
+application	O
+
+I	O
+need	O
+to	O
+launch	O
+an	O
+application	O
+
+I	O
+need	O
+to	O
+open	O
+an	O
+application	O
+
+I	O
+need	O
+to	O
+start	O
+an	O
+application	O
+
+I	O
+want	O
+to	O
+launch	O
+an	O
+app	O
+
+I	O
+want	O
+to	O
+open	O
+an	O
+app	O
+
+I	O
+want	O
+to	O
+start	O
+an	O
+app	O
+
+launch	O
+an	O
+application	O
+
+launch	O
+my	O
+browser	O
+
+launch	O
+my	O
+code	O
+editor	O
+
+launch	O
+program	O
+
+launch	O
+the	O
+app	O
+
+launch	O
+the	O
+browser	O
+
+launch	O
+the	O
+browser	O
+application	O
+
+launch	O
+the	O
+code	O
+editor	O
+
+launch	O
+the	O
+program	O
+
+open	O
+an	O
+application	O
+
+open	O
+my	O
+browser	O
+
+open	O
+my	O
+code	O
+editor	O
+
+open	O
+program	O
+
+open	O
+the	O
+app	O
+
+open	O
+the	O
+browser	O
+
+open	O
+the	O
+browser	O
+application	O
+
+open	O
+the	O
+code	O
+editor	O
+
+open	O
+the	O
+program	O
+
+please	O
+launch	O
+an	O
+app	O
+
+please	O
+launch	O
+the	O
+app	O
+
+please	O
+open	O
+an	O
+app	O
+
+please	O
+open	O
+the	O
+app	O
+
+please	O
+start	O
+an	O
+app	O
+
+please	O
+start	O
+the	O
+app	O
+
+start	O
+an	O
+application	O
+
+start	O
+my	O
+browser	O
+
+start	O
+my	O
+code	O
+editor	O
+
+start	O
+program	O
+
+start	O
+the	O
+app	O
+
+start	O
+the	O
+browser	O
+
+start	O
+the	O
+browser	O
+application	O
+
+start	O
+the	O
+code	O
+editor	O
+
+start	O
+the	O
+program	O
+

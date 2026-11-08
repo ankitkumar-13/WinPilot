@@ -1,0 +1,258 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "exit",
+      "pattern": "can you close {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "can you exit {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "can you quit {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "can you shut down {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "can you stop {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "can you terminate {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "close {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "close {APP} now",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "could you close {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "could you exit {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "could you quit {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "could you stop {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "end {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "end {APP} now",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "exit {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "exit {APP} now",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "I need to close {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "I need to stop {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "I want to close {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "I want to shut down {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "I want to stop {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "I want to terminate {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "please close {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "please end {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "please shut down {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "please stop {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "please terminate {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "quit {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "quit {APP} now",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "shut down {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "shut down {APP} now",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "shutdown {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "stop {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "stop {APP} now",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "terminate {APP}",
+      "intents": [
+        "exit"
+      ]
+    },
+    {
+      "dataset": "exit",
+      "pattern": "terminate {APP} now",
+      "intents": [
+        "exit"
+      ]
+    }
+  ]
+}

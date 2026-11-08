@@ -1,0 +1,934 @@
+open	O
+Control	B-APP
+Panel	I-APP
+
+launch	O
+File	B-APP
+Explorer	I-APP
+
+launch	O
+Windows	B-APP
+Explorer	I-APP
+
+start	O
+Explorer	B-APP
+
+start	O
+windows	B-APP
+file	I-APP
+explorer	I-APP
+
+please	O
+open	O
+Command	B-APP
+Prompt	I-APP
+
+please	O
+open	O
+cmd	B-APP
+
+please	O
+open	O
+CMD	B-APP
+
+please	O
+open	O
+powershell	B-APP
+
+please	O
+launch	O
+PowerShell	B-APP
+
+please	O
+launch	O
+windows	B-APP
+powershell	I-APP
+
+please	O
+launch	O
+Windows	B-APP
+PowerShell	I-APP
+
+please	O
+launch	O
+terminal	B-APP
+
+please	O
+start	O
+Terminal	B-APP
+
+please	O
+start	O
+windows	B-APP
+terminal	I-APP
+
+please	O
+start	O
+Windows	B-APP
+Terminal	I-APP
+
+please	O
+start	O
+task	B-APP
+manager	I-APP
+
+can	O
+you	O
+open	O
+Task	B-APP
+Manager	I-APP
+
+can	O
+you	O
+open	O
+registry	B-APP
+editor	I-APP
+
+can	O
+you	O
+open	O
+Registry	B-APP
+Editor	I-APP
+
+can	O
+you	O
+open	O
+regedit	B-APP
+
+can	O
+you	O
+launch	O
+Regedit	B-APP
+
+can	O
+you	O
+launch	O
+device	B-APP
+manager	I-APP
+
+can	O
+you	O
+launch	O
+Device	B-APP
+Manager	I-APP
+
+can	O
+you	O
+launch	O
+disk	B-APP
+management	I-APP
+
+could	O
+you	O
+open	O
+Disk	B-APP
+Management	I-APP
+
+could	O
+you	O
+open	O
+task	B-APP
+scheduler	I-APP
+
+could	O
+you	O
+open	O
+Task	B-APP
+Scheduler	I-APP
+
+could	O
+you	O
+open	O
+event	B-APP
+viewer	I-APP
+
+open	O
+the	O
+Event	B-APP
+Viewer	I-APP
+
+open	O
+the	O
+services	B-APP
+
+open	O
+the	O
+Services	B-APP
+
+open	O
+the	O
+resource	B-APP
+monitor	I-APP
+
+launch	O
+the	O
+Resource	B-APP
+Monitor	I-APP
+
+launch	O
+the	O
+remote	B-APP
+desktop	I-APP
+
+launch	O
+the	O
+Remote	B-APP
+Desktop	I-APP
+
+launch	O
+the	O
+quick	B-APP
+assist	I-APP
+
+start	O
+the	O
+Quick	B-APP
+Assist	I-APP
+
+start	O
+the	O
+git	B-APP
+
+start	O
+the	O
+Git	B-APP
+
+start	O
+the	O
+git	B-APP
+bash	I-APP
+
+open	O
+the	O
+Git	B-APP
+Bash	I-APP
+app	O
+
+open	O
+the	O
+github	B-APP
+desktop	I-APP
+app	O
+
+open	O
+the	O
+GitHub	B-APP
+Desktop	I-APP
+app	O
+
+open	O
+the	O
+docker	B-APP
+app	O
+
+launch	O
+the	O
+Docker	B-APP
+app	O
+
+launch	O
+the	O
+docker	B-APP
+desktop	I-APP
+app	O
+
+launch	O
+the	O
+Docker	B-APP
+Desktop	I-APP
+app	O
+
+launch	O
+the	O
+postman	B-APP
+app	O
+
+start	O
+the	O
+Postman	B-APP
+app	O
+
+start	O
+the	O
+insomnia	B-APP
+app	O
+
+start	O
+the	O
+Insomnia	B-APP
+app	O
+
+start	O
+the	O
+mysql	B-APP
+workbench	I-APP
+app	O
+
+open	O
+MySQL	B-APP
+Workbench	I-APP
+for	O
+me	O
+
+open	O
+pgadmin	B-APP
+for	O
+me	O
+
+open	O
+pgAdmin	B-APP
+for	O
+me	O
+
+open	O
+dbeaver	B-APP
+for	O
+me	O
+
+launch	O
+DBeaver	B-APP
+for	O
+me	O
+
+launch	O
+mongodb	B-APP
+compass	I-APP
+for	O
+me	O
+
+launch	O
+MongoDB	B-APP
+Compass	I-APP
+for	O
+me	O
+
+launch	O
+python	B-APP
+for	O
+me	O
+
+start	O
+python	B-APP
+launcher	I-APP
+for	O
+me	O
+
+start	O
+Python	B-APP
+Launcher	I-APP
+for	O
+me	O
+
+start	O
+anaconda	B-APP
+for	O
+me	O
+
+start	O
+Anaconda	B-APP
+for	O
+me	O
+
+please	O
+open	O
+jupyter	B-APP
+for	O
+me	O
+
+please	O
+open	O
+Jupyter	B-APP
+for	O
+me	O
+
+please	O
+open	O
+jupyter	B-APP
+notebook	I-APP
+for	O
+me	O
+
+please	O
+open	O
+Jupyter	B-APP
+Notebook	I-APP
+for	O
+me	O
+
+please	O
+launch	O
+spyder	B-APP
+for	O
+me	O
+
+please	O
+launch	O
+Spyder	B-APP
+for	O
+me	O
+
+please	O
+launch	O
+node	B-APP
+for	O
+me	O
+
+please	O
+launch	O
+Node	B-APP
+for	O
+me	O
+
+please	O
+start	O
+nodejs	B-APP
+for	O
+me	O
+
+please	O
+start	O
+NodeJS	B-APP
+for	O
+me	O
+
+please	O
+start	O
+winrar	B-APP
+for	O
+me	O
+
+please	O
+start	O
+WinRAR	B-APP
+for	O
+me	O
+
+I	O
+want	O
+to	O
+open	O
+7zip	B-APP
+
+I	O
+want	O
+to	O
+open	O
+7-Zip	B-APP
+
+I	O
+want	O
+to	O
+open	O
+peazip	B-APP
+
+I	O
+want	O
+to	O
+open	O
+PeaZip	B-APP
+
+I	O
+want	O
+to	O
+launch	O
+filezilla	B-APP
+
+I	O
+want	O
+to	O
+launch	O
+FileZilla	B-APP
+
+I	O
+want	O
+to	O
+launch	O
+winscp	B-APP
+
+I	O
+want	O
+to	O
+launch	O
+WinSCP	B-APP
+
+I	O
+want	O
+to	O
+start	O
+everything	B-APP
+
+I	O
+want	O
+to	O
+start	O
+Everything	B-APP
+
+I	O
+want	O
+to	O
+start	O
+powertoys	B-APP
+
+I	O
+want	O
+to	O
+start	O
+PowerToys	B-APP
+
+I	O
+need	O
+to	O
+open	O
+sharex	B-APP
+
+I	O
+need	O
+to	O
+open	O
+ShareX	B-APP
+
+I	O
+need	O
+to	O
+open	O
+adobe	B-APP
+reader	I-APP
+
+I	O
+need	O
+to	O
+open	O
+Adobe	B-APP
+Reader	I-APP
+
+I	O
+need	O
+to	O
+launch	O
+acrobat	B-APP
+reader	I-APP
+
+I	O
+need	O
+to	O
+launch	O
+Acrobat	B-APP
+Reader	I-APP
+
+I	O
+need	O
+to	O
+launch	O
+photoshop	B-APP
+
+I	O
+need	O
+to	O
+launch	O
+Photoshop	B-APP
+
+I	O
+need	O
+to	O
+start	O
+adobe	B-APP
+photoshop	I-APP
+
+I	O
+need	O
+to	O
+start	O
+Adobe	B-APP
+Photoshop	I-APP
+
+I	O
+need	O
+to	O
+start	O
+illustrator	B-APP
+
+I	O
+need	O
+to	O
+start	O
+Illustrator	B-APP
+
+can	O
+you	O
+open	O
+canva	B-APP
+for	O
+me	O
+
+can	O
+you	O
+open	O
+Canva	B-APP
+for	O
+me	O
+
+can	O
+you	O
+open	O
+figma	B-APP
+for	O
+me	O
+
+can	O
+you	O
+open	O
+Figma	B-APP
+for	O
+me	O
+
+can	O
+you	O
+start	O
+blender	B-APP
+
+can	O
+you	O
+start	O
+Blender	B-APP
+
+can	O
+you	O
+start	O
+virtualbox	B-APP
+
+can	O
+you	O
+start	O
+VirtualBox	B-APP
+
+could	O
+you	O
+launch	O
+vmware	B-APP
+
+could	O
+you	O
+launch	O
+VMware	B-APP
+
+could	O
+you	O
+launch	O
+vmware	B-APP
+workstation	I-APP
+
+could	O
+you	O
+launch	O
+VMware	B-APP
+Workstation	I-APP
+
+could	O
+you	O
+start	O
+windows	B-APP
+settings	I-APP
+
+could	O
+you	O
+start	O
+control	B-APP
+panel	I-APP
+
+could	O
+you	O
+start	O
+file	B-APP
+explorer	I-APP
+
+could	O
+you	O
+start	O
+windows	B-APP
+explorer	I-APP
+
+open	O
+the	O
+application	O
+explorer	B-APP
+
+open	O
+the	O
+application	O
+command	B-APP
+prompt	I-APP
+
+open	O
+the	O
+application	O
+named	O
+chrome	B-APP
+
+open	O
+the	O
+application	O
+named	O
+Chrome	B-APP
+
+open	O
+the	O
+application	O
+named	O
+google	B-APP
+chrome	I-APP
+
+open	O
+the	O
+application	O
+named	O
+Google	B-APP
+Chrome	I-APP
+
+launch	O
+the	O
+application	O
+named	O
+firefox	B-APP
+
+launch	O
+the	O
+application	O
+named	O
+Firefox	B-APP
+
+launch	O
+the	O
+application	O
+named	O
+mozilla	B-APP
+firefox	I-APP
+
+launch	O
+the	O
+application	O
+named	O
+Mozilla	B-APP
+Firefox	I-APP
+
+open	O
+an	O
+application	O
+
+open	O
+the	O
+app	O
+
+launch	O
+an	O
+application	O
+
+launch	O
+the	O
+app	O
+
+start	O
+an	O
+application	O
+
+start	O
+the	O
+app	O
+
+open	O
+program	O
+
+launch	O
+program	O
+
+start	O
+program	O
+
+open	O
+the	O
+program	O
+
+launch	O
+the	O
+program	O
+
+start	O
+the	O
+program	O
+
+please	O
+open	O
+an	O
+app	O
+
+please	O
+launch	O
+an	O
+app	O
+
+please	O
+start	O
+an	O
+app	O
+
+please	O
+open	O
+the	O
+app	O
+
+please	O
+launch	O
+the	O
+app	O
+
+please	O
+start	O
+the	O
+app	O
+
+can	O
+you	O
+open	O
+an	O
+app	O
+
+can	O
+you	O
+launch	O
+an	O
+app	O
+
+can	O
+you	O
+start	O
+an	O
+app	O
+
+could	O
+you	O
+open	O
+an	O
+application	O
+
+could	O
+you	O
+launch	O
+an	O
+application	O
+
+could	O
+you	O
+start	O
+an	O
+application	O
+
+I	O
+want	O
+to	O
+open	O
+an	O
+app	O
+
+I	O
+want	O
+to	O
+launch	O
+an	O
+app	O
+
+I	O
+want	O
+to	O
+start	O
+an	O
+app	O
+
+I	O
+need	O
+to	O
+open	O
+an	O
+application	O
+
+I	O
+need	O
+to	O
+launch	O
+an	O
+application	O
+
+I	O
+need	O
+to	O
+start	O
+an	O
+application	O
+
+open	O
+my	O
+browser	O
+
+launch	O
+my	O
+browser	O
+
+start	O
+my	O
+browser	O
+
+open	O
+the	O
+browser	O
+
+launch	O
+the	O
+browser	O
+
+start	O
+the	O
+browser	O
+
+open	O
+the	O
+browser	O
+application	O
+
+launch	O
+the	O
+browser	O
+application	O
+
+start	O
+the	O
+browser	O
+application	O
+
+open	O
+my	O
+code	O
+editor	O
+
+launch	O
+my	O
+code	O
+editor	O
+
+start	O
+my	O
+code	O
+editor	O
+
+open	O
+the	O
+code	O
+editor	O
+
+launch	O
+the	O
+code	O
+editor	O
+
+start	O
+the	O
+code	O
+editor	O
+

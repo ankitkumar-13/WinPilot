@@ -1,0 +1,515 @@
+open	O
+Brave	B-APP
+
+launch	O
+Brave	B-APP
+
+start	O
+Brave	B-APP
+
+open	O
+Obsidian	B-APP
+
+launch	O
+Obsidian	B-APP
+
+start	O
+Obsidian	B-APP
+
+open	O
+Postman	B-APP
+
+launch	O
+Postman	B-APP
+
+start	O
+Postman	B-APP
+
+open	O
+Notion	B-APP
+
+launch	O
+Notion	B-APP
+
+start	O
+Notion	B-APP
+
+open	O
+Figma	B-APP
+
+launch	O
+Figma	B-APP
+
+start	O
+Figma	B-APP
+
+open	O
+VLC	B-APP
+
+launch	O
+VLC	B-APP
+
+start	O
+VLC	B-APP
+
+open	O
+Audacity	B-APP
+
+launch	O
+Audacity	B-APP
+
+start	O
+Audacity	B-APP
+
+open	O
+WinSCP	B-APP
+
+launch	O
+WinSCP	B-APP
+
+start	O
+WinSCP	B-APP
+
+open	O
+FileZilla	B-APP
+
+launch	O
+FileZilla	B-APP
+
+start	O
+FileZilla	B-APP
+
+open	O
+KeePass	B-APP
+
+launch	O
+KeePass	B-APP
+
+start	O
+KeePass	B-APP
+
+create	O
+a	O
+file	O
+named	O
+ledger.odt	B-FILE
+
+delete	O
+ledger.odt	B-FILE
+
+rename	O
+ledger.odt	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+meeting.m4a	B-FILE
+
+delete	O
+meeting.m4a	B-FILE
+
+rename	O
+meeting.m4a	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+diagram.svg	B-FILE
+
+delete	O
+diagram.svg	B-FILE
+
+rename	O
+diagram.svg	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+archive.tar	B-FILE
+
+delete	O
+archive.tar	B-FILE
+
+rename	O
+archive.tar	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+budget.ods	B-FILE
+
+delete	O
+budget.ods	B-FILE
+
+rename	O
+budget.ods	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+voice.flac	B-FILE
+
+delete	O
+voice.flac	B-FILE
+
+rename	O
+voice.flac	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+inventory.xml	B-FILE
+
+delete	O
+inventory.xml	B-FILE
+
+rename	O
+inventory.xml	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+slides.key	B-FILE
+
+delete	O
+slides.key	B-FILE
+
+rename	O
+slides.key	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+records.db	B-FILE
+
+delete	O
+records.db	B-FILE
+
+rename	O
+records.db	B-FILE
+
+create	O
+a	O
+file	O
+named	O
+notes.rtf	B-FILE
+
+delete	O
+notes.rtf	B-FILE
+
+rename	O
+notes.rtf	B-FILE
+
+create	O
+a	O
+folder	O
+named	O
+ResearchVault	B-FOLDER
+
+delete	O
+the	O
+folder	O
+ResearchVault	B-FOLDER
+
+rename	O
+the	O
+folder	O
+ResearchVault	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+SemesterArchive	B-FOLDER
+
+delete	O
+the	O
+folder	O
+SemesterArchive	B-FOLDER
+
+rename	O
+the	O
+folder	O
+SemesterArchive	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+ClientDrop	B-FOLDER
+
+delete	O
+the	O
+folder	O
+ClientDrop	B-FOLDER
+
+rename	O
+the	O
+folder	O
+ClientDrop	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+BuildCache	B-FOLDER
+
+delete	O
+the	O
+folder	O
+BuildCache	B-FOLDER
+
+rename	O
+the	O
+folder	O
+BuildCache	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+MediaShelf	B-FOLDER
+
+delete	O
+the	O
+folder	O
+MediaShelf	B-FOLDER
+
+rename	O
+the	O
+folder	O
+MediaShelf	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+TempWorkspace	B-FOLDER
+
+delete	O
+the	O
+folder	O
+TempWorkspace	B-FOLDER
+
+rename	O
+the	O
+folder	O
+TempWorkspace	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+SourceDepot	B-FOLDER
+
+delete	O
+the	O
+folder	O
+SourceDepot	B-FOLDER
+
+rename	O
+the	O
+folder	O
+SourceDepot	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+DesignAssets	B-FOLDER
+
+delete	O
+the	O
+folder	O
+DesignAssets	B-FOLDER
+
+rename	O
+the	O
+folder	O
+DesignAssets	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+ExamMaterial	B-FOLDER
+
+delete	O
+the	O
+folder	O
+ExamMaterial	B-FOLDER
+
+rename	O
+the	O
+folder	O
+ExamMaterial	B-FOLDER
+
+create	O
+a	O
+folder	O
+named	O
+ProjectVault	B-FOLDER
+
+delete	O
+the	O
+folder	O
+ProjectVault	B-FOLDER
+
+rename	O
+the	O
+folder	O
+ProjectVault	B-FOLDER
+
+move	O
+report.pdf	B-FILE
+to	O
+D:/ResearchVault	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+D:/ResearchVault	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+D:/SemesterArchive	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+D:/SemesterArchive	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+C:/ClientDrop	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+C:/ClientDrop	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+E:/BuildCache	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+E:/BuildCache	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+D:/MediaShelf	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+D:/MediaShelf	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+C:/TempWorkspace	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+C:/TempWorkspace	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+E:/SourceDepot	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+E:/SourceDepot	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+D:/DesignAssets	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+D:/DesignAssets	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+C:/ExamMaterial	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+C:/ExamMaterial	B-PATH_DIR
+
+move	O
+report.pdf	B-FILE
+to	O
+E:/ProjectVault	B-PATH_DIR
+
+move	O
+notes.txt	B-FILE
+into	O
+E:/ProjectVault	B-PATH_DIR
+
+create	O
+a	O
+file	O
+named	O
+D:/ResearchVault/ledger.odt	B-PATH_FILE
+
+delete	O
+D:/ResearchVault/ledger.odt	B-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+D:/SemesterArchive/meeting.m4a	B-PATH_FILE
+
+delete	O
+D:/SemesterArchive/meeting.m4a	B-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+C:/ClientDrop/diagram.svg	B-PATH_FILE
+
+delete	O
+C:/ClientDrop/diagram.svg	B-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+E:/BuildCache/archive.tar	B-PATH_FILE
+
+delete	O
+E:/BuildCache/archive.tar	B-PATH_FILE
+
+create	O
+a	O
+file	O
+named	O
+D:/MediaShelf/voice.flac	B-PATH_FILE
+
+delete	O
+D:/MediaShelf/voice.flac	B-PATH_FILE
+

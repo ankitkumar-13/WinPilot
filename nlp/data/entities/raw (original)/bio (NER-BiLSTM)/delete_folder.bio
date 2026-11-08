@@ -1,0 +1,2425 @@
+delete	O
+Work	B-FOLDER
+folder	O
+
+delete	O
+Reports	B-FOLDER
+folder	O
+
+delete	O
+Meetings	B-FOLDER
+folder	O
+
+delete	O
+Clients	B-FOLDER
+folder	O
+
+delete	O
+D:\Projects	B-PATH_DIR
+folder	O
+
+delete	O
+D:\Projects\WinPilot	B-PATH_DIR
+folder	O
+
+delete	O
+D:\College\Semester5	B-PATH_DIR
+folder	O
+
+delete	O
+D:\Work\Reports	B-PATH_DIR
+folder	O
+
+remove	O
+Invoices	B-FOLDER
+folder	O
+
+remove	O
+Personal	B-FOLDER
+folder	O
+
+remove	O
+Photos	B-FOLDER
+folder	O
+
+remove	O
+Videos	B-FOLDER
+folder	O
+
+remove	O
+D:\Backup\Projects	B-PATH_DIR
+folder	O
+
+remove	O
+E:\Research	B-PATH_DIR
+folder	O
+
+remove	O
+E:\Research\Datasets	B-PATH_DIR
+folder	O
+
+remove	O
+E:\Media\Projects	B-PATH_DIR
+folder	O
+
+delete	O
+folder	O
+Finance	B-FOLDER
+
+delete	O
+folder	O
+Travel	B-FOLDER
+
+delete	O
+folder	O
+Research	B-FOLDER
+
+delete	O
+folder	O
+MachineLearning	B-FOLDER
+
+delete	O
+folder	O
+E:\Archive\OldFiles	B-PATH_DIR
+
+delete	O
+folder	O
+D:\Projects	B-PATH_DIR
+
+delete	O
+folder	O
+D:\Projects\WinPilot	B-PATH_DIR
+
+delete	O
+folder	O
+D:\College\Semester5	B-PATH_DIR
+
+remove	O
+folder	O
+Datasets	B-FOLDER
+
+remove	O
+folder	O
+Models	B-FOLDER
+
+remove	O
+folder	O
+Experiments	B-FOLDER
+
+remove	O
+folder	O
+Papers	B-FOLDER
+
+remove	O
+folder	O
+D:\Work\Reports	B-PATH_DIR
+
+remove	O
+folder	O
+D:\Backup\Projects	B-PATH_DIR
+
+remove	O
+folder	O
+E:\Research	B-PATH_DIR
+
+remove	O
+folder	O
+E:\Research\Datasets	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+References	B-FOLDER
+
+delete	O
+the	O
+folder	O
+Development	B-FOLDER
+
+delete	O
+the	O
+folder	O
+Programming	B-FOLDER
+
+delete	O
+the	O
+folder	O
+Python	B-FOLDER
+
+delete	O
+the	O
+folder	O
+E:\Media\Projects	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+E:\Archive\OldFiles	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+Projects\WinPilot	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+Projects\WinPilot\Source	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+Cpp	B-FOLDER
+
+remove	O
+the	O
+folder	O
+Java	B-FOLDER
+
+remove	O
+the	O
+folder	O
+JavaScript	B-FOLDER
+
+remove	O
+the	O
+folder	O
+Web	B-FOLDER
+
+remove	O
+the	O
+folder	O
+Projects\WinPilot\Data	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+Projects\WinPilot\Documentation	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+Projects\WebApplication	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+Projects\WebApplication\Source	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+called	O
+Scripts	B-FOLDER
+
+delete	O
+the	O
+folder	O
+called	O
+Libraries	B-FOLDER
+
+delete	O
+the	O
+folder	O
+called	O
+Tests	B-FOLDER
+
+delete	O
+the	O
+folder	O
+called	O
+Configuration	B-FOLDER
+
+delete	O
+the	O
+folder	O
+called	O
+Projects\WebApplication\Assets	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+called	O
+Projects\Backup	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+called	O
+Projects\Archives	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+called	O
+College\Assignments	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+called	O
+Media	B-FOLDER
+
+remove	O
+the	O
+folder	O
+called	O
+Images	B-FOLDER
+
+remove	O
+the	O
+folder	O
+called	O
+Audio	B-FOLDER
+
+remove	O
+the	O
+folder	O
+called	O
+Presentations	B-FOLDER
+
+remove	O
+the	O
+folder	O
+called	O
+College\Notes	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+called	O
+College\Projects	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+called	O
+College\Semester5	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+called	O
+College\Semester5\OS	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+named	O
+Screenshots	B-FOLDER
+
+delete	O
+the	O
+folder	O
+named	O
+Recordings	B-FOLDER
+
+delete	O
+the	O
+folder	O
+named	O
+Wallpapers	B-FOLDER
+
+delete	O
+the	O
+folder	O
+named	O
+Downloads	B-FOLDER
+
+delete	O
+the	O
+folder	O
+named	O
+College\Semester5\DBMS	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+named	O
+College\Semester5\Projects	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+named	O
+College\Exams	B-PATH_DIR
+
+delete	O
+the	O
+folder	O
+named	O
+College\Documents	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+named	O
+Storage	B-FOLDER
+
+remove	O
+the	O
+folder	O
+named	O
+Database	B-FOLDER
+
+remove	O
+the	O
+folder	O
+named	O
+Databases	B-FOLDER
+
+remove	O
+the	O
+folder	O
+named	O
+SQL	B-FOLDER
+
+remove	O
+the	O
+folder	O
+named	O
+Work\Projects	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+named	O
+Work\Projects\Website	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+named	O
+Work\Projects\Application	B-PATH_DIR
+
+remove	O
+the	O
+folder	O
+named	O
+Work\Reports	B-PATH_DIR
+
+delete	O
+a	O
+folder	O
+called	O
+MySQL	B-FOLDER
+
+delete	O
+a	O
+folder	O
+called	O
+PostgreSQL	B-FOLDER
+
+delete	O
+a	O
+folder	O
+called	O
+Oracle	B-FOLDER
+
+delete	O
+a	O
+folder	O
+called	O
+Server	B-FOLDER
+
+delete	O
+a	O
+folder	O
+called	O
+Work\Reports\2026	B-PATH_DIR
+
+delete	O
+a	O
+folder	O
+called	O
+Work\Meetings	B-PATH_DIR
+
+delete	O
+a	O
+folder	O
+called	O
+Work\Clients	B-PATH_DIR
+
+delete	O
+a	O
+folder	O
+called	O
+Work\Invoices	B-PATH_DIR
+
+remove	O
+a	O
+folder	O
+called	O
+Client	B-FOLDER
+
+remove	O
+a	O
+folder	O
+called	O
+Network	B-FOLDER
+
+remove	O
+a	O
+folder	O
+called	O
+Security	B-FOLDER
+
+remove	O
+a	O
+folder	O
+called	O
+Systems	B-FOLDER
+
+remove	O
+a	O
+folder	O
+called	O
+Work\Archive	B-PATH_DIR
+
+remove	O
+a	O
+folder	O
+called	O
+Personal\Documents	B-PATH_DIR
+
+remove	O
+a	O
+folder	O
+called	O
+Personal\Photos	B-PATH_DIR
+
+remove	O
+a	O
+folder	O
+called	O
+Personal\Videos	B-PATH_DIR
+
+delete	O
+a	O
+folder	O
+named	O
+Applications	B-FOLDER
+
+delete	O
+a	O
+folder	O
+named	O
+Software	B-FOLDER
+
+delete	O
+a	O
+folder	O
+named	O
+Tools	B-FOLDER
+
+delete	O
+a	O
+folder	O
+named	O
+Utilities	B-FOLDER
+
+delete	O
+a	O
+folder	O
+named	O
+Personal\Projects	B-PATH_DIR
+
+delete	O
+a	O
+folder	O
+named	O
+Personal\Backup	B-PATH_DIR
+
+delete	O
+a	O
+folder	O
+named	O
+Personal\Finance	B-PATH_DIR
+
+delete	O
+a	O
+folder	O
+named	O
+Personal\ImportantDocuments	B-PATH_DIR
+
+remove	O
+a	O
+folder	O
+named	O
+Resources	B-FOLDER
+
+remove	O
+a	O
+folder	O
+named	O
+Projects2025	B-FOLDER
+
+remove	O
+a	O
+folder	O
+named	O
+Completed	B-FOLDER
+
+remove	O
+a	O
+folder	O
+named	O
+Pending	B-FOLDER
+
+remove	O
+a	O
+folder	O
+named	O
+Personal\OldFiles	B-PATH_DIR
+
+remove	O
+a	O
+folder	O
+named	O
+Personal\Travel	B-PATH_DIR
+
+remove	O
+a	O
+folder	O
+named	O
+Personal\Archive	B-PATH_DIR
+
+remove	O
+a	O
+folder	O
+named	O
+Research\MachineLearning	B-PATH_DIR
+
+delete	O
+a	O
+directory	O
+called	O
+Temporary	B-FOLDER
+
+delete	O
+a	O
+directory	O
+called	O
+OldFiles	B-FOLDER
+
+delete	O
+a	O
+directory	O
+called	O
+NewFiles	B-FOLDER
+
+delete	O
+a	O
+directory	O
+called	O
+Important	B-FOLDER
+
+delete	O
+a	O
+directory	O
+called	O
+Research\MachineLearning\Data	B-PATH_DIR
+
+delete	O
+a	O
+directory	O
+called	O
+Research\MachineLearning\Models	B-PATH_DIR
+
+delete	O
+a	O
+directory	O
+called	O
+Research\MachineLearning\Experiments	B-PATH_DIR
+
+delete	O
+a	O
+directory	O
+called	O
+Research\Reports	B-PATH_DIR
+
+remove	O
+a	O
+directory	O
+called	O
+Shared	B-FOLDER
+
+remove	O
+a	O
+directory	O
+called	O
+Public	B-FOLDER
+
+remove	O
+a	O
+directory	O
+called	O
+Private	B-FOLDER
+
+remove	O
+a	O
+directory	O
+called	O
+PersonalFiles	B-FOLDER
+
+remove	O
+a	O
+directory	O
+called	O
+Research\Papers	B-PATH_DIR
+
+remove	O
+a	O
+directory	O
+called	O
+Research\Datasets	B-PATH_DIR
+
+remove	O
+a	O
+directory	O
+called	O
+Research\Projects	B-PATH_DIR
+
+remove	O
+a	O
+directory	O
+called	O
+Research\References	B-PATH_DIR
+
+delete	O
+a	O
+directory	O
+named	O
+WorkFiles	B-FOLDER
+
+delete	O
+a	O
+directory	O
+named	O
+CollegeFiles	B-FOLDER
+
+delete	O
+a	O
+directory	O
+named	O
+StudyMaterial	B-FOLDER
+
+delete	O
+a	O
+directory	O
+named	O
+StudyNotes	B-FOLDER
+
+delete	O
+a	O
+directory	O
+named	O
+Data\Raw	B-PATH_DIR
+
+delete	O
+a	O
+directory	O
+named	O
+Data\Processed	B-PATH_DIR
+
+delete	O
+a	O
+directory	O
+named	O
+Data\Exports	B-PATH_DIR
+
+delete	O
+a	O
+directory	O
+named	O
+Data\Imports	B-PATH_DIR
+
+remove	O
+a	O
+directory	O
+named	O
+StudyProjects	B-FOLDER
+
+remove	O
+a	O
+directory	O
+named	O
+Semester5	B-FOLDER
+
+remove	O
+a	O
+directory	O
+named	O
+Semester6	B-FOLDER
+
+remove	O
+a	O
+directory	O
+named	O
+Semester7	B-FOLDER
+
+remove	O
+a	O
+directory	O
+named	O
+Data\Reports	B-PATH_DIR
+
+remove	O
+a	O
+directory	O
+named	O
+Data\Backup	B-PATH_DIR
+
+remove	O
+a	O
+directory	O
+named	O
+Data\2026	B-PATH_DIR
+
+remove	O
+a	O
+directory	O
+named	O
+Data\StudentRecords	B-PATH_DIR
+
+delete	O
+OS	B-FOLDER
+directory	O
+
+delete	O
+DBMS	B-FOLDER
+directory	O
+
+delete	O
+AI	B-FOLDER
+directory	O
+
+delete	O
+ML	B-FOLDER
+directory	O
+
+delete	O
+Data\ProjectData	B-PATH_DIR
+directory	O
+
+delete	O
+Source\Python	B-PATH_DIR
+directory	O
+
+delete	O
+Source\Cpp	B-PATH_DIR
+directory	O
+
+delete	O
+Source\Java	B-PATH_DIR
+directory	O
+
+remove	O
+CloudComputing	B-FOLDER
+directory	O
+
+remove	O
+ComputerNetworks	B-FOLDER
+directory	O
+
+remove	O
+OperatingSystems	B-FOLDER
+directory	O
+
+remove	O
+SoftwareEngineering	B-FOLDER
+directory	O
+
+remove	O
+Source\JavaScript	B-PATH_DIR
+directory	O
+
+remove	O
+Source\Web	B-PATH_DIR
+directory	O
+
+remove	O
+Source\Scripts	B-PATH_DIR
+directory	O
+
+remove	O
+Source\Libraries	B-PATH_DIR
+directory	O
+
+delete	O
+the	O
+Assignments2026	B-FOLDER
+folder	O
+
+delete	O
+the	O
+LabWork	B-FOLDER
+folder	O
+
+delete	O
+the	O
+PracticalFiles	B-FOLDER
+folder	O
+
+delete	O
+the	O
+QuestionPapers	B-FOLDER
+folder	O
+
+delete	O
+the	O
+Source\Tests	B-PATH_DIR
+folder	O
+
+delete	O
+the	O
+Source\Configuration	B-PATH_DIR
+folder	O
+
+delete	O
+the	O
+Media\Images	B-PATH_DIR
+folder	O
+
+delete	O
+the	O
+Media\Videos	B-PATH_DIR
+folder	O
+
+remove	O
+the	O
+ExamPapers	B-FOLDER
+folder	O
+
+remove	O
+the	O
+Results	B-FOLDER
+folder	O
+
+remove	O
+the	O
+Certificates	B-FOLDER
+folder	O
+
+remove	O
+the	O
+Reports2026	B-FOLDER
+folder	O
+
+remove	O
+the	O
+Media\Audio	B-PATH_DIR
+folder	O
+
+remove	O
+the	O
+Media\Projects	B-PATH_DIR
+folder	O
+
+remove	O
+the	O
+Media\Presentations	B-PATH_DIR
+folder	O
+
+remove	O
+the	O
+Media\Screenshots	B-PATH_DIR
+folder	O
+
+delete	O
+the	O
+MonthlyReports	B-FOLDER
+directory	O
+
+delete	O
+the	O
+AnnualReports	B-FOLDER
+directory	O
+
+delete	O
+the	O
+FinancialReports	B-FOLDER
+directory	O
+
+delete	O
+the	O
+ProjectReports	B-FOLDER
+directory	O
+
+delete	O
+the	O
+Media\Recordings	B-PATH_DIR
+directory	O
+
+delete	O
+the	O
+Media\Wallpapers	B-PATH_DIR
+directory	O
+
+delete	O
+the	O
+Media\Downloads	B-PATH_DIR
+directory	O
+
+delete	O
+the	O
+Media\Archive	B-PATH_DIR
+directory	O
+
+remove	O
+the	O
+ResearchReports	B-FOLDER
+directory	O
+
+remove	O
+the	O
+ClientReports	B-FOLDER
+directory	O
+
+remove	O
+the	O
+TestData	B-FOLDER
+directory	O
+
+remove	O
+the	O
+InputData	B-FOLDER
+directory	O
+
+remove	O
+the	O
+Archive	B-PATH_DIR
+directory	O
+
+remove	O
+the	O
+Archive\2025	B-PATH_DIR
+directory	O
+
+remove	O
+the	O
+Archive\2026	B-PATH_DIR
+directory	O
+
+remove	O
+the	O
+Archive\Projects	B-PATH_DIR
+directory	O
+
+get	O
+rid	O
+of	O
+OutputData	B-FOLDER
+folder	O
+
+get	O
+rid	O
+of	O
+ExpectedResults	B-FOLDER
+folder	O
+
+get	O
+rid	O
+of	O
+SampleData	B-FOLDER
+folder	O
+
+get	O
+rid	O
+of	O
+RawData	B-FOLDER
+folder	O
+
+get	O
+rid	O
+of	O
+Archive\College	B-PATH_DIR
+folder	O
+
+get	O
+rid	O
+of	O
+Archive\Reports	B-PATH_DIR
+folder	O
+
+get	O
+rid	O
+of	O
+Archive\OldDocuments	B-PATH_DIR
+folder	O
+
+get	O
+rid	O
+of	O
+Archive\Backups	B-PATH_DIR
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+ProcessedData	B-FOLDER
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+ExportData	B-FOLDER
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+ImportData	B-FOLDER
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+SourceCode	B-FOLDER
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+Archive\CompletedProjects	B-PATH_DIR
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+Archive\TemporaryFiles	B-PATH_DIR
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+Archive\PreviousVersions	B-PATH_DIR
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+ClientWork	B-PATH_DIR
+folder	O
+
+get	O
+rid	O
+of	O
+the	O
+folder	O
+DocumentationFiles	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+folder	O
+ReleaseFiles	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+folder	O
+TestFiles	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+folder	O
+ConfigFiles	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+folder	O
+ClientWork\Website	B-PATH_DIR
+
+get	O
+rid	O
+of	O
+the	O
+folder	O
+ClientWork\Website\Source	B-PATH_DIR
+
+get	O
+rid	O
+of	O
+the	O
+folder	O
+ClientWork\Website\Assets	B-PATH_DIR
+
+get	O
+rid	O
+of	O
+the	O
+folder	O
+ClientWork\Reports	B-PATH_DIR
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+LogFiles	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+SystemFiles	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+UserFiles	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+MyFiles	B-FOLDER
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+ClientWork\Documents	B-PATH_DIR
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+ClientWork\Invoices	B-PATH_DIR
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+ClientWork\Projects	B-PATH_DIR
+
+get	O
+rid	O
+of	O
+the	O
+directory	O
+ClientWork\Backups	B-PATH_DIR
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+ImportantDocuments	B-FOLDER
+folder	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+PreviousVersions	B-FOLDER
+folder	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+CompletedProjects	B-FOLDER
+folder	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+TemporaryFiles	B-FOLDER
+folder	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+ProjectAlpha	B-PATH_DIR
+folder	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+ProjectAlpha\SourceCode	B-PATH_DIR
+folder	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+ProjectAlpha\Documentation	B-PATH_DIR
+folder	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+ProjectAlpha\TestData	B-PATH_DIR
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+Data	B-FOLDER
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+Documentation	B-FOLDER
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+Archives	B-FOLDER
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+Backup	B-FOLDER
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+ProjectAlpha\Releases	B-PATH_DIR
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+ProjectAlpha\Assets	B-PATH_DIR
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+ProjectBeta	B-PATH_DIR
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+ProjectBeta\Source	B-PATH_DIR
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+College	B-FOLDER
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+Assignments	B-FOLDER
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+Notes	B-FOLDER
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+Projects2026	B-FOLDER
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+ProjectBeta\Database	B-PATH_DIR
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+ProjectBeta\Reports	B-PATH_DIR
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+ProjectBeta\Documentation	B-PATH_DIR
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+Semester5\OS	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+Exams	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+Documents	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+Work	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+Reports	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+Semester5\DBMS	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+Semester5\Projects	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+Semester5\Notes	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+Semester5\Assignments	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+Meetings	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+Clients	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+Invoices	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+Personal	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+MyFiles\Projects	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+MyFiles\College	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+MyFiles\Personal	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+MyFiles\Work	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+Photos	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+Videos	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+Finance	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+Travel	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+MyFiles\ImportantDocuments	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+2026	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+2026\January	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+2026\March	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+Research	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+MachineLearning	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+Datasets	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+Models	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+2026\September	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+2026\October	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+2026\Projects	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+2026\Reports	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+Experiments	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+Papers	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+References	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+Development	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+TestData\Input	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+TestData\Output	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+TestData\ExpectedResults	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+.\Projects	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+Programming	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+Python	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+Cpp	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+Java	B-FOLDER
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+.\Projects\Source	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+.\College\Notes	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+.\Work\Reports	B-PATH_DIR
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+.\Data\Processed	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+JavaScript	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+Web	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+Scripts	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+Libraries	B-FOLDER
+folder	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+..\Projects	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+..\Documents	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+..\Backup	B-PATH_DIR
+folder	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+..\College\Assignments	B-PATH_DIR
+folder	O
+
+delete	O
+the	O
+folder	O
+called	O
+Tests	B-FOLDER
+Project	O
+
+delete	O
+the	O
+folder	O
+called	O
+Configuration	B-FOLDER
+Project	O
+
+delete	O
+the	O
+folder	O
+called	O
+Media	B-FOLDER
+Project	O
+
+delete	O
+the	O
+folder	O
+called	O
+Images	B-FOLDER
+Project	O
+
+delete	O
+the	O
+folder	O
+called	O
+..\Archive	B-PATH_DIR
+Project	O
+
+delete	O
+the	O
+folder	O
+called	O
+C:\Users\Ankit\Projects	B-PATH_DIR
+Project	O
+
+delete	O
+the	O
+folder	O
+called	O
+C:\Users\Ankit\Projects\WinPilot	B-PATH_DIR
+Project	O
+
+delete	O
+the	O
+folder	O
+called	O
+C:\Users\Ankit\Documents\College	B-PATH_DIR
+Project	O
+
+remove	O
+the	O
+folder	O
+named	O
+Audio	B-FOLDER
+Project	O
+
+remove	O
+the	O
+folder	O
+named	O
+Presentations	B-FOLDER
+Project	O
+
+remove	O
+the	O
+folder	O
+named	O
+Screenshots	B-FOLDER
+Project	O
+
+remove	O
+the	O
+folder	O
+named	O
+Recordings	B-FOLDER
+Project	O
+
+remove	O
+the	O
+folder	O
+named	O
+C:\Users\Ankit\Documents\Projects	B-PATH_DIR
+Project	O
+
+remove	O
+the	O
+folder	O
+named	O
+C:\Users\Ankit\Pictures\ProjectImages	B-PATH_DIR
+Project	O
+
+remove	O
+the	O
+folder	O
+named	O
+C:\Users\Ankit\OneDrive\Projects	B-PATH_DIR
+Project	O
+
+remove	O
+the	O
+folder	O
+named	O
+C:\Users\Public\Documents\SharedFiles	B-PATH_DIR
+Project	O
+
+delete	O
+a	O
+folder	O
+
+delete	O
+folder	O
+
+remove	O
+a	O
+folder	O
+
+remove	O
+folder	O
+
+delete	O
+a	O
+new	O
+folder	O
+
+remove	O
+a	O
+new	O
+folder	O
+
+delete	O
+one	O
+folder	O
+
+remove	O
+one	O
+folder	O
+
+remove	O
+a	O
+directory	O
+
+delete	O
+the	O
+directory	O
+
+delete	O
+a	O
+directory	O
+
+remove	O
+the	O
+directory	O
+
+delete	O
+one	O
+directory	O
+
+remove	O
+one	O
+directory	O
+
+please	O
+delete	O
+a	O
+folder	O
+
+please	O
+remove	O
+a	O
+folder	O
+
+please	O
+delete	O
+the	O
+folder	O
+
+please	O
+remove	O
+the	O
+folder	O
+
+please	O
+delete	O
+a	O
+directory	O
+
+please	O
+remove	O
+a	O
+directory	O
+
+please	O
+delete	O
+the	O
+directory	O
+
+please	O
+remove	O
+the	O
+directory	O
+
+please	O
+delete	O
+one	O
+folder	O
+
+please	O
+remove	O
+one	O
+folder	O
+
+can	O
+you	O
+delete	O
+a	O
+folder	O
+
+can	O
+you	O
+remove	O
+a	O
+folder	O
+
+can	O
+you	O
+delete	O
+the	O
+folder	O
+
+can	O
+you	O
+remove	O
+the	O
+folder	O
+
+can	O
+you	O
+delete	O
+a	O
+directory	O
+
+can	O
+you	O
+remove	O
+a	O
+directory	O
+
+can	O
+you	O
+delete	O
+the	O
+directory	O
+
+can	O
+you	O
+remove	O
+the	O
+directory	O
+
+could	O
+you	O
+delete	O
+a	O
+folder	O
+
+could	O
+you	O
+remove	O
+a	O
+folder	O
+
+could	O
+you	O
+delete	O
+the	O
+folder	O
+
+could	O
+you	O
+remove	O
+the	O
+folder	O
+
+could	O
+you	O
+delete	O
+a	O
+directory	O
+
+could	O
+you	O
+remove	O
+a	O
+directory	O
+
+could	O
+you	O
+delete	O
+the	O
+directory	O
+
+could	O
+you	O
+remove	O
+the	O
+directory	O
+
+I	O
+want	O
+to	O
+delete	O
+a	O
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+a	O
+folder	O
+
+I	O
+want	O
+to	O
+delete	O
+the	O
+folder	O
+
+I	O
+want	O
+to	O
+remove	O
+the	O
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+a	O
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+a	O
+folder	O
+
+I	O
+need	O
+to	O
+delete	O
+the	O
+folder	O
+
+I	O
+need	O
+to	O
+remove	O
+the	O
+folder	O
+
+I	O
+want	O
+the	O
+folder	O
+deleted	O
+
+I	O
+need	O
+the	O
+folder	O
+removed	O
+
+I	O
+want	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+folder	O
+
+I	O
+need	O
+to	O
+get	O
+rid	O
+of	O
+the	O
+folder	O
+
+please	O
+get	O
+rid	O
+of	O
+the	O
+folder	O
+
+can	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+folder	O
+
+could	O
+you	O
+get	O
+rid	O
+of	O
+the	O
+folder	O
+
+delete	O
+my	O
+folder	O
+
+delete	O
+this	O
+folder	O
+
+remove	O
+my	O
+folder	O
+
+remove	O
+this	O
+folder	O
+
+delete	O
+that	O
+folder	O
+
+remove	O
+that	O
+folder	O
+
+delete	O
+the	O
+selected	O
+folder	O
+
+remove	O
+the	O
+selected	O
+folder	O
+
+delete	O
+this	O
+directory	O
+
+remove	O
+this	O
+directory	O
+
+delete	O
+the	O
+selected	O
+directory	O
+
+remove	O
+the	O
+selected	O
+directory	O
+
+delete	O
+the	O
+old	O
+folder	O
+
+remove	O
+the	O
+old	O
+folder	O
+
+delete	O
+an	O
+old	O
+folder	O
+
+remove	O
+an	O
+old	O
+folder	O
+
+delete	O
+the	O
+temporary	O
+folder	O
+
+remove	O
+the	O
+temporary	O
+folder	O
+
+delete	O
+the	O
+unwanted	O
+folder	O
+
+remove	O
+the	O
+unwanted	O
+folder	O
+
+delete	O
+the	O
+empty	O
+folder	O
+
+remove	O
+the	O
+empty	O
+folder	O
+
+delete	O
+the	O
+folder	O
+from	O
+here	O
+
+remove	O
+the	O
+folder	O
+from	O
+here	O
+
+get	O
+rid	O
+of	O
+this	O
+folder	O
+
+get	O
+rid	O
+of	O
+that	O
+folder	O
+
+get	O
+rid	O
+of	O
+this	O
+directory	O
+
+get	O
+rid	O
+of	O
+that	O
+directory	O
+

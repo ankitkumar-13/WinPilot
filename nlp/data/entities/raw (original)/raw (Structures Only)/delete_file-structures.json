@@ -1,0 +1,580 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "delete_file",
+      "pattern": "can you delete the file called {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "can you delete the file called {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "can you get rid of {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "can you get rid of {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "can you remove the file named {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "can you remove the file named {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "could you delete {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "could you delete {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "could you get rid of {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "could you get rid of {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "could you remove {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "could you remove {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete a file called {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete a file called {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete a file named {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete a file named {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete file {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete file {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the document {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the document {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the file {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the file {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the file called {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the file called {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the file named {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the file named {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the image {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the image {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the PDF {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the PDF {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the text file {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "delete the text file {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "get rid of {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "get rid of {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "get rid of the file {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "get rid of the file {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "get rid of the file called {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "get rid of the file called {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "get rid of the file named {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "get rid of the file named {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I need to delete {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I need to delete {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I need to get rid of {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I need to get rid of {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I need to remove {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I need to remove {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I want to delete {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I want to delete {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I want to get rid of {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I want to get rid of {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I want to remove {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "I want to remove {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "please delete the file called {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "please delete the file called {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "please get rid of {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "please get rid of {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "please remove the file named {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "please remove the file named {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove a file called {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove a file called {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove a file named {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove a file named {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove file {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove file {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the document {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the document {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the file {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the file {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the file called {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the file called {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the file named {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the file named {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the image {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the image {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the PDF {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the PDF {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the text file {FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    },
+    {
+      "dataset": "delete_file",
+      "pattern": "remove the text file {PATH_FILE}",
+      "intents": [
+        "delete_file"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1568 @@
+can you move technical guide.pdf
+can you move user manual.pdf
+can you move setup instructions.txt
+can you move installation guide.pdf
+can you move deployment notes.md
+can you move release notes.md
+can you move change history.txt to Invoices
+can you move error report.log to Receipts
+can you move server activity.log to Finance
+can you move access record.log to Accounts
+can you move debug output.log to Customers
+can you move system report.txt to Orders
+can you move backup manifest.json to Products
+can you move archive index.json to Employees
+can you move database schema.sql to Students
+can you move migration script.sql to Courses
+can you move query collection.sql to Attendance
+can you move seed records.sql to Payroll
+can you move data dictionary.pdf to D:\Projects\Automation\Source
+can you move table reference.pdf to D:\Projects\Automation\Tests
+can you move api reference.md to D:\Projects\Research
+can you move developer guide.md to D:\Projects\Research\Data
+can you move configuration notes.txt to D:\Projects\Research\Reports
+can you move application settings.json to D:\Projects\WebPlatform
+can you move workspace settings.json to D:\Projects\WebPlatform\Frontend
+can you move user preferences.json to D:\Projects\WebPlatform\Backend
+can you move environment details.json to D:\Projects\MachineLearning
+can you move package manifest.json to D:\Projects\MachineLearning\Data
+can you move dependency list.txt to D:\Projects\MachineLearning\Models
+can you move build report.txt to D:\Projects\DatabaseLab
+can you move D:\Archive\Previous\cedar brief.csv
+can you move D:\Research\Notes\cedar memo.json
+can you move D:\Research\Results\cedar record.md
+can you move E:\Shared\Operations\cedar snapshot.log
+can you move E:\Shared\Finance\cedar outline.py
+can you move F:\Records\Personal\cedar register.sql
+can you move F:\Records\Business\cedar summary.pdf to Database
+can you move F:\Backup\Monthly\cedar checklist.docx to Schemas
+can you move F:\Backup\Projects\cedar notice.xlsx to Queries
+can you move C:\Projects\Greenfield\clear ledger.txt to Migrations
+can you move C:\Projects\Harbour View\clear brief.csv to Exports
+can you move D:\Development\Tools\clear memo.json to Imports
+can you move E:\University\Coursework\clear record.md to Datasets
+can you move C:\Data\Incoming\clear snapshot.log to Models
+can you move C:\Data\Exports\clear outline.py to Results
+can you move C:\Work\Client Files\clear register.sql to Experiments
+can you move C:\Work\Team Files\clear summary.pdf to Testing
+can you move D:\Archive\Current\clear checklist.docx to Scripts
+can you move the file to SourceCode
+can you move the file to Documentation
+can you move the file to Guides
+can you move the file to Manuals
+can you move the file to Logs
+can you move the file to Config
+can you move the file to D:\Projects\DatabaseLab\Schema
+can you move the file to D:\CollegeWork\DBMS
+can you move the file to D:\CollegeWork\DBMS\Labs
+can you move the file to D:\CollegeWork\Operating Systems
+can you move the file to D:\CollegeWork\Business Intelligence
+can you move the file to D:\Work\Finance
+can you put test plan.docx in Preferences
+can you put test cases.xlsx in Assets
+can you put test results.xlsx in Images
+can you put quality report.pdf in Icons
+can you put performance review.pdf in Designs
+can you put benchmark results.csv in Layouts
+can you put evaluation report.pdf in Wireframes
+can you put model summary.json in Presentations
+can you put training records.csv in Spreadsheets
+can you put validation results.csv in Contracts
+can you put prediction results.csv in Policies
+can you put feature list.json in Forms
+can you put label mapping.json in D:\Work\Finance\Records
+can you put entity mapping.json in D:\Work\Sales
+can you put intent mapping.json in D:\Work\Sales\Orders
+can you put vocabulary list.json in D:\Work\Operations\Maintenance
+can you put annotation guide.pdf in D:\Work\Human Resources
+can you put review notes.txt in D:\Work\Shared Resources
+can you put error analysis.pdf in E:\Projects\WebPlatform
+can you put experiment log.txt in E:\Projects\WebPlatform\Source
+can you put research diary.docx in E:\Projects\MobileApp
+can you put field observations.csv in E:\Projects\ApiService
+can you put survey form.docx in E:\Development\DesktopTool
+can you put sample records.json in E:\Development\NLPProject
+can you put D:\Archive\Previous\clear notice.xlsx in Applications
+can you put D:\Research\Notes\copper ledger.txt in Certificates
+can you put D:\Research\Results\copper brief.csv in Schedules
+can you put E:\Shared\Operations\copper memo.json in Timetables
+can you put E:\Shared\Finance\copper record.md in Coursework
+can you put F:\Records\Personal\copper snapshot.log in Practical
+can you put F:\Records\Business\copper outline.py in LectureNotes
+can you put F:\Backup\Monthly\copper register.sql in StudyMaterial
+can you put F:\Backup\Projects\copper summary.pdf in ExamPrep
+can you put C:\Projects\Greenfield\copper checklist.docx in QuestionPapers
+can you put C:\Projects\Harbour View\copper notice.xlsx in AnswerKeys
+can you put D:\Development\Tools\crystal ledger.txt in SemesterWork
+can you send the file to CollegeWork
+can you send the file to UniversityWork
+can you send the file to Personal
+can you send the file to Travel
+can you send the file to Bookings
+can you send the file to Reservations
+can you send the file to E:\Development\SecurityTools
+can you send the file to E:\University\Semester Five\DBMS
+can you send the file to E:\University\Semester Five\HCI
+can you send the file to E:\University\Semester Six\Projects
+can you send the file to F:\Backup\Documents
+can you send the file to F:\Backup\Projects
+could you move raw measurements.csv
+could you move clean measurements.csv
+could you move processed results.csv
+could you move weather log.csv
+could you move sensor readings.csv
+could you move forecast report.pdf
+could you move trend analysis.xlsx into Vehicles
+could you move market summary.pdf into Insurance
+could you move sales forecast.xlsx into Household
+could you move inventory report.xlsx into Recipes
+could you move order history.csv into Fitness
+could you move shipping details.csv into Journals
+could you move delivery record.pdf into Reading
+could you move return request.docx into Movies
+could you move purchase order.pdf into Games
+could you move quotation sheet.xlsx into Photography
+could you move contract draft.docx into Gardening
+could you move service agreement.pdf into Shopping
+could you move privacy notice.pdf into F:\Backup\College
+could you move security policy.pdf into F:\Archive\Finance
+could you move access policy.pdf into F:\Archive\Sales
+could you move incident report.pdf into F:\Archive\Research
+could you move maintenance record.xlsx into F:\Shared\Projects
+could you move inspection report.pdf into F:\Shared\College
+could you move audit trail.csv into F:\Shared\Media
+could you move event schedule.xlsx into F:\Data\Raw
+could you move conference agenda.docx into F:\Data\Processed
+could you move meeting summary.docx into F:\Data\Exports
+could you move speaker notes.docx into F:\Research\Fieldwork
+could you move presentation outline.pptx into F:\Research\Publications
+could you move project slides.pptx to Work
+could you move poster design.pptx to Meetings
+could you move course presentation.pptx to Agendas
+could you move lecture summary.docx to Minutes
+could you move semester report.pdf to Clients
+could you move semester results.xlsx to Vendors
+could you move question bank.docx to Operations
+could you move answer key.pdf to Planning
+could you move practical record.docx to Strategy
+could you move lab schedule.xlsx to Marketing
+could you move class timetable.xlsx to Sales
+could you move study plan.docx to Support
+could you move exam preparation.txt to C:\Workspaces\Northwind
+could you move course material.pdf to C:\Workspaces\Blue Finch
+could you move chapter summary.docx to C:\Workspaces\Copper Trail
+could you move reference notes.md to C:\Sandbox\Experiments
+could you move book catalogue.csv to C:\Sandbox\Archive
+could you move library records.csv to D:\Sandbox\Personal
+could you move borrower list.csv to D:\Sandbox\Travel
+could you move membership form.pdf to E:\Temp\Imports
+could you move registration form.pdf to E:\Temp\Exports
+could you move application form.pdf to E:\CloudArchive\Personal
+could you move admission letter.docx to E:\CloudArchive\Work
+could you move certificate copy.pdf to F:\LongTermStorage\Records
+could you move E:\University\Coursework\crystal brief.csv
+could you move C:\Data\Incoming\crystal memo.json
+could you move C:\Data\Exports\crystal record.md
+could you move C:\Work\Client Files\crystal snapshot.log
+could you move C:\Work\Team Files\crystal outline.py
+could you move D:\Archive\Current\crystal register.sql
+could you move D:\Archive\Previous\crystal summary.pdf into HumanResources
+could you move D:\Research\Notes\crystal checklist.docx into Recruitment
+could you move D:\Research\Results\crystal notice.xlsx into Training
+could you move E:\Shared\Operations\dawn ledger.txt into Compliance
+could you move E:\Shared\Finance\dawn brief.csv into Security
+could you move F:\Records\Personal\dawn memo.json into Audits
+could you move F:\Records\Business\dawn record.md into Incidents
+could you move F:\Backup\Monthly\dawn snapshot.log into Maintenance
+could you move F:\Backup\Projects\dawn outline.py into Monitoring
+could you move C:\Projects\Greenfield\dawn register.sql into Networking
+could you move C:\Projects\Harbour View\dawn summary.pdf into Servers
+could you move D:\Development\Tools\dawn checklist.docx into Services
+could you move E:\University\Coursework\dawn notice.xlsx into F:\LongTermStorage\Projects
+could you move C:\Data\Incoming\eastern ledger.txt into C:\Users\Public\Documents
+could you move C:\Data\Exports\eastern brief.csv into C:\Users\Ankit\OneDrive\Documents
+could you move C:\Work\Client Files\eastern memo.json into D:\OneDriveBackup\Projects
+could you move C:\Work\Team Files\eastern record.md into E:\UniversityArchive\Project Records
+could you move D:\Archive\Current\eastern snapshot.log into F:\CompanyArchive\Client Records
+could you move D:\Archive\Previous\eastern outline.py into C:\NetworkShare\Team Resources
+could you move D:\Research\Notes\eastern register.sql into D:\MediaStore\Photography
+could you move D:\Research\Results\eastern summary.pdf into E:\ProjectStorage\Active Work
+could you move E:\Shared\Operations\eastern checklist.docx into F:\BackupVault\Critical Records
+could you move E:\Shared\Finance\eastern notice.xlsx into C:\Shared\North Hall
+could you move F:\Records\Personal\forest ledger.txt into C:\Shared\River Station
+could you move F:\Records\Business\forest brief.csv to Automation
+could you move F:\Backup\Monthly\forest memo.json to Development
+could you move F:\Backup\Projects\forest record.md to Deployment
+could you move C:\Projects\Greenfield\forest snapshot.log to Production
+could you move C:\Projects\Harbour View\forest outline.py to Staging
+could you move D:\Development\Tools\forest register.sql to SourceArchive
+could you move E:\University\Coursework\forest summary.pdf to CodeReview
+could you move C:\Data\Incoming\forest checklist.docx to Builds
+could you move C:\Data\Exports\forest notice.xlsx to Releases
+could you move C:\Work\Client Files\golden ledger.txt to Packages
+could you move C:\Work\Team Files\golden brief.csv to Dependencies
+could you move D:\Archive\Current\golden memo.json to Libraries
+could you move the file to Modules
+could you move the file to Plugins
+could you move the file to Extensions
+could you move the file to Containers
+could you move the file to Volumes
+could you move the file to Pipelines
+could you move the file to C:\Shared\Blue Finch Room
+could you move the file to C:\Shared\Copper Trail
+could you move the file to C:\Shared\Maple House
+could you move the file to C:\Shared\Q4 Records
+could you move the file to C:\Shared\2026 Archive
+could you move the file to C:\Shared\3D Assets
+could you put the file in Workflows
+could you put the file in Jobs
+could you put the file in Batches
+could you put the file in RawData
+could you put the file in CleanData
+could you put the file in ProcessedData
+could you put the file in C:\Shared\C++ Practice
+could you put the file in C:\Shared\API Sandbox
+could you put the file in C:\Shared\v2 Builds
+could you put the file in C:\Shared\Room 7
+could you put the file in C:\Shared\x1
+could you put the file in C:\Shared\Field Notes 2
+I need to move identity proof.pdf
+I need to move passport scan.pdf
+I need to move visa document.pdf
+I need to move travel booking.pdf
+I need to move hotel reservation.pdf
+I need to move flight details.pdf
+I need to move D:\Archive\Previous\golden record.md
+I need to move D:\Research\Notes\golden snapshot.log
+I need to move D:\Research\Results\golden outline.py
+I need to move E:\Shared\Operations\golden register.sql
+I need to move E:\Shared\Finance\golden summary.pdf
+I need to move F:\Records\Personal\golden checklist.docx
+I need to move the file to TrainingData
+I need to move the file to ValidationData
+I need to move the file to TestData
+I need to move the file to Predictions
+I need to move the file to Evaluation
+I need to move the file to Benchmarks
+I need to move the file to C:\Shared\Client Desk
+I need to move the file to C:\Shared\Weekend Plans
+I need to move the file to C:\Shared\Old Office
+I need to move the file to C:\Shared\Main Library
+I need to move the file to C:\Shared\East Wing
+I need to move the file to C:\Shared\South Annex
+I need you to move train ticket.pdf to Metrics
+I need you to move event ticket.pdf to ReportsArchive
+I need you to move parking receipt.pdf to ResearchNotes
+I need you to move vehicle record.xlsx to Fieldwork
+I need you to move service history.pdf to Surveys
+I need you to move repair estimate.pdf to Interviews
+I need you to move maintenance schedule.xlsx to Observations
+I need you to move home inventory.xlsx to Publications
+I need you to move garden plan.docx to CaseStudies
+I need you to move meal planner.xlsx to Proposals
+I need you to move fitness routine.docx to Specifications
+I need you to move daily journal.txt to Architecture
+I need you to move personal notes.md to C:\Shared\Project Bay
+I need you to move photo index.csv to C:\Shared\Data Corner
+I need you to move image catalogue.csv to C:\Shared\Design Bench
+I need you to move design assets.json to C:\Shared\Testing Room
+I need you to move logo draft.svg to C:\Shared\Service Desk
+I need you to move colour palette.json to C:\Shared\Team Hub
+I need you to move wireframe notes.docx to C:\Shared\Media Shelf
+I need you to move interface mockup.pdf to C:\Shared\Paper Archive
+I need you to move network diagram.svg to C:\Shared\Quick Access
+I need you to move system architecture.pdf to C:\Shared\Shared Space
+I need you to move a.txt to D:\Archive\North Hall
+I need you to move x1.txt to D:\Archive\River Station
+I need you to move F:\Records\Business\golden notice.xlsx to DesignDocs
+I need you to move F:\Backup\Monthly\harbour ledger.txt to ProjectPlans
+I need you to move F:\Backup\Projects\harbour brief.csv to Roadmaps
+I need you to move C:\Projects\Greenfield\harbour memo.json to Milestones
+I need you to move C:\Projects\Harbour View\harbour record.md to ChangeRequests
+I need you to move D:\Development\Tools\harbour snapshot.log to ReleaseNotes
+I need you to move E:\University\Coursework\harbour outline.py to IssueReports
+I need you to move C:\Data\Incoming\harbour register.sql to ErrorReports
+I need you to move C:\Data\Exports\harbour summary.pdf to ActivityLogs
+I need you to move C:\Work\Client Files\harbour checklist.docx to AccessLogs
+I need you to move C:\Work\Team Files\harbour notice.xlsx to AuditRecords
+I need you to move D:\Archive\Current\hidden ledger.txt to UserData
+I need you to move D:\Archive\Previous\hidden brief.csv to D:\Archive\Blue Finch Room
+I need you to move D:\Research\Notes\hidden memo.json to D:\Archive\Copper Trail
+I need you to move D:\Research\Results\hidden record.md to D:\Archive\Maple House
+I need you to move E:\Shared\Operations\hidden snapshot.log to D:\Archive\Q4 Records
+I need you to move E:\Shared\Finance\hidden outline.py to D:\Archive\2026 Archive
+I need you to move F:\Records\Personal\hidden register.sql to D:\Archive\3D Assets
+I need you to move F:\Records\Business\hidden summary.pdf to D:\Archive\C++ Practice
+I need you to move F:\Backup\Monthly\hidden checklist.docx to D:\Archive\API Sandbox
+I need you to move F:\Backup\Projects\hidden notice.xlsx to D:\Archive\v2 Builds
+I need you to move C:\Projects\Greenfield\lunar ledger.txt to D:\Archive\Room 7
+I need you to move C:\Projects\Harbour View\lunar brief.csv to D:\Archive\x1
+I need you to move D:\Development\Tools\lunar memo.json to D:\Archive\Field Notes 2
+I want to move v2_notes.md
+I want to move Q4_summary.xlsx
+I want to move log7.txt
+I want to move test-1.csv
+I want to move notes_2.txt
+I want to move 2026_report.pdf
+I want to move backup (1).zip to AppData
+I want to move final!.txt to SessionData
+I want to move C++ notes.txt to CacheData
+I want to move 3D model.obj to Credentials
+I want to move README.md to Keys
+I want to move API_v3.json to Guidelines
+I want to move todo!.txt to SharedFiles
+I want to move draft#2.docx to PublicFiles
+I want to move img_07.png to PrivateFiles
+I want to move part-3.pdf to TemporaryFiles
+I want to move r2d2.txt to ScratchSpace
+I want to move x9.csv to SandboxArea
+I want to move data@home.csv to D:\Archive\Client Desk
+I want to move build_v4.log to D:\Archive\Weekend Plans
+I want to move week_5.xlsx to D:\Archive\Old Office
+I want to move report.pdf to D:\Archive\Main Library
+I want to move meeting notes.docx to D:\Archive\East Wing
+I want to move budget plan.xlsx to D:\Archive\South Annex
+I want to move project overview.pdf to D:\Archive\Project Bay
+I want to move class notes.txt to D:\Archive\Data Corner
+I want to move travel itinerary.docx to D:\Archive\Design Bench
+I want to move invoice record.pdf to D:\Archive\Testing Room
+I want to move expense summary.xlsx to D:\Archive\Service Desk
+I want to move research paper.pdf to D:\Archive\Team Hub
+I want to move E:\University\Coursework\lunar record.md
+I want to move C:\Data\Incoming\lunar snapshot.log
+I want to move C:\Data\Exports\lunar outline.py
+I want to move C:\Work\Client Files\lunar register.sql
+I want to move C:\Work\Team Files\lunar summary.pdf
+I want to move D:\Archive\Current\lunar checklist.docx
+I want to move D:\Archive\Previous\lunar notice.xlsx to OldProjects
+I want to move D:\Research\Notes\maple ledger.txt to OldRecords
+I want to move D:\Research\Results\maple brief.csv to CurrentWork
+I want to move E:\Shared\Operations\maple memo.json to CompletedWork
+I want to move E:\Shared\Finance\maple record.md to PendingWork
+I want to move F:\Records\Personal\maple snapshot.log to ImportantFiles
+I want to move F:\Records\Business\maple outline.py to x1
+I want to move F:\Backup\Monthly\maple register.sql to v2 Builds
+I want to move F:\Backup\Projects\maple summary.pdf to Q4 Reports
+I want to move C:\Projects\Greenfield\maple checklist.docx to 3D Models
+I want to move C:\Projects\Harbour View\maple notice.xlsx to C++ Practice
+I want to move D:\Development\Tools\misty ledger.txt to 2026 Archive
+I want to move the file to API_v3
+I want to move the file to Old-2
+I want to move the file to Room 7
+I want to move the file to A1
+I want to move the file to 3D Studio
+I want to move the file to Q1 Planning
+I want to move the file to D:\Archive\Media Shelf
+I want to move the file to D:\Archive\Paper Archive
+I want to move the file to D:\Archive\Quick Access
+I want to move the file to D:\Archive\Shared Space
+I want to move the file to E:\Projects\North Hall
+I want to move the file to E:\Projects\River Station
+I’d like you to move lab report.docx to Version 4
+I’d like you to move assignment brief.docx to Team Room
+I’d like you to move course outline.pdf to Archive 9
+I’d like you to move exam schedule.pdf to Documents
+I’d like you to move reading list.txt to Projects
+I’d like you to move shopping list.txt to Downloads
+I’d like you to move recipe collection.docx to Pictures
+I’d like you to move movie list.txt to Videos
+I’d like you to move music archive.csv to Music
+I’d like you to move contact list.csv to Assignments
+I’d like you to move student records.csv to Notes
+I’d like you to move employee details.xlsx to Research
+I’d like you to move customer records.csv to E:\Projects\Blue Finch Room
+I’d like you to move product catalogue.xlsx to E:\Projects\Copper Trail
+I’d like you to move sales summary.xlsx to E:\Projects\Maple House
+I’d like you to move attendance sheet.xlsx to E:\Projects\Q4 Records
+I’d like you to move payroll summary.xlsx to E:\Projects\2026 Archive
+I’d like you to move monthly expenses.xlsx to E:\Projects\3D Assets
+I’d like you to move annual budget.xlsx to E:\Projects\C++ Practice
+I’d like you to move bank statement.pdf to E:\Projects\API Sandbox
+I’d like you to move utility bill.pdf to E:\Projects\v2 Builds
+I’d like you to move rent receipt.pdf to E:\Projects\Room 7
+I’d like you to move insurance policy.pdf to E:\Projects\x1
+I’d like you to move tax summary.pdf to E:\Projects\Field Notes 2
+I’d like you to move E:\University\Coursework\misty brief.csv to Reports
+I’d like you to move C:\Data\Incoming\misty memo.json to Backups
+I’d like you to move C:\Data\Exports\misty record.md to Archives
+I’d like you to move C:\Work\Client Files\misty snapshot.log to Resources
+I’d like you to move C:\Work\Team Files\misty outline.py to Templates
+I’d like you to move D:\Archive\Current\misty register.sql to References
+I’d like you to move D:\Archive\Previous\misty summary.pdf to Examples
+I’d like you to move D:\Research\Notes\misty checklist.docx to Samples
+I’d like you to move D:\Research\Results\misty notice.xlsx to Invoices
+I’d like you to move E:\Shared\Operations\northern ledger.txt to Receipts
+I’d like you to move E:\Shared\Finance\northern brief.csv to Finance
+I’d like you to move F:\Records\Personal\northern memo.json to Accounts
+I’d like you to move F:\Records\Business\northern record.md to E:\Projects\Client Desk
+I’d like you to move F:\Backup\Monthly\northern snapshot.log to E:\Projects\Weekend Plans
+I’d like you to move F:\Backup\Projects\northern outline.py to E:\Projects\Old Office
+I’d like you to move C:\Projects\Greenfield\northern register.sql to E:\Projects\Main Library
+I’d like you to move C:\Projects\Harbour View\northern summary.pdf to E:\Projects\East Wing
+I’d like you to move D:\Development\Tools\northern checklist.docx to E:\Projects\South Annex
+I’d like you to move E:\University\Coursework\northern notice.xlsx to E:\Projects\Project Bay
+I’d like you to move C:\Data\Incoming\quiet ledger.txt to E:\Projects\Data Corner
+I’d like you to move C:\Data\Exports\quiet brief.csv to E:\Projects\Design Bench
+I’d like you to move C:\Work\Client Files\quiet memo.json to E:\Projects\Testing Room
+I’d like you to move C:\Work\Team Files\quiet record.md to E:\Projects\Service Desk
+I’d like you to move D:\Archive\Current\quiet snapshot.log to E:\Projects\Team Hub
+move loan statement.pdf
+move warranty card.pdf
+move support request.docx
+move feedback form.docx
+move survey results.xlsx
+move case study.pdf
+move project proposal.docx from Customers into Orders
+move design document.pdf from Products into Employees
+move technical guide.pdf from Students into Courses
+move user manual.pdf from Attendance into Payroll
+move setup instructions.txt from Database into Schemas
+move installation guide.pdf from Queries into Migrations
+move deployment notes.md from Exports into Imports
+move release notes.md from Datasets into Models
+move change history.txt from Results into Experiments
+move error report.log from Testing into Scripts
+move server activity.log from SourceCode into Documentation
+move access record.log from Guides into Manuals
+move debug output.log from Logs into E:\Projects\Media Shelf
+move system report.txt from Config into E:\Projects\Paper Archive
+move backup manifest.json from Preferences into E:\Projects\Quick Access
+move archive index.json from Assets into E:\Projects\Shared Space
+move database schema.sql from Images into F:\Storage\North Hall
+move migration script.sql from Icons into F:\Storage\River Station
+move query collection.sql from Designs into F:\Storage\Blue Finch Room
+move seed records.sql from Layouts into F:\Storage\Copper Trail
+move data dictionary.pdf from Wireframes into F:\Storage\Maple House
+move table reference.pdf from Presentations into F:\Storage\Q4 Records
+move api reference.md from Spreadsheets into F:\Storage\2026 Archive
+move developer guide.md from Contracts into F:\Storage\3D Assets
+move configuration notes.txt from Policies into F:\Storage\C++ Practice
+move application settings.json from Forms into F:\Storage\API Sandbox
+move workspace settings.json from Applications into F:\Storage\v2 Builds
+move user preferences.json from Certificates into F:\Storage\Room 7
+move environment details.json from Schedules into F:\Storage\x1
+move package manifest.json from Timetables into F:\Storage\Field Notes 2
+move dependency list.txt from Coursework to Practical
+move build report.txt from LectureNotes to StudyMaterial
+move test plan.docx from ExamPrep to QuestionPapers
+move test cases.xlsx from AnswerKeys to SemesterWork
+move test results.xlsx from CollegeWork to UniversityWork
+move quality report.pdf from Personal to Travel
+move performance review.pdf from Bookings to Reservations
+move benchmark results.csv from Vehicles to Insurance
+move evaluation report.pdf from Household to Recipes
+move model summary.json from Fitness to Journals
+move training records.csv from Reading to Movies
+move validation results.csv from Games to Photography
+move prediction results.csv from F:\Storage\Client Desk into Gardening
+move feature list.json from F:\Storage\Weekend Plans into Shopping
+move label mapping.json from F:\Storage\Old Office into Work
+move entity mapping.json from F:\Storage\Main Library into Meetings
+move intent mapping.json from F:\Storage\East Wing into Agendas
+move vocabulary list.json from F:\Storage\South Annex into Minutes
+move annotation guide.pdf from F:\Storage\Project Bay into Clients
+move review notes.txt from F:\Storage\Data Corner into Vendors
+move error analysis.pdf from F:\Storage\Design Bench into Operations
+move experiment log.txt from C:\Users\Ankit\Documents into Planning
+move research diary.docx from C:\Users\Ankit\Desktop into Strategy
+move field observations.csv from C:\Users\Ankit\Downloads into Marketing
+move survey form.docx from C:\Users\Ankit\Pictures into Sales
+move sample records.json from C:\Users\Ankit\Projects\WinPilot into Support
+move raw measurements.csv from C:\Users\Ankit\Projects\PayrollManager into HumanResources
+move clean measurements.csv from C:\Users\Ankit\College\DBMS into Recruitment
+move processed results.csv from C:\Users\Ankit\College\Operating Systems into Training
+move weather log.csv from C:\Users\Ankit\College\Computer Networks into Compliance
+move sensor readings.csv from C:\Users\Ankit\College\Business Intelligence into C:\Users\Ankit\Research\Papers
+move forecast report.pdf from C:\Users\Ankit\Research\Fieldwork into C:\Users\Ankit\Work\Finance
+move trend analysis.xlsx from C:\Users\Ankit\Work\Operations into C:\Users\Ankit\Work\Sales
+move market summary.pdf from C:\Users\Ankit\Travel\Bookings into D:\Projects\Automation
+move sales forecast.xlsx from D:\Projects\Automation\Source into D:\Projects\Automation\Tests
+move inventory report.xlsx from D:\Projects\Research into D:\Projects\Research\Data
+move order history.csv from D:\Projects\Research\Reports into D:\Projects\WebPlatform
+move shipping details.csv from D:\Projects\WebPlatform\Frontend into D:\Projects\WebPlatform\Backend
+move delivery record.pdf from D:\Projects\MachineLearning into D:\Projects\MachineLearning\Data
+move return request.docx from D:\Projects\MachineLearning\Models into D:\Projects\DatabaseLab
+move purchase order.pdf from D:\Projects\DatabaseLab\Schema into D:\CollegeWork\DBMS
+move quotation sheet.xlsx from D:\CollegeWork\DBMS\Labs into D:\CollegeWork\Operating Systems
+move contract draft.docx from D:\CollegeWork\Business Intelligence to D:\Work\Finance
+move service agreement.pdf from D:\Work\Finance\Records to D:\Work\Sales
+move privacy notice.pdf from D:\Work\Sales\Orders to D:\Work\Operations\Maintenance
+move security policy.pdf from D:\Work\Human Resources to D:\Work\Shared Resources
+move access policy.pdf from E:\Projects\WebPlatform to E:\Projects\WebPlatform\Source
+move incident report.pdf from E:\Projects\MobileApp to E:\Projects\ApiService
+move maintenance record.xlsx from E:\Development\DesktopTool to E:\Development\NLPProject
+move inspection report.pdf from E:\Development\SecurityTools to E:\University\Semester Five\DBMS
+move audit trail.csv from E:\University\Semester Five\HCI to E:\University\Semester Six\Projects
+move event schedule.xlsx from F:\Backup\Documents to F:\Backup\Projects
+move conference agenda.docx from F:\Backup\College to F:\Archive\Finance
+move meeting summary.docx from F:\Archive\Sales to F:\Archive\Research
+move speaker notes.docx here
+move presentation outline.pptx here
+move project slides.pptx here
+move poster design.pptx here
+move course presentation.pptx here
+move lecture summary.docx here
+move semester report.pdf into Security
+move semester results.xlsx into Audits
+move question bank.docx into Incidents
+move answer key.pdf into Maintenance
+move practical record.docx into Monitoring
+move lab schedule.xlsx into Networking
+move class timetable.xlsx into Servers
+move study plan.docx into Services
+move exam preparation.txt into Automation
+move course material.pdf into Development
+move chapter summary.docx into Deployment
+move reference notes.md into Production
+move book catalogue.csv into F:\Shared\Projects
+move library records.csv into F:\Shared\College
+move borrower list.csv into F:\Shared\Media
+move membership form.pdf into F:\Data\Raw
+move registration form.pdf into F:\Data\Processed
+move application form.pdf into F:\Data\Exports
+move admission letter.docx into F:\Research\Fieldwork
+move certificate copy.pdf into F:\Research\Publications
+move identity proof.pdf into C:\Workspaces\Northwind
+move passport scan.pdf into C:\Workspaces\Blue Finch
+move visa document.pdf into C:\Workspaces\Copper Trail
+move travel booking.pdf into C:\Sandbox\Experiments
+move hotel reservation.pdf to Staging
+move flight details.pdf to SourceArchive
+move train ticket.pdf to CodeReview
+move event ticket.pdf to Builds
+move parking receipt.pdf to Releases
+move vehicle record.xlsx to Packages
+move service history.pdf to Dependencies
+move repair estimate.pdf to Libraries
+move maintenance schedule.xlsx to Modules
+move home inventory.xlsx to Plugins
+move garden plan.docx to Extensions
+move meal planner.xlsx to Containers
+move fitness routine.docx to C:\Sandbox\Archive
+move daily journal.txt to D:\Sandbox\Personal
+move personal notes.md to D:\Sandbox\Travel
+move photo index.csv to E:\Temp\Imports
+move image catalogue.csv to E:\Temp\Exports
+move design assets.json to E:\CloudArchive\Personal
+move logo draft.svg to E:\CloudArchive\Work
+move colour palette.json to F:\LongTermStorage\Records
+move wireframe notes.docx to F:\LongTermStorage\Projects
+move interface mockup.pdf to C:\Users\Public\Documents
+move network diagram.svg to C:\Users\Ankit\OneDrive\Documents
+move system architecture.pdf to D:\OneDriveBackup\Projects
+move a.txt to my Volumes
+move x1.txt to my Pipelines
+move v2_notes.md to my Workflows
+move Q4_summary.xlsx to my Jobs
+move log7.txt to my Batches
+move test-1.csv to my RawData
+move notes_2.txt to my CleanData
+move 2026_report.pdf to my ProcessedData
+move backup (1).zip to my TrainingData
+move final!.txt to my ValidationData
+move C++ notes.txt to my TestData
+move 3D model.obj to my Predictions
+move README.md to my E:\UniversityArchive\Project Records
+move API_v3.json to my F:\CompanyArchive\Client Records
+move todo!.txt to my C:\NetworkShare\Team Resources
+move draft#2.docx to my D:\MediaStore\Photography
+move img_07.png to my E:\ProjectStorage\Active Work
+move part-3.pdf to my F:\BackupVault\Critical Records
+move r2d2.txt to my C:\Shared\North Hall
+move x9.csv to my C:\Shared\River Station
+move data@home.csv to my C:\Shared\Blue Finch Room
+move build_v4.log to my C:\Shared\Copper Trail
+move week_5.xlsx to my C:\Shared\Maple House
+move report.pdf to my C:\Shared\Q4 Records
+move D:\Archive\Previous\quiet outline.py
+move D:\Research\Notes\quiet register.sql
+move D:\Research\Results\quiet summary.pdf
+move E:\Shared\Operations\quiet checklist.docx
+move E:\Shared\Finance\quiet notice.xlsx
+move F:\Records\Personal\silver ledger.txt
+move F:\Records\Business\silver brief.csv here
+move F:\Backup\Monthly\silver memo.json here
+move F:\Backup\Projects\silver record.md here
+move C:\Projects\Greenfield\silver snapshot.log here
+move C:\Projects\Harbour View\silver outline.py here
+move D:\Development\Tools\silver register.sql here
+move E:\University\Coursework\silver summary.pdf into Evaluation
+move C:\Data\Incoming\silver checklist.docx into Benchmarks
+move C:\Data\Exports\silver notice.xlsx into Metrics
+move C:\Data\Incoming\amber ledger.pdf into ReportsArchive
+move C:\Data\Exports\amber brief.docx into ResearchNotes
+move C:\Work\Client Files\amber memo.xlsx into Fieldwork
+move C:\Work\Team Files\amber record.txt into Surveys
+move D:\Archive\Current\amber snapshot.csv into Interviews
+move D:\Archive\Previous\amber outline.json into Observations
+move D:\Research\Notes\amber register.md into Publications
+move D:\Research\Results\amber summary.log into CaseStudies
+move E:\Shared\Operations\amber checklist.py into Proposals
+move E:\Shared\Finance\amber notice.sql into C:\Shared\2026 Archive
+move F:\Records\Personal\autumn ledger.docx into C:\Shared\3D Assets
+move F:\Records\Business\autumn brief.xlsx into C:\Shared\C++ Practice
+move F:\Backup\Monthly\autumn memo.txt into C:\Shared\API Sandbox
+move F:\Backup\Projects\autumn record.csv into C:\Shared\v2 Builds
+move C:\Projects\Greenfield\autumn snapshot.json into C:\Shared\Room 7
+move C:\Projects\Harbour View\autumn outline.md into C:\Shared\x1
+move D:\Development\Tools\autumn register.log into C:\Shared\Field Notes 2
+move E:\University\Coursework\autumn summary.py into C:\Shared\Client Desk
+move C:\Data\Incoming\autumn checklist.sql into C:\Shared\Weekend Plans
+move C:\Data\Exports\autumn notice.pdf into C:\Shared\Old Office
+move C:\Work\Client Files\blue ledger.xlsx into C:\Shared\Main Library
+move C:\Work\Team Files\blue brief.txt to Specifications
+move D:\Archive\Current\blue memo.csv to Architecture
+move D:\Archive\Previous\blue record.json to DesignDocs
+move D:\Research\Notes\blue snapshot.md to ProjectPlans
+move D:\Research\Results\blue outline.log to Roadmaps
+move E:\Shared\Operations\blue register.py to Milestones
+move E:\Shared\Finance\blue summary.sql to ChangeRequests
+move F:\Records\Personal\blue checklist.pdf to ReleaseNotes
+move F:\Records\Business\blue notice.docx to IssueReports
+move F:\Backup\Monthly\brisk ledger.txt to ErrorReports
+move F:\Backup\Projects\brisk brief.csv to ActivityLogs
+move C:\Projects\Greenfield\brisk memo.json to AccessLogs
+move C:\Projects\Harbour View\brisk record.md to C:\Shared\East Wing
+move D:\Development\Tools\brisk snapshot.log to C:\Shared\South Annex
+move E:\University\Coursework\brisk outline.py to C:\Shared\Project Bay
+move C:\Data\Incoming\brisk register.sql to C:\Shared\Data Corner
+move C:\Data\Exports\brisk summary.pdf to C:\Shared\Design Bench
+move C:\Work\Client Files\brisk checklist.docx to C:\Shared\Testing Room
+move C:\Work\Team Files\brisk notice.xlsx to C:\Shared\Service Desk
+move D:\Archive\Current\cedar ledger.txt to C:\Shared\Team Hub
+move D:\Archive\Previous\cedar brief.csv to C:\Shared\Media Shelf
+move D:\Research\Notes\cedar memo.json to C:\Shared\Paper Archive
+move D:\Research\Results\cedar record.md to C:\Shared\Quick Access
+move E:\Shared\Operations\cedar snapshot.log to C:\Shared\Shared Space
+move E:\Shared\Finance\cedar outline.py to my AuditRecords
+move F:\Records\Personal\cedar register.sql to my UserData
+move F:\Records\Business\cedar summary.pdf to my AppData
+move F:\Backup\Monthly\cedar checklist.docx to my SessionData
+move F:\Backup\Projects\cedar notice.xlsx to my CacheData
+move C:\Projects\Greenfield\clear ledger.txt to my Credentials
+move C:\Projects\Harbour View\clear brief.csv to my Keys
+move D:\Development\Tools\clear memo.json to my Guidelines
+move E:\University\Coursework\clear record.md to my SharedFiles
+move C:\Data\Incoming\clear snapshot.log to my PublicFiles
+move C:\Data\Exports\clear outline.py to my PrivateFiles
+move C:\Work\Client Files\clear register.sql to my TemporaryFiles
+move a file called meeting notes.docx to ScratchSpace
+move a file called budget plan.xlsx to SandboxArea
+move a file called project overview.pdf to OldProjects
+move a file called class notes.txt to OldRecords
+move a file called travel itinerary.docx to CurrentWork
+move a file called invoice record.pdf to CompletedWork
+move a file called expense summary.xlsx to PendingWork
+move a file called research paper.pdf to ImportantFiles
+move a file called lab report.docx to x1
+move a file called assignment brief.docx to v2 Builds
+move a file called course outline.pdf to Q4 Reports
+move a file called exam schedule.pdf to 3D Models
+move a file called reading list.txt to D:\Archive\North Hall
+move a file called shopping list.txt to D:\Archive\River Station
+move a file called recipe collection.docx to D:\Archive\Blue Finch Room
+move a file called movie list.txt to D:\Archive\Copper Trail
+move a file called music archive.csv to D:\Archive\Maple House
+move a file called contact list.csv to D:\Archive\Q4 Records
+move a file called student records.csv to D:\Archive\2026 Archive
+move a file called employee details.xlsx to D:\Archive\3D Assets
+move a file called customer records.csv to D:\Archive\C++ Practice
+move a file called product catalogue.xlsx to D:\Archive\API Sandbox
+move a file called sales summary.xlsx to D:\Archive\v2 Builds
+move a file called attendance sheet.xlsx to D:\Archive\Room 7
+move a file called C:\Work\Team Files\clear summary.pdf into D:\Archive\x1
+move a file called D:\Archive\Current\clear checklist.docx into D:\Archive\Field Notes 2
+move a file called D:\Archive\Previous\clear notice.xlsx into D:\Archive\Client Desk
+move a file called D:\Research\Notes\copper ledger.txt into D:\Archive\Weekend Plans
+move a file called D:\Research\Results\copper brief.csv into D:\Archive\Old Office
+move a file called E:\Shared\Operations\copper memo.json into D:\Archive\Main Library
+move a file called E:\Shared\Finance\copper record.md into D:\Archive\East Wing
+move a file called F:\Records\Personal\copper snapshot.log into D:\Archive\South Annex
+move a file called F:\Records\Business\copper outline.py into D:\Archive\Project Bay
+move a file called F:\Backup\Monthly\copper register.sql into D:\Archive\Data Corner
+move a file called F:\Backup\Projects\copper summary.pdf into D:\Archive\Design Bench
+move a file called C:\Projects\Greenfield\copper checklist.docx into D:\Archive\Testing Room
+move a file called C:\Projects\Harbour View\copper notice.xlsx to C++ Practice
+move a file called D:\Development\Tools\crystal ledger.txt to 2026 Archive
+move a file called E:\University\Coursework\crystal brief.csv to API_v3
+move a file called C:\Data\Incoming\crystal memo.json to Old-2
+move a file called C:\Data\Exports\crystal record.md to Room 7
+move a file called C:\Work\Client Files\crystal snapshot.log to A1
+move a file called C:\Work\Team Files\crystal outline.py to 3D Studio
+move a file called D:\Archive\Current\crystal register.sql to Q1 Planning
+move a file called D:\Archive\Previous\crystal summary.pdf to Version 4
+move a file called D:\Research\Notes\crystal checklist.docx to Team Room
+move a file called D:\Research\Results\crystal notice.xlsx to Archive 9
+move a file called E:\Shared\Operations\dawn ledger.txt to Documents
+move a file called E:\Shared\Finance\dawn brief.csv to D:\Archive\Service Desk
+move a file called F:\Records\Personal\dawn memo.json to D:\Archive\Team Hub
+move a file called F:\Records\Business\dawn record.md to D:\Archive\Media Shelf
+move a file called F:\Backup\Monthly\dawn snapshot.log to D:\Archive\Paper Archive
+move a file called F:\Backup\Projects\dawn outline.py to D:\Archive\Quick Access
+move a file called C:\Projects\Greenfield\dawn register.sql to D:\Archive\Shared Space
+move a file called C:\Projects\Harbour View\dawn summary.pdf to E:\Projects\North Hall
+move a file called D:\Development\Tools\dawn checklist.docx to E:\Projects\River Station
+move a file called E:\University\Coursework\dawn notice.xlsx to E:\Projects\Blue Finch Room
+move a file called C:\Data\Incoming\eastern ledger.txt to E:\Projects\Copper Trail
+move a file called C:\Data\Exports\eastern brief.csv to E:\Projects\Maple House
+move a file called C:\Work\Client Files\eastern memo.json to E:\Projects\Q4 Records
+move a file from Projects to Downloads
+move a file from Pictures to Videos
+move a file from Music to Assignments
+move a file from Notes to Research
+move a file from Reports to Backups
+move a file from Archives to Resources
+move a file from E:\Projects\2026 Archive to E:\Projects\3D Assets
+move a file from E:\Projects\C++ Practice to E:\Projects\API Sandbox
+move a file from E:\Projects\v2 Builds to E:\Projects\Room 7
+move a file from E:\Projects\x1 to E:\Projects\Field Notes 2
+move a file from E:\Projects\Client Desk to E:\Projects\Weekend Plans
+move a file from E:\Projects\Old Office to E:\Projects\Main Library
+move a file named payroll summary.xlsx to Templates
+move a file named monthly expenses.xlsx to References
+move a file named annual budget.xlsx to Examples
+move a file named bank statement.pdf to Samples
+move a file named utility bill.pdf to Invoices
+move a file named rent receipt.pdf to Receipts
+move a file named insurance policy.pdf to Finance
+move a file named tax summary.pdf to Accounts
+move a file named loan statement.pdf to Customers
+move a file named warranty card.pdf to Orders
+move a file named support request.docx to Products
+move a file named feedback form.docx to Employees
+move a file named survey results.xlsx to E:\Projects\East Wing
+move a file named case study.pdf to E:\Projects\South Annex
+move a file named project proposal.docx to E:\Projects\Project Bay
+move a file named design document.pdf to E:\Projects\Data Corner
+move a file named technical guide.pdf to E:\Projects\Design Bench
+move a file named user manual.pdf to E:\Projects\Testing Room
+move a file named setup instructions.txt to E:\Projects\Service Desk
+move a file named installation guide.pdf to E:\Projects\Team Hub
+move a file named deployment notes.md to E:\Projects\Media Shelf
+move a file named release notes.md to E:\Projects\Paper Archive
+move a file named change history.txt to E:\Projects\Quick Access
+move a file named error report.log to E:\Projects\Shared Space
+move a file named C:\Work\Team Files\eastern record.md into F:\Storage\North Hall
+move a file named D:\Archive\Current\eastern snapshot.log into F:\Storage\River Station
+move a file named D:\Archive\Previous\eastern outline.py into F:\Storage\Blue Finch Room
+move a file named D:\Research\Notes\eastern register.sql into F:\Storage\Copper Trail
+move a file named D:\Research\Results\eastern summary.pdf into F:\Storage\Maple House
+move a file named E:\Shared\Operations\eastern checklist.docx into F:\Storage\Q4 Records
+move a file named E:\Shared\Finance\eastern notice.xlsx into F:\Storage\2026 Archive
+move a file named F:\Records\Personal\forest ledger.txt into F:\Storage\3D Assets
+move a file named F:\Records\Business\forest brief.csv into F:\Storage\C++ Practice
+move a file named F:\Backup\Monthly\forest memo.json into F:\Storage\API Sandbox
+move a file named F:\Backup\Projects\forest record.md into F:\Storage\v2 Builds
+move a file named C:\Projects\Greenfield\forest snapshot.log into F:\Storage\Room 7
+move a file named C:\Projects\Harbour View\forest outline.py to Students
+move a file named D:\Development\Tools\forest register.sql to Courses
+move a file named E:\University\Coursework\forest summary.pdf to Attendance
+move a file named C:\Data\Incoming\forest checklist.docx to Payroll
+move a file named C:\Data\Exports\forest notice.xlsx to Database
+move a file named C:\Work\Client Files\golden ledger.txt to Schemas
+move a file named C:\Work\Team Files\golden brief.csv to Queries
+move a file named D:\Archive\Current\golden memo.json to Migrations
+move a file named D:\Archive\Previous\golden record.md to Exports
+move a file named D:\Research\Notes\golden snapshot.log to Imports
+move a file named D:\Research\Results\golden outline.py to Datasets
+move a file named E:\Shared\Operations\golden register.sql to Models
+move a file named E:\Shared\Finance\golden summary.pdf to F:\Storage\x1
+move a file named F:\Records\Personal\golden checklist.docx to F:\Storage\Field Notes 2
+move a file named F:\Records\Business\golden notice.xlsx to F:\Storage\Client Desk
+move a file named F:\Backup\Monthly\harbour ledger.txt to F:\Storage\Weekend Plans
+move a file named F:\Backup\Projects\harbour brief.csv to F:\Storage\Old Office
+move a file named C:\Projects\Greenfield\harbour memo.json to F:\Storage\Main Library
+move a file named C:\Projects\Harbour View\harbour record.md to F:\Storage\East Wing
+move a file named D:\Development\Tools\harbour snapshot.log to F:\Storage\South Annex
+move a file named E:\University\Coursework\harbour outline.py to F:\Storage\Project Bay
+move a file named C:\Data\Incoming\harbour register.sql to F:\Storage\Data Corner
+move a file named C:\Data\Exports\harbour summary.pdf to F:\Storage\Design Bench
+move a file named C:\Work\Client Files\harbour checklist.docx to C:\Users\Ankit\Documents
+move file server activity.log
+move file access record.log
+move file debug output.log
+move file system report.txt
+move file backup manifest.json
+move file archive index.json
+move file database schema.sql to Results
+move file migration script.sql to Experiments
+move file query collection.sql to Testing
+move file seed records.sql to Scripts
+move file data dictionary.pdf to SourceCode
+move file table reference.pdf to Documentation
+move file api reference.md to Guides
+move file developer guide.md to Manuals
+move file configuration notes.txt to Logs
+move file application settings.json to Config
+move file workspace settings.json to Preferences
+move file user preferences.json to Assets
+move file environment details.json to C:\Users\Ankit\Desktop
+move file package manifest.json to C:\Users\Ankit\Downloads
+move file dependency list.txt to C:\Users\Ankit\Pictures
+move file build report.txt to C:\Users\Ankit\Projects\WinPilot
+move file test plan.docx to C:\Users\Ankit\Projects\PayrollManager
+move file test cases.xlsx to C:\Users\Ankit\College\DBMS
+move file test results.xlsx to C:\Users\Ankit\College\Operating Systems
+move file quality report.pdf to C:\Users\Ankit\College\Computer Networks
+move file performance review.pdf to C:\Users\Ankit\College\Business Intelligence
+move file benchmark results.csv to C:\Users\Ankit\Research\Papers
+move file evaluation report.pdf to C:\Users\Ankit\Research\Fieldwork
+move file model summary.json to C:\Users\Ankit\Work\Finance
+move file C:\Work\Team Files\harbour notice.xlsx
+move file D:\Archive\Current\hidden ledger.txt
+move file D:\Archive\Previous\hidden brief.csv
+move file D:\Research\Notes\hidden memo.json
+move file D:\Research\Results\hidden record.md
+move file E:\Shared\Operations\hidden snapshot.log
+move file E:\Shared\Finance\hidden outline.py to Images
+move file F:\Records\Personal\hidden register.sql to Icons
+move file F:\Records\Business\hidden summary.pdf to Designs
+move file F:\Backup\Monthly\hidden checklist.docx to Layouts
+move file F:\Backup\Projects\hidden notice.xlsx to Wireframes
+move file C:\Projects\Greenfield\lunar ledger.txt to Presentations
+move file C:\Projects\Harbour View\lunar brief.csv to Spreadsheets
+move file D:\Development\Tools\lunar memo.json to Contracts
+move file E:\University\Coursework\lunar record.md to Policies
+move file C:\Data\Incoming\lunar snapshot.log to Forms
+move file C:\Data\Exports\lunar outline.py to Applications
+move file C:\Work\Client Files\lunar register.sql to Certificates
+move that file into Schedules
+move that file into Timetables
+move that file into Coursework
+move that file into Practical
+move that file into LectureNotes
+move that file into StudyMaterial
+move that file into C:\Users\Ankit\Work\Operations
+move that file into C:\Users\Ankit\Work\Sales
+move that file into C:\Users\Ankit\Travel\Bookings
+move that file into D:\Projects\Automation
+move that file into D:\Projects\Automation\Source
+move that file into D:\Projects\Automation\Tests
+move the file training records.csv
+move the file validation results.csv
+move the file prediction results.csv
+move the file feature list.json
+move the file label mapping.json
+move the file entity mapping.json
+move the file intent mapping.json from ExamPrep to QuestionPapers
+move the file vocabulary list.json from AnswerKeys to SemesterWork
+move the file annotation guide.pdf from CollegeWork to UniversityWork
+move the file review notes.txt from Personal to Travel
+move the file error analysis.pdf from Bookings to Reservations
+move the file experiment log.txt from Vehicles to Insurance
+move the file research diary.docx from Household to Recipes
+move the file field observations.csv from Fitness to Journals
+move the file survey form.docx from Reading to Movies
+move the file sample records.json from Games to Photography
+move the file raw measurements.csv from Gardening to Shopping
+move the file clean measurements.csv from Work to Meetings
+move the file processed results.csv from D:\Projects\Research to D:\Projects\Research\Data
+move the file weather log.csv from D:\Projects\Research\Reports to D:\Projects\WebPlatform
+move the file sensor readings.csv from D:\Projects\WebPlatform\Frontend to D:\Projects\WebPlatform\Backend
+move the file forecast report.pdf from D:\Projects\MachineLearning to D:\Projects\MachineLearning\Data
+move the file trend analysis.xlsx from D:\Projects\MachineLearning\Models to D:\Projects\DatabaseLab
+move the file market summary.pdf from D:\Projects\DatabaseLab\Schema to D:\CollegeWork\DBMS
+move the file sales forecast.xlsx from D:\CollegeWork\DBMS\Labs to D:\CollegeWork\Operating Systems
+move the file inventory report.xlsx from D:\CollegeWork\Business Intelligence to D:\Work\Finance
+move the file order history.csv from D:\Work\Finance\Records to D:\Work\Sales
+move the file shipping details.csv from D:\Work\Sales\Orders to D:\Work\Operations\Maintenance
+move the file delivery record.pdf from D:\Work\Human Resources to D:\Work\Shared Resources
+move the file return request.docx from E:\Projects\WebPlatform to E:\Projects\WebPlatform\Source
+move the file purchase order.pdf to Agendas
+move the file quotation sheet.xlsx to Minutes
+move the file contract draft.docx to Clients
+move the file service agreement.pdf to Vendors
+move the file privacy notice.pdf to Operations
+move the file security policy.pdf to Planning
+move the file access policy.pdf to Strategy
+move the file incident report.pdf to Marketing
+move the file maintenance record.xlsx to Sales
+move the file inspection report.pdf to Support
+move the file audit trail.csv to HumanResources
+move the file event schedule.xlsx to Recruitment
+move the file conference agenda.docx to E:\Projects\MobileApp
+move the file meeting summary.docx to E:\Projects\ApiService
+move the file speaker notes.docx to E:\Development\DesktopTool
+move the file presentation outline.pptx to E:\Development\NLPProject
+move the file project slides.pptx to E:\Development\SecurityTools
+move the file poster design.pptx to E:\University\Semester Five\DBMS
+move the file course presentation.pptx to E:\University\Semester Five\HCI
+move the file lecture summary.docx to E:\University\Semester Six\Projects
+move the file semester report.pdf to F:\Backup\Documents
+move the file semester results.xlsx to F:\Backup\Projects
+move the file question bank.docx to F:\Backup\College
+move the file answer key.pdf to F:\Archive\Finance
+move the file C:\Work\Team Files\lunar summary.pdf
+move the file D:\Archive\Current\lunar checklist.docx
+move the file D:\Archive\Previous\lunar notice.xlsx
+move the file D:\Research\Notes\maple ledger.txt
+move the file D:\Research\Results\maple brief.csv
+move the file E:\Shared\Operations\maple memo.json
+move the file E:\Shared\Finance\maple record.md into F:\Archive\Sales
+move the file F:\Records\Personal\maple snapshot.log into F:\Archive\Research
+move the file F:\Records\Business\maple outline.py into F:\Shared\Projects
+move the file F:\Backup\Monthly\maple register.sql into F:\Shared\College
+move the file F:\Backup\Projects\maple summary.pdf into F:\Shared\Media
+move the file C:\Projects\Greenfield\maple checklist.docx into F:\Data\Raw
+move the file C:\Projects\Harbour View\maple notice.xlsx into F:\Data\Processed
+move the file D:\Development\Tools\misty ledger.txt into F:\Data\Exports
+move the file E:\University\Coursework\misty brief.csv into F:\Research\Fieldwork
+move the file C:\Data\Incoming\misty memo.json into F:\Research\Publications
+move the file C:\Data\Exports\misty record.md into C:\Workspaces\Northwind
+move the file C:\Work\Client Files\misty snapshot.log into C:\Workspaces\Blue Finch
+move the file C:\Work\Team Files\misty outline.py to Training
+move the file D:\Archive\Current\misty register.sql to Compliance
+move the file D:\Archive\Previous\misty summary.pdf to Security
+move the file D:\Research\Notes\misty checklist.docx to Audits
+move the file D:\Research\Results\misty notice.xlsx to Incidents
+move the file E:\Shared\Operations\northern ledger.txt to Maintenance
+move the file E:\Shared\Finance\northern brief.csv to Monitoring
+move the file F:\Records\Personal\northern memo.json to Networking
+move the file F:\Records\Business\northern record.md to Servers
+move the file F:\Backup\Monthly\northern snapshot.log to Services
+move the file F:\Backup\Projects\northern outline.py to Automation
+move the file C:\Projects\Greenfield\northern register.sql to Development
+move the file C:\Projects\Harbour View\northern summary.pdf to C:\Workspaces\Copper Trail
+move the file D:\Development\Tools\northern checklist.docx to C:\Sandbox\Experiments
+move the file E:\University\Coursework\northern notice.xlsx to C:\Sandbox\Archive
+move the file C:\Data\Incoming\quiet ledger.txt to D:\Sandbox\Personal
+move the file C:\Data\Exports\quiet brief.csv to D:\Sandbox\Travel
+move the file C:\Work\Client Files\quiet memo.json to E:\Temp\Imports
+move the file C:\Work\Team Files\quiet record.md to E:\Temp\Exports
+move the file D:\Archive\Current\quiet snapshot.log to E:\CloudArchive\Personal
+move the file D:\Archive\Previous\quiet outline.py to E:\CloudArchive\Work
+move the file D:\Research\Notes\quiet register.sql to F:\LongTermStorage\Records
+move the file D:\Research\Results\quiet summary.pdf to F:\LongTermStorage\Projects
+move the file E:\Shared\Operations\quiet checklist.docx to C:\Users\Public\Documents
+move the file called practical record.docx to Deployment
+move the file called lab schedule.xlsx to Production
+move the file called class timetable.xlsx to Staging
+move the file called study plan.docx to SourceArchive
+move the file called exam preparation.txt to CodeReview
+move the file called course material.pdf to Builds
+move the file called chapter summary.docx to Releases
+move the file called reference notes.md to Packages
+move the file called book catalogue.csv to Dependencies
+move the file called library records.csv to Libraries
+move the file called borrower list.csv to Modules
+move the file called membership form.pdf to Plugins
+move the file called registration form.pdf to C:\Users\Ankit\OneDrive\Documents
+move the file called application form.pdf to D:\OneDriveBackup\Projects
+move the file called admission letter.docx to E:\UniversityArchive\Project Records
+move the file called certificate copy.pdf to F:\CompanyArchive\Client Records
+move the file called identity proof.pdf to C:\NetworkShare\Team Resources
+move the file called passport scan.pdf to D:\MediaStore\Photography
+move the file called visa document.pdf to E:\ProjectStorage\Active Work
+move the file called travel booking.pdf to F:\BackupVault\Critical Records
+move the file called hotel reservation.pdf to C:\Shared\North Hall
+move the file called flight details.pdf to C:\Shared\River Station
+move the file called train ticket.pdf to C:\Shared\Blue Finch Room
+move the file called event ticket.pdf to C:\Shared\Copper Trail
+move the file called E:\Shared\Finance\quiet notice.xlsx to Extensions
+move the file called F:\Records\Personal\silver ledger.txt to Containers
+move the file called F:\Records\Business\silver brief.csv to Volumes
+move the file called F:\Backup\Monthly\silver memo.json to Pipelines
+move the file called F:\Backup\Projects\silver record.md to Workflows
+move the file called C:\Projects\Greenfield\silver snapshot.log to Jobs
+move the file called C:\Projects\Harbour View\silver outline.py to Batches
+move the file called D:\Development\Tools\silver register.sql to RawData
+move the file called E:\University\Coursework\silver summary.pdf to CleanData
+move the file called C:\Data\Incoming\silver checklist.docx to ProcessedData
+move the file called C:\Data\Exports\silver notice.xlsx to TrainingData
+move the file called C:\Data\Incoming\amber ledger.pdf to ValidationData
+move the file into TestData
+move the file into Predictions
+move the file into Evaluation
+move the file into Benchmarks
+move the file into Metrics
+move the file into ReportsArchive
+move the file into C:\Shared\Maple House
+move the file into C:\Shared\Q4 Records
+move the file into C:\Shared\2026 Archive
+move the file into C:\Shared\3D Assets
+move the file into C:\Shared\C++ Practice
+move the file into C:\Shared\API Sandbox
+move the file named parking receipt.pdf to ResearchNotes
+move the file named vehicle record.xlsx to Fieldwork
+move the file named service history.pdf to Surveys
+move the file named repair estimate.pdf to Interviews
+move the file named maintenance schedule.xlsx to Observations
+move the file named home inventory.xlsx to Publications
+move the file named garden plan.docx to CaseStudies
+move the file named meal planner.xlsx to Proposals
+move the file named fitness routine.docx to Specifications
+move the file named daily journal.txt to Architecture
+move the file named personal notes.md to DesignDocs
+move the file named photo index.csv to ProjectPlans
+move the file named image catalogue.csv to C:\Shared\v2 Builds
+move the file named design assets.json to C:\Shared\Room 7
+move the file named logo draft.svg to C:\Shared\x1
+move the file named colour palette.json to C:\Shared\Field Notes 2
+move the file named wireframe notes.docx to C:\Shared\Client Desk
+move the file named interface mockup.pdf to C:\Shared\Weekend Plans
+move the file named network diagram.svg to C:\Shared\Old Office
+move the file named system architecture.pdf to C:\Shared\Main Library
+move the file named a.txt to C:\Shared\East Wing
+move the file named x1.txt to C:\Shared\South Annex
+move the file named v2_notes.md to C:\Shared\Project Bay
+move the file named Q4_summary.xlsx to C:\Shared\Data Corner
+move the file named C:\Data\Exports\amber brief.docx into C:\Shared\Design Bench
+move the file named C:\Work\Client Files\amber memo.xlsx into C:\Shared\Testing Room
+move the file named C:\Work\Team Files\amber record.txt into C:\Shared\Service Desk
+move the file named D:\Archive\Current\amber snapshot.csv into C:\Shared\Team Hub
+move the file named D:\Archive\Previous\amber outline.json into C:\Shared\Media Shelf
+move the file named D:\Research\Notes\amber register.md into C:\Shared\Paper Archive
+move the file named D:\Research\Results\amber summary.log into C:\Shared\Quick Access
+move the file named E:\Shared\Operations\amber checklist.py into C:\Shared\Shared Space
+move the file named E:\Shared\Finance\amber notice.sql into D:\Archive\North Hall
+move the file named F:\Records\Personal\autumn ledger.docx into D:\Archive\River Station
+move the file named F:\Records\Business\autumn brief.xlsx into D:\Archive\Blue Finch Room
+move the file named F:\Backup\Monthly\autumn memo.txt into D:\Archive\Copper Trail
+move the file named F:\Backup\Projects\autumn record.csv to Roadmaps
+move the file named C:\Projects\Greenfield\autumn snapshot.json to Milestones
+move the file named C:\Projects\Harbour View\autumn outline.md to ChangeRequests
+move the file named D:\Development\Tools\autumn register.log to ReleaseNotes
+move the file named E:\University\Coursework\autumn summary.py to IssueReports
+move the file named C:\Data\Incoming\autumn checklist.sql to ErrorReports
+move the file named C:\Data\Exports\autumn notice.pdf to ActivityLogs
+move the file named C:\Work\Client Files\blue ledger.xlsx to AccessLogs
+move the file named C:\Work\Team Files\blue brief.txt to AuditRecords
+move the file named D:\Archive\Current\blue memo.csv to UserData
+move the file named D:\Archive\Previous\blue record.json to AppData
+move the file named D:\Research\Notes\blue snapshot.md to SessionData
+move the file named D:\Research\Results\blue outline.log to D:\Archive\Maple House
+move the file named E:\Shared\Operations\blue register.py to D:\Archive\Q4 Records
+move the file named E:\Shared\Finance\blue summary.sql to D:\Archive\2026 Archive
+move the file named F:\Records\Personal\blue checklist.pdf to D:\Archive\3D Assets
+move the file named F:\Records\Business\blue notice.docx to D:\Archive\C++ Practice
+move the file named F:\Backup\Monthly\brisk ledger.txt to D:\Archive\API Sandbox
+move the file named F:\Backup\Projects\brisk brief.csv to D:\Archive\v2 Builds
+move the file named C:\Projects\Greenfield\brisk memo.json to D:\Archive\Room 7
+move the file named C:\Projects\Harbour View\brisk record.md to D:\Archive\x1
+move the file named D:\Development\Tools\brisk snapshot.log to D:\Archive\Field Notes 2
+move the file named E:\University\Coursework\brisk outline.py to D:\Archive\Client Desk
+move the file named C:\Data\Incoming\brisk register.sql to D:\Archive\Weekend Plans
+move the file to my CacheData
+move the file to my Credentials
+move the file to my Keys
+move the file to my Guidelines
+move the file to my SharedFiles
+move the file to my PublicFiles
+move the file to my D:\Archive\Old Office
+move the file to my D:\Archive\Main Library
+move the file to my D:\Archive\East Wing
+move the file to my D:\Archive\South Annex
+move the file to my D:\Archive\Project Bay
+move the file to my D:\Archive\Data Corner
+move this file into PrivateFiles
+move this file into TemporaryFiles
+move this file into ScratchSpace
+move this file into SandboxArea
+move this file into OldProjects
+move this file into OldRecords
+move this file into D:\Archive\Design Bench
+move this file into D:\Archive\Testing Room
+move this file into D:\Archive\Service Desk
+move this file into D:\Archive\Team Hub
+move this file into D:\Archive\Media Shelf
+move this file into D:\Archive\Paper Archive
+please move log7.txt
+please move test-1.csv
+please move notes_2.txt
+please move 2026_report.pdf
+please move backup (1).zip
+please move final!.txt
+please move C++ notes.txt into CurrentWork
+please move 3D model.obj into CompletedWork
+please move README.md into PendingWork
+please move API_v3.json into ImportantFiles
+please move todo!.txt into x1
+please move draft#2.docx into v2 Builds
+please move img_07.png into Q4 Reports
+please move part-3.pdf into 3D Models
+please move r2d2.txt into C++ Practice
+please move x9.csv into 2026 Archive
+please move data@home.csv into API_v3
+please move build_v4.log into Old-2
+please move week_5.xlsx into D:\Archive\Quick Access
+please move report.pdf into D:\Archive\Shared Space
+please move meeting notes.docx into E:\Projects\North Hall
+please move budget plan.xlsx into E:\Projects\River Station
+please move project overview.pdf into E:\Projects\Blue Finch Room
+please move class notes.txt into E:\Projects\Copper Trail
+please move travel itinerary.docx into E:\Projects\Maple House
+please move invoice record.pdf into E:\Projects\Q4 Records
+please move expense summary.xlsx into E:\Projects\2026 Archive
+please move research paper.pdf into E:\Projects\3D Assets
+please move lab report.docx into E:\Projects\C++ Practice
+please move assignment brief.docx into E:\Projects\API Sandbox
+please move course outline.pdf to Room 7
+please move exam schedule.pdf to A1
+please move reading list.txt to 3D Studio
+please move shopping list.txt to Q1 Planning
+please move recipe collection.docx to Version 4
+please move movie list.txt to Team Room
+please move music archive.csv to Archive 9
+please move contact list.csv to Documents
+please move student records.csv to Projects
+please move employee details.xlsx to Downloads
+please move customer records.csv to Pictures
+please move product catalogue.xlsx to Videos
+please move sales summary.xlsx to E:\Projects\v2 Builds
+please move attendance sheet.xlsx to E:\Projects\Room 7
+please move payroll summary.xlsx to E:\Projects\x1
+please move monthly expenses.xlsx to E:\Projects\Field Notes 2
+please move annual budget.xlsx to E:\Projects\Client Desk
+please move bank statement.pdf to E:\Projects\Weekend Plans
+please move utility bill.pdf to E:\Projects\Old Office
+please move rent receipt.pdf to E:\Projects\Main Library
+please move insurance policy.pdf to E:\Projects\East Wing
+please move tax summary.pdf to E:\Projects\South Annex
+please move loan statement.pdf to E:\Projects\Project Bay
+please move warranty card.pdf to E:\Projects\Data Corner
+please move C:\Data\Exports\brisk summary.pdf
+please move C:\Work\Client Files\brisk checklist.docx
+please move C:\Work\Team Files\brisk notice.xlsx
+please move D:\Archive\Current\cedar ledger.txt
+please move D:\Archive\Previous\cedar brief.csv
+please move D:\Research\Notes\cedar memo.json
+please move D:\Research\Results\cedar record.md into Music
+please move E:\Shared\Operations\cedar snapshot.log into Assignments
+please move E:\Shared\Finance\cedar outline.py into Notes
+please move F:\Records\Personal\cedar register.sql into Research
+please move F:\Records\Business\cedar summary.pdf into Reports
+please move F:\Backup\Monthly\cedar checklist.docx into Backups
+please move F:\Backup\Projects\cedar notice.xlsx into Archives
+please move C:\Projects\Greenfield\clear ledger.txt into Resources
+please move C:\Projects\Harbour View\clear brief.csv into Templates
+please move D:\Development\Tools\clear memo.json into References
+please move E:\University\Coursework\clear record.md into Examples
+please move C:\Data\Incoming\clear snapshot.log into Samples
+please move C:\Data\Exports\clear outline.py into E:\Projects\Design Bench
+please move C:\Work\Client Files\clear register.sql into E:\Projects\Testing Room
+please move C:\Work\Team Files\clear summary.pdf into E:\Projects\Service Desk
+please move D:\Archive\Current\clear checklist.docx into E:\Projects\Team Hub
+please move D:\Archive\Previous\clear notice.xlsx into E:\Projects\Media Shelf
+please move D:\Research\Notes\copper ledger.txt into E:\Projects\Paper Archive
+please move D:\Research\Results\copper brief.csv into E:\Projects\Quick Access
+please move E:\Shared\Operations\copper memo.json into E:\Projects\Shared Space
+please move E:\Shared\Finance\copper record.md into F:\Storage\North Hall
+please move F:\Records\Personal\copper snapshot.log into F:\Storage\River Station
+please move F:\Records\Business\copper outline.py into F:\Storage\Blue Finch Room
+please move F:\Backup\Monthly\copper register.sql into F:\Storage\Copper Trail
+please move F:\Backup\Projects\copper summary.pdf to Invoices
+please move C:\Projects\Greenfield\copper checklist.docx to Receipts
+please move C:\Projects\Harbour View\copper notice.xlsx to Finance
+please move D:\Development\Tools\crystal ledger.txt to Accounts
+please move E:\University\Coursework\crystal brief.csv to Customers
+please move C:\Data\Incoming\crystal memo.json to Orders
+please move C:\Data\Exports\crystal record.md to Products
+please move C:\Work\Client Files\crystal snapshot.log to Employees
+please move C:\Work\Team Files\crystal outline.py to Students
+please move D:\Archive\Current\crystal register.sql to Courses
+please move D:\Archive\Previous\crystal summary.pdf to Attendance
+please move D:\Research\Notes\crystal checklist.docx to Payroll
+please move D:\Research\Results\crystal notice.xlsx to F:\Storage\Maple House
+please move E:\Shared\Operations\dawn ledger.txt to F:\Storage\Q4 Records
+please move E:\Shared\Finance\dawn brief.csv to F:\Storage\2026 Archive
+please move F:\Records\Personal\dawn memo.json to F:\Storage\3D Assets
+please move F:\Records\Business\dawn record.md to F:\Storage\C++ Practice
+please move F:\Backup\Monthly\dawn snapshot.log to F:\Storage\API Sandbox
+please move F:\Backup\Projects\dawn outline.py to F:\Storage\v2 Builds
+please move C:\Projects\Greenfield\dawn register.sql to F:\Storage\Room 7
+please move C:\Projects\Harbour View\dawn summary.pdf to F:\Storage\x1
+please move D:\Development\Tools\dawn checklist.docx to F:\Storage\Field Notes 2
+please move E:\University\Coursework\dawn notice.xlsx to F:\Storage\Client Desk
+please move C:\Data\Incoming\eastern ledger.txt to F:\Storage\Weekend Plans
+please move the file to Database
+please move the file to Schemas
+please move the file to Queries
+please move the file to Migrations
+please move the file to Exports
+please move the file to Imports
+please move the file to F:\Storage\Old Office
+please move the file to F:\Storage\Main Library
+please move the file to F:\Storage\East Wing
+please move the file to F:\Storage\South Annex
+please move the file to F:\Storage\Project Bay
+please move the file to F:\Storage\Data Corner
+please put support request.docx in Datasets
+please put feedback form.docx in Models
+please put survey results.xlsx in Results
+please put case study.pdf in Experiments
+please put project proposal.docx in Testing
+please put design document.pdf in Scripts
+please put technical guide.pdf in SourceCode
+please put user manual.pdf in Documentation
+please put setup instructions.txt in Guides
+please put installation guide.pdf in Manuals
+please put deployment notes.md in Logs
+please put release notes.md in Config
+please put change history.txt in F:\Storage\Design Bench
+please put error report.log in C:\Users\Ankit\Documents
+please put server activity.log in C:\Users\Ankit\Desktop
+please put access record.log in C:\Users\Ankit\Downloads
+please put debug output.log in C:\Users\Ankit\Pictures
+please put system report.txt in C:\Users\Ankit\Projects\WinPilot
+please put backup manifest.json in C:\Users\Ankit\Projects\PayrollManager
+please put archive index.json in C:\Users\Ankit\College\DBMS
+please put database schema.sql in C:\Users\Ankit\College\Operating Systems
+please put migration script.sql in C:\Users\Ankit\College\Computer Networks
+please put query collection.sql in C:\Users\Ankit\College\Business Intelligence
+please put seed records.sql in C:\Users\Ankit\Research\Papers
+please put C:\Data\Exports\eastern brief.csv in Preferences
+please put C:\Work\Client Files\eastern memo.json in Assets
+please put C:\Work\Team Files\eastern record.md in Images
+please put D:\Archive\Current\eastern snapshot.log in Icons
+please put D:\Archive\Previous\eastern outline.py in Designs
+please put D:\Research\Notes\eastern register.sql in Layouts
+please put D:\Research\Results\eastern summary.pdf in Wireframes
+please put E:\Shared\Operations\eastern checklist.docx in Presentations
+please put E:\Shared\Finance\eastern notice.xlsx in Spreadsheets
+please put F:\Records\Personal\forest ledger.txt in Contracts
+please put F:\Records\Business\forest brief.csv in Policies
+please put F:\Backup\Monthly\forest memo.json in Forms
+put data dictionary.pdf here
+put table reference.pdf here
+put api reference.md here
+put developer guide.md here
+put configuration notes.txt here
+put application settings.json here
+put workspace settings.json in Applications
+put user preferences.json in Certificates
+put environment details.json in Schedules
+put package manifest.json in Timetables
+put dependency list.txt in Coursework
+put build report.txt in Practical
+put test plan.docx in LectureNotes
+put test cases.xlsx in StudyMaterial
+put test results.xlsx in ExamPrep
+put quality report.pdf in QuestionPapers
+put performance review.pdf in AnswerKeys
+put benchmark results.csv in SemesterWork
+put evaluation report.pdf in C:\Users\Ankit\Research\Fieldwork
+put model summary.json in C:\Users\Ankit\Work\Finance
+put training records.csv in C:\Users\Ankit\Work\Operations
+put validation results.csv in C:\Users\Ankit\Work\Sales
+put prediction results.csv in C:\Users\Ankit\Travel\Bookings
+put feature list.json in D:\Projects\Automation
+put label mapping.json in D:\Projects\Automation\Source
+put entity mapping.json in D:\Projects\Automation\Tests
+put intent mapping.json in D:\Projects\Research
+put vocabulary list.json in D:\Projects\Research\Data
+put annotation guide.pdf in D:\Projects\Research\Reports
+put review notes.txt in D:\Projects\WebPlatform
+put error analysis.pdf in my CollegeWork
+put experiment log.txt in my UniversityWork
+put research diary.docx in my Personal
+put field observations.csv in my Travel
+put survey form.docx in my Bookings
+put sample records.json in my Reservations
+put raw measurements.csv in my Vehicles
+put clean measurements.csv in my Insurance
+put processed results.csv in my Household
+put weather log.csv in my Recipes
+put sensor readings.csv in my Fitness
+put forecast report.pdf in my Journals
+put trend analysis.xlsx in my D:\Projects\WebPlatform\Frontend
+put market summary.pdf in my D:\Projects\WebPlatform\Backend
+put sales forecast.xlsx in my D:\Projects\MachineLearning
+put inventory report.xlsx in my D:\Projects\MachineLearning\Data
+put order history.csv in my D:\Projects\MachineLearning\Models
+put shipping details.csv in my D:\Projects\DatabaseLab
+put delivery record.pdf in my D:\Projects\DatabaseLab\Schema
+put return request.docx in my D:\CollegeWork\DBMS
+put purchase order.pdf in my D:\CollegeWork\DBMS\Labs
+put quotation sheet.xlsx in my D:\CollegeWork\Operating Systems
+put contract draft.docx in my D:\CollegeWork\Business Intelligence
+put service agreement.pdf in my D:\Work\Finance
+put F:\Backup\Projects\forest record.md here
+put C:\Projects\Greenfield\forest snapshot.log here
+put C:\Projects\Harbour View\forest outline.py here
+put D:\Development\Tools\forest register.sql here
+put E:\University\Coursework\forest summary.pdf here
+put C:\Data\Incoming\forest checklist.docx here
+put C:\Data\Exports\forest notice.xlsx in Reading
+put C:\Work\Client Files\golden ledger.txt in Movies
+put C:\Work\Team Files\golden brief.csv in Games
+put D:\Archive\Current\golden memo.json in Photography
+put D:\Archive\Previous\golden record.md in Gardening
+put D:\Research\Notes\golden snapshot.log in Shopping
+put D:\Research\Results\golden outline.py in Work
+put E:\Shared\Operations\golden register.sql in Meetings
+put E:\Shared\Finance\golden summary.pdf in Agendas
+put F:\Records\Personal\golden checklist.docx in Minutes
+put F:\Records\Business\golden notice.xlsx in Clients
+put F:\Backup\Monthly\harbour ledger.txt in Vendors
+put F:\Backup\Projects\harbour brief.csv in D:\Work\Finance\Records
+put C:\Projects\Greenfield\harbour memo.json in D:\Work\Sales
+put C:\Projects\Harbour View\harbour record.md in D:\Work\Sales\Orders
+put D:\Development\Tools\harbour snapshot.log in D:\Work\Operations\Maintenance
+put E:\University\Coursework\harbour outline.py in D:\Work\Human Resources
+put C:\Data\Incoming\harbour register.sql in D:\Work\Shared Resources
+put C:\Data\Exports\harbour summary.pdf in E:\Projects\WebPlatform
+put C:\Work\Client Files\harbour checklist.docx in E:\Projects\WebPlatform\Source
+put C:\Work\Team Files\harbour notice.xlsx in E:\Projects\MobileApp
+put D:\Archive\Current\hidden ledger.txt in E:\Projects\ApiService
+put D:\Archive\Previous\hidden brief.csv in E:\Development\DesktopTool
+put D:\Research\Notes\hidden memo.json in E:\Development\NLPProject
+put D:\Research\Results\hidden record.md in my Operations
+put E:\Shared\Operations\hidden snapshot.log in my Planning
+put E:\Shared\Finance\hidden outline.py in my Strategy
+put F:\Records\Personal\hidden register.sql in my Marketing
+put F:\Records\Business\hidden summary.pdf in my Sales
+put F:\Backup\Monthly\hidden checklist.docx in my Support
+put F:\Backup\Projects\hidden notice.xlsx in my HumanResources
+put C:\Projects\Greenfield\lunar ledger.txt in my Recruitment
+put C:\Projects\Harbour View\lunar brief.csv in my Training
+put D:\Development\Tools\lunar memo.json in my Compliance
+put E:\University\Coursework\lunar record.md in my Security
+put C:\Data\Incoming\lunar snapshot.log in my Audits
+put C:\Data\Exports\lunar outline.py into E:\Development\SecurityTools
+put C:\Work\Client Files\lunar register.sql into E:\University\Semester Five\DBMS
+put C:\Work\Team Files\lunar summary.pdf into E:\University\Semester Five\HCI
+put D:\Archive\Current\lunar checklist.docx into E:\University\Semester Six\Projects
+put D:\Archive\Previous\lunar notice.xlsx into F:\Backup\Documents
+put D:\Research\Notes\maple ledger.txt into F:\Backup\Projects
+put D:\Research\Results\maple brief.csv into F:\Backup\College
+put E:\Shared\Operations\maple memo.json into F:\Archive\Finance
+put E:\Shared\Finance\maple record.md into F:\Archive\Sales
+put F:\Records\Personal\maple snapshot.log into F:\Archive\Research
+put F:\Records\Business\maple outline.py into F:\Shared\Projects
+put F:\Backup\Monthly\maple register.sql into F:\Shared\College
+put that file in Incidents
+put that file in Maintenance
+put that file in Monitoring
+put that file in Networking
+put that file in Servers
+put that file in Services
+put that file in F:\Shared\Media
+put that file in F:\Data\Raw
+put that file in F:\Data\Processed
+put that file in F:\Data\Exports
+put that file in F:\Research\Fieldwork
+put that file in F:\Research\Publications
+put the file F:\Backup\Projects\maple summary.pdf in C:\Workspaces\Northwind
+put the file C:\Projects\Greenfield\maple checklist.docx in C:\Workspaces\Blue Finch
+put the file C:\Projects\Harbour View\maple notice.xlsx in C:\Workspaces\Copper Trail
+put the file D:\Development\Tools\misty ledger.txt in C:\Sandbox\Experiments
+put the file E:\University\Coursework\misty brief.csv in C:\Sandbox\Archive
+put the file C:\Data\Incoming\misty memo.json in D:\Sandbox\Personal
+put the file C:\Data\Exports\misty record.md in D:\Sandbox\Travel
+put the file C:\Work\Client Files\misty snapshot.log in E:\Temp\Imports
+put the file C:\Work\Team Files\misty outline.py in E:\Temp\Exports
+put the file D:\Archive\Current\misty register.sql in E:\CloudArchive\Personal
+put the file D:\Archive\Previous\misty summary.pdf in E:\CloudArchive\Work
+put the file D:\Research\Notes\misty checklist.docx in F:\LongTermStorage\Records
+put the file D:\Research\Results\misty notice.xlsx into F:\LongTermStorage\Projects
+put the file E:\Shared\Operations\northern ledger.txt into C:\Users\Public\Documents
+put the file E:\Shared\Finance\northern brief.csv into C:\Users\Ankit\OneDrive\Documents
+put the file F:\Records\Personal\northern memo.json into D:\OneDriveBackup\Projects
+put the file F:\Records\Business\northern record.md into E:\UniversityArchive\Project Records
+put the file F:\Backup\Monthly\northern snapshot.log into F:\CompanyArchive\Client Records
+put the file F:\Backup\Projects\northern outline.py into C:\NetworkShare\Team Resources
+put the file C:\Projects\Greenfield\northern register.sql into D:\MediaStore\Photography
+put the file C:\Projects\Harbour View\northern summary.pdf into E:\ProjectStorage\Active Work
+put the file D:\Development\Tools\northern checklist.docx into F:\BackupVault\Critical Records
+put the file E:\University\Coursework\northern notice.xlsx into C:\Shared\North Hall
+put the file C:\Data\Incoming\quiet ledger.txt into C:\Shared\River Station
+put the file in Automation
+put the file in Development
+put the file in Deployment
+put the file in Production
+put the file in Staging
+put the file in SourceArchive
+put the file in C:\Shared\Blue Finch Room
+put the file in C:\Shared\Copper Trail
+put the file in C:\Shared\Maple House
+put the file in C:\Shared\Q4 Records
+put the file in C:\Shared\2026 Archive
+put the file in C:\Shared\3D Assets
+put the file in my CodeReview
+put the file in my Builds
+put the file in my Releases
+put the file in my Packages
+put the file in my Dependencies
+put the file in my Libraries
+put the file in my C:\Shared\C++ Practice
+put the file in my C:\Shared\API Sandbox
+put the file in my C:\Shared\v2 Builds
+put the file in my C:\Shared\Room 7
+put the file in my C:\Shared\x1
+put the file in my C:\Shared\Field Notes 2
+put this file C:\Data\Exports\quiet brief.csv in C:\Shared\Client Desk
+put this file C:\Work\Client Files\quiet memo.json in C:\Shared\Weekend Plans
+put this file C:\Work\Team Files\quiet record.md in C:\Shared\Old Office
+put this file D:\Archive\Current\quiet snapshot.log in C:\Shared\Main Library
+put this file D:\Archive\Previous\quiet outline.py in C:\Shared\East Wing
+put this file D:\Research\Notes\quiet register.sql in C:\Shared\South Annex
+put this file D:\Research\Results\quiet summary.pdf in C:\Shared\Project Bay
+put this file E:\Shared\Operations\quiet checklist.docx in C:\Shared\Data Corner
+put this file E:\Shared\Finance\quiet notice.xlsx in C:\Shared\Design Bench
+put this file F:\Records\Personal\silver ledger.txt in C:\Shared\Testing Room
+put this file F:\Records\Business\silver brief.csv in C:\Shared\Service Desk
+put this file F:\Backup\Monthly\silver memo.json in C:\Shared\Team Hub
+put this file F:\Backup\Projects\silver record.md into C:\Shared\Media Shelf
+put this file C:\Projects\Greenfield\silver snapshot.log into C:\Shared\Paper Archive
+put this file C:\Projects\Harbour View\silver outline.py into C:\Shared\Quick Access
+put this file D:\Development\Tools\silver register.sql into C:\Shared\Shared Space
+put this file E:\University\Coursework\silver summary.pdf into D:\Archive\North Hall
+put this file C:\Data\Incoming\silver checklist.docx into D:\Archive\River Station
+put this file C:\Data\Exports\silver notice.xlsx into D:\Archive\Blue Finch Room
+put this file C:\Data\Incoming\amber ledger.pdf into D:\Archive\Copper Trail
+put this file C:\Data\Exports\amber brief.docx into D:\Archive\Maple House
+put this file C:\Work\Client Files\amber memo.xlsx into D:\Archive\Q4 Records
+put this file C:\Work\Team Files\amber record.txt into D:\Archive\2026 Archive
+put this file D:\Archive\Current\amber snapshot.csv into D:\Archive\3D Assets
+put this file in Modules
+put this file in Plugins
+put this file in Extensions
+put this file in Containers
+put this file in Volumes
+put this file in Pipelines
+put this file in D:\Archive\C++ Practice
+put this file in D:\Archive\API Sandbox
+put this file in D:\Archive\v2 Builds
+put this file in D:\Archive\Room 7
+put this file in D:\Archive\x1
+put this file in D:\Archive\Field Notes 2
+send privacy notice.pdf here
+send security policy.pdf here
+send access policy.pdf here
+send incident report.pdf here
+send maintenance record.xlsx here
+send inspection report.pdf here
+send audit trail.csv to Workflows
+send event schedule.xlsx to Jobs
+send conference agenda.docx to Batches
+send meeting summary.docx to RawData
+send speaker notes.docx to CleanData
+send presentation outline.pptx to ProcessedData
+send project slides.pptx to TrainingData
+send poster design.pptx to ValidationData
+send course presentation.pptx to TestData
+send lecture summary.docx to Predictions
+send semester report.pdf to Evaluation
+send semester results.xlsx to Benchmarks
+send question bank.docx to D:\Archive\Client Desk
+send answer key.pdf to D:\Archive\Weekend Plans
+send practical record.docx to D:\Archive\Old Office
+send lab schedule.xlsx to D:\Archive\Main Library
+send class timetable.xlsx to D:\Archive\East Wing
+send study plan.docx to D:\Archive\South Annex
+send exam preparation.txt to D:\Archive\Project Bay
+send course material.pdf to D:\Archive\Data Corner
+send chapter summary.docx to D:\Archive\Design Bench
+send reference notes.md to D:\Archive\Testing Room
+send book catalogue.csv to D:\Archive\Service Desk
+send library records.csv to D:\Archive\Team Hub
+send D:\Archive\Previous\amber outline.json here
+send D:\Research\Notes\amber register.md here
+send D:\Research\Results\amber summary.log here
+send E:\Shared\Operations\amber checklist.py here
+send E:\Shared\Finance\amber notice.sql here
+send F:\Records\Personal\autumn ledger.docx here
+send F:\Records\Business\autumn brief.xlsx into D:\Archive\Media Shelf
+send F:\Backup\Monthly\autumn memo.txt into D:\Archive\Paper Archive
+send F:\Backup\Projects\autumn record.csv into D:\Archive\Quick Access
+send C:\Projects\Greenfield\autumn snapshot.json into D:\Archive\Shared Space
+send C:\Projects\Harbour View\autumn outline.md into E:\Projects\North Hall
+send D:\Development\Tools\autumn register.log into E:\Projects\River Station
+send E:\University\Coursework\autumn summary.py into E:\Projects\Blue Finch Room
+send C:\Data\Incoming\autumn checklist.sql into E:\Projects\Copper Trail
+send C:\Data\Exports\autumn notice.pdf into E:\Projects\Maple House
+send C:\Work\Client Files\blue ledger.xlsx into E:\Projects\Q4 Records
+send C:\Work\Team Files\blue brief.txt into E:\Projects\2026 Archive
+send D:\Archive\Current\blue memo.csv into E:\Projects\3D Assets
+send D:\Archive\Previous\blue record.json to Metrics
+send D:\Research\Notes\blue snapshot.md to ReportsArchive
+send D:\Research\Results\blue outline.log to ResearchNotes
+send E:\Shared\Operations\blue register.py to Fieldwork
+send E:\Shared\Finance\blue summary.sql to Surveys
+send F:\Records\Personal\blue checklist.pdf to Interviews
+send F:\Records\Business\blue notice.docx to Observations
+send F:\Backup\Monthly\brisk ledger.txt to Publications
+send F:\Backup\Projects\brisk brief.csv to CaseStudies
+send C:\Projects\Greenfield\brisk memo.json to Proposals
+send C:\Projects\Harbour View\brisk record.md to Specifications
+send D:\Development\Tools\brisk snapshot.log to Architecture
+send E:\University\Coursework\brisk outline.py to E:\Projects\C++ Practice
+send C:\Data\Incoming\brisk register.sql to E:\Projects\API Sandbox
+send C:\Data\Exports\brisk summary.pdf to E:\Projects\v2 Builds
+send C:\Work\Client Files\brisk checklist.docx to E:\Projects\Room 7
+send C:\Work\Team Files\brisk notice.xlsx to E:\Projects\x1
+send D:\Archive\Current\cedar ledger.txt to E:\Projects\Field Notes 2
+send D:\Archive\Previous\cedar brief.csv to E:\Projects\Client Desk
+send D:\Research\Notes\cedar memo.json to E:\Projects\Weekend Plans
+send D:\Research\Results\cedar record.md to E:\Projects\Old Office
+send E:\Shared\Operations\cedar snapshot.log to E:\Projects\Main Library
+send E:\Shared\Finance\cedar outline.py to E:\Projects\East Wing
+send F:\Records\Personal\cedar register.sql to E:\Projects\South Annex
+send that file to DesignDocs
+send that file to ProjectPlans
+send that file to Roadmaps
+send that file to Milestones
+send that file to ChangeRequests
+send that file to ReleaseNotes
+send that file to E:\Projects\Project Bay
+send that file to E:\Projects\Data Corner
+send that file to E:\Projects\Design Bench
+send that file to E:\Projects\Testing Room
+send that file to E:\Projects\Service Desk
+send that file to E:\Projects\Team Hub
+send the file F:\Records\Business\cedar summary.pdf into E:\Projects\Media Shelf
+send the file F:\Backup\Monthly\cedar checklist.docx into E:\Projects\Paper Archive
+send the file F:\Backup\Projects\cedar notice.xlsx into E:\Projects\Quick Access
+send the file C:\Projects\Greenfield\clear ledger.txt into E:\Projects\Shared Space
+send the file C:\Projects\Harbour View\clear brief.csv into F:\Storage\North Hall
+send the file D:\Development\Tools\clear memo.json into F:\Storage\River Station
+send the file E:\University\Coursework\clear record.md into F:\Storage\Blue Finch Room
+send the file C:\Data\Incoming\clear snapshot.log into F:\Storage\Copper Trail
+send the file C:\Data\Exports\clear outline.py into F:\Storage\Maple House
+send the file C:\Work\Client Files\clear register.sql into F:\Storage\Q4 Records
+send the file C:\Work\Team Files\clear summary.pdf into F:\Storage\2026 Archive
+send the file D:\Archive\Current\clear checklist.docx into F:\Storage\3D Assets
+send the file D:\Archive\Previous\clear notice.xlsx to F:\Storage\C++ Practice
+send the file D:\Research\Notes\copper ledger.txt to F:\Storage\API Sandbox
+send the file D:\Research\Results\copper brief.csv to F:\Storage\v2 Builds
+send the file E:\Shared\Operations\copper memo.json to F:\Storage\Room 7
+send the file E:\Shared\Finance\copper record.md to F:\Storage\x1
+send the file F:\Records\Personal\copper snapshot.log to F:\Storage\Field Notes 2
+send the file F:\Records\Business\copper outline.py to F:\Storage\Client Desk
+send the file F:\Backup\Monthly\copper register.sql to F:\Storage\Weekend Plans
+send the file F:\Backup\Projects\copper summary.pdf to F:\Storage\Old Office
+send the file C:\Projects\Greenfield\copper checklist.docx to F:\Storage\Main Library
+send the file C:\Projects\Harbour View\copper notice.xlsx to F:\Storage\East Wing
+send the file D:\Development\Tools\crystal ledger.txt to F:\Storage\South Annex
+send the file to IssueReports
+send the file to ErrorReports
+send the file to ActivityLogs
+send the file to AccessLogs
+send the file to AuditRecords
+send the file to UserData
+send the file to F:\Storage\Project Bay
+send the file to F:\Storage\Data Corner
+send the file to F:\Storage\Design Bench
+send the file to C:\Users\Ankit\Documents
+send this file to AppData
+send this file to SessionData
+send this file to CacheData
+send this file to Credentials
+send this file to Keys
+send this file to Guidelines
+can you move the file
+could you move the file
+I need to move the file
+I want to move the file
+move a file
+move a file from one folder to another
+move a new file
+move file
+move one file
+move that file
+move the file
+move the file from one folder to another
+move the file here
+move this file
+please move the file
+put the file here

@@ -1,0 +1,566 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "delete_folder",
+      "pattern": "can you get rid of the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "can you get rid of the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "could you get rid of the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "could you get rid of the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete {FOLDER} directory",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete {PATH_DIR} directory",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete a directory called {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete a directory called {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete a directory named {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete a directory named {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete a folder called {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete a folder called {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete a folder named {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete a folder named {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete folder {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete folder {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the {FOLDER} directory",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the {PATH_DIR} directory",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the folder {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the folder {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the folder called {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the folder called {FOLDER} Project",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the folder called {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the folder called {PATH_DIR} Project",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the folder named {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "delete the folder named {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "get rid of {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "get rid of {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "get rid of the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "get rid of the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "get rid of the directory {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "get rid of the directory {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "get rid of the folder {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "get rid of the folder {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I need to delete {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I need to delete {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I need to remove {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I need to remove {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I need to remove the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I need to remove the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I want to delete {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I want to delete {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I want to delete the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I want to delete the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I want to get rid of the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I want to get rid of the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I want to remove {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "I want to remove {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "please get rid of the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "please get rid of the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove {FOLDER} directory",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove {PATH_DIR} directory",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove a directory called {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove a directory called {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove a directory named {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove a directory named {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove a folder called {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove a folder called {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove a folder named {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove a folder named {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove folder {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove folder {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the {FOLDER} directory",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the {FOLDER} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the {PATH_DIR} directory",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the {PATH_DIR} folder",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the folder {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the folder {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the folder called {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the folder called {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the folder named {FOLDER}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the folder named {FOLDER} Project",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the folder named {PATH_DIR}",
+      "intents": [
+        "delete_folder"
+      ]
+    },
+    {
+      "dataset": "delete_folder",
+      "pattern": "remove the folder named {PATH_DIR} Project",
+      "intents": [
+        "delete_folder"
+      ]
+    }
+  ]
+}

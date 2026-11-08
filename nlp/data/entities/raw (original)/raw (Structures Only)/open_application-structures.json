@@ -1,0 +1,244 @@
+{
+  "format": "winpilot-structure-library",
+  "version": 1,
+  "structures": [
+    {
+      "dataset": "open_application",
+      "pattern": "can you launch {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "can you open {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "can you open {APP} for me",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "can you start {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "could you launch {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "could you open {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "could you start {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "I need to launch {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "I need to open {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "I need to start {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "I want to launch {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "I want to open {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "I want to start {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "launch {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "launch {APP} for me",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "launch the {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "launch the {APP} app",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "launch the application named {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "open {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "open {APP} for me",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "open the {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "open the {APP} app",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "open the application {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "open the application named {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "please launch {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "please launch {APP} for me",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "please open {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "please open {APP} for me",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "please start {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "please start {APP} for me",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "start {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "start {APP} for me",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "start the {APP}",
+      "intents": [
+        "open_application"
+      ]
+    },
+    {
+      "dataset": "open_application",
+      "pattern": "start the {APP} app",
+      "intents": [
+        "open_application"
+      ]
+    }
+  ]
+}
