@@ -1,5 +1,3 @@
-"""Evaluate WinPilot intent and DistilBERT NER on an unseen JSONL set."""
-
 import argparse
 import json
 import pickle
@@ -25,7 +23,18 @@ MAX_LENGTH = 256
 
 
 def load_jsonl(path):
-    """Read and validate the unseen test records."""
+    """Read and validate unseen command and entity records.
+
+    Args:
+        path - JSONL dataset path.
+
+    Returns:
+        Validated evaluation records.
+
+    Raises:
+        FileNotFoundError - If the dataset file does not exist.
+        ValueError - If a record or entity span is invalid.
+    """
     if not path.is_file():
         raise FileNotFoundError(
             f"Test dataset not found: {path}\n"
@@ -85,12 +94,31 @@ class IntentPredictor:
     """Adapter for the project's saved scikit-learn intent pipeline."""
 
     def __init__(self, model_path):
+        """Load the saved intent classification pipeline.
+
+        Args:
+            model_path - Path to the serialized model.
+
+        Returns:
+            None.
+
+        Raises:
+            FileNotFoundError - If the model file does not exist.
+        """
         if not model_path.is_file():
             raise FileNotFoundError(f"Intent model not found: {model_path}")
         with model_path.open("rb") as stream:
             self.model = pickle.load(stream)
 
     def predict(self, text):
+        """Predict the intent label for one command.
+
+        Args:
+            text - Command text to classify.
+
+        Returns:
+            Predicted intent label.
+        """
         return str(self.model.predict([text])[0])
 
 
@@ -98,6 +126,18 @@ class DistilBertEntityPredictor:
     """Predict BIO entities and map them back to original character spans."""
 
     def __init__(self, model_dir, device):
+        """Load the tokenizer and entity model on the requested device.
+
+        Args:
+            model_dir - Directory containing the saved model and tokenizer.
+            device - Torch device used for model inference.
+
+        Returns:
+            None.
+
+        Raises:
+            FileNotFoundError - If the model directory does not exist.
+        """
         if not model_dir.is_dir():
             raise FileNotFoundError(f"DistilBERT NER model not found: {model_dir}")
 
@@ -116,6 +156,14 @@ class DistilBertEntityPredictor:
         )
 
     def predict(self, text):
+        """Predict entity labels and return their character spans.
+
+        Args:
+            text - Command text to analyse.
+
+        Returns:
+            Entity dictionaries with start, end, and label fields.
+        """
         word_matches = list(re.finditer(r"\S+", text))
         if not word_matches:
             return []
@@ -157,6 +205,11 @@ class DistilBertEntityPredictor:
         active_end = None
 
         def close_entity():
+            """Append the active entity span when one is open.
+
+            Returns:
+                None.
+            """
             if active_label is not None:
                 # Whitespace tokenization includes sentence punctuation in the
                 # final word (for example, ``report.docx.``). Exclude common
@@ -198,7 +251,15 @@ class DistilBertEntityPredictor:
 
 
 def exact_entity_counts(gold, predicted):
-    """Count exact matches by character span and entity label."""
+    """Count exact entity matches, false positives, and false negatives.
+
+    Args:
+        gold - Expected entity span dictionaries.
+        predicted - Predicted entity span dictionaries.
+
+    Returns:
+        True positive, false positive, and false negative counts.
+    """
     gold_set = {
         (entity["start"], entity["end"], entity["label"])
         for entity in gold
@@ -215,11 +276,24 @@ def exact_entity_counts(gold, predicted):
 
 
 def synchronize_if_cuda(device):
+    """Wait for pending work when evaluation runs on a CUDA device.
+
+    Args:
+        device - Device used for model inference.
+
+    Returns:
+        None.
+    """
     if device.type == "cuda":
         torch.cuda.synchronize(device)
 
 
 def main():
+    """Evaluate intent and entity models on an unseen command dataset.
+
+    Returns:
+        None.
+    """
     parser = argparse.ArgumentParser(
         description="Evaluate intent and DistilBERT NER on unseen commands."
     )

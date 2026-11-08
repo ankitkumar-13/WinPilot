@@ -23,8 +23,18 @@ MODEL_PATH = (
 # ============================================================
 
 class NERModel(nn.Module):
+    """Predict BIO entity labels with a bidirectional LSTM."""
 
     def __init__(self, voc, tag):
+        """Initialise the embedding, recurrent, and output layers.
+
+        Args:
+            voc - Number of tokens in the model vocabulary.
+            tag - Number of entity tags.
+
+        Returns:
+            None.
+        """
         super().__init__()
 
         self.emb = nn.Embedding(
@@ -46,6 +56,14 @@ class NERModel(nn.Module):
         )
 
     def forward(self, x):
+        """Return tag logits for each input token.
+
+        Args:
+            x - Batch of encoded token sequences.
+
+        Returns:
+            Per-token tag logits.
+        """
 
         x = self.emb(x)
         x, _ = self.lstm(x)
@@ -87,6 +105,14 @@ model.eval()
 # ============================================================
 
 def predict(text):
+    """Predict BIO labels for the words in a command.
+
+    Args:
+        text - Command text to analyse.
+
+    Returns:
+        Input words and their predicted BIO labels.
+    """
 
     words = text.split()
 
@@ -124,6 +150,15 @@ def predict(text):
 # ============================================================
 
 def extract_entities(words, tags):
+    """Combine BIO-labelled words into typed entities.
+
+    Args:
+        words - Input words predicted by the model.
+        tags - BIO labels corresponding to the words.
+
+    Returns:
+        Entity label and text pairs.
+    """
 
     entities = []
 
@@ -196,6 +231,16 @@ def extract_entities(words, tags):
 # ============================================================
 
 def show_result(words, tags, entities):
+    """Print token tags and extracted entities.
+
+    Args:
+        words - Input words predicted by the model.
+        tags - BIO labels corresponding to the words.
+        entities - Extracted entity label and text pairs.
+
+    Returns:
+        None.
+    """
 
     print()
     print("Tokens:")

@@ -104,6 +104,17 @@ if DEVICE.type == "cuda":
 # =========================================================
 
 def load_data(path):
+    """Read token and BIO tag sequences from one training file.
+
+    Args:
+        path - BIO file to read.
+
+    Returns:
+        Token sequences and their corresponding tag sequences.
+
+    Raises:
+        ValueError - If a non-empty row does not contain a token and tag.
+    """
     sentences = []
     tags = []
 
@@ -148,6 +159,17 @@ def load_data(path):
 # =========================================================
 
 def find_bio_splits(dataset_dir):
+    """Find complete fixed train, validation, and test BIO splits.
+
+    Args:
+        dataset_dir - Root directory to search for fixed splits.
+
+    Returns:
+        Mapping of split names to source paths, or None.
+
+    Raises:
+        ValueError - If fixed splits are found but incomplete.
+    """
     aliases = {
         "train": ("train", "training"),
         "validation": ("validation", "validate", "val", "dev"),
@@ -180,6 +202,14 @@ def find_bio_splits(dataset_dir):
 
 
 def load_bio_source(source):
+    """Load BIO examples from a file or directory.
+
+    Args:
+        source - BIO file or directory containing BIO files.
+
+    Returns:
+        Token and tag sequence pairs.
+    """
     files = [source] if source.is_file() else sorted(source.rglob("*.bio"))
     examples = []
     for path in files:
@@ -190,6 +220,18 @@ def load_bio_source(source):
 
 
 def clean_bio_split(examples, split_name):
+    """Deduplicate token sequences and reject conflicting labels.
+
+    Args:
+        examples - Token and tag sequence pairs.
+        split_name - Split label used in validation errors.
+
+    Returns:
+        Deduplicated token and tag sequence pairs.
+
+    Raises:
+        ValueError - If duplicate text has different BIO labels.
+    """
     unique = []
     seen = {}
     for words, tags in examples:
@@ -207,6 +249,17 @@ def clean_bio_split(examples, split_name):
 
 
 def check_bio_split_leakage(splits):
+    """Reject empty splits and duplicate sentences across splits.
+
+    Args:
+        splits - Mapping of split names to token and tag sequence pairs.
+
+    Returns:
+        None.
+
+    Raises:
+        ValueError - If a split is empty or contains leaked sentences.
+    """
     seen = {}
     for split_name, examples in splits.items():
         if not examples:
@@ -352,6 +405,14 @@ print(f"Tag set    : {all_tags}")
 # =========================================================
 
 def encode_x(sentence):
+    """Convert input words to vocabulary IDs.
+
+    Args:
+        sentence - Words to encode.
+
+    Returns:
+        Vocabulary IDs, using the unknown token for missing words.
+    """
     return [
         word2id.get(word, word2id["<UNK>"])
         for word in sentence
@@ -359,6 +420,14 @@ def encode_x(sentence):
 
 
 def encode_y(tags):
+    """Convert BIO labels to tag IDs.
+
+    Args:
+        tags - BIO labels to encode.
+
+    Returns:
+        Encoded tag IDs.
+    """
     return [tag2id[tag] for tag in tags]
 
 
@@ -380,6 +449,14 @@ test_y = [encode_y(y) for y in test_y]
 # =========================================================
 
 def collate_fn(batch):
+    """Pad token and tag sequences into a batch.
+
+    Args:
+        batch - Encoded token and tag sequence pairs.
+
+    Returns:
+        Padded inputs, padded labels, and original sequence lengths.
+    """
     xs, ys = zip(*batch)
 
     lengths = torch.tensor(
@@ -451,8 +528,18 @@ print(f"Testing batches     : {len(test_loader)}")
 # =========================================================
 
 class NERModel(nn.Module):
+    """Tag encoded sequences with a bidirectional LSTM network."""
 
     def __init__(self, vocab_size, tag_count):
+        """Initialise the embedding, LSTM, and classification layers.
+
+        Args:
+            vocab_size - Number of tokens in the vocabulary.
+            tag_count - Number of BIO labels.
+
+        Returns:
+            None.
+        """
         super().__init__()
 
         self.emb = nn.Embedding(
@@ -474,6 +561,15 @@ class NERModel(nn.Module):
         )
 
     def forward(self, x, lengths):
+        """Return per-token tag logits for a batch of sequences.
+
+        Args:
+            x - Padded batch of encoded token sequences.
+            lengths - Original sequence lengths before padding.
+
+        Returns:
+            Per-token tag logits.
+        """
         x = self.emb(x)
 
         packed = pack_padded_sequence(
@@ -519,6 +615,14 @@ loss_fn = nn.CrossEntropyLoss(
 # =========================================================
 
 def get_loss(loader):
+    """Calculate mean token loss for a data loader.
+
+    Args:
+        loader - Data loader containing encoded sequences and labels.
+
+    Returns:
+        Mean loss over non-padding tokens.
+    """
     model.eval()
 
     total_loss = 0.0
@@ -686,6 +790,14 @@ model.eval()
 # =========================================================
 
 def extract_entities(tags):
+    """Convert a BIO tag sequence to typed token spans.
+
+    Args:
+        tags - BIO tags for one sequence.
+
+    Returns:
+        Set of entity type and inclusive start/end token index tuples.
+    """
     entities = []
 
     current = None
@@ -735,6 +847,17 @@ def extract_entities(tags):
 # =========================================================
 
 def get_path_file_error(tokens, true_tags, pred_tags, sentence_id):
+    """Describe PATH_FILE entities that differ between labels and predictions.
+
+    Args:
+        tokens - Words in the evaluated command.
+        true_tags - Expected BIO labels.
+        pred_tags - Predicted BIO labels.
+        sentence_id - Identifier for this evaluation sentence.
+
+    Returns:
+        Error details, or None when PATH_FILE spans match.
+    """
     true_ents = {
         e for e in extract_entities(true_tags)
         if e[0] == "PATH_FILE"
@@ -749,6 +872,14 @@ def get_path_file_error(tokens, true_tags, pred_tags, sentence_id):
         return None
 
     def entity_texts(entities):
+        """Convert entity spans to readable text records.
+
+        Args:
+            entities - Entity type and token span tuples.
+
+        Returns:
+            Entity text and token boundary dictionaries.
+        """
         return [
             {
                 "text": " ".join(tokens[start:end + 1]),
