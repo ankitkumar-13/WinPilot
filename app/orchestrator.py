@@ -35,6 +35,12 @@ class WinPilotOrchestrator:
         self._tool_names: set[str] = set()
         self._initialised = False
         self._pending_clarification: dict[str, Any] | None = None
+        self.last_route = "Not started"
+
+    def _set_route(self, route: str) -> None:
+        """Record and log the route used for the current request."""
+        self.last_route = route
+        logger.info("Route: %s", route)
 
     async def initialise(self) -> None:
         """Discover available MCP tools and cache their schemas.
@@ -148,22 +154,30 @@ class WinPilotOrchestrator:
             User-facing response describing the result or failure.
         """
         if not isinstance(query, str) or not query.strip():
+            self._set_route("Input validation")
             return "Please enter a valid command."
 
         query = query.strip()
         logger.info("Processing user request")
+        self._set_route("Classifying")
 
         if self._pending_clarification is not None:
+            self._set_route(
+                f"Clarification → MCP: {self._pending_clarification['tool_name']}"
+            )
             return await self._resolve_clarification(query)
 
         if not self._initialised:
             try:
                 await self.initialise()
             except Exception:
+                self._set_route("MCP tool discovery failed")
                 return "Failed to retrieve MCP tools. Check the logs."
 
         command = self.parser.parse_command(query)
+        source = "RegEx"
         if command.action == "unknown":
+            source = "Local NLP"
             try:
                 command = self.local_nlp.interpret(query) or command
             except Exception:
@@ -178,6 +192,8 @@ class WinPilotOrchestrator:
             response = None
 
         if response is None:
+            source = "Gemini"
+            self._set_route("Gemini")
             try:
                 response = await self.router.process_query(
                     query,
@@ -185,9 +201,11 @@ class WinPilotOrchestrator:
                 )
             except Exception:
                 logger.exception("LLM failed to process request")
+                self._set_route("Gemini failed")
                 return "Failed to process the request. Check the logs."
 
         if not isinstance(response, dict):
+            self._set_route(f"{source} returned invalid response")
             logger.error(
                 "Unexpected response type: %s",
                 type(response).__name__,
@@ -197,6 +215,7 @@ class WinPilotOrchestrator:
         response_type = response.get("type")
 
         if response_type == "text":
+            self._set_route("Gemini → Text" if source == "Gemini" else f"{source} → Text")
             text = response.get("text", "")
 
             if not isinstance(text, str):
@@ -206,6 +225,7 @@ class WinPilotOrchestrator:
             return text
 
         if response_type != "tool_call":
+            self._set_route(f"{source} returned unsupported response")
             logger.warning(
                 "Unsupported response type: %r",
                 response_type,
@@ -216,14 +236,20 @@ class WinPilotOrchestrator:
         args = response.get("arguments")
 
         if not isinstance(name, str) or name not in self._tool_names:
+            self._set_route(f"{source} requested unavailable tool")
             logger.error("Model requested an unknown tool: %r", name)
             return "The model requested an unavailable tool."
 
         if not isinstance(args, dict):
+            self._set_route(f"{source} returned invalid tool arguments")
             logger.error("Invalid arguments for tool %s", name)
             return "The model returned invalid tool arguments."
 
         logger.info("Executing MCP tool: %s", name)
+        if source == "Gemini":
+            self._set_route(f"Gemini → MCP: {name}")
+        else:
+            self._set_route(f"{source} → MCP: {name}")
         logger.debug("Tool arguments: %r", args)
 
         return await self._call_tool(name, args)

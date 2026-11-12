@@ -58,9 +58,11 @@ async def run(provider: str) -> int:
 
             try:
                 result = await orchestrator.process(query)
+                print(f"Route: {orchestrator.last_route}")
                 print(f"WinPilot: {result}")
             except Exception:
                 logger.exception("Request processing failed")
+                print(f"Route: {orchestrator.last_route}")
                 print("Request failed. Check the application logs.")
 
         return 0
