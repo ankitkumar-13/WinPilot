@@ -1,5 +1,5 @@
 import logging
-from typing import Any
+from typing import Any, Callable
 
 from app.mcp_client import WinPilotMCPClient
 from core.command import Command
@@ -36,11 +36,14 @@ class WinPilotOrchestrator:
         self._initialised = False
         self._pending_clarification: dict[str, Any] | None = None
         self.last_route = "Not started"
+        self.route_reporter: Callable[[str], None] | None = None
 
     def _set_route(self, route: str) -> None:
         """Record and log the route used for the current request."""
         self.last_route = route
         logger.info("Route: %s", route)
+        if route != "Classifying" and self.route_reporter is not None:
+            self.route_reporter(f"Route: {route}")
 
     async def initialise(self) -> None:
         """Discover available MCP tools and cache their schemas.
@@ -178,7 +181,12 @@ class WinPilotOrchestrator:
         source = "RegEx"
         if command.action == "unknown":
             source = "Local NLP"
-            self._set_route("Local NLP: loading models / interpreting")
+            stage = (
+                "loading intent/entity models"
+                if not self.local_nlp.models_loaded
+                else "interpreting"
+            )
+            self._set_route(f"Local NLP: {stage}")
             try:
                 command = self.local_nlp.interpret(query) or command
             except Exception:

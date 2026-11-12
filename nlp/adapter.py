@@ -43,6 +43,11 @@ class LocalNLPInterpreter:
         self._ner_model: Any | None = None
         self._load_error: str | None = None
 
+    @property
+    def models_loaded(self) -> bool:
+        """Whether both local intent and entity models are ready."""
+        return self._intent_model is not None and self._ner_model is not None
+
     def _load_models(self) -> bool:
         """Load the intent and entity models once on first use.
 

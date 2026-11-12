@@ -32,6 +32,7 @@ async def run(provider: str) -> int:
 
         router = LLMRouter(provider=provider)
         orchestrator = WinPilotOrchestrator(client, router)
+        orchestrator.route_reporter = lambda message: print(message, flush=True)
 
         await orchestrator.initialise()
 
@@ -58,7 +59,6 @@ async def run(provider: str) -> int:
 
             try:
                 result = await orchestrator.process(query)
-                print(f"Route: {orchestrator.last_route}")
                 print(f"WinPilot: {result}")
             except Exception:
                 logger.exception("Request processing failed")
