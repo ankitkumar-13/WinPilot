@@ -33,6 +33,7 @@ async def run(provider: str) -> int:
         router = LLMRouter(provider=provider)
         orchestrator = WinPilotOrchestrator(client, router)
         orchestrator.route_reporter = lambda message: print(message, flush=True)
+        orchestrator.local_nlp.reporter = lambda message: print(message, flush=True)
 
         await orchestrator.initialise()
 
