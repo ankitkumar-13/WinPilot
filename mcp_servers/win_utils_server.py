@@ -159,7 +159,7 @@ def run_tool(
 
 @mcp.tool()
 def open_application(application: str) -> CallToolResult:
-    """Open a supported Windows application.
+    """Open an installed Windows application by its name or a popular alias.
 
     Args:
         application - Name of the application to open.
@@ -175,6 +175,16 @@ def open_application(application: str) -> CallToolResult:
         },
         f"Opened {application}",
     )
+
+
+@mcp.tool()
+def list_available_applications() -> CallToolResult:
+    """List applications currently discovered from this Windows system."""
+    applications = executor.windows_utils.list_available_applications()
+    if not applications:
+        return tool_result("No installed applications were discovered.")
+    names = "\n".join(f"- {application['name']}" for application in applications)
+    return tool_result(f"Applications currently available to open:\n{names}")
 
 
 @mcp.tool()

@@ -2,8 +2,9 @@ from __future__ import annotations
 
 import logging
 import re
+import time
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 from core.command import Command
 
@@ -26,6 +27,7 @@ class LocalNLPInterpreter:
         self,
         intent_threshold: float = 0.80,
         entity_threshold: float = 0.70,
+        reporter: Callable[[str], None] | None = None,
     ) -> None:
         """Initialise the interpreter and confidence thresholds.
 
@@ -38,9 +40,21 @@ class LocalNLPInterpreter:
         """
         self.intent_threshold = intent_threshold
         self.entity_threshold = entity_threshold
+        self.reporter = reporter
         self._intent_model: Any | None = None
         self._ner_model: Any | None = None
         self._load_error: str | None = None
+
+    def _report(self, message: str) -> None:
+        """Write a local-model diagnostic to logs and, when configured, the CLI."""
+        logger.info(message)
+        if self.reporter is not None:
+            self.reporter(message)
+
+    @property
+    def models_loaded(self) -> bool:
+        """Whether both local intent and entity models are ready."""
+        return self._intent_model is not None and self._ner_model is not None
 
     def _load_models(self) -> bool:
         """Load the intent and entity models once on first use.
@@ -53,6 +67,8 @@ class LocalNLPInterpreter:
         if self._load_error is not None:
             return False
 
+        started = time.perf_counter()
+        logger.info("Loading local intent and entity models")
         try:
             import pickle
 
@@ -66,10 +82,20 @@ class LocalNLPInterpreter:
             model = AutoModelForTokenClassification.from_pretrained(NER_MODEL_DIR)
             model.eval()
             self._ner_model = (torch, tokenizer, model)
+            logger.info(
+                "Local NLP models loaded in %.1f seconds",
+                time.perf_counter() - started,
+            )
             return True
         except Exception as error:
             self._load_error = str(error)
-            logger.warning("Local NLP models are unavailable: %s", error)
+            logger.warning(
+                "Local NLP models are unavailable after %.1f seconds: %s",
+                time.perf_counter() - started,
+                error,
+            )
+            if self.reporter is not None:
+                self.reporter(f"Local NLP unavailable: {error}")
             self._intent_model = None
             self._ner_model = None
             return False
@@ -151,6 +177,14 @@ class LocalNLPInterpreter:
                 active_words = []
                 active_scores = []
         flush()
+        if entities:
+            predictions = "; ".join(
+                f"{label}={value!r} ({score:.3f})"
+                for label, value, score in entities
+            )
+            self._report(f"Local NLP entity predictions: {predictions}")
+        else:
+            self._report("Local NLP entity predictions: none")
         return entities
 
     def interpret(self, text: str) -> Command | None:
@@ -170,8 +204,14 @@ class LocalNLPInterpreter:
         best_index = int(probabilities.argmax())
         intent = str(model.classes_[best_index])
         confidence = float(probabilities[best_index])
-        logger.info("Local intent prediction %s (%.3f)", intent, confidence)
+        self._report(
+            f"Local NLP intent prediction: {intent} (confidence {confidence:.3f})"
+        )
         if confidence < self.intent_threshold:
+            self._report(
+                f"Local NLP rejected intent: confidence {confidence:.3f} is below "
+                f"the {self.intent_threshold:.2f} threshold"
+            )
             return None
 
         move = re.search(r"\s+to\s+", text, flags=re.IGNORECASE)
@@ -185,7 +225,12 @@ class LocalNLPInterpreter:
             source_entity = self._confident_entity(source_entities)
             destination_entity = self._confident_entity(destination_entities)
             if source_entity is None or destination_entity is None:
+                self._report(
+                    "Local NLP rejected command: could not extract confident "
+                    "source and destination entities"
+                )
                 return None
+            self._report("Local NLP accepted command with confident source and destination")
             return Command(
                 "move" if intent.startswith("move_") else "copy",
                 {"source": source_entity[1], "destination": destination_entity[1]},
@@ -202,6 +247,7 @@ class LocalNLPInterpreter:
             "rename_folder": {"FOLDER", "PATH_DIR"},
         }.get(intent)
         if not allowed:
+            self._report(f"Local NLP rejected command: unsupported intent {intent}")
             return None
 
         entity = next(
@@ -213,6 +259,10 @@ class LocalNLPInterpreter:
             None,
         )
         if entity is None:
+            self._report(
+                f"Local NLP rejected command: expected entity {sorted(allowed)} "
+                f"with confidence at least {self.entity_threshold:.2f}"
+            )
             return None
 
         _, target, _ = entity
@@ -221,10 +271,13 @@ class LocalNLPInterpreter:
                 return None
             new_name = text[move.end():].strip()
             if not new_name:
+                self._report("Local NLP rejected rename: new name was missing")
                 return None
+            self._report("Local NLP accepted rename command")
             return Command(intent, {"target": target, "new_name": new_name})
 
         requires_approval = intent.startswith("delete_")
+        self._report(f"Local NLP accepted command: {intent}")
         return Command(intent, {"target": target}, requires_approval=requires_approval)
 
     def _confident_entity(
