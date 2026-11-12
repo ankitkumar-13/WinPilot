@@ -178,6 +178,7 @@ class WinPilotOrchestrator:
         source = "RegEx"
         if command.action == "unknown":
             source = "Local NLP"
+            self._set_route("Local NLP: loading models / interpreting")
             try:
                 command = self.local_nlp.interpret(query) or command
             except Exception:
@@ -193,6 +194,7 @@ class WinPilotOrchestrator:
 
         if response is None:
             source = "Gemini"
+            logger.info("Local routes did not resolve the request; falling back to Gemini")
             self._set_route("Gemini")
             try:
                 response = await self.router.process_query(

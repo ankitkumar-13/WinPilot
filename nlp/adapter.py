@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import logging
 import re
+import time
 from pathlib import Path
 from typing import Any
 
@@ -53,6 +54,8 @@ class LocalNLPInterpreter:
         if self._load_error is not None:
             return False
 
+        started = time.perf_counter()
+        logger.info("Loading local intent and entity models")
         try:
             import pickle
 
@@ -66,10 +69,18 @@ class LocalNLPInterpreter:
             model = AutoModelForTokenClassification.from_pretrained(NER_MODEL_DIR)
             model.eval()
             self._ner_model = (torch, tokenizer, model)
+            logger.info(
+                "Local NLP models loaded in %.1f seconds",
+                time.perf_counter() - started,
+            )
             return True
         except Exception as error:
             self._load_error = str(error)
-            logger.warning("Local NLP models are unavailable: %s", error)
+            logger.warning(
+                "Local NLP models are unavailable after %.1f seconds: %s",
+                time.perf_counter() - started,
+                error,
+            )
             self._intent_model = None
             self._ner_model = None
             return False
