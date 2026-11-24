@@ -1,4 +1,5 @@
 import logging
+import os
 from typing import Any, Callable
 
 from app.mcp_client import WinPilotMCPClient
@@ -6,6 +7,7 @@ from core.command import Command
 from core.command_parser import CommandParser
 from llm.router import LLMRouter
 from nlp.adapter import LocalNLPInterpreter
+from plugins.libreoffice_context import LibreOfficeContext
 
 logger = logging.getLogger(__name__)
 
@@ -31,6 +33,7 @@ class WinPilotOrchestrator:
         self.router = router
         self.parser = CommandParser()
         self.local_nlp = LocalNLPInterpreter()
+        self.libreoffice_context = LibreOfficeContext()
         self._tools: list[Any] = []
         self._tool_names: set[str] = set()
         self._initialised = False
@@ -201,6 +204,13 @@ class WinPilotOrchestrator:
             response = None
 
         if response is None:
+            app_response = self._match_app_specific_command(query)
+            if app_response is not None:
+                source = "App-specific"
+                self._set_route("App-specific → MCP")
+                response = app_response
+
+        if response is None:
             source = "Gemini"
             logger.info("Local routes did not resolve the request; falling back to Gemini")
             self._set_route("Gemini")
@@ -362,6 +372,172 @@ class WinPilotOrchestrator:
         self._pending_clarification = None
         return await self._call_tool(name, args)
 
+    def _match_app_specific_command(
+        self,
+        query: str,
+    ) -> dict[str, Any] | None:
+        """Match a query against app-specific commands for the foreground app.
+
+        Detects the currently active window, identifies the foreground
+        application, and checks whether the query matches one of its
+        app-specific commands before falling back to global commands.
+
+        Args:
+            query - Normalised user request.
+
+        Returns:
+            Tool-call response when a match is found, otherwise None.
+        """
+        foreground = self.libreoffice_context.get_foreground_component()
+
+        if foreground is None:
+            return None
+
+        component = foreground.get("component")
+        commands = self.libreoffice_context.get_app_commands(component)
+
+        if not commands:
+            return None
+
+        lower_query = query.lower()
+
+        for cmd in commands:
+            cmd_name = cmd["name"]
+
+            if cmd_name == "new_document" and any(
+                phrase in lower_query
+                for phrase in (
+                    "new document", "new file", "create document",
+                    "create new", "blank document", "new spreadsheet",
+                    "new presentation", "new drawing", "new formula",
+                )
+            ):
+                tool_name = "libreoffice_new_document"
+                if tool_name in self._tool_names:
+                    return {
+                        "type": "tool_call",
+                        "tool_name": tool_name,
+                        "arguments": {"component": component},
+                    }
+
+            if cmd_name == "save_document" and any(
+                phrase in lower_query
+                for phrase in ("save", "save document", "save file", "save this", "save it")
+            ):
+                import re
+                m = re.search(
+                    r"save(?:\s+(?:the|this|it|my))?(?:\s+(?:libreoffice|liberoffice))?(?:\s+(?:document|file|spreadsheet|presentation|doc))?(?:\s+(?:as|to|in)\s+(.+))?",
+                    query,
+                    re.IGNORECASE,
+                )
+                path = m.group(1).strip().strip("'\"") if (m and m.group(1)) else None
+                tool_name = "libreoffice_save_document"
+                if tool_name in self._tool_names:
+                    args = {"file_path": path} if path else {}
+                    return {
+                        "type": "tool_call",
+                        "tool_name": tool_name,
+                        "arguments": args,
+                    }
+
+            if cmd_name == "export_pdf" and any(
+                phrase in lower_query
+                for phrase in ("export pdf", "save as pdf", "pdf export")
+            ):
+                import re
+                m = re.search(r"(?:export\s+(?:as\s+)?pdf|save\s+as\s+pdf)(?:\s+(?:to|as)\s+(.+))?", query, re.IGNORECASE)
+                out = m.group(1).strip().strip("'\"") if (m and m.group(1)) else ""
+                if not out:
+                    out = os.path.join(os.path.expanduser("~"), "Desktop", "document.pdf")
+                tool_name = "libreoffice_export_pdf"
+                if tool_name in self._tool_names:
+                    return {
+                        "type": "tool_call",
+                        "tool_name": tool_name,
+                        "arguments": {"output_path": out},
+                    }
+
+            if cmd_name == "close_document" and any(
+                phrase in lower_query
+                for phrase in (
+                    "close document", "close file", "close this",
+                )
+            ):
+                tool_name = "libreoffice_close_document"
+                if tool_name in self._tool_names:
+                    return {
+                        "type": "tool_call",
+                        "tool_name": tool_name,
+                        "arguments": {},
+                    }
+
+            if cmd_name == "insert_text" and any(
+                phrase in lower_query
+                for phrase in ("insert text", "type", "write", "writer")
+            ):
+                if any(other in lower_query for other in ("notepad", "wordpad", "chrome", "edge", "browser")):
+                    continue
+                import re
+                m = re.search(r"(?:insert\s+text|type|write|writer)\s*(?:[:\"']\s*)?(.*)", query, re.IGNORECASE)
+                extracted = m.group(1).strip().strip("'\"") if m else ""
+                if extracted.strip().lower() in {"my name", "myname"}:
+                    extracted = os.environ.get("USERNAME", "Ashish")
+                elif not extracted:
+                    extracted = "Hello from WinPilot!"
+                tool_name = "libreoffice_insert_text"
+                if tool_name in self._tool_names:
+                    return {
+                        "type": "tool_call",
+                        "tool_name": tool_name,
+                        "arguments": {"text": extracted},
+                    }
+
+            if cmd_name == "set_cell":
+                import re
+                m = re.search(r"set\s+cell\s+([A-Za-z]+[0-9]+)\s+(?:to|=)\s*(.+)", query, re.IGNORECASE)
+                if m:
+                    cell_ref = m.group(1).strip().upper()
+                    val = m.group(2).strip().strip("'\"")
+                    tool_name = "libreoffice_set_cell"
+                    if tool_name in self._tool_names:
+                        return {
+                            "type": "tool_call",
+                            "tool_name": tool_name,
+                            "arguments": {"cell": cell_ref, "value": val},
+                        }
+
+            if cmd_name == "get_cell":
+                import re
+                m = re.search(r"(?:get\s+cell|read\s+cell|what\s+is\s+in\s+cell)\s+([A-Za-z]+[0-9]+)", query, re.IGNORECASE)
+                if m:
+                    cell_ref = m.group(1).strip().upper()
+                    tool_name = "libreoffice_get_cell"
+                    if tool_name in self._tool_names:
+                        return {
+                            "type": "tool_call",
+                            "tool_name": tool_name,
+                            "arguments": {"cell": cell_ref},
+                        }
+
+            if cmd_name == "list_sheets" and any(
+                phrase in lower_query
+                for phrase in ("list sheets", "show sheets", "all sheets")
+            ):
+                tool_name = "libreoffice_list_sheets"
+                if tool_name in self._tool_names:
+                    return {
+                        "type": "tool_call",
+                        "tool_name": tool_name,
+                        "arguments": {},
+                    }
+
+        logger.debug(
+            "No app-specific match for LibreOffice %s: %s",
+            component,
+            query,
+        )
+        return None
+
     def _command_response(self, command: Command) -> dict[str, Any] | None:
         """Map an interpreted command to its discovered MCP tool.
 
@@ -397,6 +573,39 @@ class WinPilotOrchestrator:
                 "path": arguments.get("target"),
                 "new_name": arguments.get("new_name"),
                 "kind": action.removeprefix("rename_"),
+            }
+        elif action == "insert_text":
+            text = arguments.get("text", "")
+            if text.strip().lower() in {"my name", "myname"}:
+                text = os.environ.get("USERNAME", "Ashish")
+
+            target = arguments.get("target")
+            lo_targets = {"writer", "calc", "impress", "libreoffice", "liberoffice"}
+
+            if target and any(lo in target.lower() for lo in lo_targets):
+                name = "libreoffice_insert_text"
+                args = {"text": text}
+            elif target:
+                name = "write_to_application"
+                args = {"text": text, "application": target}
+            else:
+                fg = self.libreoffice_context.get_foreground_component()
+                if fg is not None:
+                    name = "libreoffice_insert_text"
+                    args = {"text": text}
+                else:
+                    name = "write_to_application"
+                    args = {"text": text}
+        elif action == "save_document":
+            name = "libreoffice_save_document"
+            args = {}
+            if arguments.get("file_path"):
+                args["file_path"] = arguments.get("file_path")
+        elif action == "export_pdf":
+            name = "libreoffice_export_pdf"
+            args = {
+                "output_path": arguments.get("output_path")
+                or os.path.join(os.path.expanduser("~"), "Desktop", "document.pdf")
             }
         else:
             return None
