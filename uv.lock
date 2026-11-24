@@ -1898,6 +1898,9 @@ dependencies = [
     { name = "pytest" },
     { name = "python-dotenv" },
     { name = "pywin32", marker = "sys_platform == 'win32'" },
+    { name = "scikit-learn" },
+    { name = "torch" },
+    { name = "transformers" },
 ]
 
 [package.optional-dependencies]
@@ -1914,8 +1917,11 @@ requires-dist = [
     { name = "pytest", specifier = ">=9.2.0" },
     { name = "python-dotenv", specifier = ">=1.2.4" },
     { name = "pywin32", marker = "sys_platform == 'win32'", specifier = ">=312" },
+    { name = "scikit-learn", specifier = ">=1.9.1" },
     { name = "scikit-learn", marker = "extra == 'nlp'", specifier = ">=1.5" },
+    { name = "torch", specifier = ">=2.15.0" },
     { name = "torch", marker = "extra == 'nlp'", specifier = ">=2.6" },
+    { name = "transformers", specifier = ">=5.22.2" },
     { name = "transformers", marker = "extra == 'nlp'", specifier = ">=4.50" },
 ]
 provides-extras = ["nlp"]

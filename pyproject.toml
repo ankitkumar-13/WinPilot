@@ -11,6 +11,9 @@ dependencies = [
     "pytest>=9.2.0",
     "pywin32>=312; sys_platform == 'win32'",
     "python-dotenv>=1.2.4",
+    "torch>=2.15.0",
+    "transformers>=5.22.2",
+    "scikit-learn>=1.9.1",
 ]
 
 [project.optional-dependencies]
