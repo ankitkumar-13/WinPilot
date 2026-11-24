@@ -11,83 +11,127 @@ logger = logging.getLogger(__name__)
 
 ROOT = Path(__file__).resolve().parent.parent
 
+MCP_SERVERS: list[dict[str, Any]] = [
+    {
+        "name": "WinPilot",
+        "module": "mcp_servers.win_utils_server",
+    },
+    {
+        "name": "WinPilot-LibreOffice",
+        "module": "mcp_servers.libreoffice_server",
+    },
+]
+
 
 class WinPilotMCPClient:
-    """Manage connections to the WinPilot MCP server."""
+    """Manage connections to WinPilot MCP servers."""
 
     def __init__(self) -> None:
-        """Initialise the MCP client without opening a connection.
+        """Initialise the MCP client without opening connections.
 
         Returns:
             None.
         """
         self._stack = AsyncExitStack()
-        self.session: ClientSession | None = None
+        self._sessions: dict[str, ClientSession] = {}
 
     async def connect(self) -> None:
-        """Connect to the local WinPilot MCP server.
+        """Connect to all configured WinPilot MCP servers.
 
         Raises:
             RuntimeError - If the client is already connected.
-            Exception - If the connection or initialisation fails.
+            Exception - If any connection or initialisation fails.
 
         Returns:
             None.
         """
-        if self.session is not None:
+        if self._sessions:
             raise RuntimeError("MCP client is already connected.")
 
         stack = AsyncExitStack()
         await stack.__aenter__()
 
         try:
-            params = StdioServerParameters(
-                command=sys.executable,
-                args=["-m", "mcp_servers.win_utils_server"],
-                cwd=str(ROOT),
-            )
+            for server in MCP_SERVERS:
+                name = server["name"]
+                module = server["module"]
 
-            read, write = await stack.enter_async_context(
-                stdio_client(params)
-            )
+                params = StdioServerParameters(
+                    command=sys.executable,
+                    args=["-m", module],
+                    cwd=str(ROOT),
+                )
 
-            session = await stack.enter_async_context(
-                ClientSession(read, write)
-            )
+                read, write = await stack.enter_async_context(
+                    stdio_client(params)
+                )
 
-            await session.initialize()
+                session = await stack.enter_async_context(
+                    ClientSession(read, write)
+                )
+
+                await session.initialize()
+                self._sessions[name] = session
+
+                logger.info("Connected to %s MCP server", name)
 
             self._stack = stack
-            self.session = session
-
-            logger.info("Connected to WinPilot MCP server")
 
         except Exception:
-            logger.exception("Failed to connect to MCP server")
+            logger.exception("Failed to connect to MCP servers")
             await stack.aclose()
+            self._sessions.clear()
             raise
 
-    async def list_tools(self) -> list[Any]:
-        """Retrieve the tools exposed by the MCP server.
+    @property
+    def session(self) -> ClientSession | None:
+        """Return the primary MCP session for backward compatibility.
 
         Returns:
-            List of available MCP tool definitions.
+            Primary session, or None when not connected.
+        """
+        if not self._sessions:
+            return None
+        return next(iter(self._sessions.values()))
+
+    async def list_tools(self) -> list[Any]:
+        """Retrieve the tools exposed by all MCP servers.
+
+        Returns:
+            Combined list of available MCP tool definitions.
 
         Raises:
             RuntimeError - If the client is not connected.
         """
-        if self.session is None:
+        if not self._sessions:
             raise RuntimeError("MCP client is not connected.")
 
-        result = await self.session.list_tools()
-        return result.tools
+        all_tools: list[Any] = []
+
+        for name, session in self._sessions.items():
+            try:
+                result = await session.list_tools()
+                all_tools.extend(result.tools)
+                logger.debug(
+                    "Discovered %d tools from %s",
+                    len(result.tools),
+                    name,
+                )
+            except Exception:
+                logger.warning(
+                    "Failed to list tools from %s",
+                    name,
+                    exc_info=True,
+                )
+
+        return all_tools
 
     async def call_tool(
         self,
         name: str,
         args: dict[str, Any],
     ) -> Any:
-        """Execute a tool exposed by the MCP server.
+        """Execute a tool by searching all connected MCP servers.
 
         Args:
             name - Name of the MCP tool to execute.
@@ -100,13 +144,28 @@ class WinPilotMCPClient:
             RuntimeError - If the client is not connected.
             Exception - If the MCP tool call fails.
         """
-        if self.session is None:
+        if not self._sessions:
             raise RuntimeError("MCP client is not connected.")
 
-        return await self.session.call_tool(name, args)
+        for server_name, session in self._sessions.items():
+            try:
+                result = await session.list_tools()
+                tool_names = {tool.name for tool in result.tools}
+
+                if name in tool_names:
+                    return await session.call_tool(name, args)
+
+            except Exception:
+                logger.debug(
+                    "Could not check tools on %s",
+                    server_name,
+                    exc_info=True,
+                )
+
+        raise ValueError(f"Tool '{name}' not found on any MCP server.")
 
     async def close(self) -> None:
-        """Close the MCP connection and release its resources.
+        """Close all MCP connections and release their resources.
 
         Returns:
             None.
@@ -114,7 +173,7 @@ class WinPilotMCPClient:
         try:
             await self._stack.aclose()
         finally:
-            self.session = None
+            self._sessions.clear()
             self._stack = AsyncExitStack()
 
         logger.info("MCP client closed")

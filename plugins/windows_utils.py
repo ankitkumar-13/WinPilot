@@ -33,6 +33,8 @@ class WindowsUtils:
         """Query Windows Search's local index without opening its UI."""
         if sys.platform != "win32":
             return []
+        import pythoncom
+        pythoncom.CoInitialize()
         try:
             import win32com.client
 
@@ -74,6 +76,8 @@ class WindowsUtils:
             # Start Menu entries yet. Direct shortcut scanning remains active.
             logger.debug("Windows Search index lookup unavailable", exc_info=True)
             return []
+        finally:
+            pythoncom.CoUninitialize()
 
     def _start_apps_applications(self) -> list[tuple[str, str]]:
         """Read Windows' registered Start Apps catalog without showing UI."""
@@ -87,10 +91,12 @@ class WindowsUtils:
                     "-NoProfile",
                     "-NonInteractive",
                     "-Command",
-                    "Get-StartApps | Select-Object Name, AppID | ConvertTo-Json -Compress",
+                    "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8; Get-StartApps | Select-Object Name, AppID | ConvertTo-Json -Compress",
                 ],
                 capture_output=True,
                 text=True,
+                encoding="utf-8",
+                errors="replace",
                 timeout=12,
                 check=True,
                 creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0),
@@ -128,19 +134,24 @@ class WindowsUtils:
         # AppsFolder is the same registered-app catalog Windows Search uses
         # for results labeled "App". It includes classic and packaged apps.
         try:
+            import pythoncom
             import win32com.client
 
-            namespace = win32com.client.Dispatch("Shell.Application").NameSpace(
-                "shell:AppsFolder"
-            )
-            if namespace is not None:
-                for item in namespace.Items():
-                    name = str(item.Name or "").strip()
-                    target = str(item.Path or "").strip()
-                    if name and target:
-                        if not Path(target).is_file() and not target.lower().endswith((".lnk", ".url")):
-                            target = f"apps-folder:{target}"
-                        add(name, target, priority=3)
+            pythoncom.CoInitialize()
+            try:
+                namespace = win32com.client.Dispatch("Shell.Application").NameSpace(
+                    "shell:AppsFolder"
+                )
+                if namespace is not None:
+                    for item in namespace.Items():
+                        name = str(item.Name or "").strip()
+                        target = str(item.Path or "").strip()
+                        if name and target:
+                            if not Path(target).is_file() and not target.lower().endswith((".lnk", ".url")):
+                                target = f"apps-folder:{target}"
+                            add(name, target, priority=3)
+            finally:
+                pythoncom.CoUninitialize()
         except Exception:
             logger.debug("Windows AppsFolder lookup unavailable", exc_info=True)
 
@@ -161,9 +172,9 @@ class WindowsUtils:
                 continue
             try:
                 for shortcut in root.rglob("*.lnk"):
-                    add(shortcut.stem, str(shortcut), priority=2)
+                    add(shortcut.stem, str(shortcut), priority=5)
                 for shortcut in root.rglob("*.url"):
-                    add(shortcut.stem, str(shortcut), priority=2)
+                    add(shortcut.stem, str(shortcut), priority=5)
             except OSError:
                 logger.debug("Unable to scan Start Menu folder %s", root, exc_info=True)
 
@@ -171,7 +182,7 @@ class WindowsUtils:
         # that may not be found by direct traversal (for example, virtualized
         # Start Menu entries). This does not display or invoke the search UI.
         for name, target in self._search_index_applications():
-            add(name, target, priority=2)
+            add(name, target, priority=5)
 
         try:
             import winreg
@@ -243,21 +254,80 @@ class WindowsUtils:
             logger.warning("Application not found on this system: %s", application)
             return False
         name, target = resolved
+        if sys.platform == "win32":
+            import pythoncom
+            pythoncom.CoInitialize()
+
         try:
             if target.startswith("apps-folder:"):
                 import win32com.client
 
                 app_id = target.removeprefix("apps-folder:")
-                namespace = win32com.client.Dispatch("Shell.Application").NameSpace(
-                    "shell:AppsFolder"
-                )
-                item = namespace.ParseName(app_id)
-                if item is None:
-                    logger.warning("AppsFolder no longer contains %s", name)
+                try:
+                    namespace = win32com.client.Dispatch("Shell.Application").NameSpace(
+                        "shell:AppsFolder"
+                    )
+                    item = namespace.ParseName(app_id) if namespace else None
+                    if item is not None:
+                        item.InvokeVerb("open")
+                        logger.info("Application launch initiated via Shell COM: %s", name)
+                        return True
+                except Exception:
+                    logger.debug("Shell COM invocation failed for %s, falling back to startfile", name, exc_info=True)
+
+                try:
+                    os.startfile(f"shell:AppsFolder\\{app_id}")
+                    logger.info("Application launch initiated via shell:AppsFolder: %s", name)
+                    return True
+                except Exception:
+                    logger.warning("AppsFolder could not launch %s (%s)", name, app_id)
                     return False
-                item.InvokeVerb("open")
-                logger.info("Application launch initiated: %s", name)
-                return True
+
+            # If launching LibreOffice components, launch via soffice with UNO bridge enabled
+            norm_name = self._normalise_name(name)
+            lo_aliases = {"libreoffice", "liberoffice", "writer", "calc", "impress", "draw", "base", "math"}
+            if any(la in norm_name for la in lo_aliases):
+                soffice_exe = r"C:\Program Files\LibreOffice\program\soffice.exe"
+                if os.path.isfile(soffice_exe):
+                    # Remove stale crash lock if soffice is not actually running
+                    try:
+                        lock_file = os.path.join(os.environ.get("APPDATA", ""), "LibreOffice", "4", ".lock")
+                        if os.path.isfile(lock_file):
+                            chk = subprocess.run(
+                                ["powershell.exe", "-NoProfile", "-Command", "Get-Process soffice* -ErrorAction SilentlyContinue"],
+                                capture_output=True,
+                                text=True,
+                                timeout=3,
+                                creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0),
+                            )
+                            if not chk.stdout.strip():
+                                os.remove(lock_file)
+                                logger.info("Removed stale LibreOffice .lock file before launch")
+                    except Exception:
+                        pass
+
+                    comp_flag = ""
+                    if "writer" in norm_name:
+                        comp_flag = "--writer"
+                    elif "calc" in norm_name:
+                        comp_flag = "--calc"
+                    elif "impress" in norm_name:
+                        comp_flag = "--impress"
+                    elif "draw" in norm_name:
+                        comp_flag = "--draw"
+                    elif "base" in norm_name:
+                        comp_flag = "--base"
+                    elif "math" in norm_name:
+                        comp_flag = "--math"
+
+                    args = f"{comp_flag} --norestore --accept=\"socket,host=127.0.0.1,port=2002;urp;\"".strip()
+                    try:
+                        os.startfile(soffice_exe, arguments=args)
+                        logger.info("Application launch initiated via soffice with UNO accept: %s", name)
+                        return True
+                    except Exception:
+                        logger.debug("soffice launch failed, falling back to shortcut target", exc_info=True)
+
             # Let Windows ShellExecute handle shortcuts, URL entries, and app
             # executables consistently (including file associations and shell
             # launch metadata stored in .lnk files).
@@ -267,3 +337,6 @@ class WindowsUtils:
         except (OSError, AttributeError):
             logger.exception("Failed to launch application %s from %s", name, target)
             return False
+        finally:
+            if sys.platform == "win32":
+                pythoncom.CoUninitialize()

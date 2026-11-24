@@ -124,6 +124,36 @@ class CommandParser:
                     {"source": source, "destination": destination},
                 )
 
+        insert_match = re.fullmatch(
+            r"(?:type|write|insert\s+text)\s+(.+?)(?:\s+(?:on|in|into|to)\s+(?:(?:the|a|an)\s+)?([a-zA-Z0-9_\-\.]+))?",
+            command,
+            flags=re.IGNORECASE,
+        )
+        if insert_match:
+            text = self._clean_target(insert_match.group(1))
+            target_app = self._clean_target(insert_match.group(2)) if insert_match.group(2) else None
+            if text:
+                return Command("insert_text", {"text": text, "target": target_app})
+
+        save_match = re.fullmatch(
+            r"save(?:\s+(?:the|this|it|my))?(?:\s+(?:libreoffice|liberoffice))?(?:\s+(?:document|file|spreadsheet|presentation|doc))?"
+            r"(?:\s+(?:as|to|in)\s+(.+))?",
+            command,
+            flags=re.IGNORECASE,
+        )
+        if save_match:
+            path = self._clean_target(save_match.group(1)) if save_match.group(1) else None
+            return Command("save_document", {"file_path": path} if path else {})
+
+        export_match = re.fullmatch(
+            r"(?:export\s+(?:as\s+)?pdf|save\s+as\s+pdf)(?:\s+(?:to|as)\s+(.+))?",
+            command,
+            flags=re.IGNORECASE,
+        )
+        if export_match:
+            out = self._clean_target(export_match.group(1)) if export_match.group(1) else None
+            return Command("export_pdf", {"output_path": out} if out else {})
+
         logger.debug("Could not parse command: %s", command)
         return self._unknown_command()
 

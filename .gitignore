@@ -10,6 +10,9 @@ run_winpilot.bat
 # VS Code residual data
 .vscode
 
+# Residual odt temporary files
+*.odt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

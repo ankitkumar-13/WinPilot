@@ -1,4 +1,5 @@
 import logging
+import os
 from typing import Any, Literal
 
 from mcp.server import MCPServer
@@ -38,7 +39,12 @@ def execute_action(
     logger.debug("Action payload: %r", command)
 
     try:
-        result = executor.execute(command, clarified_path, clarified_field)
+        import pythoncom
+        pythoncom.CoInitialize()
+        try:
+            result = executor.execute(command, clarified_path, clarified_field)
+        finally:
+            pythoncom.CoUninitialize()
     except Exception:
         logger.exception(
             "Unexpected error executing tool: %s",
@@ -180,7 +186,12 @@ def open_application(application: str) -> CallToolResult:
 @mcp.tool()
 def list_available_applications() -> CallToolResult:
     """List applications currently discovered from this Windows system."""
-    applications = executor.windows_utils.list_available_applications()
+    import pythoncom
+    pythoncom.CoInitialize()
+    try:
+        applications = executor.windows_utils.list_available_applications()
+    finally:
+        pythoncom.CoUninitialize()
     if not applications:
         return tool_result("No installed applications were discovered.")
     names = "\n".join(f"- {application['name']}" for application in applications)
@@ -381,6 +392,98 @@ def rename_item(
         clarified_path=clarified_path,
         clarified_field=clarified_field,
     )
+
+
+@mcp.tool()
+def write_to_application(
+    text: str,
+    application: str | None = None,
+) -> CallToolResult:
+    """Type or insert text into an application window (such as Notepad) or the active window.
+
+    Args:
+        text - Text to write or type. If 'my name', resolves to the user's name.
+        application - Name of target application to write to, e.g. 'notepad'.
+
+    Returns:
+        MCP result describing the outcome.
+    """
+    if not isinstance(text, str) or not text.strip():
+        return tool_result("Text content is missing.", is_error=True, status=ExecutionStatus.INVALID_ARGUMENT)
+
+    if text.strip().lower() in {"my name", "myname"}:
+        text = os.environ.get("USERNAME", "Ashish")
+
+    try:
+        import win32gui
+        import win32con
+        import win32api
+        import win32clipboard
+        import ctypes
+        import time
+
+        user32 = ctypes.windll.user32
+        target_hwnd = None
+        app_name = application.strip().lower() if application else None
+
+        if app_name:
+            def cb(hwnd, _):
+                nonlocal target_hwnd
+                if win32gui.IsWindowVisible(hwnd) and not win32gui.IsIconic(hwnd):
+                    t = win32gui.GetWindowText(hwnd).lower()
+                    c = win32gui.GetClassName(hwnd).lower()
+                    if app_name in t or app_name in c:
+                        target_hwnd = hwnd
+                        return False
+                return True
+            win32gui.EnumWindows(cb, None)
+
+            if not target_hwnd:
+                executor.windows_utils.open_application(app_name)
+                for _ in range(25):
+                    time.sleep(0.3)
+                    win32gui.EnumWindows(cb, None)
+                    if target_hwnd:
+                        break
+
+            if not target_hwnd:
+                return tool_result(
+                    f"Could not find or launch application: {application}",
+                    is_error=True,
+                    status=ExecutionStatus.TARGET_NOT_FOUND,
+                )
+
+            user32.ShowWindow(target_hwnd, 9)
+            user32.SwitchToThisWindow(target_hwnd, True)
+            user32.SetForegroundWindow(target_hwnd)
+            time.sleep(0.2)
+        else:
+            target_hwnd = win32gui.GetForegroundWindow()
+
+        win32clipboard.OpenClipboard()
+        try:
+            win32clipboard.EmptyClipboard()
+            win32clipboard.SetClipboardText(text, win32clipboard.CF_UNICODETEXT)
+        finally:
+            win32clipboard.CloseClipboard()
+
+        time.sleep(0.05)
+        win32api.keybd_event(win32con.VK_CONTROL, 0, 0, 0)
+        win32api.keybd_event(ord('V'), 0, 0, 0)
+        time.sleep(0.05)
+        win32api.keybd_event(ord('V'), 0, win32con.KEYEVENTF_KEYUP, 0)
+        win32api.keybd_event(win32con.VK_CONTROL, 0, win32con.KEYEVENTF_KEYUP, 0)
+
+        dest = application if application else "active window"
+        return tool_result(f"Wrote to {dest}: '{text}'")
+
+    except Exception:
+        logger.exception("Failed to write to application: %s", application)
+        return tool_result(
+            f"Failed to write to {application or 'window'}.",
+            is_error=True,
+            status=ExecutionStatus.INTERNAL_ERROR,
+        )
 
 
 if __name__ == "__main__":

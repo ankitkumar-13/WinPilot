@@ -9,6 +9,7 @@ from core.command import Command
 from core.execution_result import ExecutionResult, ExecutionStatus
 from plugins.explorer_context import ExplorerContext
 from plugins.folder_utils import FolderUtil
+from plugins.libreoffice_context import LibreOfficeContext
 from plugins.windows_utils import WindowsUtils
 
 logger = logging.getLogger(__name__)
@@ -28,6 +29,7 @@ class ExecutionEngine:
         self.windows_utils = WindowsUtils()
         self.folder_utils = FolderUtil()
         self.explorer_context = ExplorerContext()
+        self.libreoffice_context = LibreOfficeContext()
         load_dotenv()
         self.ambiguous_target_policy = os.environ.get(
             "WINPILOT_AMBIGUOUS_TARGET_POLICY",
