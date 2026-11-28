@@ -9,6 +9,7 @@ from core.command import Command
 from core.executor import ExecutionEngine
 from core.execution_result import ExecutionResult, ExecutionStatus
 from core.logging_config import setup_logging
+from plugins.windows_stats import collect_windows_stats, format_windows_stats
 
 setup_logging("mcp_server")
 
@@ -283,7 +284,23 @@ def copy_item(
         clarified_path=clarified_path,
         clarified_field=clarified_field,
     )
+    
 
+@mcp.tool()
+def get_system_stats() -> CallToolResult:
+    """Show current CPU, memory, and fixed-disk usage on Windows."""
+    try:
+        stats = collect_windows_stats()
+    except (OSError, RuntimeError) as error:
+        logger.error("Could not retrieve Windows system statistics: %s", error)
+        return tool_result(
+            str(error),
+            is_error=True,
+            status=ExecutionStatus.OPERATION_FAILED,
+        )
+
+    return tool_result(format_windows_stats(stats))
+    
 
 @mcp.tool()
 def move_item(
